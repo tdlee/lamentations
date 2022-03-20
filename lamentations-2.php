@@ -28,6 +28,10 @@
       include('chapter-links.php');
     ?>
 
+    <p>
+      The first poem was in two "voices", approximately 50-50: a witness-bystander and Daughter Zion herself. This second poem is mostly voiced by the witness, but at 19 the witness can be seen to implore the city herself to voice her complaint, which she accordingly does to close the poem.
+    </p>
+
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
