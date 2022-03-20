@@ -250,7 +250,7 @@
         <p>
           Who have you thus tormented?<br>
           &emsp;Look, <span class="yhwh">Lord</span>; consider.<br>
-          Must women eat their own offspring,<br>
+          Must women eat their own womb's fruit,<br>
           &emsp;their nursed babes?<br>
           Should priest and prophet be slain<br>
           &emsp;in the sanctuary of the Lord?
