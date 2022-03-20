@@ -82,8 +82,8 @@
         <div class="poem__verseref">5</div>
         <p>
           Enemy! So the Lord has become,<br>
-          &emsp;and swallowed up Israel&mdash;<br>
-          has swallowed up all of her palaces,<br>
+          &emsp;and devoured Israel&mdash;<br>
+          has devoured all of her palaces,<br>
           &emsp;and laid waste her strongholds;<br>
           has multiplied for Daughter Judah<br>
           &emsp;wailing and weeping.<sup>[3]</sup>
