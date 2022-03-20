@@ -1,4 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
+<?php $hver='5' ?>
 <html lang="en">
 <head>
 
@@ -32,10 +33,10 @@
 
         <div class="poem__verseref">1</div>
         <p>
-          Alas!<sup>[1]</sup> The Lord in his anger<br>
-          &emsp;abhorred daughter Zion;<br>
+          Alas!<sup>[1]</sup> In his anger my Lord beclouded<br>
+          &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
-          &emsp;the splendour of Israel;<br>
+          &emsp;the honour of Israel;<br>
           nor remembered his footstool<sup>[2]</sup><br>
           &emsp;in the day of his anger;
         </p>
@@ -43,34 +44,34 @@
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Brought to the ground in dishonour<br>
+          Brought to the ground in desecration<br>
           &emsp;a kingdom and its princes;<br>
           in fury has razed the defences<br>
-          &emsp;of the daughter of Judah.<br>
-          The Lord has devoured without pity<br>
+          &emsp;of Daughter Judah.<br>
+          My Lord has devoured without pity<br>
           &emsp;all the dwellings of Jacob;
         </p>
 
         <br>
         <div class="poem__verseref">3</div>
         <p>
-          Cut off in his smoldering wrath<br>
-          &emsp;the horn of Israel;<br>
+          Cut off in his smouldering wrath<br>
+          &emsp;every horn of Israel;<br>
           has withdrawn his right hand<br>
           &emsp;at enemy approach;<br>
-          then blazed against Jacob in fire,<br>
-          &emsp;to scorched earth consuming.
+          has blazed against Jacob in fire,<br>
+          &emsp;consuming all around.
         </p>
 
         <br>
         <div class="poem__verseref">4</div>
         <p>
-          Directing his bow like an enemy,<br>
+          Drawing his bow like an enemy,<br>
           &emsp;his right hand poised,<br>
           like a foe, he has slain those precious<br>
           &emsp;in his eye, and has poured<br>
           out his wrath like fire on the tent<br>
-          &emsp;of the Daughter of Zion.
+          &emsp;of Daughter Zion.
         </p>
 
         <br>
@@ -80,18 +81,18 @@
           &emsp;and swallowed up Israel&mdash;<br>
           has swallowed up all of her palaces,<br>
           &emsp;and laid waste her strongholds;<br>
-          has multiplied for the Daughter of Judah<br>
-          &emsp;wailing and woe.<sup>[3]</sup>
+          has multiplied for Daughter Judah<br>
+          &emsp;wailing and weeping.<sup>[3]</sup>
         </p>
 
         <br>
         <div class="poem__verseref">6</div>
         <p>
           Felling his tent like a garden,<br>
-          &emsp;he destroyed his temple;<br>
+          &emsp;he destroyed his meeting place;<br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
           &emsp;both feast-day and sabbath;<br>
-          in ferocity and anger has spurned<br>
+          in raging anger has spurned<br>
           &emsp;both king and priest.
         </p>
 
@@ -99,7 +100,7 @@
         <div class="poem__verseref">7</div>
         <p>
           God has rejected his altar,<br>
-          &emsp;spurned his own shrine;<br>
+          &emsp;spurned his shrine;<br>
           to the hands of the enemy has given<br>
           &emsp;the walls of her strongholds.<br>
           They in the <span class="yhwh">Lord</span>'s house shout<br>
@@ -110,20 +111,20 @@
         <div class="poem__verseref">8</div>
         <p>
           He was bent on destroying<br>
-          &emsp;daughter Zion's wall;<br>
+          &emsp;Daughter Zion's wall;<br>
           The <span class="yhwh">Lord</span> stretched out the measuring line;<br>
           &emsp;did not hesitate to devour;<br>
           made wall and rampart lament<br>
-          &emsp;till both succumbed.
+          &emsp;together they succumbed.
         </p>
 
         <br>
         <div class="poem__verseref">9</div>
         <p>
           Into the ground her gates sunk;<br>
-          &emsp;he splintered her railings.<br>
+          &emsp;he shattered her bars.<br>
           Her king and her princes are exiled;<br>
-          &emsp;the law is absent;<sup>[4]</sup><br>
+          &emsp;law is absent;<sup>[4]</sup><br>
           her prophets no longer could find<br>
           &emsp;any vision from the <span class="yhwh">Lord</span>.
         </p>
@@ -131,8 +132,8 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Jerusalem's Daughter, your elders<br>
-          &emsp;sit tongue-tied on the ground;<br>
+          Jerusalem-Daughter, your elders<br>
+          &emsp;sit silent on the ground;<br>
           dust they cast on their heads<br>
           &emsp;and sackcloth they gird.<br>
           Zion's young women bow<br>
@@ -146,9 +147,9 @@
         <p>
           Lamenting, my weeping eyes fail;<br>
           &emsp;my stomach is turned;<br>
-          at the brokenness of my People's Daughter<br>
+          at the brokenness of my Daughter People<br>
           &emsp;my heart to the ground spills<br>
-          as the infants and children collapse<br>
+          as the infants and children expire<br>
           &emsp;in the city streets.
         </p>
 
@@ -156,9 +157,9 @@
         <div class="poem__verseref">12</div>
         <p>
           Mothers hear them crying out loud:<br>
-          &emsp;"Where is bread and wine?"<br>
-          as they faint away like the wounded<br>
-          &emsp;in the streets of the city;<br>
+          &emsp;"Where is corn and wine?"<br>
+          as they expire like the wounded<br>
+          &emsp;in the city streets;<br>
           as their lives ebb away<br>
           &emsp;in their mothers' arms.
         </p>
@@ -181,10 +182,10 @@
         <p>
           Prophets provided you visions&mdash;<br>
           &emsp;whitewashed illusion.<sup>[5]</sup><br>
-          They did not lay out your guilt<br>
+          They did not lay bare your guilt<br>
           &emsp;to restore your fortunes;<br>
           they saw for you only oracles<br>
-          &emsp;false and fraudulent.
+          &emsp;of illusions and deceit.
         </p>
 
 <!-- omit 'Q' -->
@@ -218,7 +219,7 @@
           &emsp;has fulfilled his threat<br>
           decreed from days of old,<br>
           &emsp;to destroy without pity;<br>
-          let the enemy over you gloat<br>
+          has let the enemy over you gloat<br>
           &emsp;and exalted your foes' horn.
         </p>
 
@@ -228,7 +229,7 @@
           Unto the Lord let your heart cry,<br>
           &emsp;wall of Daughter Zion.<br>
           Shed tears like a torrent<br>
-          &emsp;by day and by night;<br>
+          &emsp;day and night;<br>
           give yourself no relief,<br>
           &emsp;your eyes no rest.
         </p>
@@ -237,13 +238,11 @@
         <div class="poem__verseref">19</div>
         <p>
           Vociferous! Cry anguished all night,<br>
-          &emsp;at the start of each watch;<br>
-          spill out your heart like water<br>
-          &emsp;in full sight of the Lord;<br>
+          &emsp;at the start of each watch.<br>
+          Spill out your heart like water<br>
+          &emsp;in full sight of the Lord.<br>
           Lift up your hands to him<br>
-          &emsp;for the lives of your babes<br>
-          who faint from famine and hunger<br>
-          &emsp;at every street-corner.<sup>[7]</sup>
+          &emsp;for the lives of your babes.<sup>[7]</sup>
         </p>
 
         <br>
@@ -252,7 +251,7 @@
           Who have you thus tormented?<br>
           &emsp;Look, <span class="yhwh">Lord</span>; consider.<br>
           Must women eat their own offspring,<br>
-          &emsp;the children they had borne?<br>
+          &emsp;their born babes?<br>
           Should priest and prophet be slain<br>
           &emsp;in the sanctuary of the Lord?
         </p>
@@ -262,9 +261,9 @@
         <br>
         <div class="poem__verseref">21</div>
         <p>
-          Young and old strewn together<br>
+          Young and old lie dead together<br>
           &emsp;on the ground in the streets;<br>
-          young women and young men lie fallen,<br>
+          young women and young men fallen,<br>
           &emsp;cut down by the sword.<br>
           You slaughtered on the day of your wrath:<br>
           &emsp;slew them without pity.
@@ -277,7 +276,7 @@
           &emsp;as to a feast day;<br>
           on the day of the <span class="yhwh">Lord</span>'s anger<br>
           &emsp;none escaped or survived.<br>
-          Those I had borne and reared,<br>
+          Those I had nursed and reared,<br>
           &emsp;my enemy annihilated.
         </p>
 
@@ -300,18 +299,19 @@
         </p>
         <p>
           <sup>[5]</sup>This striking translation courtesy of
-            <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><acronym title="New American Bible, Revised Edition">NABRE</acronym></a>.
+            <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.
         </p>
         <p>
-          <sup>[6]</sup>Psalm 48:2.
+          <sup>[6]</sup>Psalm 48:2, Psalm 50:2; Ezek.27:3.
         </p>
         <p>
-          <sup>[7]</sup>Various manuscripts add this extra line-pair.
+          <sup>[7]</sup>Various manuscripts add the extra line-pair:<br>
+          &emsp;&emsp;&emsp;who faint from famine and hunger&nbsp;/&nbsp;at every street-corner.
         </p>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2021 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->

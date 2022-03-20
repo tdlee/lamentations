@@ -1,4 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
+<?php $hver='5' ?>
 <html lang="en">
 <head>
 
@@ -35,6 +36,7 @@
     <i>Lamentations is poetry. Not prose.</i>
     </p>
 
+<!--
     <p>
     Bible translation, quite rightly, lays great emphasis on capturing meaning of a text
     and of the words that comprise it.
@@ -57,22 +59,31 @@
     This is sometimes called "dynamic equivalence".
     Examples are "The Living Bible" and "The Message".
     </p>
+-->
 
+<!--
     <h2>So why this new version?</h2>
 
     <p>
     <i>Lamentations is poetry. Not prose.</i>
     </p>
+-->
+
     <p>
-      Despite the arid brutality and vicious harshness
-      of both the message and text of Lamentations,
-      many English translations use linguistic styles redolent
+      Arid brutality and vicious harshness
+      are the hallmarks
+      of both the text and message of Lamentations.
+      Despite that, many English translations
+      persist in deploying linguistic styles redolent
       of a gentle ramble through flowery meadows
       on an English summer's day
       in the company of pastoral poet William Wordsworth.
-      Contrast this traditional translation of Lam 3:1-3 (New English Bible):
     </p>
-    <div class="panel">
+
+    <p>
+      Contrast this traditional translation of Lam.&nbsp;3:1-3 (New English Bible):
+    </p>
+    <div class="panel panel--width-25em">
       <div class="poem poem__hebverse">
         <p>
           I am the man who has known affliction,<br>
@@ -89,23 +100,23 @@
       </div><!-- "poem" -->
     </div><!-- "panel" -->
     <p>
-      with the version newly offered here:
+      with the beat-driven, rhythmical version freshly offered here:
     </p>
-    <div class="panel">
-        <div class="poem poem__hebverse poem--acrostic">
+    <div class="panel panel--width-25em">
+      <div class="poem poem__hebverse">
         <p>
-        <strong>Ag</strong>onies: I <strong>know</strong> their <strong>sear</strong>ing<br>
-          from the <strong>rod</strong> of his <strong>wrath</strong>;
+        Agonies: I know their searing<br>
+          from the rod of his wrath;
         </p>
         <p>
-        A<strong>way</strong> he has <strong>dri</strong>ven, force-<strong>marched</strong> me<br>
-          in <strong>dark</strong>ness, no <strong>light</strong>;
+        Away he has driven, force-marched me<br>
+          in darkness, no light;
         </p>
         <p>
-        Ag<strong>ainst</strong> me he <strong>turns</strong> his <strong>hand</strong><br>
-          from <strong>day</strong>-dawn to <strong>dusk</strong>;
+        Against me he turns his hand<br>
+          from day-dawn to dusk;
         </p>
-        </div><!-- "poem" -->
+      </div><!-- "poem" -->
     </div><!-- "panel" -->
 
     <p>
@@ -129,62 +140,68 @@
     Poetry through the ages deploys a range of techniques.
     There is rhyme.  Metre.  Alliteration.
     Even the physical feel of aloud-spoken words in the mouth plays a part.
-    And in this case there is also the acrostic.
     </p>
 
-    <h3>The qinah deficiency...</h3>
+    <p>
+    In Lamentations there is also the acrostic, discarded in most translations.
+    </p>
 
-    <div class="sidebar-right-45pc">
-    <div class="panel">
-      <div class="poem poem__hebverse">
-        <p>
-          Beside the seen acrostic<br>
-            &emsp;sounds qinah rhythm,<br>
-            that characteristic metre<br>
-            &emsp;of Hebrew lament;<br>
-            that three-two stress that spans<br>
-            &emsp;the line of verse.
-        </p>
-        <p>
-          <strong>Speak</strong> those <strong>qi</strong>nah <strong>stress</strong>es&mdash;<br>
-            &emsp;that <strong>qi</strong>nah <strong>beat</strong>.
-        </p>
-        <p>
-          Lamentations is poetry.<br>
-          &emsp;Not prose.
-        </p>
-<!--
-        <p>
-          So why this new version?<br>
-            &emsp;Well, in brief:<br>
-            Alphabetic acrostics<br>
-            &emsp;and metrical qinah.
-        </p>
--->
-      </div><!-- "poem" -->
-    </div><!-- "panel" -->
-    </div><!-- "sidebar-right" -->
+    <p>
+    But perhaps even more important,
+    and also completely lost in most translations,
+    is a forceful, angst-driven rhythm, known as 'qinah'.
+    </p>
+
+    <h3>Qinah...</h3>
 
     <p>
     <i>Lamentations is poetry. Not prose.</i>
     </p>
 
     <p>
-    Vital to the Hebrew verse is its three-two <i>qinah</i> stress pattern.
+    Declaim it aloud!
+    Vital to the Hebrew verse of Lamentations is its three-two <i>qinah</i> stress pattern.
     Hebrew poetry can be tightly concise compared to English equivalents
     which tend to wax more loquaciously expansive.
+    This version aims for that original tight conciseness.
+    </p>
+
+    <p>
+      Hit those stresses.  This is rap.  This is beat.
+      Or, in more refined society,
+      "<a href="https://en.wikipedia.org/wiki/Sprung_rhythm" target="_blank">sprung rhythm</a> with attitude".
+    </p>
+
+    <div class="panel panel--width-28em">
+      <div class="poem">
+        <p>
+          &emsp;&emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies: &emsp;I <strong>know</strong> &emsp;their <strong>sear</strong>ing<br>
+          from the <strong>rod</strong> &emsp;of his <strong>wrath</strong>;
+        </p>
+        <p>
+          &emsp;&emsp;&emsp;&emsp;A<strong>way</strong> he has <strong>dri</strong>ven, force-<strong>marched</strong> me<br>
+          &emsp;&emsp;&emsp;in <strong>dark</strong>ness, no <strong>light</strong>;
+        </p>
+        <p>
+          &emsp;&emsp;&emsp;&emsp;A<strong>gainst</strong> me he <strong>turns</strong> &emsp;his&emsp; <strong>hand</strong><br>
+          &emsp;&emsp;from <strong>day</strong>-dawn to <strong>dusk</strong>;
+        </p>
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
     It is sadly rare for an English translation
     to capture this condensed rhythmic vitality
     of the scriptural text.
     Admirers of the translation by
     <a href="https://en.wikipedia.org/wiki/Robert_Alter" target="_blank">Robert Alter</a> will know
-    his work to capture this compactness;
+    his work to capture it;
     see, for example, his Psalm&nbsp;29 and Genesis&nbsp;1.
-    By coming to such texts from the poetic angle, some of this can be regained.
-    Also admirable in this regard is the
+    Also notable is the
     <a href="http://www.usccb.org/bible/" target="_blank">New American Bible Revised Edition (NABRE)</a>;
     see their <a href="http://www.usccb.org/bible/lamentations/0" target="_blank">Introduction to Lamentations</a>
-    and their <a href="http://www.usccb.org/bible/lamentations/1" target="_blank">online translation</a> itself.
+    and their <a href="http://www.usccb.org/bible/lamentations/1" target="_blank">online translation</a>.
+    By coming to such texts from the poetic angle, some of this can be regained.
     </p>
     <p>
     I thoroughly recommend these translations.
@@ -193,12 +210,12 @@
 
     <div class="widthclear"></div>
 
-    <h3>...and the acrostic deficiency</h3>
+    <h3>...and acrostics</h3>
 
     <!-- panel -->
-    <div class="sidebar-right-45pc">
+    <div class="sidebar__right--width-45pc">
       <div class="panel">
-        <div class="poem poem--acrostic">
+        <div class="poem poem__linewrap poem--acrostic">
           <p>Acrostics are alphabetical texts.</p>
           <p>Bible scholars disagree on their purpose.</p>
           <p>Consequently, translations differ.</p>
@@ -227,13 +244,13 @@
 
           <div class="panel__author">
             <p>
-              &mdash;the late Harvey Minkoff, Professor of Linguistics, Hunter College, New&nbsp;York
+              &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
             </p>
           </div><!-- "panel__author" -->
 
         </div><!-- "poem" -->
       </div><!-- "panel" -->
-    </div><!-- "sidebar-right" -->
+    </div><!-- "sidebar" -->
     <!-- panel -->
 
     <p>
@@ -243,29 +260,42 @@
     <p>
     Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.
     Many of us may already be familiar with this, lurking, but usually ignored by us, in the background.
-    Thus a translation or paraphrase of Psalm 34 might honour its Hebrew-acrostic nature
-    by starting with the western "ABC" alphabet:
     </p>
-
-    <div class="poem poem--acrostic">
-      <p>Always will I bless the <span class="yhwh">Lord</span>:&nbsp;...</p>
-      <p>Boast in the <span class="yhwh">Lord</span>, my soul,&nbsp;...</p>
-      <p>Come with me, exalt his name,&nbsp;...</p>
-    </div><!-- "poem" -->
 
     <p>
     In the Lamentations anthology of five poems, four are Hebrew-acrostic
-    and one of these is even triple acrostic
-    (A...,&nbsp;a...,&nbsp;a...; B...,&nbsp;b...,&nbsp;b...).
-    Even the final poem, while not Hebrew-acrostic, nevertheless also has 22 stanzas
-    and some see a surprising hidden acrostic in its final four stanzas.
+    and the third of these is even triple acrostic:
+    </p>
+
+    <div class="panel panel--width-18em">
+      <div class="poem poem__linewrap poem--acrostic">
+        <p>Agonies: I know&nbsp;...</p>
+        <p>Away he has driven&nbsp;...</p>
+        <p>Against me he turns&nbsp;...</p>
+        <p>&nbsp;</p>
+        <p>Breaking my bones&nbsp;...</p>
+        <p>Besieged by him&nbsp;...</p>
+        <p>Bound by him&nbsp;...</p>
+
+        <div class="panel__author">
+          <p>
+            &mdash;Lam.&nbsp;3:1-6
+          </p>
+        </div><!-- "panel__author" -->
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
+    The final poem, while not Hebrew-acrostic, nevertheless also has 22 stanzas
+    and some see a surprising hidden acrostic in its final four stanzas,
+    whose principle is also made manifest in this rendering.
     </p>
 
     <p>
     An aim of this new version is to capture that foundational acrostic technique
     that almost all modern translations lack,
     <a href="http://www.knoxbible.com/why_is_knox_bible_unique.html" target="_blank">that of Ronald Knox</a>
-    being the masterly exception.
+    being an exception.
     </p>
 
     <p>
@@ -276,8 +306,7 @@
     but the poet exploits this pattern for expressive emphasis."</i><sup>[1]</sup>
     Again, a prose-biased quest for "meaning" might miss this.
     But it can come across with authentic power in the poem,
-    including in English translation or paraphrase,
-    which can likewise 'front' the verb with its object rather than with the more normal subject.
+    including in English translation or paraphrase.
     </p>
 
     <p>
@@ -301,9 +330,9 @@
 
     <h2>In summary</h2>
     <p>
-    The only reason I persist with this version is that
-    there seems to be no existing version that captures the three characteristics
-    of the original Hebrew: acrostic; qinah; compactness of language. 
+    So why this version?
+    No existing version seems to capture the essential characteristics
+    of the original Hebrew: Z-inclusive acrostic; qinah; linguistic compactness.
     </p>
 
     <h2>A final note</h2>
@@ -329,11 +358,11 @@
     <hr>
     <div class="footnotes">
       <p>
-        <sup>[1]</sup>Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", 978-0-393-29249-7
+        <sup>[1]</sup>Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", footnote to Lam.&nbsp;3:1. p.657. 978-0-393-29249-7
       </p>
       <p>
         <sup>[2]</sup>The further subtlety of two different versions of the Hebrew alphabet having
-        a reversal of two of its letters, even though some chapters use one and some the other,
+        a reversal of two of its letters, with some chapters using one and some the other,
         is deemed a geek-fest too far for this particular exercise.
       </p>
     </div><!-- footnotes -->

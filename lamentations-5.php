@@ -43,7 +43,7 @@
       </li>
     </ul>
     <p>
-      Even, it would appear, the toehold of sanity provided by those features has now abandoned us.
+      Even, it would appear, the toehold of sanity provided by those features has evaporated.
     </p>
     <p>
       But is it really so barren?  Or may that, itself, be a point?
@@ -56,12 +56,10 @@
       taking not only the first but also the final letter of each
       (an "acrostic-telestic")
       yields the eight-letter Hebrew phrase "your God is exalted greatly".<sup>[1]</sup>
-      Although at first sight this praise looks a misfit in the context of devastation
+      While initially such praise looks a misfit in the context of devastation
       it nevertheless resonates well with the book of Job and its
       <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
-      bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job 1:21).
-    </p>
-    <p>
+      bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job&nbsp;1:21).
       Further, this provides the otherwise missing "seventh acrostic"
       (the other six being one each in chapters 1, 2 and 4,
       plus the triple acrostic of chapter 3) and yielding that 
@@ -69,10 +67,10 @@
     </p>
     <p>
       How might we represent that?
-      It strikes me that the well-known eight-letter word "Alleluia",
+      Perhaps "Alleluia",
       itself directly from the Hebrew "Hallelujah"
       ("Praise the <span class="yhwh">Lord</span>"),
-      resonates well.
+      might be appropriate.
     <p>
 
     <div class="panel">
@@ -99,15 +97,15 @@
           <div class="poem__verseref">2-4</div>
           <p>
             Our heritage given over to strangers,<br>
-              our homes to foreigners.
+              our homes to occupiers.
           </p>
           <p>
             Orphans we have become, without fathers;<br>
               our mothers as widows.
           </p>
           <p>
-            We're extorted to buy our own water,<br>
-              our own tumbleweed comes at a price.
+            Our well-water? Extorted for profit;<br>
+              even our tumbleweed comes at a price.
           </p>
 
           <br>
@@ -170,7 +168,7 @@
           <div class="poem__verseref">15-16</div>
           <p>
             Joy has deserted our hearts;<br>
-              our dancing has turned into dirges.
+              our dancing turned into dirges.
               <!-- if we can't acrosti-cate, let's alliterate -->
           </p>
           <p>
@@ -193,7 +191,7 @@
         </p>
 
         <!--
-           For the hidden acrostic-telistic we look to construct the four verses thus:
+           For the hidden acrostic-telestic "alleluia" we look to construct the four verses thus:
             *A*...*l*
             *l*...*e*
             *l*...*u*
@@ -226,7 +224,7 @@
       <div class="footnotes">
         <p>
 	  <sup>[1]</sup>Guillaume, Philippe
-          <a href="https://jhsonline.org/Articles/article_118.pdf" target="_blank"><i>Lamentations 5: The seventh acrostic</i></a>, Journal of Hebrew Scriptures.
+          <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The seventh acrostic</cite></a>, Journal of Hebrew Scriptures.
         </p>
         <p>
 	  <sup>[2]</sup>There now starts a catalogue of what, in modern-day writing,
@@ -242,23 +240,23 @@
             and this allows the poetic force of alliteration.
         </p>
         <p>
-	  <sup>[5]</sup>This is an astonishingly grim ending;
-	    we do well to meditate on this closure.
-            The "<i>indeed</i>" translation is supported by both
+	  <sup>[5]</sup>The "<i>indeed</i>" translation is supported by both
             NABRE and Robert Alter.
 	    Other versions also have this as statement
 	    (KJV: "<i>but thou hast...</i>"; NEB: "<i>but if thou hast...then indeed</i>").
             The NIV can't stomach this: a begging "<i>unless you have...</i>". 
         </p>
         <p>
-	  <sup>[6]</sup>In Jewish tradition,
+	  <sup>[6]</sup>This is an astonishingly grim ending;
+	    we do well to meditate on this closure.
+            In Jewish tradition,
             there is a convention of then repeating v.21
             ("<i>Lead us back... turn back to you</i>") as a coda.
         </p>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2022 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->

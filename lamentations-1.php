@@ -1,11 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
+<?php $hver='5' ?>
 <html lang="en">
 <head>
 
   <title>ServiceMusic: Lamentations 1</title>
 
-  <meta name="description" content="An acrostic translation of Lamentations 1 by David Lee">
-  <meta name="keywords" content="lamentations, acrostic, translation, Hebrew, poetry, paraphrase">
+  <meta name="description" content="An acrostic rendering of Lamentations 1 by David Lee">
+  <meta name="keywords" content="lamentations, scripture, rendering, translation, paraphrase, acrostic, qinah, Hebrew, poem, poetry">
 
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/headcommon.php');
@@ -28,43 +29,70 @@
     ?>
 
     <p>
-      Lamentations 1, like other chapters, has the same number of stanzas, 22,
-      as the Hebrew alphabet and is acrostic.
+      Throughout chapters one, two and four, Zion is not only dwelling-place of God
+      but is additionally personified by the hauntingly endearing term "Daughter Zion".
+      The poems lament not merely an inamimate city;
+      the city is a precious daughter, beloved of God.<sup>[1]</sup>
+      This is set out within the very first verse.
     </p>
+
+    <p>
+      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).  
+    </p>
+
+    <div class="noprint">
+      <p>
+        Reminder: "qinah" rhythm is vitally important to recitation and reading.
+        Each line-pair has three then two strong beats.
+        For an example, hover the mouse over the opening "Alas!&nbsp;..." verse.
+      </p>
+    </div>
 
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
         <div class="poem__verseref">1</div>
+<div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
+
+  a-LAS! a-LONE lies the CI-ty
+  &emsp;once TEEM-ing with PEO-ple;
+
+  SHE, once a LA-dy among NA-tions,
+  &emsp;now ab-AN-doned, WI-dowed;
+
+  SHE, once PRIN-cess among PRO-vinces, (or '...princ-CESS...')
+  &emsp;now CHAINED, en-SLAVED."
+>
         <p>
-          Alas!<sup>[1]</sup> Solitary lies the city<br>
+          Alas!<sup>[2]</sup> Alone lies the city<br>
           &emsp;once teeming with people;<br>
-          She, once great among nations,<br>
-          &emsp;now become as a widow;<br>
-          once queen among provinces,<br>
-          &emsp;now chained to forced labour.
+          She, once a lady among nations,<br>
+          &emsp;now abandoned, widowed;<br>
+          she, once princess among provinces,<br>
+          &emsp;now chained, enslaved.
         </p>
+</div>
 
         <br>
         <div class="poem__verseref">2</div>
         <p>
           Bitterly she weeps through the night<br>
-          &emsp;her cheeks tear-wetted;<br>
-          None there is to console her<br>
+          &emsp;tears wet her cheeks;<br>
+          None there is to comfort her<br>
           &emsp;from all her lovers;<br>
-          all of her friends have betrayed her,<br>
+          all her friends have betrayed her:<br>
           &emsp;become her enemies.
         </p>
 
         <br>
         <div class="poem__verseref">3</div>
         <p>
-          Cast out into exile is Judah;<br>
-          &emsp;hard labour and affliction.<br>
-          She dwells among other nations<br>
+          Cast out into exile by force<br>
+          &emsp;is Judah to hard labour.<br>
+          She <!-- dwells --> lodges among the nations<br>
           &emsp;but finds no rest.<br>
-          All who pursue her overtake her<br>
-          &emsp;trapped down an alleyway.
+          All who pursue her overtake her:<br>
+          &emsp;dire her straits.
         </p>
 
         <br>
@@ -74,18 +102,18 @@
           &emsp;the roads to Zion mourn;<br>
           her gateways all are desolate,<br>
           &emsp;her priests groan,<br>
-          her young women grieve;<br>
+          her young women are <!-- grieving; --> wailing;<br>
           &emsp;how bitter her fate.
         </p>
 
         <br>
         <div class="poem__verseref">5</div>
         <p>
-          Enemies now have mastered her,<br>
-          &emsp;her foes rest easy.<br>
-          The <span class="yhwh">Lord</span> has stricken her with sorrow<br>
-          &emsp;for her innumerable misdeeds.<br>
-          Her children are hauled into exile,<br>
+          Enemies now have mastered her;<br>
+          &emsp;her foes prosper,<br>
+          since the <span class="yhwh">Lord</span> has stricken her with sorrow<br>
+          &emsp;for her many misdeeds.<br>
+          Her young children are driven to exile,<br>
           &emsp;captive before the foe.
         </p>
 
@@ -93,9 +121,9 @@
         <div class="poem__verseref">6</div>
         <p>
           From Daughter Zion has departed<br>
-          &emsp;all former splendour.<br>
-          Her princes now wander like deer<br>
-          &emsp;that find no pasture;<br>
+          &emsp;all her splendour.<br>
+          Her leaders now wander like deer&mdash;<br>
+          &emsp;they find no pasture;<br>
           They run, all their strength spent,<br>
           &emsp;pursued by the hunter.
         </p>
@@ -107,17 +135,17 @@
           &emsp;in days gone by<br>
           Jerusalem calls to mind<br>
           &emsp;in her days of affliction.<br>
-          When her people fell to enemy hand,<br>
-          &emsp;there was none to help.<br>
-          Her foes looked on and mocked<br>
-          &emsp;her fallen state.<sup>[2]</sup>
+          [When her people fell to enemy hand,<br>
+	  &emsp;there was none to help.]<sup>[3]</sup><br>
+          Her foes look on and mock<br>
+	  &emsp;her fallen state.
         </p>
 
         <br>
         <div class="poem__verseref">8</div>
         <p>
           How greatly has Jerusalem sinned&mdash;<br>
-          &emsp;become a mockery.<br>
+          &emsp;become a soiled rag.<br>
           Those who once honoured her, despise her,<br>
           &emsp;seeing her nakedness.<br>
           She, on her part, groans<br>
@@ -127,12 +155,12 @@
         <br>
         <div class="poem__verseref">9</div>
         <p>
-          Iniquity clung to her skirts;<br>
+          Iniquity clings to her skirts;<br>
           &emsp;she heeded not her future.<br>
-          Her downfall beggars belief;<br>
-          &emsp;there was none to comfort her.<br>
+          Her downfall renders amazement;<br>
+          &emsp;there is none to comfort her.<br>
           "Look, O <span class="yhwh">Lord</span> on my affliction,<br>
-          &emsp;how the enemy triumphs."
+          &emsp;for the enemy triumphs."
         </p>
 
 <!-- omit 'J' and 'K' -->
@@ -140,19 +168,19 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Looted by enemy hands<br>
-          &emsp;each one of her treasures;<br>
-          nations of pagans she witnessed<br>
+          Lecherous enemy hands spread<br>
+          &emsp;all over her treasures;<br>
+          pagan nations she sees<br>
           &emsp;enter her sanctuary&mdash;<br>
           those you forbade to enter<br>
-          &emsp;assembly with you.
+          &emsp;your assembly.
         </p>
 
         <br>
         <div class="poem__verseref">11</div>
         <p>
           Moaning in famine her people<br>
-          &emsp;begging for bread,<br>
+          &emsp;searching for bread,<br>
           bartering treasures for food<br>
           &emsp;to cling to their lives.<br>
           "Look, O <span class="yhwh">Lord</span> and consider,<br>
@@ -162,33 +190,33 @@
         <br>
         <div class="poem__verseref">12</div>
         <p>
-          Notice! And look, you travellers;<br>
+          Notice! And look, you passers-by;<br>
           &emsp;is it nothing to you?<br>
           Is there any pain like my pain,<br>
-          &emsp;so inflicted on me,<br>
-          that the <span class="yhwh">Lord</span> brought on me<br>
+          &emsp;inflicted on me,<br>
+          that the <span class="yhwh">Lord</span> wreaked on me<br>
           &emsp;in the day of his wrath?
         </p>
 
         <br>
         <div class="poem__verseref">13</div>
         <p>
-          Out of heaven he hurled fire;<br>
-          &emsp;it ran through my bones.<br>
+          Out of the heights he hurled fire<br>
+          &emsp;down into my bones.<br>
           He spread out a net for my feet;<br>
           &emsp;he turned me back.<br>
-          He made me desolate; racked<br>
-          &emsp;with sickness the day long.
+          He has made me desolate:<br>
+          &emsp;all day faint.
         </p>
 
         <br>
         <div class="poem__verseref">14</div>
         <p>
-          Packed into a yoke are my sins;<br>
-          &emsp;his own hand wove them<br>
-          and hoisted them onto my neck;<br>
-          &emsp;my strength failed the weight.<br>
-          He delivered me over to those<br>
+          Packed<sup>[4]</sup> into a yoke are my sins;<br>
+          &emsp;entwined by his hand<br>
+          his yoke was upon my neck;<br>
+          &emsp;it sapped my strength.<br>
+          My Lord has given me into the grip of those<br>
           &emsp;I cannot withstand.
         </p>
 
@@ -221,30 +249,30 @@
           &emsp;but none comforts her;<br>
           the <span class="yhwh">Lord</span> has summoned against Jacob<br>
           &emsp;his foes to encircle;<br>
-          Jerusalem in their midst has become<br>
-          &emsp;a thing unclean.
+          Jerusalem in their eyes has become<br>
+          &emsp;a soiled rag.
         </p>
 
         <br>
         <div class="poem__verseref">18</div>
         <p>
-          Upright is the <span class="yhwh">Lord</span>, but I<br>
-          &emsp;had defied his command.<br>
+          Upright in judgement is the <span class="yhwh">Lord</span>,<br>
+          &emsp;for I defied his command.<br>
           Hear, I pray, all you peoples,<br>
           &emsp;and look on my pain:<br>
           all my young men and maidens<br>
-          &emsp;hauled off into exile.
+          &emsp;have gone into exile.
         </p>
 
         <br>
         <div class="poem__verseref">19</div>
         <p>
-          Vainly I called to my lovers<br>
-          &emsp;but all deceived me.<br>
+          Vainly I called to my lovers&mdash;<br>
+          &emsp;they abandoned me.<br>
           In the city my priests and my elders<br>
-          &emsp;went hungry and perished<br>
-          when they searched for food to revive<br>
-          &emsp;their failing souls.
+          &emsp;perish<br>
+          when they search for food to revive<br>
+          &emsp;their souls.
         </p>
 
         <br>
@@ -263,20 +291,20 @@
         <p>
           Yearnings of anguish they heard,<br>
           &emsp;but none brings me comfort.<br>
-          My enemies heard that distress<br>
-          &emsp;and rejoiced that you caused it.<br>
-          Oh, bring on the day you announced&mdash;<br>
+          My enemies all heard my distress&mdash;<br>
+          &emsp;rejoiced that you caused it.<br>
+          Oh, bring on the day you proclaimed&mdash;<br>
           &emsp;let them be as me!
         </p>
 
         <br>
         <div class="poem__verseref">22</div>
         <p>
-          Zero in on all their evil;<br>
-          &emsp;torment them in their turn,<br>
-          as you had tormented me<br>
+          Zero in on all their evil<br>
+          &emsp;before you torment them<br>
+          as you tormented me<br>
           &emsp;for all my rebellions.<br>
-          My groans are many;<br>
+          For my groans are many;<br>
           &emsp;my heart is sick.
         </p>
 
@@ -284,17 +312,35 @@
       <hr>
       <div class="footnotes">
         <p>
-          <sup>[1]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
+	  <sup>[1]</sup>Adelman, Rachel (2021).
+	  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>
+          Shalvi/Hyman Encyclopedia of Jewish Women.
+        </p>
+        <p>
+          <sup>[2]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
             the name of the book itself, and beginning with the
             Hebrew letter 'aleph' equivalent to our 'A'.
         </p>
         <p>
-          <sup>[2]</sup>This seventh verse, like 2:19, has an extra line in the Hebrew.
+          <sup>[3]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19.
+        </p>
+        <p>
+          <sup>[4]</sup>The Hebrew verb "nisqad" only occurs here so any translation is conjectural.
         </p>
       </div><!-- "footnotes" -->
+
+      <div class="panel__footer">
+        Copyright &copy; 2020&ndash;2021 David&nbsp;Lee
+      </div><!-- "panel__footer" -->
+
     </div><!-- "panel" -->
 
   </div><!-- content-area -->
+
+<!-- Further notes:
+v3. lodges is too temporary; need permanence
+v4. wailing/grieving; needs sense of "something has been done to me"
+-->
 
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/bodyfooter.php');

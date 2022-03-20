@@ -33,7 +33,7 @@
 
         <div class="poem__verseref">1</div>
         <p>
-          Alas!<sup>[1]</sup> The gold, now dulled<br>
+          Alas!<sup>[1]</sup> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
           the holy stones<sup>[2]</sup> lie littered<br>
           &emsp;on every street corner.
@@ -44,7 +44,7 @@
         <p>
           Belov&egrave;d sons of Zion<br>
           &emsp;of gold-weight worth,<br>
-          now counted as jugs of clay;<br>
+          alas, rated as crocks of clay&mdash;<br>
           &emsp;work of any potter.
         </p>
 
@@ -96,9 +96,9 @@
         <br>
         <div class="poem__verseref">8</div>
         <p>
-          How black, though, their faces are now,<br>
+          How black now, though, their faces,<br>
           &emsp;unrecognised in streets;<br>
-          their skin has shrunk on their bones,<br>
+          their skin shrunk, taut on their bones<br>
           &emsp;as dessicated wood.
         </p>
 
@@ -263,7 +263,7 @@
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2022 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
