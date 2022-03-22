@@ -144,12 +144,12 @@
         <br>
         <div class="poem__verseref">8</div>
         <p>
-          How greatly has Jerusalem sinned&mdash;<br>
-          &emsp;become a soiled rag.<br>
+          How grievously has Jerusalem sinned&mdash;<br>
+          &emsp;how become a soiled rag.<br>
           Those who once honoured her, despise her,<br>
           &emsp;seeing her nakedness.<br>
-          She, on her part, groans<br>
-          &emsp;and hides her face.
+          She, aghast, cries out;<br>
+          &emsp;she hides her face.
         </p>
 
         <br>
