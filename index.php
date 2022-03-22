@@ -190,6 +190,10 @@
     </div><!-- "panel" -->
 
     <p>
+    And we might observe that the overall "3+2" count of the line matches the pentameter, so familiar in English poetry.
+    </p>
+
+    <p>
     It is sadly rare for an English translation
     to capture this condensed rhythmic vitality
     of the scriptural text.
