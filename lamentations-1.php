@@ -183,7 +183,7 @@
           &emsp;searching for bread,<br>
           bartering treasures for food<br>
           &emsp;to cling to their lives.<br>
-          "Look, O <span class="yhwh">Lord</span> and consider,<br>
+          "Look, O <span class="yhwh">Lord</span>, and notice,<br>
           &emsp;for I am despised."
         </p>
 
