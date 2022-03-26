@@ -301,7 +301,7 @@
         <div class="poem__verseref">22</div>
         <p>
           Zero in on all their evil<br>
-          &emsp;before you torment them<br>
+          &emsp;before you; torment them<br>
           as you tormented me<br>
           &emsp;for all my rebellions.<br>
           For many are my groans;<br>
