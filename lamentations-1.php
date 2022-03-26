@@ -225,7 +225,7 @@
         <p>
           Rejecting my own mighty warriors,<br>
           &emsp;the Lord scorned them,<br>
-          and summoned an army against me<br>
+          and called an army against me<br><!-- verb: 15,19: match; 17:different -->
           &emsp;to crush my young men.<br>
           In a winepress my Lord has trodden<br>
           &emsp;virgin Daughter Judah.
@@ -247,7 +247,7 @@
         <p>
           Taut-stretched reach out Zion's hands,<br>
           &emsp;but none comforts her;<br>
-          the <span class="yhwh">Lord</span> has summoned against Jacob<br>
+          the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
           &emsp;his foes to encircle;<br>
           Jerusalem in their eyes has become<br>
           &emsp;a soiled towel.
@@ -267,7 +267,7 @@
         <br>
         <div class="poem__verseref">19</div>
         <p>
-          Vainly I called to my lovers&mdash;<br>
+          Vainly I called to my lovers&mdash;<br><!-- verb: 15,19: match; 17:different -->
           &emsp;they abandoned me.<br>
           In the city my priests and my elders<br>
           &emsp;perish<br>
