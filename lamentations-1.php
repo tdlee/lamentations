@@ -225,7 +225,7 @@
         <p>
           Rejecting my own mighty warriors,<br>
           &emsp;the Lord scorned them,<br>
-          and called an assembly against me<br><!-- verb: 15,19: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
+          and called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
           &emsp;to crush my young men.<br>
           In a winepress my Lord has trodden<br>
           &emsp;virgin Daughter Judah.
@@ -267,7 +267,7 @@
         <br>
         <div class="poem__verseref">19</div>
         <p>
-          Vainly I called to my lovers&mdash;<br><!-- verb: 15,19: match; 17:different -->
+          Vainly I called to my lovers&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
           &emsp;they abandoned me.<br>
           In the city my priests and my elders<br>
           &emsp;perish<br>
@@ -293,7 +293,7 @@
           &emsp;but none brings me comfort.<br>
           My enemies all heard my distress&mdash;<br>
           &emsp;rejoiced that you caused it.<br>
-          Oh, bring on the day you proclaimed&mdash;<br>
+          Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
           &emsp;let them be as me!
         </p>
 
