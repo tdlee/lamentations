@@ -291,7 +291,7 @@
         <p>
           Yearnings of anguish they heard,<br>
           &emsp;but none brings me comfort.<br>
-          My enemies all heard my distress&mdash;<br>
+          My enemies all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
           &emsp;rejoiced that you caused it.<br>
           Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
           &emsp;let them be as me!
@@ -300,8 +300,8 @@
         <br>
         <div class="poem__verseref">22</div>
         <p>
-          Zero in on all their evil<br>
-          &emsp;before you; torment them<br>
+          Zero in&mdash;their malignant ways all<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+          &emsp;are before you; torment them<br>
           as you tormented me<br>
           &emsp;for all my rebellions.<br>
           For many are my groans;<br>
