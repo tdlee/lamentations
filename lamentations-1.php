@@ -236,7 +236,7 @@
         <p>
           Streaming with tears, my eyes&mdash;<br>
           &emsp;my eyes weep for these things;<br>
-          far distant those who might comfort me,<br>
+          far distant one who might comfort me,<sup>[5]</sup><br>
           &emsp;to restore my soul.<br>
           My children all are desolate;<br>
           &emsp;the enemy has prevailed.
@@ -326,6 +326,9 @@
         </p>
         <p>
           <sup>[4]</sup>The Hebrew verb "nisqad" only occurs here so any translation is conjectural.
+        </p>
+        <p>
+          <sup>[5]</sup>Some Jewish commentators here see a comforter-Messiah being yearned for.
         </p>
       </div><!-- "footnotes" -->
 
