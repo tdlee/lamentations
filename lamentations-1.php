@@ -257,7 +257,7 @@
         <div class="poem__verseref">18</div>
         <p>
           Upright in judgement is the <span class="yhwh">Lord</span>,<br>
-          &emsp;for I defied his command.<br>
+          &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
           Hear, I pray, all you peoples,<br>
           &emsp;and look on my pain:<br>
           all my young men and maidens<br>
@@ -281,7 +281,7 @@
           Witness, O <span class="yhwh">Lord</span>, my distress!<br>
           &emsp;My stomach churns,<br>
           my heart recoils within me:<br>
-          &emsp;grievously I rebelled.<br>
+          &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
           Outside the sword bereaves;<br>
           &emsp;inside, too, death.
         </p>
