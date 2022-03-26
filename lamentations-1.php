@@ -250,7 +250,7 @@
           the <span class="yhwh">Lord</span> has summoned against Jacob<br>
           &emsp;his foes to encircle;<br>
           Jerusalem in their eyes has become<br>
-          &emsp;a soiled rag.
+          &emsp;a soiled towel.
         </p>
 
         <br>
