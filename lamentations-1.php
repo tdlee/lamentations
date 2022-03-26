@@ -98,7 +98,7 @@
         <br>
         <div class="poem__verseref">4</div>
         <p>
-          Devoid of all pilgrims to her feasts,<br>
+          Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
           &emsp;the roads to Zion mourn;<br>
           her gateways all are desolate,<br>
           &emsp;her priests groan,<br>
@@ -225,7 +225,7 @@
         <p>
           Rejecting my own mighty warriors,<br>
           &emsp;the Lord scorned them,<br>
-          and called an army against me<br><!-- verb: 15,19: match; 17:different -->
+          and called an assembly against me<br><!-- verb: 15,19: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
           &emsp;to crush my young men.<br>
           In a winepress my Lord has trodden<br>
           &emsp;virgin Daughter Judah.
