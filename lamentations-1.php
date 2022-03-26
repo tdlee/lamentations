@@ -304,7 +304,7 @@
           &emsp;before you torment them<br>
           as you tormented me<br>
           &emsp;for all my rebellions.<br>
-          For my groans are many;<br>
+          For many are my groans;<br>
           &emsp;my heart is sick.
         </p>
 
