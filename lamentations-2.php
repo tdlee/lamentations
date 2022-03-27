@@ -254,7 +254,9 @@
           Spill out your heart like water<br>
           &emsp;in full sight of the Lord.<br>
           Lift up your hands to him<br>
-          &emsp;for the lives of your babes.<sup>[7]</sup>
+          &emsp;for the lives of your babes<br>
+          [who faint from famine and hunger<br>
+          &emsp;at every street-corner].<sup>[7]</sup>
         </p>
 
         <br>
@@ -317,8 +319,7 @@
           <sup>[6]</sup>Psalm 48:2, Psalm 50:2; Ezek.27:3.
         </p>
         <p>
-          <sup>[7]</sup>Various manuscripts add the extra line-pair:<br>
-          &emsp;&emsp;&emsp;who faint from famine and hunger&nbsp;/&nbsp;at every street-corner.
+          <sup>[7]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7.
         </p>
       </div><!-- "footnotes" -->
 
