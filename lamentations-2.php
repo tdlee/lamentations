@@ -263,7 +263,7 @@
         <div class="poem__verseref">20</div>
         <p>
           Who have you thus tormented?<br>
-          &emsp;Look, <span class="yhwh">Lord</span>; consider.<br>
+          &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
           Must women eat their own womb's fruit,<br>
           &emsp;their nursed babes?<br>
           Should priest and prophet be slain<br>
