@@ -254,14 +254,16 @@
           Spill out your heart like water<br>
           &emsp;in full sight of the Lord.<br>
           Lift up your hands to him<br>
-          &emsp;for the lives of your babes.<sup>[7]</sup>
+          &emsp;for the lives of your babes<br>
+          [who faint from famine and hunger<br>
+          &emsp;at every street-corner].<sup>[7]</sup>
         </p>
 
         <br>
         <div class="poem__verseref">20</div>
         <p>
           Who have you thus tormented?<br>
-          &emsp;Look, <span class="yhwh">Lord</span>; consider.<br>
+          &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
           Must women eat their own womb's fruit,<br>
           &emsp;their nursed babes?<br>
           Should priest and prophet be slain<br>
@@ -317,13 +319,12 @@
           <sup>[6]</sup>Psalm 48:2, Psalm 50:2; Ezek.27:3.
         </p>
         <p>
-          <sup>[7]</sup>Various manuscripts add the extra line-pair:<br>
-          &emsp;&emsp;&emsp;who faint from famine and hunger&nbsp;/&nbsp;at every street-corner.
+          <sup>[7]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7.
         </p>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2021 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2022 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
