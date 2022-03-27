@@ -98,7 +98,7 @@
         <br>
         <div class="poem__verseref">4</div>
         <p>
-          Devoid of all pilgrims to her feasts,<br>
+          Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
           &emsp;the roads to Zion mourn;<br>
           her gateways all are desolate,<br>
           &emsp;her priests groan,<br>
@@ -144,12 +144,12 @@
         <br>
         <div class="poem__verseref">8</div>
         <p>
-          How greatly has Jerusalem sinned&mdash;<br>
-          &emsp;become a soiled rag.<br>
+          How grievously has Jerusalem sinned&mdash;<br>
+          &emsp;how become a soiled rag.<br>
           Those who once honoured her, despise her,<br>
           &emsp;seeing her nakedness.<br>
-          She, on her part, groans<br>
-          &emsp;and hides her face.
+          She, aghast, cries out;<br>
+          &emsp;she hides her face.
         </p>
 
         <br>
@@ -183,14 +183,14 @@
           &emsp;searching for bread,<br>
           bartering treasures for food<br>
           &emsp;to cling to their lives.<br>
-          "Look, O <span class="yhwh">Lord</span> and consider,<br>
+          "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order -->
           &emsp;for I am despised."
         </p>
 
         <br>
         <div class="poem__verseref">12</div>
         <p>
-          Notice! And look, you passers-by;<br>
+          Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order -->
           &emsp;is it nothing to you?<br>
           Is there any pain like my pain,<br>
           &emsp;inflicted on me,<br>
@@ -225,7 +225,7 @@
         <p>
           Rejecting my own mighty warriors,<br>
           &emsp;the Lord scorned them,<br>
-          and summoned an army against me<br>
+          and called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
           &emsp;to crush my young men.<br>
           In a winepress my Lord has trodden<br>
           &emsp;virgin Daughter Judah.
@@ -236,7 +236,7 @@
         <p>
           Streaming with tears, my eyes&mdash;<br>
           &emsp;my eyes weep for these things;<br>
-          far distant those who might comfort me,<br>
+          far distant one who might comfort me,<sup>[5]</sup><br>
           &emsp;to restore my soul.<br>
           My children all are desolate;<br>
           &emsp;the enemy has prevailed.
@@ -247,17 +247,17 @@
         <p>
           Taut-stretched reach out Zion's hands,<br>
           &emsp;but none comforts her;<br>
-          the <span class="yhwh">Lord</span> has summoned against Jacob<br>
+          the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
           &emsp;his foes to encircle;<br>
           Jerusalem in their eyes has become<br>
-          &emsp;a soiled rag.
+          &emsp;a soiled towel.
         </p>
 
         <br>
         <div class="poem__verseref">18</div>
         <p>
           Upright in judgement is the <span class="yhwh">Lord</span>,<br>
-          &emsp;for I defied his command.<br>
+          &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
           Hear, I pray, all you peoples,<br>
           &emsp;and look on my pain:<br>
           all my young men and maidens<br>
@@ -267,7 +267,7 @@
         <br>
         <div class="poem__verseref">19</div>
         <p>
-          Vainly I called to my lovers&mdash;<br>
+          Vainly I called to my lovers&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
           &emsp;they abandoned me.<br>
           In the city my priests and my elders<br>
           &emsp;perish<br>
@@ -281,7 +281,7 @@
           Witness, O <span class="yhwh">Lord</span>, my distress!<br>
           &emsp;My stomach churns,<br>
           my heart recoils within me:<br>
-          &emsp;grievously I rebelled.<br>
+          &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
           Outside the sword bereaves;<br>
           &emsp;inside, too, death.
         </p>
@@ -291,20 +291,20 @@
         <p>
           Yearnings of anguish they heard,<br>
           &emsp;but none brings me comfort.<br>
-          My enemies all heard my distress&mdash;<br>
+          My enemies all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
           &emsp;rejoiced that you caused it.<br>
-          Oh, bring on the day you proclaimed&mdash;<br>
+          Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
           &emsp;let them be as me!
         </p>
 
         <br>
         <div class="poem__verseref">22</div>
         <p>
-          Zero in on all their evil<br>
-          &emsp;before you torment them<br>
+          Zero in&mdash;their malignant ways all<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+          &emsp;are before you; torment them<br>
           as you tormented me<br>
           &emsp;for all my rebellions.<br>
-          For my groans are many;<br>
+          For many are my groans;<br>
           &emsp;my heart is sick.
         </p>
 
@@ -327,10 +327,13 @@
         <p>
           <sup>[4]</sup>The Hebrew verb "nisqad" only occurs here so any translation is conjectural.
         </p>
+        <p>
+          <sup>[5]</sup>Some Jewish commentators here see a comforter-Messiah being yearned for.
+        </p>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2021 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2022 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
