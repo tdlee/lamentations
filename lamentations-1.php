@@ -145,7 +145,7 @@
         <div class="poem__verseref">8</div>
         <p>
           How grievously has Jerusalem sinned&mdash;<br>
-          &emsp;how become a soiled rag.<br>
+          &emsp;how become a soiled rag.<br><!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
           Those who once honoured her, despise her,<br>
           &emsp;seeing her nakedness.<br>
           She, aghast, cries out;<br>
@@ -250,7 +250,7 @@
           the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
           &emsp;his foes to encircle;<br>
           Jerusalem in their eyes has become<br>
-          &emsp;a soiled towel.
+          &emsp;a soiled towel.<!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
         </p>
 
         <br>
