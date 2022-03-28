@@ -120,11 +120,11 @@
       </p>
       <p>
       Cry though I into the void,<br>
-        he blanks out my prayer;
+        he blanks out my prayer.
       </p>
       <p>
       Confounding my walkway with boulders,<br>
-        he twisted my paths.
+        he twisted my paths;
       </p>
 
       <br>
@@ -139,14 +139,14 @@
       </p>
       <p>
       Drawing his bow, he propped me:<br>
-        for his arrows a target.
+        for his arrows a target;
       </p>
 
       <br>
       <div class="poem__verseref">13-15</div>
       <p>
       Eviscerated he my innards<br>
-         with the shafts of his quiver;
+         with the shafts of his quiver.
       </p>
       <p>
       Excoriated, to my kinsfolk a laughing-stock,<br>
@@ -154,14 +154,14 @@
       </p>
       <p>
       Engorging me, force-feeding bitterness<br>
-        he sated me with gall.
+        he sated me with gall;
       </p>
 
       <br>
       <div class="poem__verseref">16-18</div>
       <p>
       Fracturing my teeth on gravel,<br>
-         he ground me in dust;
+         he ground me in dust.
       </p>
       <p>
       Far from my mind any peace,<br>
