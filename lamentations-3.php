@@ -84,8 +84,8 @@
     for endless days."
 >
       <p>
-      Agonies: I know their searing<sup>[1]</sup><br>
-        from the rod of his wrath;
+      Agonies: I am the man<sup>[1]</sup> seared<br>
+        by the rod of his wrath;
       </p>
       <p>
       Away he has driven, force-marched me<br>
@@ -425,7 +425,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <div class="footnotes">
         <p>
           <sup>[1]</sup>Translation compromise.
-            Ideally this would start "I am the man" to establish the male outlook, but the acrostic constraint doesn't allow this.
+            Ideally this would start "I am the man" but the acrostic constraint doesn't allow this.
         </p>
         <p>
           <sup>[2]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
