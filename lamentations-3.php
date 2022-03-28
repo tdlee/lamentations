@@ -167,7 +167,7 @@
       <div class="poem__verseref">19-21</div>
       <p>
       Gall, a bitter remembrance<br>
-	 of my affliction, my wandering;
+         of my affliction, my wandering;
       </p>
       <p>
       Grief downcasts my soul,<br>
