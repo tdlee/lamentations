@@ -100,8 +100,8 @@
       The original verb is more literally "sits",
       and most prose-oriented English translations use this.
       But in English, we tend to think of "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
-      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "...sits among the nations".
-      But again, that doesn't really work in English.  Yet neither would "...lies among the nations".
+      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
+      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
     </p>
 
     <p>
