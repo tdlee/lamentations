@@ -229,7 +229,7 @@
          when it's laid so upon him.
       </p>
       <p>
-      Lend he his mouth in the dust&mdash;<br>
+      Lend he his mouth to the dust&mdash;<br>
          perhaps yet may be hope.
       </p>
       <p>
