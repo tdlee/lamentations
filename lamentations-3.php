@@ -293,7 +293,7 @@
          to God on high we say:
       </p>
       <p>
-      Perfidious we, in sin and revolt,<br>
+      Perfidious we were in sin and revolt,<br>
          and you did not forgive.
       </p>
 
