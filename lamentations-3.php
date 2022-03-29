@@ -271,15 +271,15 @@
       <div class="poem__verseref">37-39</div>
       <p>
       Ordering futures? Who can make so<br>
-         should the Lord not decree?<!-- see 36 -->
+        should the Lord not decree?<!-- see 36 -->
       </p>
       <p>
       Out of God's mouth, come not<br>
-         both disaster and good?
+        both disaster and good?
       </p>
       <p>
       Of what shall one living complain<br>
-         when punished for his wrong?
+        on account of his wrong?
       </p>
 
       <br>
