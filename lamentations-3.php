@@ -46,6 +46,11 @@
     </p>
 
     <p>
+      Like the earlier two poems, this also contains two "voices":
+      an individual and a narrator.
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".
       <span class="noprint">
@@ -198,14 +203,14 @@
         how great is your faithfulness.
       </p>
       <p>
-      Hope then in him; may I say<br>
-        "My portion is the <span class="yhwh">Lord</span>".
+      Hope I then in him; may I say<br>
+        "My portion is the <span class="yhwh">Lord</span>".<sup>[2]</sup>
       </p>
 
       <br>
       <div class="poem__verseref">25-27</div>
       <p>
-      Irreproachable<sup>[2]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
+      Irreproachable<sup>[3]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
         to those who quest for him;
       </p>
       <p>
@@ -216,35 +221,26 @@
       Irreproachable is it to bear<br>
          the yoke while in youth.
       </p>
-<!--
-At this point we have to think about which four letters (of the 26-letter alphabet) to omit.
-
-Q and X are obvious candidates.  Remember, we must keep Z.
-
-The next stanza in many English translations is three lines of "Let".
-Perhaps this offers us the easy way out: omit J and K.
-
--->
 
       <br>
       <div class="poem__verseref">28-30</div>
       <p>
-      Let him sit, alone and in silence<br>
-         when the <span class="yhwh">Lord</span> has so directed.
+      Lie he alone and in silence<sup>[4]</sup><sup>[5]</sup><br><!-- "lie": same verb as 1:1 -->
+         when it's laid so upon him.
       </p>
       <p>
-      Let him bury his mouth in the dust&mdash;<br>
+      Lend he his mouth to the dust&mdash;<br>
          perhaps yet may be hope.
       </p>
       <p>
-      Let him offer his cheek to the assailant;<br>
+      Lend he his cheek to the assailant;<br>
          take his fill of disgrace.
       </p>
 
       <br>
       <div class="poem__verseref">31-33</div>
       <p>
-      Mankind's desertion by the <span class="yhwh">Lord</span><br>
+      Mankind's desertion by the Lord<sup>[6]</sup><br>
          lasts not forever;
       </p>
       <p>
@@ -259,7 +255,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <br>
       <div class="poem__verseref">34-36</div>
       <p>
-      Neutering, foot-crushing<br>
+      Neutering, crushing underfoot<br>
          all prisoners of earth?
       </p>
       <p>
@@ -275,15 +271,15 @@ Perhaps this offers us the easy way out: omit J and K.
       <div class="poem__verseref">37-39</div>
       <p>
       Ordering futures? Who can make so<br>
-         should the Lord not decree?<!-- see 36 -->
+        should the Lord not decree?<!-- see 36 -->
       </p>
       <p>
       Out of God's mouth, come not<br>
-         both disaster and good?
+        both disaster and good?
       </p>
       <p>
       Of what shall one living complain<br>
-         when punished for his wrong?
+        on account of his wrong?
       </p>
 
       <br>
@@ -395,7 +391,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <div class="poem__verseref">61-63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[3]</sup>
+         their scheming against me;<sup>[7]</sup>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -428,16 +424,28 @@ Perhaps this offers us the easy way out: omit J and K.
             Ideally this would start "I am the man" but the acrostic constraint doesn't allow this.
         </p>
         <p>
-          <sup>[2]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
+          <sup>[2]</sup>This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.
         </p>
         <p>
-          <sup>[3]</sup>It is unclear whether this direct repetition from the end of the previous verse
+          <sup>[3]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
+        </p>
+        <p>
+          <sup>[4]</sup>"Lie" is the same verb as 1:1&mdash;"Alone lies the city".
+        </p>
+        <p>
+          <sup>[5]</sup>The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.
+        </p>
+        <p>
+          <sup>[6]</sup>As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza three or "Q" or "X" words.
+        </p>
+        <p>
+          <sup>[7]</sup>It is unclear whether this direct repetition from the end of the previous verse
             was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
         </p>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2022 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
