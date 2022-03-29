@@ -221,28 +221,19 @@
       Irreproachable is it to bear<br>
          the yoke while in youth.
       </p>
-<!--
-At this point we have to think about which four letters (of the 26-letter alphabet) to omit.
-
-Q and X are obvious candidates.  Remember, we must keep Z.
-
-The next stanza in many English translations is three lines of "Let".
-Perhaps this offers us the easy way out: omit J and K.
-
--->
 
       <br>
       <div class="poem__verseref">28-30</div>
       <p>
-      Let him sit, alone and in silence<br>
-         when the <span class="yhwh">Lord</span> has so directed.
+      Lie he alone and in silence<sup>[4]</sup><sup>[5]</sup><br><!-- "lie": same verb as 1:1 -->
+         when it's laid so upon him.
       </p>
       <p>
-      Let him bury his mouth in the dust&mdash;<br>
+      Lend he his mouth in the dust&mdash;<br>
          perhaps yet may be hope.
       </p>
       <p>
-      Let him offer his cheek to the assailant;<br>
+      Lend he his cheek to the assailant;<br>
          take his fill of disgrace.
       </p>
 
@@ -400,7 +391,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <div class="poem__verseref">61-63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[4]</sup>
+         their scheming against me;<sup>[6]</sup>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -439,7 +430,13 @@ Perhaps this offers us the easy way out: omit J and K.
           <sup>[3]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
         </p>
         <p>
-          <sup>[4]</sup>It is unclear whether this direct repetition from the end of the previous verse
+          <sup>[4]</sup>"Lie" is the same verb as 1:1&mdash;"Alone lies the city".
+        </p>
+        <p>
+          <sup>[5]</sup>The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.
+        </p>
+        <p>
+          <sup>[6]</sup>It is unclear whether this direct repetition from the end of the previous verse
             was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
         </p>
       </div><!-- "footnotes" -->
