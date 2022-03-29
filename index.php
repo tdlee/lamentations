@@ -105,8 +105,8 @@
     <div class="panel panel--width-25em">
       <div class="poem poem__hebverse">
         <p>
-        Agonies: I know their searing<br>
-          from the rod of his wrath;
+        Agonies: I am the man seared<br>
+          by the rod of his wrath;
         </p>
         <p>
         Away he has driven, force-marched me<br>
@@ -175,16 +175,16 @@
     <div class="panel panel--width-28em">
       <div class="poem">
         <p>
-          &emsp;&emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies: &emsp;I <strong>know</strong> &emsp;their <strong>sear</strong>ing<br>
-          from the <strong>rod</strong> &emsp;of his <strong>wrath</strong>;
+          &emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies:&emsp;&emsp;<strong>I</strong> am the man <strong>seared</strong><br>
+          by the <strong>rod</strong> &emsp;of his <strong>wrath</strong>;
         </p>
         <p>
-          &emsp;&emsp;&emsp;&emsp;A<strong>way</strong> he has <strong>dri</strong>ven, force-<strong>marched</strong> me<br>
-          &emsp;&emsp;&emsp;in <strong>dark</strong>ness, no <strong>light</strong>;
+          &emsp;&emsp;&emsp;A<strong>way</strong> he has <strong>dri</strong>ven, force-<strong>marched</strong> me<br>
+          &emsp;&emsp;in <strong>dark</strong>ness, no <strong>light</strong>;
         </p>
         <p>
-          &emsp;&emsp;&emsp;&emsp;A<strong>gainst</strong> me he <strong>turns</strong> &emsp;his&emsp; <strong>hand</strong><br>
-          &emsp;&emsp;from <strong>day</strong>-dawn to <strong>dusk</strong>;
+          &emsp;&emsp;&emsp;A<strong>gainst</strong> me he <strong>turns</strong> &emsp;his&emsp; <strong>hand</strong><br>
+          &emsp;from <strong>day</strong>-dawn to <strong>dusk</strong>;
         </p>
       </div><!-- "poem" -->
     </div><!-- "panel" -->
@@ -273,7 +273,7 @@
 
     <div class="panel panel--width-18em">
       <div class="poem poem__linewrap poem--acrostic">
-        <p>Agonies: I know&nbsp;...</p>
+        <p>Agonies: I am&nbsp;...</p>
         <p>Away he has driven&nbsp;...</p>
         <p>Against me he turns&nbsp;...</p>
         <p>&nbsp;</p>

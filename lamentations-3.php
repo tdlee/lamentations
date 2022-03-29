@@ -37,6 +37,15 @@
     </p>
 
     <p>
+      In contrast to the first and second poems which are voiced by Daughter Zion
+      and reflect a woman's perspective of the effects of war and siege,
+      this poem is strongly masculine in perspective.
+      Indeed its opening words would be best translated as "I am the man",
+      from the gender-specific Hebrew "geber"
+      (unlike, say, "adam" which can sometimes be read in gender non-specific ways).
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".
       <span class="noprint">
@@ -75,8 +84,8 @@
     for endless days."
 >
       <p>
-      Agonies: I know their searing<br>
-        from the rod of his wrath;
+      Agonies: I am the man<sup>[1]</sup> seared<br>
+        by the rod of his wrath;
       </p>
       <p>
       Away he has driven, force-marched me<br>
@@ -111,11 +120,11 @@
       </p>
       <p>
       Cry though I into the void,<br>
-        he blanks out my prayer;
+        he blanks out my prayer.
       </p>
       <p>
       Confounding my walkway with boulders,<br>
-        he twisted my paths.
+        he twisted my paths;
       </p>
 
       <br>
@@ -130,14 +139,14 @@
       </p>
       <p>
       Drawing his bow, he propped me:<br>
-        for his arrows a target.
+        for his arrows a target;
       </p>
 
       <br>
       <div class="poem__verseref">13-15</div>
       <p>
       Eviscerated he my innards<br>
-         with the shafts of his quiver;
+         with the shafts of his quiver.
       </p>
       <p>
       Excoriated, to my kinsfolk a laughing-stock,<br>
@@ -145,14 +154,14 @@
       </p>
       <p>
       Engorging me, force-feeding bitterness<br>
-        he sated me with gall.
+        he sated me with gall;
       </p>
 
       <br>
       <div class="poem__verseref">16-18</div>
       <p>
       Fracturing my teeth on gravel,<br>
-         he ground me in dust;
+         he ground me in dust.
       </p>
       <p>
       Far from my mind any peace,<br>
@@ -167,7 +176,7 @@
       <div class="poem__verseref">19-21</div>
       <p>
       Gall, a bitter remembrance<br>
-	 of my affliction, my wandering;
+         of my affliction, my wandering;
       </p>
       <p>
       Grief downcasts my soul,<br>
@@ -196,7 +205,7 @@
       <br>
       <div class="poem__verseref">25-27</div>
       <p>
-      Irreproachable<sup>[1]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
+      Irreproachable<sup>[2]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
         to those who quest for him;
       </p>
       <p>
@@ -220,7 +229,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <br>
       <div class="poem__verseref">28-30</div>
       <p>
-      Let him<sup>[2]</sup> sit, alone and in silence<br>
+      Let him sit, alone and in silence<br>
          when the <span class="yhwh">Lord</span> has so directed.
       </p>
       <p>
@@ -415,12 +424,11 @@ Perhaps this offers us the easy way out: omit J and K.
       <hr>
       <div class="footnotes">
         <p>
-          <sup>[1]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
+          <sup>[1]</sup>Translation compromise.
+            Ideally this would start "I am the man" but the acrostic constraint doesn't allow this.
         </p>
         <p>
-          <sup>[2]</sup>Regarding the apparent lack of inclusivity here,
-            we should note that this male-oriented chapter should be taken alongside
-            the preceding female-oriented "Daughter Zion" chapter.
+          <sup>[2]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
         </p>
         <p>
           <sup>[3]</sup>It is unclear whether this direct repetition from the end of the previous verse
