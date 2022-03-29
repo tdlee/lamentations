@@ -46,6 +46,11 @@
     </p>
 
     <p>
+      Like the earlier two poems, this also contains two "voices":
+      an individual and a narrator.
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".
       <span class="noprint">
@@ -198,14 +203,14 @@
         how great is your faithfulness.
       </p>
       <p>
-      Hope then in him; may I say<br>
-        "My portion is the <span class="yhwh">Lord</span>".
+      Hope I then in him; may I say<br>
+        "My portion is the <span class="yhwh">Lord</span>".<sup>[2]</sup>
       </p>
 
       <br>
       <div class="poem__verseref">25-27</div>
       <p>
-      Irreproachable<sup>[2]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
+      Irreproachable<sup>[3]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
         to those who quest for him;
       </p>
       <p>
@@ -395,7 +400,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <div class="poem__verseref">61-63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[3]</sup>
+         their scheming against me;<sup>[4]</sup>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -428,10 +433,13 @@ Perhaps this offers us the easy way out: omit J and K.
             Ideally this would start "I am the man" but the acrostic constraint doesn't allow this.
         </p>
         <p>
-          <sup>[2]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
+          <sup>[2]</sup>This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.
         </p>
         <p>
-          <sup>[3]</sup>It is unclear whether this direct repetition from the end of the previous verse
+          <sup>[3]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
+        </p>
+        <p>
+          <sup>[4]</sup>It is unclear whether this direct repetition from the end of the previous verse
             was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
         </p>
       </div><!-- "footnotes" -->
