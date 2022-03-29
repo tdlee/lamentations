@@ -249,7 +249,7 @@ Perhaps this offers us the easy way out: omit J and K.
       <br>
       <div class="poem__verseref">31-33</div>
       <p>
-      Mankind's desertion by the <span class="yhwh">Lord</span><br>
+      Mankind's desertion by the Lord<br>
          lasts not forever;
       </p>
       <p>
