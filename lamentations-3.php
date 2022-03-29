@@ -255,7 +255,7 @@
       <br>
       <div class="poem__verseref">34-36</div>
       <p>
-      Neutering, foot-crushing<br>
+      Neutering, crushing underfoot<br>
          all prisoners of earth?
       </p>
       <p>
