@@ -229,7 +229,7 @@
         <p>
 	  <sup>[2]</sup>There now starts a catalogue of what, in modern-day writing,
             we would call bullet points, 
-            that returns at v.17 "<i>At all this...</i>".
+            that returns at v.17 "<i>At all this&hellip;</i>".
         </p>
         <p>
 	  <sup>[3]</sup>This might mean either the heat of the desert sun
@@ -243,15 +243,15 @@
 	  <sup>[5]</sup>The "<i>indeed</i>" translation is supported by both
             NABRE and Robert Alter.
 	    Other versions also have this as statement
-	    (KJV: "<i>but thou hast...</i>"; NEB: "<i>but if thou hast...then indeed</i>").
-            The NIV can't stomach this: a begging "<i>unless you have...</i>". 
+	    (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
+            The NIV can't stomach this: a begging "<i>unless you have&hellip;</i>". 
         </p>
         <p>
 	  <sup>[6]</sup>This is an astonishingly grim ending;
 	    we do well to meditate on this closure.
             In Jewish tradition,
             there is a convention of then repeating v.21
-            ("<i>Lead us back... turn back to you</i>") as a coda.
+            ("<i>Lead us back&hellip; turn back to you</i>") as a coda.
         </p>
       </div><!-- "footnotes" -->
 
