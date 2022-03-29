@@ -152,7 +152,7 @@
     is a forceful, angst-driven rhythm, known as 'qinah'.
     </p>
 
-    <h3>Qinah...</h3>
+    <h3>Qinah&hellip;</h3>
 
     <p>
     <i>Lamentations is poetry. Not prose.</i>
@@ -214,7 +214,7 @@
 
     <div class="widthclear"></div>
 
-    <h3>...and acrostics</h3>
+    <h3>&hellip;and acrostics</h3>
 
     <!-- panel -->
     <div class="sidebar__right--width-45pc">
@@ -273,13 +273,13 @@
 
     <div class="panel panel--width-18em">
       <div class="poem poem__linewrap poem--acrostic">
-        <p>Agonies: I am&nbsp;...</p>
-        <p>Away he has driven&nbsp;...</p>
-        <p>Against me he turns&nbsp;...</p>
+        <p>Agonies: I am&nbsp;&hellip;</p>
+        <p>Away he has driven&nbsp;&hellip;</p>
+        <p>Against me he turns&nbsp;&hellip;</p>
         <p>&nbsp;</p>
-        <p>Breaking my bones&nbsp;...</p>
-        <p>Besieged by him&nbsp;...</p>
-        <p>Bound by him&nbsp;...</p>
+        <p>Breaking my bones&nbsp;&hellip;</p>
+        <p>Besieged by him&nbsp;&hellip;</p>
+        <p>Bound by him&nbsp;&hellip;</p>
 
         <div class="panel__author">
           <p>
