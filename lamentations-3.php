@@ -240,7 +240,7 @@
       <br>
       <div class="poem__verseref">31-33</div>
       <p>
-      Mankind's desertion by the Lord<br>
+      Mankind's desertion by the Lord<sup>[6]</sup><br>
          lasts not forever;
       </p>
       <p>
@@ -391,7 +391,7 @@
       <div class="poem__verseref">61-63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[6]</sup>
+         their scheming against me;<sup>[7]</sup>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -436,7 +436,10 @@
           <sup>[5]</sup>The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.
         </p>
         <p>
-          <sup>[6]</sup>It is unclear whether this direct repetition from the end of the previous verse
+          <sup>[6]</sup>As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza three or "Q" or "X" words.
+        </p>
+        <p>
+          <sup>[7]</sup>It is unclear whether this direct repetition from the end of the previous verse
             was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
         </p>
       </div><!-- "footnotes" -->
