@@ -330,7 +330,7 @@
       <br>
       <div class="poem__verseref">49-51</div>
       <p>
-      Tears stream unbidden,<br>
+      Tears stream: unbidden,<br><!-- 49 and 51 both begin "my eye" (Hebrew) -->
          no respite, unending,
       </p>
       <p>
@@ -338,7 +338,7 @@
          and sees from the heavens.
       </p>
       <p>
-      Tumult I see grieves my soul<br>
+      Tears stream: how grieves my soul<br><!-- see 49 -->
          for the daughters of my city.
       </p>
 
