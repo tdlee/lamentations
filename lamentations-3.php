@@ -316,15 +316,15 @@
       <div class="poem__verseref">46-48</div>
       <p>
       Snapping and gaping their mouths at us<br>
-         are all our enemies;
+        are all our enemies;
       </p>
       <p>
-      Suffering, ours: terror and traps,<br>
-         ruin, destruction;
+      Suffering, ours: terror and traps,<br><!-- alliteration -->
+        holocaust and horror;<!-- alliteration; see also next verse -->
       </p>
       <p>
       Stream-running tears from my eyes<br>
-         for the shattering of my people.
+        at the holocaust of my Daughter People.<sup>[8]</sup><!-- holocaust from 47; whole line from 2:11 -->
       </p>
 
       <br>
@@ -391,7 +391,7 @@
       <div class="poem__verseref">61-63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[8]</sup>
+         their scheming against me;<sup>[9]</sup>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -442,7 +442,10 @@
           <sup>[7]</sup>The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.
         </p>
         <p>
-          <sup>[8]</sup>It is unclear whether this direct repetition from the end of the previous verse
+          <sup>[8]</sup>Verses 47&ndash;48 involve alliteration and the repetition of 'holocaust'. Further, the final part of 48 is the same as 2:11.
+        </p>
+        <p>
+          <sup>[9]</sup>It is unclear whether this direct repetition from the end of the previous verse
             was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
         </p>
       </div><!-- "footnotes" -->

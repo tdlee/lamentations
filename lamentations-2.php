@@ -159,7 +159,7 @@
         <p>
           Lamenting, my weeping eyes fail;<br>
           &emsp;my stomach is turned;<br>
-          at the brokenness of my Daughter People<br>
+          at the holocaust of my Daughter People<br><!-- line recurs at 3:48 -->
           &emsp;my heart to the ground spills<br>
           as the infants and children expire<br>
           &emsp;in the city streets.
