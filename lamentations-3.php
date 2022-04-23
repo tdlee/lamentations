@@ -379,11 +379,11 @@
          you redeemed my life.
       </p>
       <p>
-      Win my case! O <span class="yhwh">Lord</span>,<br>
-         you have seen the wrong done to me;
+      Witness, O <span class="yhwh">Lord</span>, how i am wronged;<br><!-- 59/60: same opening word -->
+         do justice for me.
       </p>
       <p>
-      Witness, I beg, their vindictiveness,<br>
+      Witness all their vindictiveness,<br><!-- 59/60: same opening word -->
          their scheming against me.
       </p>
 
