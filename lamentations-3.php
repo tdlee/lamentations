@@ -398,8 +398,8 @@
         from day-dawn to dusk;
       </p>
       <p>
-      Your eyes see them, seated or rising:<br>
-        mocking me in songs.
+      You see them? Whether seated or rising,<br>
+        they mock me in songs.
       </p>
       <br>
       <div class="poem__verseref">64-66</div>
