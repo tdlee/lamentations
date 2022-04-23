@@ -345,16 +345,16 @@
       <br>
       <div class="poem__verseref">52-54</div>
       <p>
-      Uncaused is the enmity of those<br>
-         who ensnared me as a bird;
+      Unreasoning, my enemies ensnare me,<br>
+         ensnaring as a bird;
       </p>
       <p>
-      Undone is my life, in a pit dumped<br>
-         as rocks they cast on me;
+      Undone&mdash;my life in a pit<br>
+         as rocks they cast on me;<!-- double use of "ensnare" -->
       </p>
       <p>
-      Under water is my head whelmed;<br>
-         I thought, "I am gone".
+      Under waters engulfing my head;<br>
+         I thought, "I am lost".
       </p>
 
       <br>
