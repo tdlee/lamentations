@@ -85,9 +85,9 @@
         <br>
         <div class="poem__verseref">4</div>
         <p>
-          Dry-thirsted, the infant's tongue<br>
-          &emsp;glues to the palate;<br>
-          babies beg for bread<br>
+          Dry-thirsted, the suckling's tongue<br>
+          &emsp;glues to its palate;<br>
+          infants beg for bread<br>
           &emsp;but none is proffered.
         </p>
 
