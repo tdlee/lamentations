@@ -103,8 +103,8 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Far greater the deserts of my people<br>
-          &emsp;than the penalty of Sodom,<br>
+          Far greater the iniquity of my people<br>
+          &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural -->
           which had been in an instant erased<br>
           &emsp;with no hand on her laid.
         </p>
@@ -173,7 +173,7 @@
         <div class="poem__verseref">13</div>
         <p>
           Offences of prophets, the cause,<br>
-          &emsp;and the crimes of her priests,<br>
+          &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural -->
           who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           &emsp;the blood of the just.
         </p>
