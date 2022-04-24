@@ -104,7 +104,7 @@
         <div class="poem__verseref">6</div>
         <p>
           Far greater the iniquity of my people<br>
-          &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural -->
+          &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
           which had been in an instant erased<br>
           &emsp;with no hand on her laid.
         </p>
@@ -173,7 +173,7 @@
         <div class="poem__verseref">13</div>
         <p>
           Offences of prophets, the cause,<br>
-          &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural -->
+          &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
           who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           &emsp;the blood of the just.
         </p>
@@ -255,10 +255,10 @@
         <br>
         <div class="poem__verseref">22</div>
         <p>
-          Zion-Daughter, your punishment ended,<br>
-          &emsp;your exile is lifted;<br>
-          but you, Daughter Edom, found guilty,<br>
-          &emsp;the <span class="yhwh">Lord</span> shall condemn.
+          Zion-Daughter, your iniquity expiated,<br>
+          &emsp;your exile he will lift.<br>
+          But your iniquity, Daughter Edom, he will prosecute,<br>
+          &emsp;he will expose your offences.<!-- see also vv.6,13 -->
         </p>
 
       </div><!-- "poem" -->
