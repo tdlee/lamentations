@@ -258,7 +258,7 @@
           Zion-Daughter, your iniquity expiated,<br>
           &emsp;your exile he will lift.<br>
           But your iniquity, Daughter Edom, he will prosecute,<br>
-          &emsp;he will expose your offences.<!-- see also vv.6,13 -->
+          &emsp;lay bare your offences.<!-- see also vv.6,13 -->
         </p>
 
       </div><!-- "poem" -->
