@@ -204,7 +204,7 @@
           Scattered by the <span class="yhwh">Lord</span> himself:<br>
           &emsp;no longer he faces them.<br>
           The priests are shown no honour;<br>
-          &emsp;the elders, no mercy.
+          &emsp;the elders, no favour.
         </p>
 
         <br>
