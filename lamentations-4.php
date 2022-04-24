@@ -121,7 +121,7 @@
         <br>
         <div class="poem__verseref">8</div>
         <p>
-          How black now, though, their faces,<br>
+          How soot-black now their faces,<br>
           &emsp;unrecognised in streets;<br>
           their skin shrunk, taut on their bones<br>
           &emsp;as dessicated wood.
