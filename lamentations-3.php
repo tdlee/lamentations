@@ -54,14 +54,14 @@
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".
       <span class="noprint">
-        (Hover the mouse over verses 1-6 to see the text of the psalm.)
+        (Hover the mouse over verses 1&ndash;6 to see the text of the psalm.)
       </span>
     </p>
 
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
-      <div class="poem__verseref">1-3</div>
+      <div class="poem__verseref">1&ndash;3</div>
 <div title="Contrast 1-6 with Psalm 23:
 
   The Lord is my shepherd;
@@ -102,7 +102,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">4-6</div>
+      <div class="poem__verseref">4&ndash;6</div>
       <p>
       Breaking my bones, he has wasted<br>
         my flesh and my skin;
@@ -118,7 +118,7 @@
 </div><!-- Psalm 23 mouse-hover -->
 
       <br>
-      <div class="poem__verseref">7-9</div>
+      <div class="poem__verseref">7&ndash;9</div>
       <p>
       Confined, inescapably walled,<br>
         he chained me and weighted me;
@@ -133,7 +133,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">10-12</div>
+      <div class="poem__verseref">10&ndash;12</div>
       <p>
       Dangerous as quiet-lurking bear,<br>
         like prey-stalking lion,
@@ -148,7 +148,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">13-15</div>
+      <div class="poem__verseref">13&ndash;15</div>
       <p>
       Eviscerated he my innards<br>
          with the shafts of his quiver.
@@ -163,7 +163,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">16-18</div>
+      <div class="poem__verseref">16&ndash;18</div>
       <p>
       Fracturing my teeth on gravel,<br>
          he ground me in dust.
@@ -178,7 +178,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">19-21</div>
+      <div class="poem__verseref">19&ndash;21</div>
       <p>
       Gall, a bitter remembrance<br>
          of my affliction, my wandering;
@@ -193,7 +193,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">22-24</div>
+      <div class="poem__verseref">22&ndash;24</div>
       <p>
       Habitual, though, his compassions;<br>
         the  <span class="yhwh">Lord</span>'s love never fails us;
@@ -208,7 +208,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">25-27</div>
+      <div class="poem__verseref">25&ndash;27</div>
       <p>
       Irreproachable<sup>[3]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
         to those who quest for him;
@@ -223,7 +223,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">28-30</div>
+      <div class="poem__verseref">28&ndash;30</div>
       <p>
       Lie he alone and in silence<sup>[4]</sup><sup>[5]</sup><br><!-- "lie": same verb as 1:1 -->
          when it's laid so upon him.
@@ -238,7 +238,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">31-33</div>
+      <div class="poem__verseref">31&ndash;33</div>
       <p>
       Mankind's desertion by the Lord<sup>[6]</sup><br>
          lasts not forever;
@@ -253,7 +253,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">34-36</div>
+      <div class="poem__verseref">34&ndash;36</div>
       <p>
       Neutering, crushing underfoot<br>
          all prisoners of earth?
@@ -268,7 +268,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">37-39</div>
+      <div class="poem__verseref">37&ndash;39</div>
       <p>
       Ordering futures? Who can make so<br>
         should the Lord not decree?<!-- see 36 -->
@@ -283,7 +283,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">40-42</div>
+      <div class="poem__verseref">40&ndash;42</div>
       <p>
       Plumb our ways, let us audit them,<br>
          that we return to the <span class="yhwh">Lord</span>;
@@ -298,7 +298,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">43-45</div>
+      <div class="poem__verseref">43&ndash;45</div>
       <p>
       Retributively you enveloped us, pursued us;<br><!-- vv.43,44: same verb -->
         you slew us unsparingly;
@@ -313,7 +313,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">46-48</div>
+      <div class="poem__verseref">46&ndash;48</div>
       <p>
       Snapping and gaping their mouths at us<br>
         are all our enemies;
@@ -328,7 +328,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">49-51</div>
+      <div class="poem__verseref">49&ndash;51</div>
       <p>
       Tears stream: unbidden,<br><!-- 49 and 51 both begin "my eye" (Hebrew) -->
          no respite, unending,
@@ -343,7 +343,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">52-54</div>
+      <div class="poem__verseref">52&ndash;54</div>
       <p>
       Unreasoning, my enemies ensnare me,<br>
          ensnaring as a bird;
@@ -358,7 +358,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">55-57</div>
+      <div class="poem__verseref">55&ndash;57</div>
       <p>
       Voiced I your name, <span class="yhwh">Lord</span>,<br>
          from bottom-most pit;
@@ -373,7 +373,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">58-60</div>
+      <div class="poem__verseref">58&ndash;60</div>
       <p>
       When you pleaded, O Lord, my cause,<br>
          you redeemed my life.
@@ -388,7 +388,7 @@
       </p>
 
       <br>
-      <div class="poem__verseref">61-63</div>
+      <div class="poem__verseref">61&ndash;63</div>
       <p>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
          their scheming against me;<sup>[9]</sup>
@@ -402,7 +402,7 @@
         they mock me in songs.
       </p>
       <br>
-      <div class="poem__verseref">64-66</div>
+      <div class="poem__verseref">64&ndash;66</div>
       <p>
       Zilch make their rewards, O <span class="yhwh">Lord</span>,<br>
         for the works at their hands;

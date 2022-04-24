@@ -31,13 +31,13 @@
     <p>
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       Bookended by "the day of the <span class="yhwh">Lord</span>'s anger", it is the polar opposite of the psalmist's praise,
-        <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24-27</a>;
+        <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24&ndash;27</a>;
       it is the nightmare incarnation of the prophet's warning,
-        <a href="http://www.usccb.org/bible/amos/5?18" target="_blank">Amos&nbsp;5:18-20</a>.
+        <a href="http://www.usccb.org/bible/amos/5?18" target="_blank">Amos&nbsp;5:18&ndash;20</a>.
     </p>
 
     <p>
-      The first poem was in two "voices", approximately 50-50: a witness-bystander and Daughter Zion herself. This second poem is mostly voiced by the witness, but at 19 the witness can be seen to implore the city herself to voice her complaint, which she accordingly does to close the poem.
+      The first poem was in two "voices", approximately 50&ndash;50: a witness-bystander and Daughter Zion herself. This second poem is mostly voiced by the witness, but at 19 the witness can be seen to implore the city herself to voice her complaint, which she accordingly does to close the poem.
     </p>
 
     <div class="panel">
