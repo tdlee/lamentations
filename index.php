@@ -81,7 +81,7 @@
     </p>
 
     <p>
-      Contrast this traditional translation of Lam.&nbsp;3:1-3 (New English Bible):
+      Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
       <div class="poem poem__hebverse">
@@ -283,7 +283,7 @@
 
         <div class="panel__author">
           <p>
-            &mdash;Lam.&nbsp;3:1-6
+            &mdash;Lam.&nbsp;3:1&ndash;6
           </p>
         </div><!-- "panel__author" -->
       </div><!-- "poem" -->

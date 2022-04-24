@@ -94,7 +94,7 @@
         <br>
 
         <div class="content-area--left-indent">
-          <div class="poem__verseref">2-4</div>
+          <div class="poem__verseref">2&ndash;4</div>
           <p>
             Our heritage given over to strangers,<br>
               our homes to occupiers.
@@ -109,7 +109,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">5-6</div>
+          <div class="poem__verseref">5&ndash;6</div>
           <p>
             Up to our necks are we pursued;<br>
               we wearied, we found no rest.
@@ -120,7 +120,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">7-8</div>
+          <div class="poem__verseref">7&ndash;8</div>
           <p>
             Our ancestors offended and are no more,<br>
               and now we bear their punishment.
@@ -131,7 +131,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">9-10</div>
+          <div class="poem__verseref">9&ndash;10</div>
           <p>
             Getting bread is at risk of our lives,<br>
               exposed to the desert sword.<sup>[3]</sup>
@@ -143,7 +143,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">11-12</div>
+          <div class="poem__verseref">11&ndash;12</div>
           <p>
             Women are ravished in Zion;<br>
               virgins in the cities of Judah.
@@ -154,7 +154,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">13-14</div>
+          <div class="poem__verseref">13&ndash;14</div>
           <p>
             Young men have millstones to carry;<br>
               lads under woodpiles stagger.
@@ -165,7 +165,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">15-16</div>
+          <div class="poem__verseref">15&ndash;16</div>
           <p>
             Joy has deserted our hearts;<br>
               our dancing turned into dirges.
@@ -179,7 +179,7 @@
           <br>
         </div><!-- "left-indent" -->
 
-        <div class="poem__verseref">17-18</div>
+        <div class="poem__verseref">17&ndash;18</div>
         <br>
         <p>
           At all this&mdash; our hearts sicken,<br>
@@ -199,7 +199,7 @@
         -->
         <br>
         <br>
-        <div class="poem__verseref">19-22<br>Alleluia</div>
+        <div class="poem__verseref">19&ndash;22<br>Alleluia</div>
         <div class="poem--acrostic">
           <p>
             And you, <span class="yhwh">Lord</span>, your throne shall endure:<br>
