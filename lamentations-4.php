@@ -28,14 +28,39 @@
       include('chapter-links.php');
     ?>
 
+    <p>
+      The opening "Alas!" recalls the first two poems;
+      it is swiftly reinforced in the second half of v2.
+      As with all three preceding poems, this, too, can work as two voices,
+      although here as first-person singular (most) and first-person plural (17&ndash;20).
+    </p>
+
+    <p>
+      Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
+      but rather various groups within the population.
+      And whereas the addressee in 1 and 3 had been the <span class="yhwh">Lord</span>,
+      and in 2 had been mostly the city,
+      here there is no specific addressee until the personified cities in the closing verses.
+    </p>
+
+    <p>
+      It starts with the impossible.
+      Gold does not, and cannot, tarnish under normal circumstances.
+      Yet here it does.
+      Things are so bad that even nature, God's own created order, is out of kilter.
+      And it continues into the human realm,
+      including the horror of mothers cannibalising their own God-given children.
+      "Blessings of the covenant become human carnage."<sup>[1]</sup>
+    </p>
+
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
         <div class="poem__verseref">1</div>
         <p>
-          Alas!<sup>[1]</sup> The gold, now dulled;<br>
+          Alas!<sup>[2]</sup> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
-          the holy stones<sup>[2]</sup> lie littered<br>
+          the holy stones<sup>[3]</sup> lie littered<br>
           &emsp;on every street corner.
         </p>
 
@@ -54,7 +79,7 @@
           Cubs even of jackals<br>
           &emsp;are breast-fed nursed,<br>
           but my Daughter People is cruel<br>
-          &emsp;as the desert ostrich.<sup>[3]</sup>
+          &emsp;as the desert ostrich.<sup>[4]</sup>
         </p>
 
         <br>
@@ -70,7 +95,7 @@
         <div class="poem__verseref">5</div>
         <p>
           Embraced now on dung heaps are those<br>
-          &emsp;once robed in purple;<sup>[4]</sup><br>
+          &emsp;once robed in purple;<sup>[5]</sup><br>
           Those once feasting on sweetmeats<br>
           &emsp;lie destitute in alleys.
         </p>
@@ -238,12 +263,15 @@
       <hr>
       <div class="footnotes">
         <p>
-	  <sup>[1]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
-            the name of the book itself, and beginning with the
-	    Hebrew letter 'aleph' equivalent to our 'A'.
+          <sup>[1]</sup>Hens-Piazza, Gina (2017) "Lamentations", p.60. 978-0814681541
         </p>
         <p>
-          <sup>[2]</sup>Often translated "<i>jewels</i>",
+          <sup>[2]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
+            the name of the book itself, and beginning with the
+            Hebrew letter 'aleph' equivalent to our 'A'.
+        </p>
+        <p>
+          <sup>[3]</sup>Often translated "<i>jewels</i>",
             "<i>holy stones</i>" is not only more literal
             but also allows the metaphor for the stones of the destroyed Temple.
             Taken in conjunction with following verse,
@@ -251,12 +279,12 @@
             "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
         </p>
         <p>
-          <sup>[3]</sup>A folk tradition, then familiar but now forgotten,
+          <sup>[4]</sup>A folk tradition, then familiar but now forgotten,
             about ostriches abandoning their hatchlings.
             Contrast the first half of this verse.  (See also Job 39.)
         </p>
         <p>
-          <sup>[4]</sup>The purple of luxury.
+          <sup>[5]</sup>The purple of luxury.
             If this Hebrew poem is then overlayed with the Christian gospels
             there is a resonance with the trial, mocking and crucifixion of Jesus.
         </p>
