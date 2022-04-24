@@ -322,7 +322,7 @@
             Hebrew letter 'aleph' equivalent to our 'A'.
         </p>
         <p>
-          <sup>[3]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19.
+          <sup>[3]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19 and 4:15.
         </p>
         <p>
           <sup>[4]</sup>The Hebrew verb "nisqad" only occurs here so any translation is conjectural.

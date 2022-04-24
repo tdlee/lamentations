@@ -319,7 +319,7 @@
           <sup>[6]</sup>Psalm 48:2, Psalm 50:2; Ezek.27:3.
         </p>
         <p>
-          <sup>[7]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7.
+          <sup>[7]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.
         </p>
       </div><!-- "footnotes" -->
 

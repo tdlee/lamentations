@@ -190,10 +190,12 @@
         <br>
         <div class="poem__verseref">15</div>
         <p>
-          "Repulsive! Away!" is the cry;<br>
-          &emsp;"Unclean! Do not touch!"<br>
-          They fled; they drifted; the news rang:<br>
-          &emsp;"they've no place to rest".
+          "Repulsive! Away!"<br>
+          &emsp;[people shout at them.]<br>
+          "Replusive! Repulsive! Hands off!"<br>
+          &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration -->
+          [Resolute were the nations:]<br>
+          &emsp;"They'll not reside here."<sup>[6]</sup>
         </p>
 
         <br>
@@ -287,6 +289,10 @@
           <sup>[5]</sup>The purple of luxury.
             If this Hebrew poem is then overlayed with the Christian gospels
             there is a resonance with the trial, mocking and crucifixion of Jesus.
+        </p>
+        <p>
+          <sup>[6]</sup>Like 1:7 and 2:19 this verse is longer than other verses.
+            The two bracketed half-lines indicate where editorial gloss may have been added.
         </p>
       </div><!-- "footnotes" -->
 
