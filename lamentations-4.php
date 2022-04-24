@@ -103,7 +103,7 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Far more the deserts of my people<br>
+          Far greater the deserts of my people<br>
           &emsp;than the penalty of Sodom,<br>
           which had been in an instant erased<br>
           &emsp;with no hand on her laid.
