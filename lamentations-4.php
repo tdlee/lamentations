@@ -183,8 +183,8 @@
         <p>
           Polluted with blood, through the streets<br>
           &emsp;they grope blindly;<br>
-          so defiled with that blood, that none dare<br>
-          &emsp;touch the hem of their garments.
+          so defiled that none would dare<br>
+          &emsp;touch their garments.
         </p>
 
         <br>
