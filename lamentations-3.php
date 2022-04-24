@@ -323,8 +323,8 @@
         holocaust and horror;<!-- alliteration; see also next verse -->
       </p>
       <p>
-      Stream-running tears from my eyes<br>
-        at the holocaust of my Daughter People.<sup>[8]</sup><!-- holocaust from 47; whole line from 2:11 -->
+      Stream tears from my eyes at the holocaust<br>
+        of my Daughter People.<sup>[8]</sup><!-- holocaust from 47; whole line from 2:11; also 4:10 -->
       </p>
 
       <br>
