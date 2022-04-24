@@ -212,8 +212,8 @@
         <p>
           Teared eyes still pine; looking<br>
           &emsp;for help, but in vain;<br>
-          From our watchtowers we watched for a nation;<br>
-          &emsp;but no rescue came.
+          From our watchtowers we watched for a nation,<br>
+          &emsp;but that cannot deliver.
         </p>
 
         <br>
