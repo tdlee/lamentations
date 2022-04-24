@@ -119,7 +119,7 @@
     <h3>Inversion</h3>
 
     <p>
-      Acrostics constrains the choice of a verse's opening word.
+      Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
       Lam.1:7 is a case in point; its first line requires an opening "G" word.
