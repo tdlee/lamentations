@@ -60,7 +60,7 @@
         <p>
           Alas!<sup>[2]</sup> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
-          the holy stones<sup>[3]</sup> lie littered<br>
+          the holy stones<sup>[3]</sup> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           &emsp;on every street corner.
         </p>
 
@@ -155,7 +155,7 @@
         <div class="poem__verseref">11</div>
         <p>
           Meted out in full is the <span class="yhwh">Lord</span>'s anger,<br>
-          &emsp;his smoldering wrath;<br>
+          &emsp;his wrath disgorged;<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           He has kindled a blaze in Zion<br>
           &emsp;that consumed her foundations.
         </p>
@@ -174,7 +174,7 @@
         <p>
           Offences of prophets, the cause,<br>
           &emsp;and the crimes of her priests,<br>
-          who had shed in the midst of the city<br>
+          who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           &emsp;the blood of the just.
         </p>
 
