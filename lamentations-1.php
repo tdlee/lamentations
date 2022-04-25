@@ -305,7 +305,7 @@
           as you tormented me<br>
           &emsp;for all my rebellions.<br>
           For many are my groans;<br>
-          &emsp;my heart is sick.
+          &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17 -->
         </p>
 
       </div><!-- "poem" -->

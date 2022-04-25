@@ -182,7 +182,7 @@
         <div class="poem__verseref">17&ndash;18</div>
         <br>
         <p>
-          At all this&mdash; our hearts sicken,<br>
+          At all this&mdash; our hearts sicken,<br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
             for all these our eyes grow dim,
         </p>
         <p>
