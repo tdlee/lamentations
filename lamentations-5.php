@@ -145,7 +145,7 @@
           <br>
           <div class="poem__verseref">11&ndash;12</div>
           <p>
-            Women are ravished in Zion;<br>
+            Women are raped in Zion;<br>
               virgins in the cities of Judah.
           </p>
           <p>
