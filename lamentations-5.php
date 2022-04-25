@@ -126,8 +126,8 @@
               now we, we bear their punishment.
           </p>
           <p>
-            Slaves rule over us; there is no-one<br>
-              to free us from their hand.
+            Slaves rule over us;<br>
+              there is no-one to free us from their hand.
           </p>
 
           <br>
