@@ -38,7 +38,7 @@
         it lacks an acrostic structure (but see below)
       </li>
       <li>
-        its <i>qinah</i> three-two stress pattern is less consistent;
+        the <i>qinah</i> three-two stress pattern is largely absent;
         many of its stanzas have a three-three pattern.
       </li>
     </ul>
