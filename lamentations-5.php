@@ -225,7 +225,7 @@
             let us turn back to yo<span class="acrostic-letter">u</span>.
           </p>
           <p>
-            Indeed,<sup>[5]</sup> you have rejected us:<br>
+            Indeed,<sup>[5]</sup> you have discarded us:<br>
             to you we are anathem<span class="acrostic-letter">a</span>.<sup>[6]</sup>
           </p>
 
