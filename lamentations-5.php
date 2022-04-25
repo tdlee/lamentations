@@ -122,8 +122,8 @@
           <br>
           <div class="poem__verseref">7&ndash;8</div>
           <p>
-            Our ancestors offended and are no more,<br>
-              and now we bear their punishment.
+            Our ancestors offended and are no more;<br>
+              now we, we bear their punishment.
           </p>
           <p>
             Slaves rule over us; there is no-one<br>
