@@ -173,7 +173,7 @@
           </p>
           <p>
             The crown from our head has toppled:<br>
-              woe to us; for we have offended.
+              woe now to us; for we have offended.
           </p>
 
           <br>
