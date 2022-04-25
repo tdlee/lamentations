@@ -183,14 +183,14 @@
           &emsp;searching for bread,<br>
           bartering treasures for food<br>
           &emsp;to cling to their lives.<br>
-          "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order -->
+          "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
           &emsp;for I am despised."
         </p>
 
         <br>
         <div class="poem__verseref">12</div>
         <p>
-          Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order -->
+          Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
           &emsp;is it nothing to you?<br>
           Is there any pain like my pain,<br>
           &emsp;inflicted on me,<br>

@@ -89,7 +89,7 @@
         <div class="poem__verseref">1</div>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-            look; behold our disgrace&mdash;<sup>[2]</sup>
+            look; take note of our disgrace&mdash;<sup>[2]</sup><!-- same verbs as 1:11,12 -->
         </p>
         <br>
 
