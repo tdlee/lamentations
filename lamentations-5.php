@@ -52,6 +52,10 @@
     </p>
     <p>
       Many attempts have been made to find something comparable to the acrostic.
+      Not least, this would provide the otherwise missing "seventh acrostic"
+      (the other six being one each in chapters 1, 2 and 4,
+      plus the triple acrostic of chapter 3) which would yield a
+      creation-derived and sabbath-reflecting "six+one" of completion.
       In the final four verses,
       taking not only the first but also the final letter of each
       (an "acrostic-telestic")
@@ -60,10 +64,6 @@
       it nevertheless resonates well with the book of Job and its
       <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
       bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job&nbsp;1:21).
-      Further, this provides the otherwise missing "seventh acrostic"
-      (the other six being one each in chapters 1, 2 and 4,
-      plus the triple acrostic of chapter 3) and yielding that 
-      creation-derived and sabbath-reflecting "six+one" of completion.
     </p>
     <p>
       How might we represent that?
