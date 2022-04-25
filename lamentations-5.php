@@ -115,8 +115,8 @@
               we wearied, we found no rest.
           </p>
           <p>
-            We stretched hands to Egypt and Assyria<br>
-              to satisfy our need for bread.
+            We stretched out hands to Egypt;<br>
+              to Assyria to beg for our bread.
           </p>
 
           <br>
