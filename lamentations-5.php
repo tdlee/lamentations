@@ -105,7 +105,7 @@
           </p>
           <p>
             Our well-water? Extorted for profit;<br>
-              even our tumbleweed comes at a price.
+              even our firewood comes at a price.
           </p>
 
           <br>
