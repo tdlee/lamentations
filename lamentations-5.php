@@ -159,15 +159,15 @@
             Young men have millstones to carry;<br>
               lads under woodpiles stagger.
           </p>
-          <p>
-            Elders abandoned their city-gate,<br>
+	  <p>
+            Elders abandoned their city-gate,<br><!-- abandoned: vv.14,15 -->
               and young men have stopped their songs.
           </p>
 
           <br>
           <div class="poem__verseref">15&ndash;16</div>
           <p>
-            Joy has deserted our hearts;<br>
+            Joy has abandoned our hearts;<br><!-- abandoned: vv.14,15 -->
               our dancing turned into dirges.
               <!-- if we can't acrosti-cate, let's alliterate -->
           </p>
