@@ -49,7 +49,7 @@
       Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.
       Mount Zion,
       God's dwelling-place
-      and formerly "the joy of the whole earth" (2:15 and Ps.48:2)
+      and formerly "joy of all the earth" (2:15 and Ps.48:2)
       is now abandoned, in chaos,
       like the primordial cosmos before creation.
       Bleak, indeed.
