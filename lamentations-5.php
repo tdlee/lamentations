@@ -46,6 +46,15 @@
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
     </p>
     <p>
+      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.
+      Mount Zion,
+      God's dwelling-place
+      and formerly "the joy of the whole earth" (2:15 and Ps.48:2)
+      is now abandoned, in chaos,
+      like the primordial cosmos before creation.
+      Bleak, indeed.
+    </p>
+    <p>
       But is it really so barren?  Or may that, itself, be a point?
       Might there be something else in that loss and barrenness that drives us,
       like the original writers and hearers, deeper?
@@ -190,6 +199,9 @@
             the haunt of hyenas.<sup>[4]</sup>
         </p>
 
+        <br>
+        <hr>
+
         <!--
            For the hidden acrostic-telestic "alleluia" we look to construct the four verses thus:
             *A*...*l*
@@ -197,7 +209,6 @@
             *l*...*u*
             *i*...*a*
         -->
-        <br>
         <br>
         <div class="poem__verseref">19&ndash;22<br>Alleluia</div>
         <div class="poem--acrostic">
