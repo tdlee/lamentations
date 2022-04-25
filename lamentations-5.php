@@ -247,7 +247,9 @@
             or tribes preying on desert refugees.
         </p>
         <p>
-	  <sup>[4]</sup>Originally "jackals", but hyenas are more familiar,
+	  <sup>[4]</sup>Originally foxes or jackals,
+            although not the same "jackal" noun as at 4:3.
+            Hyenas are familiar,
             and this allows the poetic force of alliteration.
         </p>
         <p>
