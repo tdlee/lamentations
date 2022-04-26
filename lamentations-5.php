@@ -60,6 +60,14 @@
       like the original writers and hearers, deeper?
     </p>
     <p>
+      Prayer.
+      This chapter, above the others, is the prayer.
+      It is preceded by abandonment.  It remains in abandonment.
+      Yet whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
+      this chapter is framed as a prayer to him.
+      This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<sup>[1]</sup>
+    </p>
+    <p>
       Many attempts have been made to find something comparable to the acrostic.
       Not least, this would provide the otherwise missing "seventh acrostic"
       (the other six being one each in chapters 1, 2 and 4,
@@ -68,7 +76,7 @@
       In the final four verses,
       taking not only the first but also the final letter of each
       (an "acrostic-telestic")
-      yields the eight-letter Hebrew phrase "your God is exalted greatly".<sup>[1]</sup>
+      yields the eight-letter Hebrew phrase "your God is exalted greatly".<sup>[2]</sup>
       While initially such praise looks a misfit in the context of devastation
       it nevertheless resonates well with the book of Job and its
       <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
@@ -98,7 +106,7 @@
         <div class="poem__verseref">1</div>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-            look; take note of our disgrace&mdash;<sup>[2]</sup><!-- same verbs as 1:11,12 -->
+            look; take note of our disgrace&mdash;<sup>[3]</sup><!-- same verbs as 1:11,12 -->
         </p>
         <br>
 
@@ -143,7 +151,7 @@
           <div class="poem__verseref">9&ndash;10</div>
           <p>
             Getting bread is at risk of our lives,<br>
-              exposed to the desert sword.<sup>[3]</sup>
+              exposed to the desert sword.<sup>[4]</sup>
               <!-- "exposed to...": idea from NABRE -->
           </p>
           <p>
@@ -195,7 +203,7 @@
         </p>
         <p>
           for Mount Zion, lying desolate:<br>
-            the haunt of hyenas.<sup>[4]</sup>
+            the haunt of hyenas.<sup>[5]</sup>
         </p>
 
         <br>
@@ -224,8 +232,8 @@
             let us turn back to yo<span class="acrostic-letter">u</span>.
           </p>
           <p>
-            Indeed,<sup>[5]</sup> you have discarded us:<br>
-            to you we are anathem<span class="acrostic-letter">a</span>.<sup>[6]</sup>
+            Indeed,<sup>[6]</sup> you have discarded us:<br>
+            to you we are anathem<span class="acrostic-letter">a</span>.<sup>[7]</sup>
           </p>
 
         </div><!-- "poem/acrostic" -->
@@ -233,33 +241,37 @@
       <hr>
       <div class="footnotes">
         <p>
-	  <sup>[1]</sup>Guillaume, Philippe
+	  <sup>[1]</sup>Wielenga, Bob
+          <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig.
+        </p>
+        <p>
+	  <sup>[2]</sup>Guillaume, Philippe
           <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The seventh acrostic</cite></a>, Journal of Hebrew Scriptures.
         </p>
         <p>
-	  <sup>[2]</sup>There now starts a catalogue of what, in modern-day writing,
+	  <sup>[3]</sup>There now starts a catalogue of what, in modern-day writing,
             we would call bullet points, 
             that returns at v.17 "<i>At all this&hellip;</i>".
         </p>
         <p>
-	  <sup>[3]</sup>This might mean either the heat of the desert sun
+	  <sup>[4]</sup>This might mean either the heat of the desert sun
             or tribes preying on desert refugees.
         </p>
         <p>
-	  <sup>[4]</sup>Originally foxes or jackals,
+	  <sup>[5]</sup>Originally foxes or jackals,
             although not the same "jackal" noun as at 4:3.
             Hyenas are familiar,
             and this allows the poetic force of alliteration.
         </p>
         <p>
-	  <sup>[5]</sup>The "<i>indeed</i>" translation is supported by both
+	  <sup>[6]</sup>The "<i>indeed</i>" translation is supported by both
             NABRE and Robert Alter.
 	    Other versions also have this as statement
 	    (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
             The NIV can't stomach this: a begging "<i>unless you have&hellip;</i>". 
         </p>
         <p>
-	  <sup>[6]</sup>This is an astonishingly grim ending;
+	  <sup>[7]</sup>This is an astonishingly grim ending;
 	    we do well to meditate on this closure.
             In Jewish tradition,
             there is a convention of then repeating v.21
