@@ -351,12 +351,20 @@
 
     <hr>
     <div>
-      <p>
-	Acknowledgement: I am deeply grateful to
-	<a href="https://www.psalmsforthecommonera.com/" target="_blank">Adam Carlill</a>,
-        Oxford DPhil in Hebrew Bible theology,
-        for excellent and inspirational critique of portions of this.
-      </p>
+      Acknowledgements: I am deeply grateful to:
+      <ul>
+        <li>
+          <a href="https://www.psalmsforthecommonera.com/" target="_blank">Adam Carlill</a>,
+          Oxford DPhil in Hebrew Bible theology,
+          for excellent and inspirational critique of portions of this.
+        </li>
+        <li>
+          <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>,
+          Professor of Old Testament at Fuller Seminary, USA,
+          for his brilliant commentary
+          <a href="https://www.amazon.co.uk/Lamentations-International-Commentary-Testament-Nicot/dp/0802825427/" target="_blank"><cite>The Book of Lamentations</cite></a>, 978-0802825421
+        </li>
+      </ul>
     </div>
 
     <hr>
