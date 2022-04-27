@@ -29,7 +29,7 @@
     ?>
 
     <p>
-      In brief: Alphabetic acrostics. And metrical 'qinah'.
+      In brief: Alphabetic acrostics. And rhythmical 'qinah'.
     </p>
 
     <p>
