@@ -78,7 +78,7 @@
       (an "acrostic-telestic")
       yields the eight-letter Hebrew phrase "your God is exalted greatly".<sup>[2]</sup>
       While initially such praise looks a misfit in the context of devastation
-      it nevertheless resonates well with the book of Job and its
+      it nevertheless resonates well with Job's
       <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
       bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job&nbsp;1:21).
     </p>
