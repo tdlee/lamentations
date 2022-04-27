@@ -314,7 +314,6 @@
     </p>
 
     <p>
-    Given that Knox has already done an acrostic version, why this one?
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
     four letters need omitting.<sup>[2]</sup>
     Knox chose to omit the final four letters (W, X, Y, Z).
