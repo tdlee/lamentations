@@ -316,7 +316,7 @@
     <p>
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
     four letters need omitting.<sup>[2]</sup>
-    Knox chose to omit the final four letters (W, X, Y, Z).
+    Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
     "A&nbsp;to&nbsp;Z" sense of totality:
     in the case of the people of Lamentations, the totality of the destruction of their beloved Jerusalem;
