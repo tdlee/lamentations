@@ -177,8 +177,8 @@
               lads under woodpiles stagger.
           </p>
 	  <p>
-            Elders abandoned their city-gate,<br><!-- abandoned: vv.14,15 -->
-              and young men have stopped their songs.
+            Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
+              young men have stopped their songs.
           </p>
 
           <br>
