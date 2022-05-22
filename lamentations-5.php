@@ -55,15 +55,9 @@
       Bleak, indeed.
     </p>
     <p>
-      But is it really so barren?  Or may that, itself, be a point?
-      Might there be something else in that loss and barrenness that drives us,
-      like the original writers and hearers, deeper?
-    </p>
-    <p>
-      Prayer.
-      This chapter, above the others, is the prayer.
+      Yet this chapter, above the others, is the book's prayer.
       It is preceded by abandonment.  It remains in abandonment.
-      Yet whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
+      But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<sup>[1]</sup>
     </p>
