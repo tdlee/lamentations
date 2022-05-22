@@ -30,10 +30,9 @@
 
     <p>
       Lamentations 3 takes the acrostic nature of these poems a step further than the others.
-      Here, not only do we have the twenty-two stanzas
-      corresponding to successive letters of the Hebrew alphabet,
-      but each stanza itself has three lines, each with the same initial letter.
-      To achieve the all-embracing "A to Z" of completeness, we omit J, K, Q and&nbsp;X.
+      Not only do we have the twenty-two stanzas
+      corresponding to the Hebrew alphabet,
+      but each stanza itself has three lines sharing that same initial letter.
     </p>
 
     <p>
