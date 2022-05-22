@@ -435,7 +435,7 @@
           <sup>[5]</sup>The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.
         </p>
         <p>
-          <sup>[6]</sup>As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza three or "Q" or "X" words.
+          <sup>[6]</sup>As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza of three "Q" or "X" words.
         </p>
         <p>
           <sup>[7]</sup>The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.
