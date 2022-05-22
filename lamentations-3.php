@@ -41,7 +41,7 @@
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
       from the gender-specific Hebrew "geber"
-      (unlike, say, "adam" which can sometimes be read in gender non-specific ways).
+      (unlike, say, "adam" which can sometimes be read in gender-inclusive ways).
     </p>
 
     <p>
