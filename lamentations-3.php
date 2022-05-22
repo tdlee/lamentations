@@ -45,8 +45,8 @@
     </p>
 
     <p>
-      Like the earlier two poems, this also contains two "voices":
-      an individual and a narrator.
+      Like the earlier two poems, this can also be seen as being in two "voices":
+      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).
     </p>
 
     <p>
