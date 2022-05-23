@@ -267,8 +267,8 @@
         <p>
 	  <sup>[7]</sup>This is an astonishingly grim ending;
 	    we do well to meditate on this closure.
-            In Jewish tradition,
-            there is a convention of then repeating v.21
+            Some Jewish traditions
+            conventionally repeat v.21
             ("<i>Lead us back&hellip; turn back to you</i>") as a coda.
         </p>
       </div><!-- "footnotes" -->
