@@ -38,8 +38,8 @@
         it lacks an acrostic structure (but see below)
       </li>
       <li>
-        the <i>qinah</i> three-two stress pattern is largely absent;
-        many of its stanzas have a three-three pattern.
+        the <i>qinah</i> three&ndash;two stress pattern is largely absent;
+        many stanzas are three&ndash;three.
       </li>
     </ul>
     <p>
@@ -100,7 +100,7 @@
         <div class="poem__verseref">1</div>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-            look; take note of our disgrace&mdash;<sup>[3]</sup><!-- same verbs as 1:11,12 -->
+            look; notice our disgrace&mdash;<sup>[3]</sup><!-- same verbs as 1:11,12 and 2:20 -->
         </p>
         <br>
 
@@ -267,8 +267,8 @@
         <p>
 	  <sup>[7]</sup>This is an astonishingly grim ending;
 	    we do well to meditate on this closure.
-            In Jewish tradition,
-            there is a convention of then repeating v.21
+            Some Jewish traditions
+            conventionally repeat v.21
             ("<i>Lead us back&hellip; turn back to you</i>") as a coda.
         </p>
       </div><!-- "footnotes" -->
