@@ -127,7 +127,7 @@
         he blanks out my prayer.
       </p>
       <p>
-      Confining my walkway with boulders,<br><!-- see 7 -->
+      Confining my walkway with hewn stone,<br><!-- see 7 -->
         he twisted my paths;
       </p>
 
