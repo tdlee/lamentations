@@ -119,7 +119,7 @@
       <br>
       <div class="poem__verseref">7&ndash;9</div>
       <p>
-      Confined, inescapably walled,<br>
+      Confined, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
         he chained me and weighted me;
       </p>
       <p>
@@ -127,7 +127,7 @@
         he blanks out my prayer.
       </p>
       <p>
-      Confounding my walkway with boulders,<br>
+      Confining my walkway with boulders,<br><!-- see 7 -->
         he twisted my paths;
       </p>
 
