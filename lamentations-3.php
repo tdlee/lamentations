@@ -134,8 +134,8 @@
       <br>
       <div class="poem__verseref">10&ndash;12</div>
       <p>
-      Dangerous as quiet-lurking bear,<br>
-        like prey-stalking lion,
+      Dangerous as an ambushing bear,<br>
+        as a prey-stalking lion,
       </p>
       <p>
       Dragging from my pathway he ripped me<br>
