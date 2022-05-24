@@ -259,21 +259,21 @@
       </p>
       <p>
       Nay-saying, denying our rights<br>
-         before the Most High?
+         before the Most High?<!-- vv35,38: "Most High" -->
       </p>
       <p>
       Negating our crying for justice?&mdash;<br>
-         the Lord would not bide.<!-- "Lord" is incorrect; see also 37 -->
+         the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
       </p>
 
       <br>
       <div class="poem__verseref">37&ndash;39</div>
       <p>
       Ordering futures? Who can make so<br>
-        should the Lord not decree?<!-- see 36 -->
+        should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
       </p>
       <p>
-      Out of God's mouth, come not<br>
+      Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
         both disaster and good?
       </p>
       <p>
