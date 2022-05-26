@@ -284,7 +284,7 @@
       <br>
       <div class="poem__verseref">40&ndash;42</div>
       <p>
-      Plumb our ways, let us audit them,<br>
+      Plumb we our ways, let us audit them,<br>
          that we return to the <span class="yhwh">Lord</span>;
       </p>
       <p>
