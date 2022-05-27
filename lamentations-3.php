@@ -304,7 +304,7 @@
       </p>
       <p>
       Raiment of storm cloud enveloped you,<br>
-        impervious to prayer;
+        blocking out prayer;
       </p>
       <p>
       Rejected<sup>[7]</sup> and outcast you made us<br>
