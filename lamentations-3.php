@@ -285,15 +285,15 @@
       <div class="poem__verseref">40&ndash;42</div>
       <p>
       Plumb we our ways, let us audit them,<br>
-         that we return to the <span class="yhwh">Lord</span>;
+        that we return to the <span class="yhwh">Lord</span>;
       </p>
       <p>
-      Palms aloft, hearts lifted<br>
-         to God on high we say:
+      Plead we, hearts in our hands,<br>
+        to God on high:
       </p>
       <p>
-      Perfidious we were in sin and revolt,<br>
-         and you did not forgive.
+      Perversely we have rebelled;<br>
+        you did not forgive.
       </p>
 
       <br>
