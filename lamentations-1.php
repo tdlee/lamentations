@@ -136,9 +136,9 @@
           Jerusalem calls to mind<br>
           &emsp;in her days of affliction.<br>
           [When her people fell to enemy hand,<br>
-	  &emsp;there was none to help.]<sup>[3]</sup><br>
+          &emsp;there was none to help.]<sup>[3]</sup><br>
           Her foes look on and mock<br>
-	  &emsp;her fallen state.
+          &emsp;her fallen state.
         </p>
 
         <br>
@@ -312,8 +312,8 @@
       <hr>
       <div class="footnotes">
         <p>
-	  <sup>[1]</sup>Adelman, Rachel (2021).
-	  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>
+          <sup>[1]</sup>Adelman, Rachel (2021).
+          <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>
           Shalvi/Hyman Encyclopedia of Jewish Women.
         </p>
         <p>

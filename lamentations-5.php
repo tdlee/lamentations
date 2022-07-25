@@ -170,7 +170,7 @@
             Young men have millstones to carry;<br>
               lads under woodpiles stagger.
           </p>
-	  <p>
+          <p>
             Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
               young men have stopped their songs.
           </p>
@@ -235,38 +235,38 @@
       <hr>
       <div class="footnotes">
         <p>
-	  <sup>[1]</sup>Wielenga, Bob
+          <sup>[1]</sup>Wielenga, Bob
           <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig.
         </p>
         <p>
-	  <sup>[2]</sup>Guillaume, Philippe
+          <sup>[2]</sup>Guillaume, Philippe
           <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The seventh acrostic</cite></a>, Journal of Hebrew Scriptures.
         </p>
         <p>
-	  <sup>[3]</sup>There now starts a catalogue of what, in modern-day writing,
+          <sup>[3]</sup>There now starts a catalogue of what, in modern-day writing,
             we would call bullet points, 
             that returns at v.17 "<i>At all this&hellip;</i>".
         </p>
         <p>
-	  <sup>[4]</sup>This might mean either the heat of the desert sun
+          <sup>[4]</sup>This might mean either the heat of the desert sun
             or tribes preying on desert refugees.
         </p>
         <p>
-	  <sup>[5]</sup>Originally foxes or jackals,
+          <sup>[5]</sup>Originally foxes or jackals,
             although not the same "jackal" noun as at 4:3.
             Hyenas are familiar,
             and this allows the poetic force of alliteration.
         </p>
         <p>
-	  <sup>[6]</sup>The "<i>indeed</i>" translation is supported by both
+          <sup>[6]</sup>The "<i>indeed</i>" translation is supported by both
             NABRE and Robert Alter.
-	    Other versions also have this as statement
-	    (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
+            Other versions also have this as statement
+            (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
             The NIV can't stomach this: a begging "<i>unless you have&hellip;</i>". 
         </p>
         <p>
-	  <sup>[7]</sup>This is an astonishingly grim ending;
-	    we do well to meditate on this closure.
+          <sup>[7]</sup>This is an astonishingly grim ending;
+            we do well to meditate on this closure.
             Some Jewish traditions
             conventionally repeat v.21
             ("<i>Lead us back&hellip; turn back to you</i>") as a coda.
