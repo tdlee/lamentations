@@ -134,8 +134,8 @@
       <br>
       <div class="poem__verseref">10&ndash;12</div>
       <p>
-      Dangerous as quiet-lurking bear,<br>
-        like prey-stalking lion,
+      Dangerous as an ambushing bear,<br>
+        as a prey-stalking lion,
       </p>
       <p>
       Dragging from my pathway he ripped me<br>
@@ -259,21 +259,21 @@
       </p>
       <p>
       Nay-saying, denying our rights<br>
-         before the Most High?
+         before the Most High?<!-- vv35,38: "Most High" -->
       </p>
       <p>
       Negating our crying for justice?&mdash;<br>
-         the Lord would not bide.<!-- "Lord" is incorrect; see also 37 -->
+         the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
       </p>
 
       <br>
       <div class="poem__verseref">37&ndash;39</div>
       <p>
       Ordering futures? Who can make so<br>
-        should the Lord not decree?<!-- see 36 -->
+        should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
       </p>
       <p>
-      Out of God's mouth, come not<br>
+      Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
         both disaster and good?
       </p>
       <p>
@@ -284,16 +284,16 @@
       <br>
       <div class="poem__verseref">40&ndash;42</div>
       <p>
-      Plumb our ways, let us audit them,<br>
-         that we return to the <span class="yhwh">Lord</span>;
+      Plumb we our ways, let us audit them,<br>
+        that we return to the <span class="yhwh">Lord</span>;
       </p>
       <p>
-      Palms aloft, hearts lifted<br>
-         to God on high we say:
+      Plead we, hearts in our hands,<br>
+        to God on high:
       </p>
       <p>
-      Perfidious we were in sin and revolt,<br>
-         and you did not forgive.
+      Perversely we have rebelled;<br>
+        you did not forgive.
       </p>
 
       <br>
@@ -304,7 +304,7 @@
       </p>
       <p>
       Raiment of storm cloud enveloped you,<br>
-        impervious to prayer;
+        blocking out prayer;
       </p>
       <p>
       Rejected<sup>[7]</sup> and outcast you made us<br>
