@@ -165,7 +165,7 @@
         <p>
           Iniquity clings to her skirts;<br>
           &emsp;she heeded not her future.<br>
-          Her downfall renders amazement;<br><!-- "vv.7,9: "downfall" -->
+          Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
           &emsp;there is none to comfort her.<br>
           "Look, O <span class="yhwh">Lord</span> on my affliction,<br>
           &emsp;for the enemy triumphs."
