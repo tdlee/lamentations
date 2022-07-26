@@ -142,7 +142,7 @@
           Great treasures that once were hers<br>
           &emsp;in days gone by<br>
           Jerusalem calls to mind<br>
-          &emsp;in her days of affliction.<br>
+          &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
           [When her people fell to enemy hand,<br>
           &emsp;there was none to help.]<?php Footnote($fn); ?><br>
           Her foes look on and mock<br>
@@ -165,7 +165,7 @@
         <p>
           Iniquity clings to her skirts;<br>
           &emsp;she heeded not her future.<br>
-          Her downfall renders amazement;<br>
+          Her downfall renders amazement;<br><!-- "vv.7,9: "downfall" -->
           &emsp;there is none to comfort her.<br>
           "Look, O <span class="yhwh">Lord</span> on my affliction,<br>
           &emsp;for the enemy triumphs."
