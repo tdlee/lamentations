@@ -167,8 +167,8 @@
           &emsp;she heeded not her future.<br>
           Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
           &emsp;there is none to comfort her.<br>
-          "Look, O <span class="yhwh">Lord</span> on my affliction,<br>
-          &emsp;for the enemy triumphs."
+          "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
+          &emsp;how the enemy triumphs."
         </p>
 
 <!-- omit 'J' and 'K' -->
