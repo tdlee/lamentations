@@ -45,11 +45,15 @@
 
         <div class="poem__verseref">1</div>
         <p>
-          Alas!<sup>[1]</sup> In his anger my Lord beclouded<br>
+          <?php
+            $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+            $fn2='Footstool: a metaphorical reference to the Jerusalem Temple.';
+          ?>
+          Alas!<?php Footnote($fn); ?> In his anger my Lord beclouded<br>
           &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
           &emsp;the honour of Israel;<br>
-          nor remembered his footstool<sup>[2]</sup><br>
+          nor remembered his footstool<?php Footnote($fn2); ?><br>
           &emsp;in the day of his anger;
         </p>
 
@@ -89,12 +93,15 @@
         <br>
         <div class="poem__verseref">5</div>
         <p>
+          <?php
+            $fn='The Hebrew also has an alliterative wordplay here.';
+          ?>
           Enemy! So the Lord has become,<br>
           &emsp;and devoured Israel&mdash;<br>
           has devoured all of her palaces,<br>
           &emsp;and laid waste her strongholds;<br>
           has multiplied for Daughter Judah<br>
-          &emsp;wailing and weeping.<sup>[3]</sup>
+          &emsp;wailing and weeping.<?php Footnote($fn); ?>
         </p>
 
         <br>
@@ -133,10 +140,13 @@
         <br>
         <div class="poem__verseref">9</div>
         <p>
+          <?php
+            $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
+          ?>
           Into the ground her gates sunk;<br>
           &emsp;he shattered her bars.<br>
           Her king and her princes are exiled;<br>
-          &emsp;law is absent;<sup>[4]</sup><br>
+          &emsp;law is absent;<?php Footnote($fn); ?><br>
           her prophets no longer could find<br>
           &emsp;any vision from the <span class="yhwh">Lord</span>.
         </p>
@@ -192,8 +202,11 @@
         <br>
         <div class="poem__verseref">14</div>
         <p>
+          <?php
+            $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
+          ?>
           Prophets provided you visions&mdash;<br>
-          &emsp;whitewashed illusion.<sup>[5]</sup><br>
+          &emsp;whitewashed illusion.<?php Footnote($fn); ?><br>
           They did not lay bare your guilt<br>
           &emsp;to restore your fortunes;<br>
           they saw for you only oracles<br>
@@ -205,8 +218,11 @@
         <br>
         <div class="poem__verseref">15</div>
         <p>
+          <?php
+            $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
+          ?>
           Remembered once: "Perfect in beauty,<br>
-          &emsp;joy of all earth";<sup>[6]</sup><br>
+          &emsp;joy of all earth";<?php Footnote($fn); ?><br>
           now those who pass by on the road<br>
           &emsp;clap in derision;<br>
           they hiss and wag their heads<br>
@@ -249,6 +265,9 @@
         <br>
         <div class="poem__verseref">19</div>
         <p>
+          <?php
+            $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
+          ?>
           Vociferous! Cry anguished all night,<br>
           &emsp;at the start of each watch.<br>
           Spill out your heart like water<br>
@@ -256,7 +275,7 @@
           Lift up your hands to him<br>
           &emsp;for the lives of your babes<br>
           [who faint from famine and hunger<br>
-          &emsp;at every street-corner].<sup>[7]</sup>
+          &emsp;at every street-corner].<?php Footnote($fn); ?>
         </p>
 
         <br>
@@ -297,30 +316,9 @@
       </div><!-- "poem" -->
       <hr>
       <div class="footnotes">
-        <p>
-          <sup>[1]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
-            the name of the book itself, and beginning with the
-            Hebrew letter 'aleph' equivalent to our 'A'.
-        </p>
-        <p>
-          <sup>[2]</sup>Footstool: a metaphorical reference to the Jerusalem Temple.
-        </p>
-        <p>
-          <sup>[3]</sup>The Hebrew also has an alliterative wordplay here.
-        </p>
-        <p>
-          <sup>[4]</sup>This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).
-        </p>
-        <p>
-          <sup>[5]</sup>This striking translation courtesy of
-            <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.
-        </p>
-        <p>
-          <sup>[6]</sup>Psalm 48:2, Psalm 50:2; Ezek.27:3.
-        </p>
-        <p>
-          <sup>[7]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.
-        </p>
+        <?php
+          PrintFootnotes();
+        ?>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">

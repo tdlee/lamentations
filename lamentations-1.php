@@ -32,7 +32,9 @@
       Throughout chapters one, two and four, Zion is not only dwelling-place of God
       but is additionally personified by the hauntingly endearing term "Daughter Zion".
       The poems lament not merely an inamimate city;
-      the city is a precious daughter, beloved of God.<sup>[1]</sup>
+      the city is a precious daughter, beloved of God.<?php
+          Footnote('Adelman, Rachel (2021).  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a> Shalvi/Hyman Encyclopedia of Jewish Women.');
+          ?>
       This is set out within the very first verse.
     </p>
 
@@ -64,7 +66,10 @@
   &emsp;now CHAINED, en-SLAVED."
 >
         <p>
-          Alas!<sup>[2]</sup> Alone lies the city<br>
+          <?php
+            $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+          ?>
+          Alas!<?php Footnote($fn); ?> Alone lies the city<br>
           &emsp;once teeming with people;<br>
           She, once a lady among nations,<br>
           &emsp;now abandoned, widowed;<br>
@@ -131,12 +136,15 @@
         <br>
         <div class="poem__verseref">7</div>
         <p>
+          <?php
+            $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19 and 4:15.';
+          ?>
           Great treasures that once were hers<br>
           &emsp;in days gone by<br>
           Jerusalem calls to mind<br>
           &emsp;in her days of affliction.<br>
           [When her people fell to enemy hand,<br>
-          &emsp;there was none to help.]<sup>[3]</sup><br>
+          &emsp;there was none to help.]<?php Footnote($fn); ?><br>
           Her foes look on and mock<br>
           &emsp;her fallen state.
         </p>
@@ -212,7 +220,10 @@
         <br>
         <div class="poem__verseref">14</div>
         <p>
-          Packed<sup>[4]</sup> into a yoke are my sins;<br>
+          <?php
+            $fn='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
+          ?>
+          Packed<?php Footnote($fn); ?> into a yoke are my sins;<br>
           &emsp;entwined by his hand<br>
           his yoke was upon my neck;<br>
           &emsp;it sapped my strength.<br>
@@ -234,9 +245,12 @@
         <br>
         <div class="poem__verseref">16</div>
         <p>
+          <?php
+            $fn='Some Jewish commentators here see a comforter-Messiah being yearned for.';
+          ?>
           Streaming with tears, my eyes&mdash;<br>
           &emsp;my eyes weep for these things;<br>
-          far distant one who might comfort me,<sup>[5]</sup><br>
+          far distant one who might comfort me,<?php Footnote($fn); ?><br>
           &emsp;to restore my soul.<br>
           My children all are desolate;<br>
           &emsp;the enemy has prevailed.
@@ -311,25 +325,9 @@
       </div><!-- "poem" -->
       <hr>
       <div class="footnotes">
-        <p>
-          <sup>[1]</sup>Adelman, Rachel (2021).
-          <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>
-          Shalvi/Hyman Encyclopedia of Jewish Women.
-        </p>
-        <p>
-          <sup>[2]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
-            the name of the book itself, and beginning with the
-            Hebrew letter 'aleph' equivalent to our 'A'.
-        </p>
-        <p>
-          <sup>[3]</sup>This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19 and 4:15.
-        </p>
-        <p>
-          <sup>[4]</sup>The Hebrew verb "nisqad" only occurs here so any translation is conjectural.
-        </p>
-        <p>
-          <sup>[5]</sup>Some Jewish commentators here see a comforter-Messiah being yearned for.
-        </p>
+        <?php
+          PrintFootnotes();
+        ?>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">

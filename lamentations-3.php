@@ -87,8 +87,11 @@
   I will dwell in the house of the Lord
     for endless days."
 >
+      <?php
+        $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
+      ?>
       <p>
-      Agonies: I am the man<sup>[1]</sup> seared<br>
+      Agonies: I am the man<?php Footnote($fn); ?> seared<br>
         by the rod of his wrath;
       </p>
       <p>
@@ -201,15 +204,21 @@
       His mercies renew each day-dawning;<br>
         how great is your faithfulness.
       </p>
+      <?php
+        $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
+      ?>
       <p>
       Hope I then in him; may I say<br>
-        "My portion is the <span class="yhwh">Lord</span>".<sup>[2]</sup>
+        "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
       </p>
 
       <br>
       <div class="poem__verseref">25&ndash;27</div>
       <p>
-      Irreproachable<sup>[3]</sup> is the <span class="yhwh">Lord</span> to his seekers,<br>
+      <?php
+        $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
+      ?>
+      Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
         to those who quest for him;
       </p>
       <p>
@@ -224,7 +233,11 @@
       <br>
       <div class="poem__verseref">28&ndash;30</div>
       <p>
-      Lie he alone and in silence<sup>[4]</sup><sup>[5]</sup><br><!-- "lie": same verb as 1:1 -->
+      <?php
+        $fn='"Lie" is the same verb as 1:1&mdash;"Alone lies the city".';
+        $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
+      ?>
+      Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
          when it's laid so upon him.
       </p>
       <p>
@@ -239,7 +252,10 @@
       <br>
       <div class="poem__verseref">31&ndash;33</div>
       <p>
-      Mankind's desertion by the Lord<sup>[6]</sup><br>
+      <?php
+        $fn='As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza of three "Q" or "X" words.';
+      ?>
+      Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
          lasts not forever;
       </p>
       <p>
@@ -307,7 +323,10 @@
         blocking out prayer;
       </p>
       <p>
-      Rejected<sup>[7]</sup> and outcast you made us<br>
+      <?php
+        $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.';
+      ?>
+      Rejected<?php Footnote($fn); ?> and outcast you made us<br>
         in the midst of the peoples.
       </p>
 
@@ -322,8 +341,11 @@
         holocaust and horror;<!-- alliteration; see also next verse -->
       </p>
       <p>
+      <?php
+        $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust". Further, the final part of 48 is the same as 2:11.';
+      ?>
       Stream tears from my eyes at the holocaust<br>
-        of my Daughter People.<sup>[8]</sup><!-- holocaust from 47; whole line from 2:11; also 4:10 -->
+        of my Daughter People.<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 -->
       </p>
 
       <br>
@@ -389,8 +411,11 @@
       <br>
       <div class="poem__verseref">61&ndash;63</div>
       <p>
+      <?php
+        $fn='It is unclear whether this direct repetition from the end of the previous verse was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.';
+      ?>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-         their scheming against me;<sup>[9]</sup>
+         their scheming against me;<?php Footnote($fn); ?>
       </p>
       <p>
       Yonder, they mutter and prattle<br>
@@ -418,35 +443,9 @@
       </div><!-- "poem" -->
       <hr>
       <div class="footnotes">
-        <p>
-          <sup>[1]</sup>Translation compromise.
-            Ideally this would start "I am the man" but the acrostic constraint doesn't allow this.
-        </p>
-        <p>
-          <sup>[2]</sup>This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.
-        </p>
-        <p>
-          <sup>[3]</sup>In this 'I' stanza, each line shares an opening Hebrew word meaning "good".
-        </p>
-        <p>
-          <sup>[4]</sup>"Lie" is the same verb as 1:1&mdash;"Alone lies the city".
-        </p>
-        <p>
-          <sup>[5]</sup>The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.
-        </p>
-        <p>
-          <sup>[6]</sup>As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza of three "Q" or "X" words.
-        </p>
-        <p>
-          <sup>[7]</sup>The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.
-        </p>
-        <p>
-          <sup>[8]</sup>Verses 47&ndash;48 involve alliteration and the repetition of 'holocaust'. Further, the final part of 48 is the same as 2:11.
-        </p>
-        <p>
-          <sup>[9]</sup>It is unclear whether this direct repetition from the end of the previous verse
-            was a deliberate reinforcement ("epiphora") or an inadvertent scribal duplication.
-        </p>
+        <?php
+          PrintFootnotes();
+        ?>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">

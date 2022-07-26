@@ -50,17 +50,28 @@
       Things are so bad that even nature, God's own created order, is out of kilter.
       And it continues into the human realm,
       including the horror of mothers cannibalising their own God-given children.
-      "Blessings of the covenant become human carnage."<sup>[1]</sup>
+      "Blessings of the covenant become human carnage."<?php
+        Footnote('Hens-Piazza, Gina (2017) "Lamentations", p.60. 978-0814681541');
+      ?>
     </p>
 
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
         <div class="poem__verseref">1</div>
+        <?php
+          $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+          $fn2='Often translated "<i>jewels</i>",
+            "<i>holy stones</i>" is not only more literal
+            but also allows the metaphor for the stones of the destroyed Temple.
+            Taken in conjunction with following verse,
+            this metaphor links an increasingly human sequence:
+            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".';
+        ?>
         <p>
-          Alas!<sup>[2]</sup> The gold, now dulled;<br>
+          Alas!<?php Footnote($fn); ?> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
-          the holy stones<sup>[3]</sup> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 -->
+          the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 -->
           &emsp;on every street corner.
         </p>
 
@@ -75,11 +86,14 @@
 
         <br>
         <div class="poem__verseref">3</div>
+        <?php
+          $fn='A folk tradition, then familiar but now forgotten, about ostriches abandoning their hatchlings.  Contrast the first half of this verse.  (See also Job 39.)';
+        ?>
         <p>
           Cubs even of jackals<br>
           &emsp;are breast-fed nursed,<br>
           but my Daughter People is cruel<br>
-          &emsp;as the desert ostrich.<sup>[4]</sup>
+          &emsp;as the desert ostrich.<?php Footnote($fn); ?>
         </p>
 
         <br>
@@ -93,9 +107,12 @@
 
         <br>
         <div class="poem__verseref">5</div>
+        <?php
+          $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
+        ?>
         <p>
           Embraced now on dung heaps are those<br>
-          &emsp;once robed in purple;<sup>[5]</sup><br>
+          &emsp;once robed in purple;<?php Footnote($fn); ?><br>
           Those once feasting on sweetmeats<br>
           &emsp;lie destitute in alleys.
         </p>
@@ -189,13 +206,16 @@
 
         <br>
         <div class="poem__verseref">15</div>
+        <?php
+          $fn='Like 1:7 and 2:19 this verse is longer than other verses.  The two bracketed half-lines indicate where editorial gloss may have been added.';
+        ?>
         <p>
           "Repulsive! Away!"<br>
           &emsp;[people shout at them.]<br>
           "Replusive! Repulsive! Hands off!"<br>
           &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration -->
           [Resolute were the nations:]<br>
-          &emsp;"They'll not reside here."<sup>[6]</sup>
+          &emsp;"They'll not reside here."<?php Footnote($fn); ?>
         </p>
 
         <br>
@@ -264,36 +284,9 @@
       </div><!-- "poem" -->
       <hr>
       <div class="footnotes">
-        <p>
-          <sup>[1]</sup>Hens-Piazza, Gina (2017) "Lamentations", p.60. 978-0814681541
-        </p>
-        <p>
-          <sup>[2]</sup>"Alas!": Hebrew <i>'Ekah</i>, meaning "how",
-            the name of the book itself, and beginning with the
-            Hebrew letter 'aleph' equivalent to our 'A'.
-        </p>
-        <p>
-          <sup>[3]</sup>Often translated "<i>jewels</i>",
-            "<i>holy stones</i>" is not only more literal
-            but also allows the metaphor for the stones of the destroyed Temple.
-            Taken in conjunction with following verse,
-            this metaphor links an increasingly human sequence:
-            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
-        </p>
-        <p>
-          <sup>[4]</sup>A folk tradition, then familiar but now forgotten,
-            about ostriches abandoning their hatchlings.
-            Contrast the first half of this verse.  (See also Job 39.)
-        </p>
-        <p>
-          <sup>[5]</sup>The purple of luxury.
-            If this Hebrew poem is then overlayed with the Christian gospels
-            there is a resonance with the trial, mocking and crucifixion of Jesus.
-        </p>
-        <p>
-          <sup>[6]</sup>Like 1:7 and 2:19 this verse is longer than other verses.
-            The two bracketed half-lines indicate where editorial gloss may have been added.
-        </p>
+        <?php
+          PrintFootnotes();
+        ?>
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">

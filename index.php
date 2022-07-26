@@ -307,7 +307,9 @@
     <a href="https://en.wikipedia.org/wiki/Robert_Alter" target="_blank">Robert Alter</a> notes:
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
-    but the poet exploits this pattern for expressive emphasis."</i><sup>[1]</sup>
+    but the poet exploits this pattern for expressive emphasis."</i><?php
+      Footnote('Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", footnote to Lam.&nbsp;3:1. p.657. 978-0-393-29249-7');
+    ?>
     Again, a prose-biased quest for "meaning" might miss this.
     But it can come across with authentic power in the poem,
     including in English translation or paraphrase.
@@ -315,7 +317,11 @@
 
     <p>
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
-    four letters need omitting.<sup>[2]</sup>
+    four letters need omitting.<?php
+      Footnote('The further subtlety of two different versions of the Hebrew alphabet having
+        a reversal of two of its letters, with some chapters using one and some the other,
+        is deemed a geek-fest too far for this particular exercise.');
+    ?>
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
     "A&nbsp;to&nbsp;Z" sense of totality:
@@ -368,14 +374,9 @@
 
     <hr>
     <div class="footnotes">
-      <p>
-        <sup>[1]</sup>Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", footnote to Lam.&nbsp;3:1. p.657. 978-0-393-29249-7
-      </p>
-      <p>
-        <sup>[2]</sup>The further subtlety of two different versions of the Hebrew alphabet having
-        a reversal of two of its letters, with some chapters using one and some the other,
-        is deemed a geek-fest too far for this particular exercise.
-      </p>
+      <?php
+        PrintFootnotes();
+      ?>
     </div><!-- footnotes -->
 
   </div><!-- content-area -->
