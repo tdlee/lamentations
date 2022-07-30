@@ -31,11 +31,11 @@
     <p>
       The opening "Alas!" recalls the first two poems;
       it is swiftly reinforced in the second half of v2.
-      As with all three preceding poems, this, too, can work as two voices,
-      although here as first-person singular (most) and first-person plural (17&ndash;20).
     </p>
 
     <p>
+      As with all three preceding poems, this, too, can work as two voices,
+      although here as first-person singular (most) and first-person plural (17&ndash;20).
       Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
       but rather various groups within the population.
       And whereas the addressee in 1 and 3 had been the <span class="yhwh">Lord</span>,
