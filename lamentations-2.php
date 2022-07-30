@@ -46,10 +46,11 @@
         <div class="poem__verseref">1</div>
         <p>
           <?php
-            $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+            $fn='See footnotes on 1:1.';
             $fn2='Footstool: a metaphorical reference to the Jerusalem Temple.';
           ?>
-          Alas!<?php Footnote($fn); ?> In his anger my Lord beclouded<br>
+          Alas!<?php Footnote($fn); ?><br>
+          Angered, my Lord beclouded<br>
           &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
           &emsp;the honour of Israel;<br>

@@ -60,7 +60,7 @@
 
         <div class="poem__verseref">1</div>
         <?php
-          $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+          $fn='See footnotes on 1:1.';
           $fn2='Often translated "<i>jewels</i>",
             "<i>holy stones</i>" is not only more literal
             but also allows the metaphor for the stones of the destroyed Temple.

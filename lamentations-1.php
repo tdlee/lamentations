@@ -56,20 +56,28 @@
         <div class="poem__verseref">1</div>
 <div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
 
-  a-LAS! a-LONE lies the CI-ty
-  &emsp;once TEEM-ing with PEO-ple;
+  alas!
+  &emsp;a-LONE she LIES: the CI-ty
+  &emsp;&emsp;once TEEM-ing with PEO-ple;
 
-  SHE, once a LA-dy among NA-tions,
-  &emsp;now ab-AN-doned, WI-dowed;
+  &emsp;SHE, once a LA-dy among NA-tions,
+  &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
-  SHE, once PRIN-cess among PRO-vinces, (or '...princ-CESS...')
-  &emsp;now CHAINED, en-SLAVED."
+  &emsp;SHE, once PRIN-cess among PRO-vinces, (or '...princ-CESS...')
+  &emsp;&emsp;now CHAINED, en-SLAVED."
 >
         <p>
           <?php
             $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
+            $fn2='Despite the importance of the overall 3:2 <em>qinah</em> metre,
+              the opening "Alas!" is probably a preamble \'anacrusis\',
+              external to that metre.
+              This is probaably also true of the "Alas!" of the second chapter
+              although probably not of the fourth.
+              So acrostically I have used an additional "A..." word following that "Alas!"';
           ?>
-          Alas!<?php Footnote($fn); ?> Alone lies the city<br>
+          Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
+          Alone she lies: the city<br>
           &emsp;once teeming with people;<br>
           She, once a lady among nations,<br>
           &emsp;now abandoned, widowed;<br>

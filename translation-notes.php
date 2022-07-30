@@ -173,9 +173,14 @@
       Most biblical scholarship is agreed beyond reasonable doubt
       that the 3&ndash;2 qinah beat is prevalent in the first four chapters.
       But there is lively debate about particular details in particular verses.
-      For example, the very opening verse is seen by some as 4&ndash;2,
-      and a few translations accordingly set its opening "Alas!" (one beat)
-      as a separate anacrusis.
+    </p>
+
+    <p>
+      For example, the opening "Alas!" verse of the first chapter,
+      and probably also of the second, may be seen as 4&ndash;2.
+      Accordingly some of the rhythmically alert translations
+      set that single-beat "Alas!" as a separate anacrusis.
+      This version, too, adopts that practice.
     </p>
 
     <p>
