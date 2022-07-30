@@ -5,7 +5,7 @@
 
   <title>ServiceMusic: Lamentations 1</title>
 
-  <meta name="description" content="An acrostic rendering of Lamentations 1 by David Lee">
+  <meta name="description" content="An acrostic and 'qinah' rendering of Lamentations 1">
   <meta name="keywords" content="lamentations, scripture, rendering, translation, paraphrase, acrostic, qinah, Hebrew, poem, poetry">
 
   <?php

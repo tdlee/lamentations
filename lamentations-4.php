@@ -5,8 +5,8 @@
 
   <title>ServiceMusic: Lamentations 4</title>
 
-  <meta name="description" content="An acrostic rendering of Lamentations 4 by David Lee">
-  <meta name="keywords" content="lamentations, acrostic, rendering, translation, Hebrew, poetry, paraphrase">
+  <meta name="description" content="An acrostic and 'qinah' rendering of Lamentations 4">
+  <meta name="keywords" content="lamentations, scripture, rendering, translation, paraphrase, acrostic, qinah, Hebrew, poem, poetry">
 
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/headcommon.php');
