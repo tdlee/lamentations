@@ -96,7 +96,7 @@
     <h3>Substitution</h3>
 
     <p>
-      The very first line, Lam.1:1,  "Alas! Alone lies the city" demonstrates substitution.
+      The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
       The original verb is more literally "sits",
       and most prose-oriented English translations use this.
       But in English, we tend to think of "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
