@@ -233,8 +233,8 @@
           ?>
           Packed<?php Footnote($fn); ?> into a yoke are my sins;<br>
           &emsp;bound tight by his hand<br>
-          his yoke was upon my neck;<br>
-          &emsp;it sapped my strength.<br>
+          his yoke was upon my neck:<br>
+          &emsp;he sapped my strength.<br>
           My Lord has given me into the grip of those<br>
           &emsp;I cannot withstand.
         </p>
