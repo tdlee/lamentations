@@ -72,7 +72,7 @@
             $fn2='Despite the importance of the overall 3:2 <em>qinah</em> metre,
               the opening "Alas!" is probably a preamble \'anacrusis\',
               external to that metre.
-              This is probaably also true of the "Alas!" of the second chapter
+              This is probably also true of the "Alas!" of the second chapter
               although probably not of the fourth.
               So acrostically I have used an additional "A..." word following that "Alas!"';
           ?>
