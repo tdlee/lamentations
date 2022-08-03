@@ -99,15 +99,15 @@
       The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
       The original verb is more literally "sits",
       and most prose-oriented English translations use this.
-      But in English, we tend to think of "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
+      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
       Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
       But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
     </p>
 
     <p>
       Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
-      And the two uses here allow one common verb to express both ideas.
-      No single English verb captures this.
+      And the two uses here allow one common Hebrew verb to express both ideas.
+      But no single English verb captures this.
     </p>
 
     <p>
@@ -116,7 +116,7 @@
       nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
     </p>
 
-    <h3>Inversion</h3>
+    <h3>Acrostic challenges</h3>
 
     <p>
       Acrostics constrain the choice of a verse's opening word.
@@ -148,20 +148,75 @@
       "Irreproachable" seems a reasonable choice, with not too much compromise.
     </p>
 
-    <h3>Poetic compensation</h3>
+    <p>
+      On the positive side, our 26 letters over Hebrew's 22
+      means we can drop four English letters.
+      This provides some flexibility.
+      'X' is an obvious candidate.  'Z' would also have been,
+      but our strong desire for that sense  of "A&nbsp;to&nbsp;Z" totality
+      requires its inclusion.
+    </p>
+
+    <h3>A thematic example</h3>
 
     <p>
-      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
-      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+      There are a few cases of words being repeated within a poem,
+      and in some cases across them.
+      I try to retain these.
     </p>
 
     <p>
-      Meanwhile, at Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
+      The verbs "look" and "notice" recur, sometimes in emphatic pairing.
+      Other English verbs would have been candidates: "see", "behold", "observe" etc.
+      But our acrostic requirement drives the choice, particularly of "notice"
+      because 1:12 demands a strong, imperative verb at its start,
+      which has to be at, or very close to, alphabetic 'n'.
+      But there is more.  The run up to that 1:12 prepares the way:
+    </p>
+    <ul>
+    <li>
+      v9: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+    </li>
+    <li>
+      v11: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
+    </li>
+    </ul>
+    <p>
+      Then observe that 2:20 uses it,
+      and even more that the final poem almost opens with that same pair of verbs:
+    </p>
+    <ul>
+    <li>
+      2:20: <strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      5:1: <strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
+    </li>
+    </ul>
+
+    <p>
+      But driving all that was the requirement at 1:12 for an 'n' verb.
+    </p>
+
+    <h3>Other examples</h3>
+
+    <ul>
+    <li>
+      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
+      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+    </li>
+
+    <li>
+      At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
       Other translations variously use "foxes" or "jackals";
       ancient zoological classifications are somethimes ambiguous to us.
       Here, I use "haunt of hyenas", which maintains the broad zoological classification
       and allows the use of a suitably unsettling alliterative expression.
-    </p>
+    </li>
+    </ul>
 
     <h2>Qinah?</h2>
 
