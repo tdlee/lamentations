@@ -119,21 +119,57 @@
       </div><!-- "poem" -->
     </div><!-- "panel" -->
 
+    <h2>Can scripture be "performance poetry"?</h2>
+
     <p>
-    As is known by any astute reader of poetry, whether secular or biblical,
-    poetry is far, far more than its mere component words and phrases.
-    Prose often (not always, of course) attempts to tie down meaning to a particular intent.
-    When we read scripture, we often come bearing a prose-shaped bias that pre-disposes our expectations:
+    Yes!  See the Psalms.  But even more so, Lamentations.
+    Lamentations leaps into life when released from
+    the bondage of our preconceptions.
+    </p>
+
+    <!-- panel -->
+    <div class="sidebar__right--width-28em">
+      <div class="panel">
+        <div class="verse">
+  Write loyal cantons of contemn&egrave;d love
+    and sing them loud even in the dead of night;
+  Hallo your name to the reverberate hills
+    and make the babbling gossip of the air
+    cry out "O, list'n to us!" O, you should not rest
+    between the elements of air and earth
+    but you should pity me.
+        </div><!-- "verse" -->
+        <div class="panel__author">
+          <p>
+            &mdash;William Shakespeare "Twelfth Night" <i>(adapted)</i>
+          </p>
+        </div><!-- "panel__author" -->
+
+      </div><!-- "panel" -->
+    </div><!-- "sidebar" -->
+    <!-- panel -->
+    <p>
+    When we read scripture, we can stifle it.
+    We sit in comfortable chairs. We are silent.
+    We smother it under a prose-shaped bias that pre-disposes our expectations:
     the earnest, spiritual quest for "the meaning".
-    And often it is, indeed, our pre-formed expectation that there is one, and only one, such "meaning".
     And we then, subconsciously, expect scripture to conform and behave
-    in accordance with our pre-formed expectation.
+    in accordance with our pre-formed expectation of our "meaning".
+    </p>
+    <p>
+    But <em>this</em> version aims to <em>demand</em> us
+    leap up and perform it aloud.
+    </p>
+
+    <p>
+    Poetry is far, far more than its mere component words and phrases.
+    Prose often (not always, of course) attempts to tie down meaning to a particular intent.
     </p>
 
     <p>
     By contrast to this "pinning down" of prose,
     the very form and nature of poetry can take us in the opposite direction:
-    it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
+    the act of performing it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
     </p>
 
     <p>
@@ -143,12 +179,9 @@
     </p>
 
     <p>
-    In Lamentations there is also the acrostic, discarded in most translations.
-    </p>
-
-    <p>
+    Lamentations also has the acrostic, discarded in most translations.
     But perhaps even more important,
-    and also completely lost in most translations,
+    and also jettisoned in most translations,
     is a forceful, angst-driven rhythm, known as 'qinah'.
     </p>
 
@@ -246,13 +279,14 @@
           <p>Xerography is not one of the choices.</p>
           <p>You try: Is <i>alpha</i> to <i>omega</i> "<i>A</i>&nbsp;to&nbsp;<i>O</i>" or "<i>A</i>&nbsp;to&nbsp;<span class="acrostic-letter"><i>Z</i></span>"?</p>
 
-          <div class="panel__author">
-            <p>
-              &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
-            </p>
-          </div><!-- "panel__author" -->
-
         </div><!-- "poem" -->
+
+        <div class="panel__author">
+          <p>
+            &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
+          </p>
+        </div><!-- "panel__author" -->
+
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
@@ -343,12 +377,8 @@
     No existing version seems to capture the essential characteristics
     of the original Hebrew: Z-inclusive acrostic; qinah; linguistic compactness.
     </p>
-
-    <h2>A final note</h2>
     <p>
-    If you are silently reading this version, you are doing it incorrectly!
-    This version is not intended to be read silently, nor merely heard in abstract recitation.
-    It is, rather, to be simultaneously seen on the page (or e-page) and spoken aloud as poetic expression.
+    Perform it aloud!
     </p>
     <p>
     See the visual acrostic; speak that 'qinah'.
