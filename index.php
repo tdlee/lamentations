@@ -384,9 +384,10 @@
     See the visual acrostic; speak that 'qinah'.
     </p>
 
-    <hr>
-    <div>
-      Acknowledgements: I am deeply grateful to:
+    <h2>Acknowledgements</h2>
+    <p>
+      I am deeply grateful to:
+    </p>
       <ul>
         <li>
           <a href="https://www.psalmsforthecommonera.com/" target="_blank">Adam Carlill</a>,
@@ -400,7 +401,6 @@
           <a href="https://www.amazon.co.uk/Lamentations-International-Commentary-Testament-Nicot/dp/0802825427/" target="_blank"><cite>The Book of Lamentations</cite></a>, 978-0802825421
         </li>
       </ul>
-    </div>
 
     <hr>
     <div class="footnotes">
