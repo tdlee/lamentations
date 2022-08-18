@@ -134,7 +134,7 @@
           &emsp;Daughter Zion's wall;<br>
           The <span class="yhwh">Lord</span> stretched out the measuring line;<br>
           &emsp;did not hesitate to devour;<br>
-          made wall and rampart lament<br>
+          made wall and rampart lament:<br>
           &emsp;together they succumbed.
         </p>
 
