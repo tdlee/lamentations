@@ -123,8 +123,8 @@
           &emsp;spurned his shrine;<br>
           to the hands of the enemy has given<br>
           &emsp;the walls of her strongholds.<br>
-          They in the <span class="yhwh">Lord</span>'s house shout<br>
-          &emsp;as on festival-day.
+          Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
+          &emsp;as on <em>our</em> feast-day.
         </p>
 
         <br>
