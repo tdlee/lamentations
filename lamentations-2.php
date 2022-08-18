@@ -61,7 +61,7 @@
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Brought to the ground in desecration<br>
+          Blitzed to the ground in desecration<br>
           &emsp;a kingdom and its princes;<br>
           in fury has razed the defences<br>
           &emsp;of Daughter Judah.<br>
