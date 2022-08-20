@@ -37,6 +37,34 @@
     </p>
 
     <p>
+      Unlike the first poem, where each verse could be more or less self-contained,
+      here the sense often carries across verse boundaries.
+      Similarly, sentence boundaries may be mid-verse.
+      For instance, the opening three verses
+      (acrostic: alas, blitzed, cut)
+      are two long trains of thought, with the break being mid-verse:
+    </p>
+    <div class="panel panel--width-18em">
+      <div class="poem poem__hebverse">
+        <p>
+          <span class="acrostic-letter">A</span>las! Angered, my Lord:<br>
+            &mdash;beclouded&hellip;<br>
+            &mdash;flung down&hellip;<br>
+            &mdash;nor remembered&hellip;<br>
+            &mdash;<span class="acrostic-letter">b</span>litzed to the ground&hellip;<br>
+            &mdash;in fury has&hellip;<br>
+        </p>
+        <p>
+          My Lord has:<br>
+            &mdash;devoured&hellip;<br>
+            &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
+            &mdash;withdrawn&hellip;<br>
+            &mdash;blazed&hellip;<br>
+        </p>
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
       The first poem was in two "voices", approximately 50&ndash;50: a witness-bystander and Daughter Zion herself. This second poem is mostly voiced by the witness, but at 19 the witness can be seen to implore the city herself to voice her complaint, which she accordingly does to close the poem.
     </p>
 
