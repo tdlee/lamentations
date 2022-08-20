@@ -33,7 +33,7 @@
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
       this is the polar opposite of the psalmist's praise,
         <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24&ndash;27</a>;
-      it is the nightmare incarnation of the prophet's warning,
+      it is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="http://www.usccb.org/bible/amos/5?18" target="_blank">Amos&nbsp;5:18&ndash;20</a>.
     </p>
 
