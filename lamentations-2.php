@@ -74,9 +74,9 @@
         <p>
           Cut off in his smouldering wrath<br>
           &emsp;every horn of Israel;<br>
-          has withdrawn his right hand<br>
+          withdrawn his right hand<br>
           &emsp;at enemy approach;<br>
-          has blazed against Jacob in fire,<br>
+          blazed against Jacob in fire,<br>
           &emsp;consuming all around.
         </p>
 
