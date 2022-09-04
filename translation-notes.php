@@ -41,10 +41,11 @@
       But whereas translation of ancient secular poetry allows some freedom to include considerations of poetic features,
       biblical translation, by contrast, places high regard on treating texts,
       even poetic texts, as prose, where accurate dictionary-equivalence is paramount;
-      it makes relatively minor allowance for poetry.
+      it makes relatively minor allowance for poetic form.
 
     <p>
-      By contrast, this translation has poetry as a defining characteristic.
+      That creates a tension here in Lamentations, which is strongly poetic.
+      And this translation emphasises this inherent, structural poetry as a defining characteristic.
       Certainly, the acrostic, including its "A" and "Z" endpoints, is key.
       Equally key is the underlying rhythm:
       that incessantly driving 3&ndash;2 'qinah' pulse of the first four chapters.
