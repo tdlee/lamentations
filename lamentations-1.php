@@ -63,7 +63,7 @@
   &emsp;SHE, once a LA-dy among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
-  &emsp;SHE, once PRIN-cess among PRO-vinces, (or '...princ-CESS...')
+  &emsp;SHE, once prin-CESS among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
         <p>
