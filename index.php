@@ -77,7 +77,8 @@
       persist in deploying linguistic styles redolent
       of a gentle ramble through flowery meadows
       on an English summer's day
-      in the company of pastoral poet William Wordsworth.
+      in the company of pastoral poet William Wordsworth
+      if he had accidentally brushed against a stinging nettle while picking one of his beloved daffodils.
     </p>
 
     <p>
