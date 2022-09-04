@@ -29,7 +29,7 @@
     ?>
 
     <p>
-      Throughout chapters one, two and four, Zion is not only dwelling-place of God
+      Throughout chapters one, two and four, Zion is not only the dwelling-place of God
       but is additionally personified by the hauntingly endearing term "Daughter Zion".
       The poems lament not merely an inamimate city;
       the city is a precious daughter, beloved of God.<?php
@@ -63,7 +63,7 @@
   &emsp;SHE, once a LA-dy among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
-  &emsp;SHE, once PRIN-cess among PRO-vinces, (or '...princ-CESS...')
+  &emsp;SHE, once prin-CESS among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
         <p>
