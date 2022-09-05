@@ -42,7 +42,7 @@
       here the sense often carries across verse boundaries.
       Similarly, sentence boundaries may be mid-verse.
       For instance, the opening three verses
-      (acrostic: alas, blitzed, cut)
+      (acrostic: <span class="acrostic-letter">a</span>las, <span class="acrostic-letter">b</span>litzed, <span class="acrostic-letter">c</span>ut off)
       are two long trains of thought, with the break being mid-verse:
     </p>
     <div class="panel panel--width-18em">
