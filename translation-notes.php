@@ -123,7 +123,7 @@
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
-      Lam.1:7 is a case in point; its first line requires an opening "G" word.
+      Lam.1:7 is a case in point; the first of its lines requires an opening "G" word.
       A workable solution is to switch its first and second lines,
       allowing for "great treasures" to begin the verse.
     </p>
