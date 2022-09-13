@@ -398,7 +398,7 @@
         <li>
           <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>,
           Professor of Old Testament at Fuller Seminary, USA,
-          for his brilliant commentary
+          for his excellent commentary
           <a href="https://www.amazon.co.uk/Lamentations-International-Commentary-Testament-Nicot/dp/0802825427/" target="_blank"><cite>The Book of Lamentations</cite></a>, 978-0802825421
         </li>
       </ul>
