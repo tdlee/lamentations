@@ -80,7 +80,7 @@
         <p>
           Belov&egrave;d sons of Zion<br>
           &emsp;of gold-weight worth,<br>
-          alas, rated as crocks of clay&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) -->
+          alas, rated mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" deosn't quite capture disposable nature of Hebrew" -->
           &emsp;work of any potter.
         </p>
 
