@@ -45,7 +45,9 @@
 
     <p>
       It starts with the impossible.
-      Gold does not, and cannot, tarnish under normal circumstances.
+      Pure gold does not, and cannot, tarnish under normal circumstances.<?php
+        Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
+      ?>
       Yet here it does.
       Things are so bad that even nature, God's own created order, is out of kilter.
       And it continues into the human realm,
