@@ -53,7 +53,7 @@
             &mdash;flung down&hellip;<br>
             &mdash;nor remembered&hellip;<br>
             &mdash;<span class="acrostic-letter">b</span>litzed to the ground&hellip;<br>
-            &mdash;in fury has&hellip;<br>
+            &mdash;razed in fury&hellip;<br>
         </p>
         <p>
           My Lord has:<br>
@@ -92,7 +92,7 @@
         <p>
           Blitzed to the ground in desecration<br>
           &emsp;a kingdom and its princes;<br>
-          in fury has razed the defences<br>
+          razed in fury the defences<br>
           &emsp;of Daughter Judah.<br>
           My Lord has devoured without pity<br>
           &emsp;all the dwellings of Jacob;
