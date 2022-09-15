@@ -45,7 +45,9 @@
 
     <p>
       It starts with the impossible.
-      Gold does not, and cannot, tarnish under normal circumstances.
+      Pure gold does not, and cannot, tarnish under normal circumstances.<?php
+        Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
+      ?>
       Yet here it does.
       Things are so bad that even nature, God's own created order, is out of kilter.
       And it continues into the human realm,
@@ -80,7 +82,7 @@
         <p>
           Belov&egrave;d sons of Zion<br>
           &emsp;of gold-weight worth,<br>
-          alas, rated as crocks of clay&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) -->
+          alas, rated mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" deosn't quite capture disposable nature of Hebrew" -->
           &emsp;work of any potter.
         </p>
 
