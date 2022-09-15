@@ -362,9 +362,11 @@
     "A&nbsp;to&nbsp;Z" sense of totality:
     in the case of the people of Lamentations, the totality of the destruction of their beloved Jerusalem;
     the <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
+    Indeed, the text of the second poem is itself book-ended, "A&nbsp;to&nbsp;Z" style,
+    by "the day of the <span class="yhwh">Lord</span>'s anger".
     </p>
     <p>
-    And isn't this "aleph to tav", "A&nbsp;to&nbsp;Z" totality equally valid as an integral,
+    So isn't this "aleph to tav", "A&nbsp;to&nbsp;Z" totality equally valid as an integral,
     even essential, component of "meaning"?
     So whatever necessary four letters are chosen for omission,
     "A" and "Z" surely remain indispensable.
