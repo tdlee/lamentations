@@ -38,13 +38,16 @@
     </p>
 
     <p>
-      Unlike the first poem, where each verse could be more or less self-contained,
-      here the sense often carries across verse boundaries.
-      Similarly, sentence boundaries may be mid-verse.
-      For instance, the opening three verses
-      (acrostic: <span class="acrostic-letter">a</span>las, <span class="acrostic-letter">b</span>litzed, <span class="acrostic-letter">c</span>ut off)
-      are two long trains of thought, with the break being mid-verse:
-    </p>
+      In the Hebrew text, the first eleven verses and the lines within them
+      almost all start with verbs.<?php
+        Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
+      ?>
+      This bombarding effect is counter
+      to the English-language "subject then verb" convention.
+      That sustained, pounding drive is conveyed here
+      by using a verb-fronted, list-like structure for the first few verses,
+      with the subject being relegated to less prominent placement.
+      For example the first three verses may be read as:
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
         <p>
@@ -150,7 +153,7 @@
         <p>
           God has rejected his altar,<br>
           &emsp;spurned his shrine;<br>
-          to the hands of the enemy has given<br>
+          given over to enemy hands<br>
           &emsp;the walls of her strongholds.<br>
           Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
           &emsp;as on <em>our</em> feast-day.
@@ -159,9 +162,9 @@
         <br>
         <div class="poem__verseref">8</div>
         <p>
-          He was bent on destroying<br>
-          &emsp;Daughter Zion's wall;<br>
-          The <span class="yhwh">Lord</span> stretched out the measuring line;<br>
+          Hell-bent on destroying<br>
+          &emsp;Daughter Zion's wall,<br>
+          the <span class="yhwh">Lord</span> stretched out the measuring line;<br>
           &emsp;did not hesitate to devour;<br>
           made wall and rampart lament:<br>
           &emsp;together they succumbed.
