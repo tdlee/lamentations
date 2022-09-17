@@ -51,7 +51,12 @@
 
     <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
-      to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".
+      to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
+        Footnote('Pierre J.P. Van Hecke (2002),
+          <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
+	  <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
+	  Scandinavian Journal of the Old Testament, 16:2, 264-282, DOI: 10.1080/09018320210000415');
+      ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;6 to see the text of the psalm.)
       </span>
