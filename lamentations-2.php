@@ -30,6 +30,7 @@
 
     <p>
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
+      She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
       this is the polar opposite of the psalmist's praise,
         <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24&ndash;27</a>;

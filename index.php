@@ -368,7 +368,7 @@
     <p>
     So isn't this "aleph to tav", "A&nbsp;to&nbsp;Z" totality equally valid as an integral,
     even essential, component of "meaning"?
-    So whatever necessary four letters are chosen for omission,
+    Whatever necessary four letters are chosen for omission,
     "A" and "Z" surely remain indispensable.
     </p>
 
@@ -400,7 +400,7 @@
         <li>
           <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>,
           Professor of Old Testament at Fuller Seminary, USA,
-          for his excellent commentary
+          for his thorough and profound commentary
           <a href="https://www.amazon.co.uk/Lamentations-International-Commentary-Testament-Nicot/dp/0802825427/" target="_blank"><cite>The Book of Lamentations</cite></a>, 978-0802825421
         </li>
       </ul>
