@@ -134,7 +134,7 @@
         <div class="verse">
   Write loyal cantons of contemn&egrave;d love
     and sing them loud even in the dead of night;
-  Hallo your name to the reverberate hills
+  Halloo your name to the reverberate hills
     and make the babbling gossip of the air
     cry out "O, list'n to us!" O, you should not rest
     between the elements of air and earth
