@@ -387,7 +387,7 @@
     </p>
       <ul>
         <li>
-          <a href="https://www.psalmsforthecommonera.com/" target="_blank">Adam Carlill</a>,
+          Adam Carlill,
           Oxford DPhil in Hebrew Bible theology,
           for excellent and inspirational critique of portions of this.
         </li>
