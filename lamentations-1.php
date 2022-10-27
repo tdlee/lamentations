@@ -46,7 +46,7 @@
       <p>
         Reminder: "qinah" rhythm is vitally important to recitation and reading.
         Each line-pair has three then two strong beats.
-        For an example, hover the mouse over the opening "Alas!&nbsp;..." verse.
+        For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
       </p>
     </div>
 
@@ -74,7 +74,7 @@
               external to that metre.
               This is probably also true of the "Alas!" of the second chapter
               although probably not of the fourth.
-              So acrostically I have used an additional "A..." word following that "Alas!"';
+              So acrostically I have used an additional "A&hellip;" word following that "Alas!"';
           ?>
           Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
           Alone she lies: the city<br>

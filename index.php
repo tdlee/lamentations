@@ -140,11 +140,9 @@
     between the elements of air and earth
     but you should pity me.
         </div><!-- "verse" -->
-        <div class="panel__author">
-          <p>
+        <div class="panel__cite">
             &mdash;William Shakespeare "Twelfth Night" <i>(adapted)</i>
-          </p>
-        </div><!-- "panel__author" -->
+        </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
@@ -282,11 +280,9 @@
 
         </div><!-- "poem" -->
 
-        <div class="panel__author">
-          <p>
+        <div class="panel__cite">
             &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
-          </p>
-        </div><!-- "panel__author" -->
+        </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
@@ -315,13 +311,11 @@
         <p>Breaking my bones&nbsp;&hellip;</p>
         <p>Besieged by him&nbsp;&hellip;</p>
         <p>Bound by him&nbsp;&hellip;</p>
-
-        <div class="panel__author">
-          <p>
-            &mdash;Lam.&nbsp;3:1&ndash;6
-          </p>
-        </div><!-- "panel__author" -->
       </div><!-- "poem" -->
+
+      <div class="panel__cite">
+          &mdash;Lam.&nbsp;3:1&ndash;6
+      </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>
@@ -393,7 +387,7 @@
     </p>
       <ul>
         <li>
-          <a href="https://www.psalmsforthecommonera.com/" target="_blank">Adam Carlill</a>,
+          Adam Carlill,
           Oxford DPhil in Hebrew Bible theology,
           for excellent and inspirational critique of portions of this.
         </li>

@@ -116,12 +116,16 @@
         <br>
         <div class="poem__verseref">4</div>
         <p>
+          <?php
+            $fn='This overall line is shorter than the usual qinah 3&ndash;2.';
+            $fn2='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+          ?>
           Drawing his bow like an enemy,<br>
           &emsp;his right hand poised,<br>
           like a foe, he has slain those precious<br>
-          &emsp;in his eye, and has poured<br>
-          out his wrath like fire on the tent<br>
-          &emsp;of Daughter Zion.
+          &emsp;in his eye;<?php Footnote($fn); ?><br>
+          on Daughter Zion's campsite<?php Footnote($fn2); ?> his fire-wrath<br>
+          &emsp;has he outpoured.
         </p>
 
         <br>
@@ -141,7 +145,7 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Felling his tent like a garden,<br>
+          Felling his tent<?php Footnote("See note on 4<em>c</em>"); ?> like a garden,<br>
           &emsp;he destroyed his meeting place;<br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
           &emsp;both feast-day and sabbath;<br>
