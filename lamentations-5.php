@@ -46,7 +46,7 @@
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
     </p>
     <p>
-      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.
+      Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.
       Mount Zion,
       God's dwelling-place
       and formerly "joy of all the earth" (2:15 and Ps.48:2)
