@@ -31,7 +31,7 @@
     <p>
       Throughout chapters one, two and four, Zion is not only the dwelling-place of God
       but is additionally personified by the hauntingly endearing term "Daughter Zion".
-      The poems lament not merely an inamimate city;
+      The poems lament not merely an inanimate city;
       the city is a precious daughter, beloved of God.<?php
           Footnote('Adelman, Rachel (2021).  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a> Shalvi/Hyman Encyclopedia of Jewish Women.');
           ?>

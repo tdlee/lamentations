@@ -85,18 +85,15 @@
       Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
-      <div class="poem poem__hebverse">
+      <!-- specifically not "poem_hebverse": NEB lacks even alternating indentation -->
+      <div class="poem">
         <p>
           I am the man who has known affliction,<br>
-            I have felt the rod of his wrath.
-        </p>
-        <p>
+          I have felt the rod of his wrath.<br>
           It was I whom he led away and left to walk<br>
-            in darkness, where no light is.
-        </p>
-        <p>
+          in darkness, where no light is.<br>
           Against me alone he has turned his hand<br>
-            and so it is all day long.
+          and so it is all day long.<br>
         </p>
       </div><!-- "poem" -->
     </div><!-- "panel" -->
@@ -148,7 +145,7 @@
     </div><!-- "sidebar" -->
     <!-- panel -->
     <p>
-    When we read scripture, we can stifle it.
+    Might our reading of scripture risk actually stifling it?
     We sit in comfortable chairs. We are silent.
     We smother it under a prose-shaped bias that pre-disposes our expectations:
     the earnest, spiritual quest for "the meaning".
@@ -204,7 +201,7 @@
       "<a href="https://en.wikipedia.org/wiki/Sprung_rhythm" target="_blank">sprung rhythm</a> with attitude".
     </p>
 
-    <div class="panel panel--width-28em">
+    <div class="panel panel--width-26em">
       <div class="poem">
         <p>
           &emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies:&emsp;&emsp;<strong>I</strong> am the man <strong>seared</strong><br>
@@ -249,7 +246,7 @@
     <h3>&hellip;and acrostics</h3>
 
     <!-- panel -->
-    <div class="sidebar__right--width-45pc">
+    <div class="sidebar__right--width-47pc">
       <div class="panel">
         <div class="poem poem__linewrap poem--acrostic">
           <p>Acrostics are alphabetical texts.</p>
@@ -281,7 +278,7 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-            &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
+            &mdash;the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
@@ -302,7 +299,7 @@
     and the third of these is even triple acrostic:
     </p>
 
-    <div class="panel panel--width-18em">
+    <div class="panel panel--width-17em">
       <div class="poem poem__linewrap poem--acrostic">
         <p>Agonies: I am&nbsp;&hellip;</p>
         <p>Away he has driven&nbsp;&hellip;</p>

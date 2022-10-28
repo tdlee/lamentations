@@ -46,7 +46,7 @@
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
     </p>
     <p>
-      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.
+      Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.
       Mount Zion,
       God's dwelling-place
       and formerly "joy of all the earth" (2:15 and Ps.48:2)
@@ -56,7 +56,9 @@
     </p>
     <p>
       Yet this chapter, above the others, is the book's prayer.
-      It is preceded by abandonment.  It remains in abandonment.
+      It is preceded by abandonment,
+      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay(2000), p193') ?>
+      It remains in abandonment.
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
@@ -107,7 +109,7 @@
         ?>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-            look; notice our disgrace&mdash;<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
+            look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
         </p>
         <br>
 
@@ -127,7 +129,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">5&ndash;6</div>
+          <div class="poem__verseref">5&ndash;7</div>
           <p>
             Up to our necks are we pursued;<br>
               we wearied, we found no rest.
@@ -136,20 +138,17 @@
             We stretched out hands to Egypt;<br>
               to Assyria to beg for our bread.
           </p>
-
-          <br>
-          <div class="poem__verseref">7&ndash;8</div>
           <p>
             Our ancestors offended and are no more;<br>
               now we, we bear their punishment.
           </p>
+
+          <br>
+          <div class="poem__verseref">8&ndash;10</div>
           <p>
             Slaves rule over us;<br>
               there is no-one to free us from their hand.
           </p>
-
-          <br>
-          <div class="poem__verseref">9&ndash;10</div>
           <?php
             $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
           ?>
@@ -164,7 +163,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">11&ndash;12</div>
+          <div class="poem__verseref">11&ndash;14</div>
           <p>
             Women are raped in Zion;<br>
               virgins in the cities of Judah.
@@ -173,9 +172,6 @@
             Princes are hanged by them;<br>
               elders are shown no respect.
           </p>
-
-          <br>
-          <div class="poem__verseref">13&ndash;14</div>
           <p>
             Young men have millstones to carry;<br>
               lads under woodpiles stagger.
@@ -202,14 +198,16 @@
 
         <div class="poem__verseref">17&ndash;18</div>
         <p>
-          At all this&mdash; our hearts sicken,<br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
-            for all these our eyes grow dim,
+          For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
+        </p>
+        <p>
+          for all these: our eyes grow dim;
         </p>
         <?php
           $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
         ?>
         <p>
-          for Mount Zion, lying desolate:<br>
+          for Mount Zion: lying desolate,<br>
             the haunt of hyenas.<?php Footnote($fn); ?>
         </p>
 
