@@ -85,18 +85,15 @@
       Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
-      <div class="poem poem__hebverse">
+      <!-- specifically not "poem_hebverse": NEB lacks even alternating indentation -->
+      <div class="poem">
         <p>
           I am the man who has known affliction,<br>
-            I have felt the rod of his wrath.
-        </p>
-        <p>
+          I have felt the rod of his wrath.<br>
           It was I whom he led away and left to walk<br>
-            in darkness, where no light is.
-        </p>
-        <p>
+          in darkness, where no light is.<br>
           Against me alone he has turned his hand<br>
-            and so it is all day long.
+          and so it is all day long.<br>
         </p>
       </div><!-- "poem" -->
     </div><!-- "panel" -->
