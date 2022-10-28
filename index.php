@@ -145,7 +145,7 @@
     </div><!-- "sidebar" -->
     <!-- panel -->
     <p>
-    When we read scripture, we can stifle it.
+    Might our reading of scripture risk actually stifling it?
     We sit in comfortable chairs. We are silent.
     We smother it under a prose-shaped bias that pre-disposes our expectations:
     the earnest, spiritual quest for "the meaning".
