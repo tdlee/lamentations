@@ -127,7 +127,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">5&ndash;6</div>
+          <div class="poem__verseref">5&ndash;7</div>
           <p>
             Up to our necks are we pursued;<br>
               we wearied, we found no rest.
@@ -136,20 +136,17 @@
             We stretched out hands to Egypt;<br>
               to Assyria to beg for our bread.
           </p>
-
-          <br>
-          <div class="poem__verseref">7&ndash;8</div>
           <p>
             Our ancestors offended and are no more;<br>
               now we, we bear their punishment.
           </p>
+
+          <br>
+          <div class="poem__verseref">8&ndash;10</div>
           <p>
             Slaves rule over us;<br>
               there is no-one to free us from their hand.
           </p>
-
-          <br>
-          <div class="poem__verseref">9&ndash;10</div>
           <?php
             $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
           ?>
@@ -164,7 +161,7 @@
           </p>
 
           <br>
-          <div class="poem__verseref">11&ndash;12</div>
+          <div class="poem__verseref">11&ndash;14</div>
           <p>
             Women are raped in Zion;<br>
               virgins in the cities of Judah.
@@ -173,9 +170,6 @@
             Princes are hanged by them;<br>
               elders are shown no respect.
           </p>
-
-          <br>
-          <div class="poem__verseref">13&ndash;14</div>
           <p>
             Young men have millstones to carry;<br>
               lads under woodpiles stagger.
