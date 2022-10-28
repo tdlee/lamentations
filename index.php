@@ -246,7 +246,7 @@
     <h3>&hellip;and acrostics</h3>
 
     <!-- panel -->
-    <div class="sidebar__right--width-45pc">
+    <div class="sidebar__right--width-47pc">
       <div class="panel">
         <div class="poem poem__linewrap poem--acrostic">
           <p>Acrostics are alphabetical texts.</p>
