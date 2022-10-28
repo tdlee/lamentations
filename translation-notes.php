@@ -199,7 +199,7 @@
     </ul>
 
     <p>
-      But driving all that was the requirement at 1:12 for an 'n' verb.
+      But driving all that was the acrostic requirement at 1:12 for an 'n' verb.
     </p>
 
     <h3>Other examples</h3>
