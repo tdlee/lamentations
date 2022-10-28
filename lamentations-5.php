@@ -109,7 +109,7 @@
         ?>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-            look; notice our disgrace&mdash;<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
+            look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
         </p>
         <br>
 
@@ -198,14 +198,16 @@
 
         <div class="poem__verseref">17&ndash;18</div>
         <p>
-          At all this&mdash; our hearts sicken,<br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
-            for all these our eyes grow dim,
+          For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
+        </p>
+        <p>
+          for all these: our eyes grow dim;
         </p>
         <?php
           $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
         ?>
         <p>
-          for Mount Zion, lying desolate:<br>
+          for Mount Zion: lying desolate,<br>
             the haunt of hyenas.<?php Footnote($fn); ?>
         </p>
 
