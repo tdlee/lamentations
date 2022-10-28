@@ -281,7 +281,7 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-            &mdash;the late Harvey&nbsp;Minkoff, Professor&nbsp;of&nbsp;Linguistics, Hunter&nbsp;College, New&nbsp;York
+            &mdash;the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
