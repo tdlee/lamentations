@@ -204,7 +204,7 @@
       "<a href="https://en.wikipedia.org/wiki/Sprung_rhythm" target="_blank">sprung rhythm</a> with attitude".
     </p>
 
-    <div class="panel panel--width-28em">
+    <div class="panel panel--width-26em">
       <div class="poem">
         <p>
           &emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies:&emsp;&emsp;<strong>I</strong> am the man <strong>seared</strong><br>
@@ -302,7 +302,7 @@
     and the third of these is even triple acrostic:
     </p>
 
-    <div class="panel panel--width-18em">
+    <div class="panel panel--width-17em">
       <div class="poem poem__linewrap poem--acrostic">
         <p>Agonies: I am&nbsp;&hellip;</p>
         <p>Away he has driven&nbsp;&hellip;</p>
