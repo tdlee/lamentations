@@ -68,19 +68,20 @@
             but also allows the metaphor for the stones of the destroyed Temple.
             Taken in conjunction with following verse,
             this metaphor links an increasingly human sequence:
-            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".';
+            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
+            Further, the Hebrew words "stones" (here) and "sons" (v2) are similar.';
         ?>
         <p>
           Alas!<?php Footnote($fn); ?> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
-          the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 -->
+          the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
           &emsp;on every street corner.
         </p>
 
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Belov&egrave;d sons of Zion<br>
+          Belov&egrave;d sons of Zion<br><!-- "stones" (v1) and "sons" (v2) should resonate -->
           &emsp;of gold-weight worth,<br>
           alas, rated mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" deosn't quite capture disposable nature of Hebrew" -->
           &emsp;work of any potter.
@@ -122,7 +123,7 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Far greater the iniquity of my people<br>
+          Far greater my Daughter People's iniquity<br>
           &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
           which had been in an instant erased<br>
           &emsp;with no hand on her laid.
@@ -164,9 +165,9 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Large-hearted women's own hands<br>
-          &emsp;cook their own children!<br>
-          Their children their food at the holocaust<br>
+          Loving women's own hands<br>
+          &emsp;cook their own children:<br>
+          their children their food at the holocaust<br>
           &emsp;of my Daughter People.<!-- 2:11, 3:48, 4:10 -->
         </p>
 
@@ -184,7 +185,7 @@
         <p>
           Not the kings of the earth<br>
           &emsp;nor its people believed<br>
-          that an enemy or foe could pass through<br>
+          that enemy or foe could penetrate<br>
           &emsp;the gates of Jerusalem.
         </p>
 

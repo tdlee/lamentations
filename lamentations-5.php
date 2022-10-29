@@ -57,12 +57,12 @@
     <p>
       Yet this chapter, above the others, is the book's prayer.
       It is preceded by abandonment,
-      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay(2000), p193') ?>
+      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay(2022), p193') ?>
       It remains in abandonment.
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
-        Footnote('Wielenga, Bob <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig.');
+        Footnote('Wielenga, Bob <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig.');
       ?>
     </p>
     <p>
@@ -178,7 +178,7 @@
           </p>
           <p>
             Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-              young men have stopped their songs.
+              young men their songs.<!-- the first half's "abandoned" verb serves this half-->
           </p>
 
           <br>
