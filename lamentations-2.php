@@ -124,7 +124,7 @@
           &emsp;his right hand poised,<br>
           like a foe, he has slain those precious<br>
           &emsp;in his eye;<?php Footnote($fn); ?><br>
-          on Daughter Zion's campsite<?php Footnote($fn2); ?> his fire-wrath<br>
+          on Daughter Zion's tent<?php Footnote($fn2); ?> his fire-wrath<br>
           &emsp;has he outpoured.
         </p>
 
@@ -145,7 +145,10 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Felling his tent<?php Footnote("See note on 4<em>c</em>"); ?> like a garden,<br>
+          <?php
+            $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
+          ?>
+          Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
           &emsp;he destroyed his meeting place;<br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
           &emsp;both feast-day and sabbath;<br>
