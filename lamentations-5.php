@@ -178,7 +178,7 @@
           </p>
           <p>
             Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-              young men have stopped their songs.
+              young men their songs.<!-- the first half's "abandoned" verb serves this half-->
           </p>
 
           <br>
