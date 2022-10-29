@@ -235,7 +235,7 @@
           &emsp;bound tight by his hand<br>
           his yoke was upon my neck:<br>
           &emsp;he sapped my strength.<br>
-          My Lord has given me into the grip of those<br>
+          The Lord has given me into the grip of those<br>
           &emsp;I cannot withstand.
         </p>
 
@@ -246,7 +246,7 @@
           &emsp;the Lord scorned them,<br>
           and called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
           &emsp;to crush my young men.<br>
-          In a winepress my Lord has trodden<br>
+          In a winepress the Lord has trodden<br>
           &emsp;virgin Daughter Judah.
         </p>
 

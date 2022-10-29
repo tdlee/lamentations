@@ -52,7 +52,7 @@
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
         <p>
-          <span class="acrostic-letter">A</span>las! Angered, my Lord:<br>
+          <span class="acrostic-letter">A</span>las! Angered, the Lord:<br>
             &mdash;beclouded&hellip;<br>
             &mdash;flung down&hellip;<br>
             &mdash;nor remembered&hellip;<br>
@@ -60,7 +60,7 @@
             &mdash;razed in fury&hellip;<br>
         </p>
         <p>
-          My Lord has:<br>
+          The Lord has:<br>
             &mdash;devoured&hellip;<br>
             &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
             &mdash;withdrawn&hellip;<br>
@@ -83,7 +83,7 @@
             $fn2='Footstool: a metaphorical reference to the Jerusalem Temple.';
           ?>
           Alas!<?php Footnote($fn); ?><br>
-          Angered, my Lord beclouded<br>
+          Angered, the Lord beclouded<br>
           &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
           &emsp;the honour of Israel;<br>
@@ -98,7 +98,7 @@
           &emsp;a kingdom and its princes;<br>
           razed in fury the defences<br>
           &emsp;of Daughter Judah.<br>
-          My Lord has devoured without pity<br>
+          The Lord has devoured without pity<br>
           &emsp;all the dwellings of Jacob;
         </p>
 
