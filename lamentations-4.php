@@ -123,7 +123,7 @@
         <br>
         <div class="poem__verseref">6</div>
         <p>
-          Far greater the iniquity of my people<br>
+          Far greater my Daughter People's iniquity<br>
           &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
           which had been in an instant erased<br>
           &emsp;with no hand on her laid.
