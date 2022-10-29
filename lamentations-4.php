@@ -242,7 +242,7 @@
         <br>
         <div class="poem__verseref">18</div>
         <p>
-          Unceasing, they stalked all our steps,<br>
+          Unceasing, they ensnared our steps,<br><!-- "ensnare": 3:52; 4:18 -->
           &emsp;our streets no more ours.<br>
           Our end drew near, our days gone;<br>
           &emsp;our end had come.

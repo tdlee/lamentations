@@ -371,7 +371,7 @@
       <br>
       <div class="poem__verseref">52&ndash;54</div>
       <p>
-      Unreasoning, my enemies ensnare me,<br>
+      Unreasoning, my enemies ensnare me,<br><!-- "ensnare": 3:52; 4:18 -->
          ensnaring as a bird;
       </p>
       <p>
