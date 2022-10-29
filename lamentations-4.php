@@ -68,19 +68,20 @@
             but also allows the metaphor for the stones of the destroyed Temple.
             Taken in conjunction with following verse,
             this metaphor links an increasingly human sequence:
-            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".';
+            "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
+            Further, the Hebrew words "stones" (here) and "sons" (v2) are similar.';
         ?>
         <p>
           Alas!<?php Footnote($fn); ?> The gold, now dulled;<br>
           &emsp;finest gold tarnished!<br>
-          the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 -->
+          the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
           &emsp;on every street corner.
         </p>
 
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Belov&egrave;d sons of Zion<br>
+          Belov&egrave;d sons of Zion<br><!-- "stones" (v1) and "sons" (v2) should resonate -->
           &emsp;of gold-weight worth,<br>
           alas, rated mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" deosn't quite capture disposable nature of Hebrew" -->
           &emsp;work of any potter.
