@@ -185,7 +185,7 @@
         <p>
           Not the kings of the earth<br>
           &emsp;nor its people believed<br>
-          that an enemy or foe could pass through<br>
+          that enemy or foe could penetrate<br>
           &emsp;the gates of Jerusalem.
         </p>
 
