@@ -147,11 +147,12 @@
         <p>
           <?php
             $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
+            $fn2='The garden/meeting-place terminology calls to mind the Garden of Eden, where the <span class="yhwh">Lord</span> would meet Adam and Eve (Gen.&nbsp;3:8-9).';
           ?>
           Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
-          &emsp;he destroyed his meeting place;<br>
+          &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
-          &emsp;both feast-day and sabbath;<br>
+          &emsp;his own feast-day and sabbath;<br>
           in raging anger has spurned<br>
           &emsp;both king and priest.
         </p>
