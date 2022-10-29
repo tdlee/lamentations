@@ -165,9 +165,9 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Large-hearted women's own hands<br>
-          &emsp;cook their own children!<br>
-          Their children their food at the holocaust<br>
+          Loving women's own hands<br>
+          &emsp;cook their own children:<br>
+          their children their food at the holocaust<br>
           &emsp;of my Daughter People.<!-- 2:11, 3:48, 4:10 -->
         </p>
 
