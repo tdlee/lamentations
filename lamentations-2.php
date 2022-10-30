@@ -32,10 +32,12 @@
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
-      this is the polar opposite of the psalmist's praise,
-        <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24&ndash;27</a>;
-      it is the nightmare-turned-reality incarnation of the prophet's warning,
-        <a href="http://www.usccb.org/bible/amos/5?18" target="_blank">Amos&nbsp;5:18&ndash;20</a>.
+      this is the nightmare-turned-reality incarnation of the prophet's warning,
+        <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
+      it is the polar opposite of the psalmist's praise,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+118%3A24-29&version=NRSVUE" target="_blank">Ps.&nbsp;118:24&ndash;27</a>.
+      The poem has some striking similarities with the psalmist's lament,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.
     </p>
 
     <p>
