@@ -198,7 +198,10 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Jerusalem-Daughter, your elders<br>
+          <?php
+            $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
+          ?>
+          Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
           &emsp;sit silent on the ground;<br>
           dust they cast on their heads<br>
           &emsp;and sackcloth they gird.<br>
