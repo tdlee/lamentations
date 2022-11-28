@@ -272,7 +272,7 @@
           You might rejoice now, Daughter Edom<br>
           &emsp;gloating in Uz;<br>
           but to you, too, the chalice shall pass&mdash;<br>
-          &emsp;to you, boozed and debauched.
+          &emsp;to you, boozed and debauched.<?php Footnote('See also Jer.&nbsp;25:15&ndash;29 for this imagery, where Edom and Uz are included.'); ?>
         </p>
 
         <br>
