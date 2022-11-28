@@ -93,7 +93,7 @@
           &emsp;tears wet her cheeks;<br>
           None there is to comfort her<br>
           &emsp;from all her lovers;<br>
-          all her friends have betrayed her:<br>
+          her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
           &emsp;become her enemies.
         </p>
 
