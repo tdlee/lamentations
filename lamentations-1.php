@@ -112,7 +112,7 @@
         <div class="poem__verseref">4</div>
         <p>
           Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
-          &emsp;the roads to Zion mourn;<br>
+          &emsp;Zion roads mourn;<br><!-- may be "roads to" or "roads in" -->
           her gateways all are desolate,<br>
           &emsp;her priests groan,<br>
           her young women are <!-- grieving; --> wailing;<br>
