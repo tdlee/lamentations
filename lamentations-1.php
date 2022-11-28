@@ -115,7 +115,7 @@
           &emsp;Zion roads mourn;<br><!-- may be "roads to" or "roads in" -->
           her gateways all are desolate,<br>
           &emsp;her priests groan,<br>
-          her young women are <!-- grieving; --> wailing;<br>
+          her young women <!-- grieve; --> wail;<br>
           &emsp;how bitter her fate.
         </p>
 
