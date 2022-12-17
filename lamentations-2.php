@@ -267,13 +267,14 @@
         <p>
           <?php
             $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
+            $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
           ?>
           Remembered once: "Perfect in beauty,<br>
           &emsp;joy of all earth";<?php Footnote($fn); ?><br>
           now those who pass by on the road<br>
           &emsp;clap in derision;<br>
           they hiss and wag their heads<br>
-          &emsp;over Daughter Jerusalem.
+          &emsp;over Daughter Jerusalem.<?php Footnote($fn2); ?>
         </p>
 
         <br>
