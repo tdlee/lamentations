@@ -57,7 +57,7 @@
           <span class="acrostic-letter">A</span>las! Angered, the Lord:<br>
             &mdash;beclouded&hellip;<br>
             &mdash;flung down&hellip;<br>
-            &mdash;nor remembered&hellip;<br>
+            &mdash;put out of mind&hellip;<br>
             &mdash;<span class="acrostic-letter">b</span>litzed to the ground&hellip;<br>
             &mdash;razed in fury&hellip;<br>
         </p>
@@ -89,7 +89,7 @@
           &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
           &emsp;the honour of Israel;<br>
-          nor remembered his footstool<?php Footnote($fn2); ?><br>
+          put out of mind his footstool<?php Footnote($fn2); ?><br>
           &emsp;in the day of his anger;
         </p>
 
