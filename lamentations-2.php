@@ -155,7 +155,7 @@
           &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
           &emsp;his own feast-day and sabbath;<br>
-          in raging anger has spurned<br>
+          in angered rage has spurned<br>
           &emsp;both king and priest.
         </p>
 
