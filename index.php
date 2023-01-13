@@ -324,8 +324,10 @@
     <p>
     An aim of this new version is to capture that foundational acrostic technique
     that almost all modern translations lack,
-    <a href="http://www.knoxbible.com/why_is_knox_bible_unique.html" target="_blank">that of Ronald Knox</a>
-    being an exception.
+    <a href="http://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
+    being an exception.<?php
+      Footnote('Unfortunately the Knox translation de-regularises the all-important opening \'A\' word of chapters 1, 2 and 4. These ought to be consistently "Alas" or equivalent but instead become the inconsistent set "Alone", "Alas" and "All".');
+    ?>
     </p>
 
     <p>
