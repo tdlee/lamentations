@@ -43,6 +43,10 @@
     </p>
 
     <p>
+      Observe, too, the frequency of the word "all" and its alignment with the book's theme of the totality of the devastion and suffering.
+    </p>
+
+    <p>
       Reminder: the 3&ndash;2 "qinah" rhythm is vitally important to recitation and reading.
       <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
