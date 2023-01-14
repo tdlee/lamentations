@@ -42,13 +42,12 @@
       Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).  
     </p>
 
-    <div class="noprint">
-      <p>
-        Reminder: "qinah" rhythm is vitally important to recitation and reading.
-        Each line-pair has three then two strong beats.
+    <p>
+      Reminder: the 3&ndash;2 "qinah" rhythm is vitally important to recitation and reading.
+      <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
-      </p>
-    </div>
+      </span>
+    </p>
 
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
