@@ -162,7 +162,10 @@
         <br>
         <div class="poem__verseref">7</div>
         <p>
-          God has rejected his altar,<br>
+          <?php
+            $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+          ?>
+          God<?php Footnote($fn); ?> has rejected his altar,<br>
           &emsp;spurned his shrine;<br>
           given over to enemy hands<br>
           &emsp;the walls of her strongholds.<br>
