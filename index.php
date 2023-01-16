@@ -278,7 +278,7 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-            &mdash;the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
+            &mdash;<a href="https://www.baslibrary.org/bible-review/13/2/11" target="_blank">As Simple as ABC</a>,<br>the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
