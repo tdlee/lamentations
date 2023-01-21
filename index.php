@@ -85,7 +85,7 @@
       Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
-      <!-- specifically not "poem_hebverse": NEB lacks even alternating indentation -->
+      <!-- specifically not "poem__hebverse": NEB lacks even alternating indentation -->
       <div class="poem">
         <p>
           I am the man who has known affliction,<br>
