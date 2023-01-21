@@ -105,7 +105,7 @@
 
         <div class="poem__verseref">1</div>
         <?php
-          $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>At all this&hellip;</i>".';
+          $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
         ?>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
