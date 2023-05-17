@@ -105,7 +105,7 @@
 
         <div class="poem__verseref">1</div>
         <?php
-          $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>At all this&hellip;</i>".';
+          $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
         ?>
         <p>
           Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
@@ -240,7 +240,7 @@
             $fn='The "<i>indeed</i>" translation is supported by both NABRE and Robert Alter.
             Other versions also have this as statement
             (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
-            The NIV can\'t stomach this: a begging "<i>unless you have&hellip;</i>".';
+            The NIV has the more open "<i>unless you have&hellip;</i>".';
             $fn2='This is an astonishingly grim ending; we do well to meditate on this closure.
             Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
           ?>
