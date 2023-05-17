@@ -221,7 +221,7 @@
     </div><!-- "panel" -->
 
     <p>
-    And we might observe that the overall "3+2" count of the line matches the pentameter, so familiar in English poetry.
+    And we might observe that the overall three&ndash;two count of the line matches the pentameter, so familiar in English poetry.
     </p>
 
     <p>
