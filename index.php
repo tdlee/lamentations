@@ -178,7 +178,9 @@
     Lamentations also has the acrostic, discarded in most translations.
     But perhaps even more important,
     and also jettisoned in most translations,
-    is a forceful, angst-driven rhythm, known as 'qinah'.
+    is a forceful, angst-driven rhythm, known as 'qinah'.<?php
+      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  In our context, we use the rhythmic meaning.');
+    ?>
     </p>
 
     <h3>Qinah&hellip;</h3>
