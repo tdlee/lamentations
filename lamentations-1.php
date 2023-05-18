@@ -43,7 +43,7 @@
     </p>
 
     <p>
-      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay(2022), pp.11, 41'); ?> and its alignment with the book's theme of the totality of the devastion and suffering.
+      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with the book's theme of the totality of the devastion and suffering.
     </p>
 
     <p>
