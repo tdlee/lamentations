@@ -253,7 +253,7 @@
         <p>
           Vicious and swifter than sky-hawks<br>
           &emsp;came our pursuers:<br>
-          Hot on our trail through the hills;<br>
+          Hot on our heels through the hills;<br>
           &emsp;ambushers of the desert.
         </p>
 
