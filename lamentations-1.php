@@ -72,7 +72,7 @@
         <p>
           <?php
             $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
-            $fn2='Despite the importance of the overall 3:2 <em>qinah</em> metre,
+            $fn2='Despite the importance of the overall 3&ndash;2 <em>qinah</em> metre,
               the opening "Alas!" is probably a preamble \'anacrusis\',
               external to that metre.
               This is probably also true of the "Alas!" of the second chapter
