@@ -40,7 +40,7 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).  
+      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).
     </p>
 
     <p>
