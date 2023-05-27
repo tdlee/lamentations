@@ -269,7 +269,10 @@
         <br>
         <div class="poem__verseref">21</div>
         <p>
-          You might rejoice now, Daughter Edom<br>
+          You might rejoice now, Daughter Edom<?php
+            $fn='While "Daughter Zion" is clearly a term of endearment, by contrast "Daughter Edom", for Zion\'s enemy, can, and probably should, be read sardonically.  See also (a) Is.&nbsp;47 "Daughter Babylon" (b) Berlin (2004) p.113.';
+            Footnote("$fn");
+          ?><br>
           &emsp;gloating in Uz;<br>
           but to you, too, the chalice shall pass&mdash;<br>
           &emsp;to you, boozed and debauched.<?php Footnote('See also Jer.&nbsp;25:15&ndash;29 for this imagery, where Edom and Uz are included.'); ?>
