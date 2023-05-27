@@ -338,7 +338,7 @@
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
     but the poet exploits this pattern for expressive emphasis."</i><?php
-      Footnote('Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", footnote to Lam.&nbsp;3:1. p.657. 978-0-393-29249-7');
+      Footnote('Alter, Robert (2019), p.657');
     ?>
     Again, a prose-biased quest for "meaning" might miss this.
     But it can come across with authentic power in the poem,
@@ -390,13 +390,11 @@
         <li>
           Adam Carlill,
           Oxford DPhil in Hebrew Bible theology,
-          for excellent and inspirational critique of portions of this.
+          for excellent and inspirational critique of various portions
         </li>
         <li>
-          <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>,
-          Professor of Old Testament at Fuller Seminary, USA,
-          for his thorough and profound commentary
-          <a href="https://www.amazon.co.uk/Lamentations-International-Commentary-Testament-Nicot/dp/0802825427/" target="_blank"><cite>The Book of Lamentations</cite></a>, 978-0802825421
+          Commentary authors Adele Berlin, John Goldingay and Jill Middlemas
+          for their enthusiasm for this project
         </li>
       </ul>
 
