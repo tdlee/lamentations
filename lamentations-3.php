@@ -258,7 +258,7 @@
       <div class="poem__verseref">31&ndash;33</div>
       <p>
       <?php
-        $fn='As with the "I" stanza, the lines here should all start with the same word.  Unfortunately this is a challenge too far.  The Hebrew word is a little anacrusis meaning "for&hellip;" ("because&hellip;").  There seems no such word in English.  Nor does there seem any other reasonable common word across the three lines. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would later require a stanza of three "Q" or "X" words.';
+        $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
       ?>
       Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
          lasts not forever;

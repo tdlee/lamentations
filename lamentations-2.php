@@ -32,10 +32,12 @@
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
-      this is the polar opposite of the psalmist's praise,
-        <a href="http://www.usccb.org/bible/psalms/118?24" target="_blank">118:24&ndash;27</a>;
-      it is the nightmare-turned-reality incarnation of the prophet's warning,
-        <a href="http://www.usccb.org/bible/amos/5?18" target="_blank">Amos&nbsp;5:18&ndash;20</a>.
+      this is the nightmare-turned-reality incarnation of the prophet's warning,
+        <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
+      it is the polar opposite of the psalmist's praise,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+118%3A24-29&version=NRSVUE" target="_blank">Ps.&nbsp;118:24&ndash;27</a>.
+      The poem has some striking similarities with the psalmist's lament,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.
     </p>
 
     <p>
@@ -55,7 +57,7 @@
           <span class="acrostic-letter">A</span>las! Angered, the Lord:<br>
             &mdash;beclouded&hellip;<br>
             &mdash;flung down&hellip;<br>
-            &mdash;nor remembered&hellip;<br>
+            &mdash;put out of mind&hellip;<br>
             &mdash;<span class="acrostic-letter">b</span>litzed to the ground&hellip;<br>
             &mdash;razed in fury&hellip;<br>
         </p>
@@ -87,7 +89,7 @@
           &emsp;Daughter Zion;<br>
           flung down from the heavens to earth<br>
           &emsp;the honour of Israel;<br>
-          nor remembered his footstool<?php Footnote($fn2); ?><br>
+          put out of mind his footstool<?php Footnote($fn2); ?><br>
           &emsp;in the day of his anger;
         </p>
 
@@ -153,14 +155,17 @@
           &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
           The <span class="yhwh">Lord</span> has blotted from Zion<br>
           &emsp;his own feast-day and sabbath;<br>
-          in raging anger has spurned<br>
+          in angered rage has spurned<br>
           &emsp;both king and priest.
         </p>
 
         <br>
         <div class="poem__verseref">7</div>
         <p>
-          God has rejected his altar,<br>
+          <?php
+            $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+          ?>
+          God<?php Footnote($fn); ?> has rejected his altar,<br>
           &emsp;spurned his shrine;<br>
           given over to enemy hands<br>
           &emsp;the walls of her strongholds.<br>
@@ -196,7 +201,10 @@
         <br>
         <div class="poem__verseref">10</div>
         <p>
-          Jerusalem-Daughter, your elders<br>
+          <?php
+            $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
+          ?>
+          Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
           &emsp;sit silent on the ground;<br>
           dust they cast on their heads<br>
           &emsp;and sackcloth they gird.<br>
@@ -262,13 +270,14 @@
         <p>
           <?php
             $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
+            $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
           ?>
           Remembered once: "Perfect in beauty,<br>
           &emsp;joy of all earth";<?php Footnote($fn); ?><br>
           now those who pass by on the road<br>
           &emsp;clap in derision;<br>
           they hiss and wag their heads<br>
-          &emsp;over Daughter Jerusalem.
+          &emsp;over Daughter Jerusalem.<?php Footnote($fn2); ?>
         </p>
 
         <br>

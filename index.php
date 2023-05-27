@@ -85,7 +85,7 @@
       Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
-      <!-- specifically not "poem_hebverse": NEB lacks even alternating indentation -->
+      <!-- specifically not "poem__hebverse": NEB lacks even alternating indentation -->
       <div class="poem">
         <p>
           I am the man who has known affliction,<br>
@@ -178,7 +178,9 @@
     Lamentations also has the acrostic, discarded in most translations.
     But perhaps even more important,
     and also jettisoned in most translations,
-    is a forceful, angst-driven rhythm, known as 'qinah'.
+    is a forceful, angst-driven rhythm, known as 'qinah'.<?php
+      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  In our context, we use the rhythmic meaning.');
+    ?>
     </p>
 
     <h3>Qinah&hellip;</h3>
@@ -219,7 +221,7 @@
     </div><!-- "panel" -->
 
     <p>
-    And we might observe that the overall "3+2" count of the line matches the pentameter, so familiar in English poetry.
+    And we might observe that the overall three&ndash;two count of the line matches the pentameter, so familiar in English poetry.
     </p>
 
     <p>
@@ -278,7 +280,7 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-            &mdash;the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
+            &mdash;<a href="https://www.baslibrary.org/bible-review/13/2/11" target="_blank">As Simple as ABC</a>,<br>the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
@@ -324,8 +326,10 @@
     <p>
     An aim of this new version is to capture that foundational acrostic technique
     that almost all modern translations lack,
-    <a href="http://www.knoxbible.com/why_is_knox_bible_unique.html" target="_blank">that of Ronald Knox</a>
-    being an exception.
+    <a href="http://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
+    being an exception.<?php
+      Footnote('Unfortunately the Knox translation de-regularises the all-important opening \'A\' word of chapters 1, 2 and 4. These ought to be consistently "Alas" or equivalent but instead become the inconsistent set "Alone", "Alas" and "All".');
+    ?>
     </p>
 
     <p>

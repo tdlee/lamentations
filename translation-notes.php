@@ -129,6 +129,16 @@
     </p>
 
     <p>
+      But a chapter later at 2:7 a similar problem arises,
+      and also, as it happens, with a "G" verse.
+      Here, too, a similar line-swap solution offered itself.
+      This was tempting.
+      But other factors argued against its adoption,
+      despite the fact that it would solve an additional problem.
+      See the footnote there.
+    </p>
+
+    <p>
       The acrostic use of "Z" for the final stanza of the first four poems
       is an interesting challenge, as there are so few such English words
       in regular use.
