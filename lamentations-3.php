@@ -46,7 +46,8 @@
 
     <p>
       Like the earlier two poems, this can also be seen as being in two "voices":
-      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).
+      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
+      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
     </p>
 
     <p>
@@ -199,113 +200,116 @@
       </p>
       <p>
       Glimmering, though, to heart<br>
-         dawns a faint, far-off hope;
+         dawns a faint, far-off hope:
       </p>
 
       <br>
-      <div class="poem__verseref">22&ndash;24</div>
-      <p>
-      Habitual, though, his compassions;<br>
-        the  <span class="yhwh">Lord</span>'s love never fails us;
-      </p>
-      <p>
-      His mercies renew each day-dawning;<br>
-        how great is your faithfulness.
-      </p>
-      <?php
-        $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
-      ?>
-      <p>
-      Hope I then in him; may I say<br>
-        "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
-      </p>
+      <div class="content-area--left-indent">
+        <div class="poem__verseref">22&ndash;24</div>
+        <p>
+        Habitual, though, his compassions;<br>
+          the  <span class="yhwh">Lord</span>'s love never fails us;
+        </p>
+        <p>
+        His mercies renew each day-dawning;<br>
+          how great is your faithfulness.
+        </p>
+        <?php
+          $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
+        ?>
+        <p>
+        Hope I then in him; may I say<br>
+          "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
+        </p>
 
-      <br>
-      <div class="poem__verseref">25&ndash;27</div>
-      <p>
-      <?php
-        $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
-      ?>
-      Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
-        to those who quest for him;
-      </p>
-      <p>
-      Irreproachable is our hoping in quietness<br>
-         for the <span class="yhwh">Lord</span>'s saving rescue;
-      </p>
-      <p>
-      Irreproachable is it to bear<br>
-         the yoke while in youth.
-      </p>
+        <br>
+        <div class="poem__verseref">25&ndash;27</div>
+        <p>
+        <?php
+          $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
+        ?>
+        Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
+          to those who quest for him;
+        </p>
+        <p>
+        Irreproachable is our hoping in quietness<br>
+           for the <span class="yhwh">Lord</span>'s saving rescue;
+        </p>
+        <p>
+        Irreproachable is it to bear<br>
+           the yoke while in youth.
+        </p>
 
-      <br>
-      <div class="poem__verseref">28&ndash;30</div>
-      <p>
-      <?php
-        $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
-        $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
-      ?>
-      Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
-         when it's laid so upon him.
-      </p>
-      <p>
-      Lend he his mouth to the dust&mdash;<br>
-         perhaps yet may be hope.
-      </p>
-      <p>
-      Lend he his cheek to the assailant;<br>
-         take his fill of disgrace.
-      </p>
+        <br>
+        <div class="poem__verseref">28&ndash;30</div>
+        <p>
+        <?php
+          $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
+          $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
+        ?>
+        Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
+           when it's laid so upon him.
+        </p>
+        <p>
+        Lend he his mouth to the dust&mdash;<br>
+           perhaps yet may be hope.
+        </p>
+        <p>
+        Lend he his cheek to the assailant;<br>
+           take his fill of disgrace.
+        </p>
 
-      <br>
-      <div class="poem__verseref">31&ndash;33</div>
-      <p>
-      <?php
-        $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
-      ?>
-      Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
-         lasts not forever;
-      </p>
-      <p>
-      Mercy and kindness will follow<br>
-        his sorrow-borne strike;<br>
-      </p>
-      <p>
-      Mean heart guides not his affliction<br>
-         of humanity's children.
-      </p>
+        <br>
+        <div class="poem__verseref">31&ndash;33</div>
+        <p>
+        <?php
+          $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
+        ?>
+        Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
+           lasts not forever;
+        </p>
+        <p>
+        Mercy and kindness will follow<br>
+          his sorrow-borne strike;<br>
+        </p>
+        <p>
+        Mean heart guides not his affliction<br>
+           of humanity's children.
+        </p>
 
-      <br>
-      <div class="poem__verseref">34&ndash;36</div>
-      <p>
-      Neutering, crushing underfoot<br>
-         all prisoners of earth?
-      </p>
-      <p>
-      Nay-saying, denying our rights<br>
-         before the Most High?<!-- vv35,38: "Most High" -->
-      </p>
-      <p>
-      Negating our crying for justice?&mdash;<br>
-         the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
-      </p>
+        <br>
+        <div class="poem__verseref">34&ndash;36</div>
+        <p>
+        Neutering, crushing underfoot<br>
+           all prisoners of earth?
+        </p>
+        <p>
+        Nay-saying, denying our rights<br>
+           before the Most High?<!-- vv35,38: "Most High" -->
+        </p>
+        <p>
+        Negating our crying for justice?&mdash;<br>
+           the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
+        </p>
 
-      <br>
-      <div class="poem__verseref">37&ndash;39</div>
-      <p>
-      Ordering futures? Who can make so<br>
-        should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
-      </p>
-      <p>
-      Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
-        both disaster and good?
-      </p>
-      <p>
-      Of what shall one living complain<br>
-        on account of his wrong?
-      </p>
+        <br>
+        <div class="poem__verseref">37&ndash;39</div>
+        <p>
+        Ordering futures? Who can make so<br>
+          should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
+        </p>
+        <p>
+        Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
+          both disaster and good?
+        </p>
+        <p>
+        Of what shall one living complain<br>
+          on account of his wrong?
+        </p>
 
-      <br>
+        <br>
+      </div><!-- "left-indent" -->
+
       <div class="poem__verseref">40&ndash;42</div>
       <p>
       Plumb we our ways, let us audit them,<br>
