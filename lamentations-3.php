@@ -57,6 +57,9 @@
           <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
           Scandinavian Journal of the Old Testament, 16:2, 264-282, DOI: 10.1080/09018320210000415');
       ?>
+      Other commentators extend this reversal further, to v.9 or v.13.<?php
+       Footnote('Berlin (2004), p.86');
+      ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;6 to see the text of the psalm.)
       </span>
