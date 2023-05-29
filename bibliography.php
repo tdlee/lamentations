@@ -38,7 +38,7 @@
         Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", W.W.Norton&nbsp;&amp;&nbsp;Co., <span class="nowrap">ISBN&nbsp;978-0-393-29249-7</span>
       </li>
       <li>
-        Berlin, Adele (2004) "Lamentations: A Commentary", Westminster John Knox Press, <span class="nowrap">ISBN&nbsp;978-0-664-22974-3</span>
+        Berlin, Adele (2004) "Lamentations: A Commentary", Westminster John Knox Press, <span class="nowrap">ISBN&nbsp;978-0-664-22974-0</span>
       </li>
       <li>
         Goldingay, John (2022) "The Book of Lamentations", Eerdmans, <span class="nowrap">ISBN&nbsp;978-0-8028-2542-1</span>
