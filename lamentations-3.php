@@ -327,12 +327,12 @@
       <br>
       <div class="poem__verseref">43&ndash;45</div>
       <p>
-      Retributively you enveloped us, pursued us;<br><!-- vv.43,44: same verb -->
+      Re-cloaked in anger, you pursued us;<br><!-- vv.43,44: same verb -->
         you slew us unsparingly;
       </p>
       <p>
-      Raiment of storm cloud enveloped you,<br>
-        blocking out prayer;
+      Re-cloaked in enveloping cloud:<br>
+        impenetrable to prayer.
       </p>
       <p>
       <?php
