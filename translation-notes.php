@@ -160,6 +160,20 @@
     </p>
 
     <p>
+      In the triple acrostic at 3:43&ndash;45
+      the first two verses have noticeably similar structures,
+      both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
+      At this point we need an "R" word, but there is no readily apparent such verb,
+      nor is there another word suitably shareable across them both.
+      So the unusual, but clear "re-cloak" was used.
+      While its "re-" prefix suggests a concept of recurrence
+      which is not apparent in the original verbs,
+      nevertheless it hints back to ideas to which the wider context
+      of those verses seem to allude.
+      See the footnote there.
+    </p>
+
+    <p>
       On the positive side, our 26 letters over Hebrew's 22
       means we can drop four English letters.
       This provides some flexibility.
@@ -186,10 +200,10 @@
     </p>
     <ul>
     <li>
-      v9: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      v9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      v11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
       v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
@@ -201,10 +215,10 @@
     </p>
     <ul>
     <li>
-      2:20: <strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+      2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
     </li>
     <li>
-      5:1: <strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
+      5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
     </li>
     </ul>
 
