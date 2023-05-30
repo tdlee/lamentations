@@ -186,10 +186,10 @@
     </p>
     <ul>
     <li>
-      v9: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      v9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      v11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
       v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
@@ -201,10 +201,10 @@
     </p>
     <ul>
     <li>
-      2:20: <strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+      2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
     </li>
     <li>
-      5:1: <strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
+      5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
     </li>
     </ul>
 
