@@ -160,6 +160,20 @@
     </p>
 
     <p>
+      In the triple acrostic at 3:43&ndash;45
+      the first two verses have noticeably similar structures,
+      both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
+      At this point we need an "R" word, but there is no readily apparent such verb,
+      nor is there another word suitably shareable across them both.
+      So the unusual, but clear "re-cloak" was used.
+      While its "re-" prefix suggests a concept of recurrence
+      which is not apparent in the original verbs,
+      nevertheless it hints back to ideas to which the wider context
+      of those verses seem to allude.
+      See the footnote there.
+    </p>
+
+    <p>
       On the positive side, our 26 letters over Hebrew's 22
       means we can drop four English letters.
       This provides some flexibility.

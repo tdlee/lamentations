@@ -327,7 +327,10 @@
       <br>
       <div class="poem__verseref">43&ndash;45</div>
       <p>
-      Re-cloaked in anger, you pursued us;<br><!-- vv.43,44: same verb -->
+      <?php
+        $fn='The Hebrew verb here often refers to the covering of the Ark of the Covenant: the immanent presence of God. It also alludes to the Exdous "pillar of cloud" and to Moses on Mt.&nbsp;Sinai. While those had beneficially signified the presence of God with his people, here God has erected a barrier against his own people. "Nowhere in Lamentations, and perhaps the entire Bible, is God\'s refusal to be present more strongly expressed." Berlin (2004) p.96.';
+      ?>
+      Re-cloaked<?php Footnote($fn); ?> in anger, you pursued us;<br><!-- vv.43,44: same verb -->
         you slew us unsparingly;
       </p>
       <p>
