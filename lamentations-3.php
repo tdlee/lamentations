@@ -229,7 +229,7 @@
           $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
         ?>
         Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
-          to those who quest for him;
+          to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
         </p>
         <p>
         Irreproachable is our hoping in quietness<br>
