@@ -40,8 +40,9 @@
       and reflect a woman's perspective of the effects of war and siege,
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
-      from the gender-specific Hebrew "geber"
-      (unlike, say, "adam" which can sometimes be read in gender-inclusive ways).
+      from the gender-specific Hebrew "geber",
+      unlike "adam" which can sometimes be read in gender-inclusive ways.
+      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
     </p>
 
     <p>
@@ -100,7 +101,7 @@
         $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
       ?>
       <p>
-      Agonies: I am the man<?php Footnote($fn); ?> seared<br>
+      Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 -->
         by the rod of his wrath;
       </p>
       <p>
@@ -232,11 +233,11 @@
           to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
         </p>
         <p>
-        Irreproachable is our hoping in quietness<br>
+        Irreproachable our hoping in quietness<br>
            for the <span class="yhwh">Lord</span>'s saving rescue;
         </p>
         <p>
-        Irreproachable is it to bear<br>
+        Irreproachable a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
            the yoke while in youth.
         </p>
 
@@ -284,7 +285,7 @@
            all prisoners of earth?
         </p>
         <p>
-        Nay-saying, denying our rights<br>
+        Nay-saying, denying this man's rights<br><!-- man/geber: vv 1,27,35,39 -->
            before the Most High?<!-- vv35,38: "Most High" -->
         </p>
         <p>
@@ -303,8 +304,8 @@
           both disaster and good?
         </p>
         <p>
-        Of what shall one living complain<br>
-          on account of his wrong?
+        Of what shall one living complain;<br><!-- man/geber: vv 1,27,35,39 -->
+          this man for his sins?<?php Footnote('The first half-verse has Hebrew "adam", the second has "geber". This contrast is preserved here using "one" and "man".'); ?>
         </p>
 
         <br>
