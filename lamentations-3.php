@@ -233,11 +233,11 @@
           to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
         </p>
         <p>
-        Irreproachable our hoping in quietness<br>
+        Irreproachable: our hoping in quietness<br>
            for the <span class="yhwh">Lord</span>'s deliverance;
         </p>
         <p>
-        Irreproachable a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
+        Irreproachable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
            the yoke while in youth.
         </p>
 
