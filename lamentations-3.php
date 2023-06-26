@@ -234,7 +234,7 @@
         </p>
         <p>
         Irreproachable our hoping in quietness<br>
-           for the <span class="yhwh">Lord</span>'s saving rescue;
+           for the <span class="yhwh">Lord</span>'s deliverance;
         </p>
         <p>
         Irreproachable a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
