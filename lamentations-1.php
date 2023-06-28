@@ -34,12 +34,13 @@
       The poems lament not merely an inanimate city;
       the city is a precious daughter, beloved of God.<?php
           Footnote('Adelman, Rachel (2021).  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a> Shalvi/Hyman Encyclopedia of Jewish Women.');
+          Footnote('Berlin (2004), pp.10&ndash;12');
           ?>
       This is set out within the very first verse.
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).  
+      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).
     </p>
 
     <p>
