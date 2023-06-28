@@ -40,13 +40,15 @@
       and reflect a woman's perspective of the effects of war and siege,
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
-      from the gender-specific Hebrew "geber"
-      (unlike, say, "adam" which can sometimes be read in gender-inclusive ways).
+      from the gender-specific Hebrew "geber",
+      unlike "adam" which can sometimes be read in gender-inclusive ways.
+      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
     </p>
 
     <p>
       Like the earlier two poems, this can also be seen as being in two "voices":
-      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).
+      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
+      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
     </p>
 
     <p>
@@ -54,8 +56,11 @@
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
         Footnote('Pierre J.P. Van Hecke (2002),
           <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
-	  <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
-	  Scandinavian Journal of the Old Testament, 16:2, 264-282, DOI: 10.1080/09018320210000415');
+          <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
+          Scandinavian Journal of the Old Testament, 16:2, 264-282, DOI: 10.1080/09018320210000415');
+      ?>
+      Other commentators extend this reversal further, to v.9 or v.13.<?php
+       Footnote('Berlin (2004), p.86');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;6 to see the text of the psalm.)
@@ -96,7 +101,7 @@
         $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
       ?>
       <p>
-      Agonies: I am the man<?php Footnote($fn); ?> seared<br>
+      Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 -->
         by the rod of his wrath;
       </p>
       <p>
@@ -196,113 +201,116 @@
       </p>
       <p>
       Glimmering, though, to heart<br>
-         dawns a faint, far-off hope;
+         dawns a faint, far-off hope:
       </p>
 
       <br>
-      <div class="poem__verseref">22&ndash;24</div>
-      <p>
-      Habitual, though, his compassions;<br>
-        the  <span class="yhwh">Lord</span>'s love never fails us;
-      </p>
-      <p>
-      His mercies renew each day-dawning;<br>
-        how great is your faithfulness.
-      </p>
-      <?php
-        $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
-      ?>
-      <p>
-      Hope I then in him; may I say<br>
-        "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
-      </p>
+      <div class="content-area--left-indent">
+        <div class="poem__verseref">22&ndash;24</div>
+        <p>
+        Habitual, though, his compassions;<br>
+          the  <span class="yhwh">Lord</span>'s love never fails us;
+        </p>
+        <p>
+        His mercies renew each day-dawning;<br>
+          how great is your faithfulness.
+        </p>
+        <?php
+          $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
+        ?>
+        <p>
+        Hope I then in him; may I say<br>
+          "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
+        </p>
 
-      <br>
-      <div class="poem__verseref">25&ndash;27</div>
-      <p>
-      <?php
-        $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
-      ?>
-      Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
-        to those who quest for him;
-      </p>
-      <p>
-      Irreproachable is our hoping in quietness<br>
-         for the <span class="yhwh">Lord</span>'s saving rescue;
-      </p>
-      <p>
-      Irreproachable is it to bear<br>
-         the yoke while in youth.
-      </p>
+        <br>
+        <div class="poem__verseref">25&ndash;27</div>
+        <p>
+        <?php
+          $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
+        ?>
+        Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
+          to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
+        </p>
+        <p>
+        Irreproachable: our hoping in quietness<br>
+           for the <span class="yhwh">Lord</span>'s deliverance;
+        </p>
+        <p>
+        Irreproachable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
+           the yoke while in youth.
+        </p>
 
-      <br>
-      <div class="poem__verseref">28&ndash;30</div>
-      <p>
-      <?php
-        $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
-        $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
-      ?>
-      Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
-         when it's laid so upon him.
-      </p>
-      <p>
-      Lend he his mouth to the dust&mdash;<br>
-         perhaps yet may be hope.
-      </p>
-      <p>
-      Lend he his cheek to the assailant;<br>
-         take his fill of disgrace.
-      </p>
+        <br>
+        <div class="poem__verseref">28&ndash;30</div>
+        <p>
+        <?php
+          $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
+          $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
+        ?>
+        Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
+           when it's laid so upon him.
+        </p>
+        <p>
+        Lend he his mouth to the dust&mdash;<br>
+           perhaps yet may be hope.
+        </p>
+        <p>
+        Lend he his cheek to the assailant;<br>
+           take his fill of disgrace.
+        </p>
 
-      <br>
-      <div class="poem__verseref">31&ndash;33</div>
-      <p>
-      <?php
-        $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
-      ?>
-      Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
-         lasts not forever;
-      </p>
-      <p>
-      Mercy and kindness will follow<br>
-        his sorrow-borne strike;<br>
-      </p>
-      <p>
-      Mean heart guides not his affliction<br>
-         of humanity's children.
-      </p>
+        <br>
+        <div class="poem__verseref">31&ndash;33</div>
+        <p>
+        <?php
+          $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
+        ?>
+        Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
+           lasts not forever;
+        </p>
+        <p>
+        Mercy and kindness will follow<br>
+          his sorrow-borne strike;<br>
+        </p>
+        <p>
+        Mean heart guides not his affliction<br>
+           of humanity's children.
+        </p>
 
-      <br>
-      <div class="poem__verseref">34&ndash;36</div>
-      <p>
-      Neutering, crushing underfoot<br>
-         all prisoners of earth?
-      </p>
-      <p>
-      Nay-saying, denying our rights<br>
-         before the Most High?<!-- vv35,38: "Most High" -->
-      </p>
-      <p>
-      Negating our crying for justice?&mdash;<br>
-         the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
-      </p>
+        <br>
+        <div class="poem__verseref">34&ndash;36</div>
+        <p>
+        Neutering, crushing underfoot<br>
+           all prisoners of earth?
+        </p>
+        <p>
+        Nay-saying, denying this man's rights<br><!-- man/geber: vv 1,27,35,39 -->
+           before the Most High?<!-- vv35,38: "Most High" -->
+        </p>
+        <p>
+        Negating our crying for justice?&mdash;<br>
+           the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
+        </p>
 
-      <br>
-      <div class="poem__verseref">37&ndash;39</div>
-      <p>
-      Ordering futures? Who can make so<br>
-        should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
-      </p>
-      <p>
-      Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
-        both disaster and good?
-      </p>
-      <p>
-      Of what shall one living complain<br>
-        on account of his wrong?
-      </p>
+        <br>
+        <div class="poem__verseref">37&ndash;39</div>
+        <p>
+        Ordering futures? Who can make so<br>
+          should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
+        </p>
+        <p>
+        Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
+          both disaster and good?
+        </p>
+        <p>
+        Of what shall one living complain;<br><!-- man/geber: vv 1,27,35,39 -->
+          this man for his sins?<?php Footnote('The first half-verse has Hebrew "adam", the second has "geber". This contrast is preserved here using "one" and "man".'); ?>
+        </p>
 
-      <br>
+        <br>
+      </div><!-- "left-indent" -->
+
       <div class="poem__verseref">40&ndash;42</div>
       <p>
       Plumb we our ways, let us audit them,<br>
@@ -320,12 +328,15 @@
       <br>
       <div class="poem__verseref">43&ndash;45</div>
       <p>
-      Retributively you enveloped us, pursued us;<br><!-- vv.43,44: same verb -->
+      <?php
+        $fn='The Hebrew verb here often refers to the covering of the Ark of the Covenant: the immanent presence of God. It also alludes to the Exdous "pillar of cloud" and to Moses on Mt.&nbsp;Sinai. While those had beneficially signified the presence of God with his people, here God has erected a barrier against his own people. "Nowhere in Lamentations, and perhaps the entire Bible, is God\'s refusal to be present more strongly expressed." Berlin (2004) p.96.';
+      ?>
+      Re-cloaked<?php Footnote($fn); ?> in anger, you pursued us;<br><!-- vv.43,44: same verb -->
         you slew us unsparingly;
       </p>
       <p>
-      Raiment of storm cloud enveloped you,<br>
-        blocking out prayer;
+      Re-cloaked in enveloping cloud:<br>
+        impenetrable to prayer.
       </p>
       <p>
       <?php
@@ -417,7 +428,7 @@
       <div class="poem__verseref">61&ndash;63</div>
       <p>
       <?php
-        $fn='A near-direct repetition from the previous verse. Goldingay(2022) indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
+        $fn='A near-direct repetition from the previous verse. Goldingay (2022) indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
       ?>
       You have heard, <span class="yhwh">Lord</span>, their insults,<br>
          their scheming at me;<?php Footnote($fn); ?>

@@ -152,11 +152,25 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as "g" is the seventh, not ninth, letter in our alphabet. 
+      as "g" is the seventh, not ninth, letter in our alphabet.
       We need an "I" word that is reasonably synonymous with "good".<?php
         Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to "J" or even "K".  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
       "Irreproachable" seems a reasonable choice, with not too much compromise.
+    </p>
+
+    <p>
+      In the triple acrostic at 3:43&ndash;45
+      the first two verses have noticeably similar structures,
+      both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
+      At this point we need an "R" word, but there is no readily apparent such verb,
+      nor is there another word suitably shareable across them both.
+      So the unusual, but clear "re-cloak" was used.
+      While its "re-" prefix suggests a concept of recurrence
+      which is not apparent in the original verbs,
+      nevertheless it hints back to ideas to which the wider context
+      of those verses seem to allude.
+      See the footnote there.
     </p>
 
     <p>
@@ -186,10 +200,10 @@
     </p>
     <ul>
     <li>
-      v9: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      v9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      v11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
       v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
@@ -201,10 +215,10 @@
     </p>
     <ul>
     <li>
-      2:20: <strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+      2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
     </li>
     <li>
-      5:1: <strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
+      5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
     </li>
     </ul>
 
@@ -254,7 +268,22 @@
       In view of that, I simply endeavour to use qinah as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter 5,
       where there is reasonable agreement that its rhythm is non-qinah, often 3&ndash;3.
-      This, too, has been a guide.
+    </p>
+
+    <h2>Inclusive language</h2>
+
+    <p>
+      Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
+      In general, this version adopts that principle.
+    </p>
+
+    <p>
+      Nevertheless, gender-specificity is a strong feature of some of the Lamentations poetry.
+      The "Daughter Zion" and "Daughter Jerusalem" personalisation is integral to chapters 1 and 2.
+      Similarly, the "strong man" characterisation recurs through chapter 3.
+      In these contexts, attempting to downplay these characteristics
+      would seen not only pointless but even counter-productive.
+      Accordingly this version maintains this distinction.
     </p>
 
     <hr>
