@@ -152,7 +152,7 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as "g" is the seventh, not ninth, letter in our alphabet. 
+      as "g" is the seventh, not ninth, letter in our alphabet.
       We need an "I" word that is reasonably synonymous with "good".<?php
         Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to "J" or even "K".  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
