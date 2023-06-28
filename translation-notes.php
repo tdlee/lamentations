@@ -201,7 +201,7 @@
       But driving all that was the acrostic requirement at 1:12 for an 'n' verb.
     </p>
 
-    <h2>Qinah?</h2>
+    <h2>Qinah</h2>
 
     <p>
       <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
