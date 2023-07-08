@@ -92,32 +92,7 @@
       an unavoidable loss of detail in one place
       may be compensated by an introduced poetic expression in another place.
 
-    <h2>Demonstration by example</h2>
-
-    <h3>Substitution</h3>
-
-    <p>
-      The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
-      The original verb is more literally "sits",
-      and most prose-oriented English translations use this.
-      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
-      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
-      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
-    </p>
-
-    <p>
-      Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
-      And the two uses here allow one common Hebrew verb to express both ideas.
-      But no single English verb captures this.
-    </p>
-
-    <p>
-      So in v.3, I use "lodges among the nations".
-      While I am now using two different verbs where the original has one common verb,
-      nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
-    </p>
-
-    <h3>Acrostic challenges</h3>
+    <h2>Acrostic challenges</h2>
 
     <p>
       Acrostics constrain the choice of a verse's opening word.
@@ -226,24 +201,7 @@
       But driving all that was the acrostic requirement at 1:12 for an 'n' verb.
     </p>
 
-    <h3>Other examples</h3>
-
-    <ul>
-    <li>
-      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
-      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
-    </li>
-
-    <li>
-      At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
-      Other translations variously use "foxes" or "jackals";
-      ancient zoological classifications are somethimes ambiguous to us.
-      Here, I use "haunt of hyenas", which maintains the broad zoological classification
-      and allows the use of a suitably unsettling alliterative expression.
-    </li>
-    </ul>
-
-    <h2>Qinah?</h2>
+    <h2>Qinah</h2>
 
     <p>
       <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
@@ -285,6 +243,46 @@
       would seen not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
     </p>
+
+    <h2>Word choices</h2>
+
+    <p>
+      The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
+      The original verb is more literally "sits",
+      and most prose-oriented English translations use this.
+      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
+      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
+      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
+    </p>
+
+    <p>
+      Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
+      And the two uses here allow one common Hebrew verb to express both ideas.
+      But no single English verb captures this.
+    </p>
+
+    <p>
+      So in v.3, I use "lodges among the nations".
+      While I am now using two different verbs where the original has one common verb,
+      nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
+    </p>
+
+    <h3>Other examples</h3>
+
+    <ul>
+    <li>
+      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
+      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+    </li>
+
+    <li>
+      At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
+      Other translations variously use "foxes" or "jackals";
+      ancient zoological classifications are somethimes ambiguous to us.
+      Here, I use "haunt of hyenas", which maintains the broad zoological classification
+      and allows the use of a suitably unsettling alliterative expression.
+    </li>
+    </ul>
 
     <hr>
     <div class="footnotes">
