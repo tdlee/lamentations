@@ -278,7 +278,7 @@
     <li>
       At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
       Other translations variously use "foxes" or "jackals";
-      ancient zoological classifications are somethimes ambiguous to us.
+      ancient zoological classifications are sometimes ambiguous to us.
       Here, I use "haunt of hyenas", which maintains the broad zoological classification
       and allows the use of a suitably unsettling alliterative expression.
     </li>
