@@ -175,13 +175,13 @@
     </p>
     <ul>
     <li>
-      v9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      1:9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      1:11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
-      v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
+      1:12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
     </li>
     </ul>
     <p>
