@@ -144,7 +144,7 @@
       While its "re-" prefix suggests a concept of recurrence
       which is not apparent in the original verbs,
       nevertheless it hints back to ideas to which the wider context
-      of those verses seem to allude.
+      of those verses seems to allude.
       See the footnote there.
     </p>
 
