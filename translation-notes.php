@@ -98,7 +98,7 @@
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
-      Lam.1:7 is a case in point; the first of its lines requires an opening "G" word.
+      A case in point is 1:7 whose first line requires an opening "G" word.
       A workable solution is to switch its first and second lines,
       allowing for "great treasures" to begin the verse.
     </p>
@@ -144,7 +144,7 @@
       While its "re-" prefix suggests a concept of recurrence
       which is not apparent in the original verbs,
       nevertheless it hints back to ideas to which the wider context
-      of those verses seem to allude.
+      of those verses seems to allude.
       See the footnote there.
     </p>
 
@@ -175,13 +175,13 @@
     </p>
     <ul>
     <li>
-      v9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      1:9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      1:11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
-      v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
+      1:12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
     </li>
     </ul>
     <p>
@@ -247,7 +247,7 @@
     <h2>Word choices</h2>
 
     <p>
-      The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
+      The very first line, 1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
       The original verb is more literally "sits",
       and most prose-oriented English translations use this.
       But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
@@ -271,14 +271,14 @@
 
     <ul>
     <li>
-      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
+      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
       To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
     </li>
 
     <li>
-      At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
+      At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
       Other translations variously use "foxes" or "jackals";
-      ancient zoological classifications are somethimes ambiguous to us.
+      ancient zoological classifications are sometimes ambiguous to us.
       Here, I use "haunt of hyenas", which maintains the broad zoological classification
       and allows the use of a suitably unsettling alliterative expression.
     </li>
