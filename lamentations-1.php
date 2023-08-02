@@ -93,8 +93,8 @@
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Bitterly she weeps through the night<br>
-          &emsp;tears wet her cheeks;<br>
+          Bitterly she weeps through the night;<br>
+          &emsp;tears wet her cheeks.<br>
           None there is to comfort her<br>
           &emsp;from all her lovers;<br>
           her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
@@ -130,7 +130,7 @@
           &emsp;her foes prosper,<br>
           since the <span class="yhwh">Lord</span> has stricken her with sorrow<br>
           &emsp;for her many misdeeds.<br>
-          Her young children are driven to exile,<br>
+          Her youngsters are driven to exile,<br>
           &emsp;captive before the foe.
         </p>
 
@@ -141,7 +141,7 @@
           &emsp;all her splendour.<br>
           Her leaders now wander like deer&mdash;<br>
           &emsp;they find no pasture;<br>
-          They run, all their strength spent,<br>
+          They run, all strength spent,<br>
           &emsp;pursued by the hunter.
         </p>
 
