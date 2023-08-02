@@ -93,8 +93,8 @@
         <br>
         <div class="poem__verseref">2</div>
         <p>
-          Bitterly she weeps through the night<br>
-          &emsp;tears wet her cheeks;<br>
+          Bitterly she weeps through the night;<br>
+          &emsp;tears wet her cheeks.<br>
           None there is to comfort her<br>
           &emsp;from all her lovers;<br>
           her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
