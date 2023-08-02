@@ -130,7 +130,7 @@
           &emsp;her foes prosper,<br>
           since the <span class="yhwh">Lord</span> has stricken her with sorrow<br>
           &emsp;for her many misdeeds.<br>
-          Her young children are driven to exile,<br>
+          Her youngsters are driven to exile,<br>
           &emsp;captive before the foe.
         </p>
 
