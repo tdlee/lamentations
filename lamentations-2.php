@@ -72,7 +72,15 @@
     </div><!-- "panel" -->
 
     <p>
-      The first poem was in two "voices", approximately 50&ndash;50: a witness-bystander and Daughter Zion herself. This second poem is mostly voiced by the witness, but at 19 the witness can be seen to implore the city herself to voice her complaint, which she accordingly does to close the poem.
+      The first poem had been in two "voices", approximately 50&ndash;50:
+      a witness-reporter and Daughter Zion herself.
+      This second poem is mostly voiced by the reporter,
+      until at 18&ndash;19 the reporter can be seen to implore the city
+      to voice her complaint, which she accordingly does to close the poem.
+      Yet in the midst of their initially objective reportage,
+      the reporter breaks down and speaks subjectively of their own personal response
+      in a soliloquy, 11&ndash;17, that interrrupts their graphic portrayal of the violence
+      and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94'); ?>
     </p>
 
     <div class="panel">
