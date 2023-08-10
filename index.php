@@ -191,7 +191,7 @@
 
     <p>
     Declaim it aloud!
-    Vital to the Hebrew verse of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
+    Vital to the Hebrew line-pair couplets of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
     Hebrew poetry can be tightly concise compared to English equivalents
     which tend to wax more loquaciously expansive.
     This version aims for that original tight conciseness.
