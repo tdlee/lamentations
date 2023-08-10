@@ -240,7 +240,7 @@
     </p>
     <p>
     I thoroughly recommend these translations.
-    But note that both had other constraints which ruled against using acrostics.
+    But note that both had other constraints which ruled against them additionally using acrostics.
     </p>
 
     <div class="widthclear"></div>
