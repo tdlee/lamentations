@@ -191,7 +191,7 @@
 
     <p>
     Declaim it aloud!
-    Vital to the Hebrew verse of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
+    Vital to the Hebrew line-pair couplets of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
     Hebrew poetry can be tightly concise compared to English equivalents
     which tend to wax more loquaciously expansive.
     This version aims for that original tight conciseness.
@@ -221,7 +221,7 @@
     </div><!-- "panel" -->
 
     <p>
-    And we might observe that the overall three&ndash;two count of the line matches the pentameter, so familiar in English poetry.
+    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the pentameter, so familiar in English poetry.
     </p>
 
     <p>
@@ -240,7 +240,7 @@
     </p>
     <p>
     I thoroughly recommend these translations.
-    But note that both had other constraints which ruled against using acrostics.
+    But note that both had other constraints which ruled against them additionally using acrostics.
     </p>
 
     <div class="widthclear"></div>
