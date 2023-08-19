@@ -163,7 +163,9 @@
       <div class="poem__verseref">13&ndash;15</div>
       <p>
       Eviscerated he my innards<br>
-         with the shafts of his quiver.
+         with the shafts of his quiver.<?php
+        Footnote('12&ndash;13: see also Ps.38:3 "Your arrows have sunk deep in me; your hand has come down upon me." (NABRE)');
+        ?>
       </p>
       <p>
       Excoriated, to my kinsfolk a laughing-stock,<br>
@@ -391,7 +393,9 @@
       </p>
       <p>
       Under waters engulfing my head;<br>
-         I thought, "I am lost".
+         I thought, "I am lost".<?php
+        Footnote('53&ndash;54: see also Ps.88:7&ndash;8 "You plunge me into the bottom of the pit, into the darkness of the abyss. Your wrath lies heavy upon me; all your waves crash over me." (NABRE)');
+      ?>
       </p>
 
       <br>
