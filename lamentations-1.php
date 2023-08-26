@@ -81,9 +81,9 @@
               So acrostically I have used an additional "A&hellip;" word following that "Alas!"';
           ?>
           Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
-          Alone she lies: the city<br>
+          Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
           &emsp;once teeming with people;<br>
-          She, once a lady among nations,<br>
+          She, once a lady among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
           &emsp;now abandoned, widowed;<br>
           she, once princess among provinces,<br>
           &emsp;now chained, enslaved.

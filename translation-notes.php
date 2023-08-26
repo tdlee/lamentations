@@ -244,7 +244,7 @@
       Accordingly this version maintains this distinction.
     </p>
 
-    <h2>Word choices</h2>
+    <h2>Word choices: a worked example</h2>
 
     <p>
       The very first line, 1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
@@ -265,6 +265,11 @@
       So in v.3, I use "lodges among the nations".
       While I am now using two different verbs where the original has one common verb,
       nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
+    </p>
+
+    <p>
+      Also, the use of "lies" in v.1 allows a further audible resonance
+      between "she lies" and "she&hellip;lady".
     </p>
 
     <h3>Other examples</h3>
