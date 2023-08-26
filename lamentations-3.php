@@ -46,9 +46,17 @@
     </p>
 
     <p>
-      Like the earlier two poems, this can also be seen as being in two "voices":
-      an individual (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
+      Like the earlier two poems, this can also be seen as being in two primary "voices":
+      an individual "geber" (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
       Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
+      That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
+        Footnote('Goldingay (2022), p.150');
+    ?><?php
+        Footnote('F.W. Dobbs-Allsopp (1997),
+          <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>,
+          Journal for the Study of the Old Testament, 22,74, 41,
+          <a href="https://doi.org/10.1177/030908929702207402" target="_blank">DOI: 10.1177/030908929702207402</a>');
+      ?>
     </p>
 
     <p>
@@ -57,7 +65,8 @@
         Footnote('Pierre J.P. Van Hecke (2002),
           <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
           <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
-          Scandinavian Journal of the Old Testament, 16:2, 264-282, DOI: 10.1080/09018320210000415');
+          Scandinavian Journal of the Old Testament, 16:2, 264-282,
+          <a href="https://doi.org/10.1080/09018320210000415" target="_blank">DOI: 10.1080/09018320210000415</a>');
       ?>
       Other commentators extend this reversal further, to v.9 or v.13.<?php
        Footnote('Berlin (2004), p.86');
