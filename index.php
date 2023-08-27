@@ -191,7 +191,7 @@
 
     <p>
     Declaim it aloud!
-    Vital to the Hebrew verse of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
+    Vital to the Hebrew line-pair couplets of Lamentations is its three&ndash;two <i>qinah</i> stress pattern pervading all but the final chapter.
     Hebrew poetry can be tightly concise compared to English equivalents
     which tend to wax more loquaciously expansive.
     This version aims for that original tight conciseness.
@@ -221,7 +221,9 @@
     </div><!-- "panel" -->
 
     <p>
-    And we might observe that the overall three&ndash;two count of the line matches the pentameter, so familiar in English poetry.
+    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the pentameter, so familiar in English poetry.<?php
+      Footnote('The pentameter analogy is only partial. Whereas pentameter, in its familiar iambic form, is reasonably strict "weak-STRONG" syllable-pairs (so "w-S w-S w-S w-S w-S"), <i>qinah</i> frequently has two or more weak syllables (occasionally zero) between the strong beats. So "<strong>Ag</strong>onies: <strong>I</strong> am the man <strong>seared</strong> by the <strong>rod</strong> of his <strong>wrath</strong>" is "S-w-w S-w-w-w S-w-w S-w-w&nbsp;S".');
+    ?>
     </p>
 
     <p>
@@ -240,7 +242,7 @@
     </p>
     <p>
     I thoroughly recommend these translations.
-    But note that both had other constraints which ruled against using acrostics.
+    But note that both had other constraints which ruled against them additionally using acrostics.
     </p>
 
     <div class="widthclear"></div>
@@ -292,7 +294,7 @@
     </p>
 
     <p>
-    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.
+    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
     Many of us may already be familiar with this, lurking, but usually ignored by us, in the background.
     </p>
 

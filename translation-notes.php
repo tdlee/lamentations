@@ -92,38 +92,13 @@
       an unavoidable loss of detail in one place
       may be compensated by an introduced poetic expression in another place.
 
-    <h2>Demonstration by example</h2>
-
-    <h3>Substitution</h3>
-
-    <p>
-      The very first line, Lam.1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
-      The original verb is more literally "sits",
-      and most prose-oriented English translations use this.
-      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
-      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
-      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
-    </p>
-
-    <p>
-      Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
-      And the two uses here allow one common Hebrew verb to express both ideas.
-      But no single English verb captures this.
-    </p>
-
-    <p>
-      So in v.3, I use "lodges among the nations".
-      While I am now using two different verbs where the original has one common verb,
-      nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
-    </p>
-
-    <h3>Acrostic challenges</h3>
+    <h2>Acrostic challenges</h2>
 
     <p>
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
-      Lam.1:7 is a case in point; the first of its lines requires an opening "G" word.
+      A case in point is 1:7 whose first line requires an opening "G" word.
       A workable solution is to switch its first and second lines,
       allowing for "great treasures" to begin the verse.
     </p>
@@ -152,11 +127,25 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as "g" is the seventh, not ninth, letter in our alphabet. 
+      as "g" is the seventh, not ninth, letter in our alphabet.
       We need an "I" word that is reasonably synonymous with "good".<?php
         Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to "J" or even "K".  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
       "Irreproachable" seems a reasonable choice, with not too much compromise.
+    </p>
+
+    <p>
+      In the triple acrostic at 3:43&ndash;45
+      the first two verses have noticeably similar structures,
+      both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
+      At this point we need an "R" word, but there is no readily apparent such verb,
+      nor is there another word suitably shareable across them both.
+      So the unusual, but clear "re-cloak" was used.
+      While its "re-" prefix suggests a concept of recurrence
+      which is not apparent in the original verbs,
+      nevertheless it hints back to ideas to which the wider context
+      of those verses seems to allude.
+      See the footnote there.
     </p>
 
     <p>
@@ -186,13 +175,13 @@
     </p>
     <ul>
     <li>
-      v9: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
+      1:9<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>: my affliction&hellip;
     </li>
     <li>
-      v11: <strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
+      1:11<i>c</i>: &hellip;<strong>Look</strong>, O&nbsp;<span class="yhwh">Lord</span>, and <strong>notice</strong>&hellip;
     </li>
     <li>
-      v12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
+      1:12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
     </li>
     </ul>
     <p>
@@ -201,10 +190,10 @@
     </p>
     <ul>
     <li>
-      2:20: <strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+      2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
     </li>
     <li>
-      5:1: <strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
+      5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
     </li>
     </ul>
 
@@ -212,24 +201,7 @@
       But driving all that was the acrostic requirement at 1:12 for an 'n' verb.
     </p>
 
-    <h3>Other examples</h3>
-
-    <ul>
-    <li>
-      At Lam.1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
-      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
-    </li>
-
-    <li>
-      At Lam.5:18, desolate Zion is vividly pictured as occupied by wild animals.
-      Other translations variously use "foxes" or "jackals";
-      ancient zoological classifications are somethimes ambiguous to us.
-      Here, I use "haunt of hyenas", which maintains the broad zoological classification
-      and allows the use of a suitably unsettling alliterative expression.
-    </li>
-    </ul>
-
-    <h2>Qinah?</h2>
+    <h2>Qinah</h2>
 
     <p>
       <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
@@ -254,8 +226,68 @@
       In view of that, I simply endeavour to use qinah as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter 5,
       where there is reasonable agreement that its rhythm is non-qinah, often 3&ndash;3.
-      This, too, has been a guide.
     </p>
+
+    <h2>Inclusive language</h2>
+
+    <p>
+      Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
+      In general, this version adopts that principle.
+    </p>
+
+    <p>
+      Nevertheless, gender-specificity is a strong feature of some of the Lamentations poetry.
+      The "Daughter Zion" and "Daughter Jerusalem" personalisation is integral to chapters 1 and 2.
+      Similarly, the "strong man" characterisation recurs through chapter 3.
+      In these contexts, attempting to downplay these characteristics
+      would seen not only pointless but even counter-productive.
+      Accordingly this version maintains this distinction.
+    </p>
+
+    <h2>Word choices: a worked example</h2>
+
+    <p>
+      The very first line, 1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
+      The original verb is more literally "sits",
+      and most prose-oriented English translations use this.
+      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
+      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
+      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
+    </p>
+
+    <p>
+      Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
+      And the two uses here allow one common Hebrew verb to express both ideas.
+      But no single English verb captures this.
+    </p>
+
+    <p>
+      So in v.3, I use "lodges among the nations".
+      While I am now using two different verbs where the original has one common verb,
+      nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
+    </p>
+
+    <p>
+      Also, the use of "lies" in v.1 allows a further audible resonance
+      between "she lies" and "she&hellip;lady".
+    </p>
+
+    <h3>Other examples</h3>
+
+    <ul>
+    <li>
+      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
+      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+    </li>
+
+    <li>
+      At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
+      Other translations variously use "foxes" or "jackals";
+      ancient zoological classifications are sometimes ambiguous to us.
+      Here, I use "haunt of hyenas", which maintains the broad zoological classification
+      and allows the use of a suitably unsettling alliterative expression.
+    </li>
+    </ul>
 
     <hr>
     <div class="footnotes">
