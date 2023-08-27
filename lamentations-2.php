@@ -87,290 +87,334 @@
       <div class="poem poem__hebverse poem--acrostic draft">
 
         <div class="poem__verseref">1</div>
-        <p>
-          <?php
-            $fn='See footnotes on 1:1.';
-            $fn2='Footstool: a metaphorical reference to the Jerusalem Temple. See Goldingay (2022), p.92.';
-          ?>
-          Alas!<?php Footnote($fn); ?><br>
-          Angered, the Lord beclouded<br>
-          &emsp;Daughter Zion;<br>
-          flung down from the heavens to earth<br>
-          &emsp;the honour of Israel;<br>
-          put out of mind his footstool<?php Footnote($fn2); ?><br>
-          &emsp;in the day of his anger;
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='See footnotes on 1:1.';
+              $fn2='Footstool: a metaphorical reference to the Jerusalem Temple. See Goldingay (2022), p.92.';
+            ?>
+            Alas!<?php Footnote($fn); ?><br>
+            Angered, the Lord beclouded<br>
+            &emsp;Daughter Zion;<br>
+            flung down from the heavens to earth<br>
+            &emsp;the honour of Israel;<br>
+            put out of mind his footstool<?php Footnote($fn2); ?><br>
+            &emsp;in the day of his anger;
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">2</div>
-        <p>
-          Blitzed to the ground in desecration<br>
-          &emsp;a kingdom and its princes;<br>
-          razed in fury the defences<br>
-          &emsp;of Daughter Judah.<br>
-          The Lord has devoured without pity<br>
-          &emsp;all the dwellings of Jacob;
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Blitzed to the ground in desecration<br>
+            &emsp;a kingdom and its princes;<br>
+            razed in fury the defences<br>
+            &emsp;of Daughter Judah.<br>
+            The Lord has devoured without pity<br>
+            &emsp;all the dwellings of Jacob;
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">3</div>
-        <p>
-          Cut off in his smouldering wrath<br>
-          &emsp;every horn of Israel;<br>
-          withdrawn his right hand<br>
-          &emsp;at enemy approach;<br>
-          blazed against Jacob in fire,<br>
-          &emsp;consuming all around.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Cut off in his smouldering wrath<br>
+            &emsp;every horn of Israel;<br>
+            withdrawn his right hand<br>
+            &emsp;at enemy approach;<br>
+            blazed against Jacob in fire,<br>
+            &emsp;consuming all around.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">4</div>
-        <p>
-          <?php
-            $fn='This overall line is shorter than the usual qinah 3&ndash;2.';
-            $fn2='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
-          ?>
-          Drawing his bow like an enemy,<br>
-          &emsp;his right hand poised,<br>
-          like a foe, he has slain those precious<br>
-          &emsp;in his eye;<?php Footnote($fn); ?><br>
-          on Daughter Zion's tent<?php Footnote($fn2); ?> his fire-wrath<br>
-          &emsp;has he outpoured.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='This overall line is shorter than the usual qinah 3&ndash;2.';
+              $fn2='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+            ?>
+            Drawing his bow like an enemy,<br>
+            &emsp;his right hand poised,<br>
+            like a foe, he has slain those precious<br>
+            &emsp;in his eye;<?php Footnote($fn); ?><br>
+            on Daughter Zion's tent<?php Footnote($fn2); ?> his fire-wrath<br>
+            &emsp;has he outpoured.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">5</div>
-        <p>
-          <?php
-            $fn='The Hebrew also has an alliterative wordplay here.';
-          ?>
-          Enemy! So the Lord has become,<br>
-          &emsp;and devoured Israel&mdash;<br>
-          has devoured all of her palaces,<br>
-          &emsp;and laid waste her strongholds;<br>
-          has multiplied for Daughter Judah<br>
-          &emsp;wailing and weeping.<?php Footnote($fn); ?>
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='The Hebrew also has an alliterative wordplay here.';
+            ?>
+            Enemy! So the Lord has become,<br>
+            &emsp;and devoured Israel&mdash;<br>
+            has devoured all of her palaces,<br>
+            &emsp;and laid waste her strongholds;<br>
+            has multiplied for Daughter Judah<br>
+            &emsp;wailing and weeping.<?php Footnote($fn); ?>
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">6</div>
-        <p>
-          <?php
-            $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
-            $fn2='The garden/meeting-place terminology calls to mind the Garden of Eden, where the <span class="yhwh">Lord</span> would meet Adam and Eve (Gen.&nbsp;3:8-9).';
-          ?>
-          Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
-          &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
-          The <span class="yhwh">Lord</span> has blotted from Zion<br>
-          &emsp;his own feast-day and sabbath;<br>
-          in angered rage has spurned<br>
-          &emsp;both king and priest.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
+              $fn2='The garden/meeting-place terminology calls to mind the Garden of Eden, where the <span class="yhwh">Lord</span> would meet Adam and Eve (Gen.&nbsp;3:8-9).';
+            ?>
+            Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
+            &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
+            The <span class="yhwh">Lord</span> has blotted from Zion<br>
+            &emsp;his own feast-day and sabbath;<br>
+            in angered rage has spurned<br>
+            &emsp;both king and priest.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">7</div>
-        <p>
-          <?php
-            $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
-          ?>
-          God<?php Footnote($fn); ?> has rejected his altar,<br>
-          &emsp;spurned his shrine;<br>
-          given over to enemy hands<br>
-          &emsp;the walls of her strongholds.<br>
-          Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
-          &emsp;as on <em>our</em> feast-day.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+            ?>
+            God<?php Footnote($fn); ?> has rejected his altar,<br>
+            &emsp;spurned his shrine;<br>
+            given over to enemy hands<br>
+            &emsp;the walls of her strongholds.<br>
+            Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
+            &emsp;as on <em>our</em> feast-day.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">8</div>
-        <p>
-          Hell-bent on destroying<br>
-          &emsp;Daughter Zion's wall,<br>
-          the <span class="yhwh">Lord</span> stretched out the measuring line;<br>
-          &emsp;did not hesitate to devour;<br>
-          made wall and rampart lament:<br>
-          &emsp;together they succumbed.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Hell-bent on destroying<br>
+            &emsp;Daughter Zion's wall,<br>
+            the <span class="yhwh">Lord</span> stretched out the measuring line;<br>
+            &emsp;did not hesitate to devour;<br>
+            made wall and rampart lament:<br>
+            &emsp;together they succumbed.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">9</div>
-        <p>
-          <?php
-            $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
-          ?>
-          Into the ground her gates sunk;<br>
-          &emsp;he shattered her bars.<br>
-          Her king and her princes are exiled;<br>
-          &emsp;law is absent;<?php Footnote($fn); ?><br>
-          her prophets no longer could find<br>
-          &emsp;any vision from the <span class="yhwh">Lord</span>.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
+            ?>
+            Into the ground her gates sunk;<br>
+            &emsp;he shattered her bars.<br>
+            Her king and her princes are exiled;<br>
+            &emsp;law is absent;<?php Footnote($fn); ?><br>
+            her prophets no longer could find<br>
+            &emsp;any vision from the <span class="yhwh">Lord</span>.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">10</div>
-        <p>
-          <?php
-            $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
-          ?>
-          Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
-          &emsp;sit silent on the ground;<br>
-          dust they cast on their heads<br>
-          &emsp;and sackcloth they gird.<br>
-          Zion's young women bow<br>
-          &emsp;their heads to the ground.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
+            ?>
+            Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
+            &emsp;sit silent on the ground;<br>
+            dust they cast on their heads<br>
+            &emsp;and sackcloth they gird.<br>
+            Zion's young women bow<br>
+            &emsp;their heads to the ground.
+          </p>
+        </div><!-- poem__versetext -->
 
 <!-- omit 'K' -->
 
         <br>
         <div class="poem__verseref">11</div>
-        <p>
-          Lamenting, my weeping eyes fail;<br>
-          &emsp;my stomach is turned;<br>
-          at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-          &emsp;my heart to the ground spills<br>
-          as the infants and children expire<br>
-          &emsp;in the city streets.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Lamenting, my weeping eyes fail;<br>
+            &emsp;my stomach is turned;<br>
+            at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
+            &emsp;my heart to the ground spills<br>
+            as the infants and children expire<br>
+            &emsp;in the city streets.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">12</div>
-        <p>
-          Mothers hear them crying out loud:<br>
-          &emsp;"Where is corn and wine?"<br>
-          as they expire like the wounded<br>
-          &emsp;in the city streets;<br>
-          as their lives ebb away<br>
-          &emsp;in their mothers' arms.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Mothers hear them crying out loud:<br>
+            &emsp;"Where is corn and wine?"<br>
+            as they expire like the wounded<br>
+            &emsp;in the city streets;<br>
+            as their lives ebb away<br>
+            &emsp;in their mothers' arms.
+          </p>
+        </div><!-- poem__versetext -->
 
 <!-- omit 'N' -->
 
         <br>
         <div class="poem__verseref">13</div>
-        <p>
-          O Daughter Jerusalem: to what can I<br>
-          &emsp;liken you or compare?<br>
-          O virgin Daughter Zion:<br>
-          &emsp;whose plight is like yours?<br>
-          Wide as the sea breaks your wound;<br>
-          &emsp;who could heal you?
-        </p>
+        <div class="poem__versetext">
+          <p>
+            O Daughter Jerusalem: to what can I<br>
+            &emsp;liken you or compare?<br>
+            O virgin Daughter Zion:<br>
+            &emsp;whose plight is like yours?<br>
+            Wide as the sea breaks your wound;<br>
+            &emsp;who could heal you?
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">14</div>
-        <p>
-          <?php
-            $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
-          ?>
-          Prophets provided you visions&mdash;<br>
-          &emsp;whitewashed illusion.<?php Footnote($fn); ?><br>
-          They did not lay bare your guilt<br>
-          &emsp;to restore your fortunes;<br>
-          they saw for you only oracles<br>
-          &emsp;of illusions and deceit.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
+            ?>
+            Prophets provided you visions&mdash;<br>
+            &emsp;whitewashed illusion.<?php Footnote($fn); ?><br>
+            They did not lay bare your guilt<br>
+            &emsp;to restore your fortunes;<br>
+            they saw for you only oracles<br>
+            &emsp;of illusions and deceit.
+          </p>
+        </div><!-- poem__versetext -->
 
 <!-- omit 'Q' -->
 
         <br>
         <div class="poem__verseref">15</div>
-        <p>
-          <?php
-            $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
-            $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
-          ?>
-          Remembered once: "Perfect in beauty,<br>
-          &emsp;joy of all earth";<?php Footnote($fn); ?><br>
-          now those who pass by on the road<br>
-          &emsp;clap in derision;<br>
-          they hiss and wag their heads<br>
-          &emsp;over Daughter Jerusalem.<?php Footnote($fn2); ?>
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
+              $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
+            ?>
+            Remembered once: "Perfect in beauty,<br>
+            &emsp;joy of all earth";<?php Footnote($fn); ?><br>
+            now those who pass by on the road<br>
+            &emsp;clap in derision;<br>
+            they hiss and wag their heads<br>
+            &emsp;over Daughter Jerusalem.<?php Footnote($fn2); ?>
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">16</div>
-        <p>
-          Snarling and gnashing their teeth,<br>
-          &emsp;all your enemies<br>
-          open their mouths at you, saying<br>
-          &emsp;"We have devoured her!<br>
-          Long for this day we have waited&mdash;<br>
-          &emsp;we have lived to see it!"
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Snarling and gnashing their teeth,<br>
+            &emsp;all your enemies<br>
+            open their mouths at you, saying<br>
+            &emsp;"We have devoured her!<br>
+            Long for this day we have waited&mdash;<br>
+            &emsp;we have lived to see it!"
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">17</div>
-        <p>
-          The <span class="yhwh">Lord</span> has done what he planned,<br>
-          &emsp;has fulfilled his threat<br>
-          decreed from days of old,<br>
-          &emsp;to destroy without pity;<br>
-          has let the enemy over you gloat<br>
-          &emsp;and exalted your foes' horn.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            The <span class="yhwh">Lord</span> has done what he planned,<br>
+            &emsp;has fulfilled his threat<br>
+            decreed from days of old,<br>
+            &emsp;to destroy without pity;<br>
+            has let the enemy over you gloat<br>
+            &emsp;and exalted your foes' horn.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">18</div>
-        <p>
-          Unto the Lord let your heart cry,<br>
-          &emsp;wall of Daughter Zion.<br>
-          Shed tears like a torrent<br>
-          &emsp;day and night;<br>
-          give yourself no relief,<br>
-          &emsp;your eyes no rest.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Unto the Lord let your heart cry,<br>
+            &emsp;wall of Daughter Zion.<br>
+            Shed tears like a torrent<br>
+            &emsp;day and night;<br>
+            give yourself no relief,<br>
+            &emsp;your eyes no rest.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">19</div>
-        <p>
-          <?php
-            $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
-          ?>
-          Vociferous! Cry anguished all night,<br>
-          &emsp;at the start of each watch.<br>
-          Spill out your heart like water<br>
-          &emsp;in full sight of the Lord.<br>
-          Lift up your hands to him<br>
-          &emsp;for the lives of your babes<br>
-          [who faint from famine and hunger<br>
-          &emsp;at every street-corner].<?php Footnote($fn); ?>
-        </p>
+        <div class="poem__versetext">
+          <p>
+            <?php
+              $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
+            ?>
+            Vociferous! Cry anguished all night,<br>
+            &emsp;at the start of each watch.<br>
+            Spill out your heart like water<br>
+            &emsp;in full sight of the Lord.<br>
+            Lift up your hands to him<br>
+            &emsp;for the lives of your babes<br>
+            [who faint from famine and hunger<br>
+            &emsp;at every street-corner].<?php Footnote($fn); ?>
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">20</div>
-        <p>
-          Who have you thus tormented?<br>
-          &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
-          Must women eat their own womb's fruit,<br>
-          &emsp;their nursed babes?<br>
-          Should priest and prophet be slain<br>
-          &emsp;in the sanctuary of the Lord?
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Who have you thus tormented?<br>
+            &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
+            Must women eat their own womb's fruit,<br>
+            &emsp;their nursed babes?<br>
+            Should priest and prophet be slain<br>
+            &emsp;in the sanctuary of the Lord?
+          </p>
+        </div><!-- poem__versetext -->
 
 <!-- omit 'X' -->
 
         <br>
         <div class="poem__verseref">21</div>
-        <p>
-          Young and old lie dead together<br>
-          &emsp;on the ground in the streets;<br>
-          young women and young men fallen,<br>
-          &emsp;cut down by the sword.<br>
-          You slaughtered on the day of your wrath:<br>
-          &emsp;slew them without pity.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Young and old lie dead together<br>
+            &emsp;on the ground in the streets;<br>
+            young women and young men fallen,<br>
+            &emsp;cut down by the sword.<br>
+            You slaughtered on the day of your wrath:<br>
+            &emsp;slew them without pity.
+          </p>
+        </div><!-- poem__versetext -->
 
         <br>
         <div class="poem__verseref">22</div>
-        <p>
-          Zoned round: the terrors you summoned<br>
-          &emsp;as to a feast day;<br>
-          on the day of the <span class="yhwh">Lord</span>'s anger<br>
-          &emsp;none escaped or survived.<br>
-          Those I had nursed and reared,<br>
-          &emsp;my enemy annihilated.
-        </p>
+        <div class="poem__versetext">
+          <p>
+            Zoned round: the terrors you summoned<br>
+            &emsp;as to a feast day;<br>
+            on the day of the <span class="yhwh">Lord</span>'s anger<br>
+            &emsp;none escaped or survived.<br>
+            Those I had nursed and reared,<br>
+            &emsp;my enemy annihilated.
+          </p>
+        </div><!-- poem__versetext -->
 
       </div><!-- "poem" -->
       <hr>
