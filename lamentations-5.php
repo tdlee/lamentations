@@ -103,128 +103,144 @@
         </p>
 -->
 
-        <div class="poem__verseref">1</div>
-        <div class="poem__versetext">
-          <?php
-            $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
-          ?>
-          <p>
-            Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-              look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
-          </p>
-        </div><!-- poem__versetext -->
+        <div class="poem__verse">
+          <div class="poem__verseref">1</div>
+          <div class="poem__versetext">
+            <?php
+              $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
+            ?>
+            <p>
+              Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
+                look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
+            </p>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
 
         <br>
 
         <div class="content-area--left-indent">
-          <div class="poem__verseref">2&ndash;4</div>
-          <div class="poem__versetext">
-            <p>
-              Our heritage given over to strangers,<br>
-                our homes to occupiers.
-            </p>
-            <p>
-              Orphans we have become, without fathers;<br>
-                our mothers as widows.
-            </p>
-            <p>
-              Our well-water? Extorted for profit;<br>
-                even our firewood comes at a price.
-            </p>
-          </div><!-- poem__versetext -->
+
+          <div class="poem__verse">
+            <div class="poem__verseref">2&ndash;4</div>
+            <div class="poem__versetext">
+              <p>
+                Our heritage given over to strangers,<br>
+                  our homes to occupiers.
+              </p>
+              <p>
+                Orphans we have become, without fathers;<br>
+                  our mothers as widows.
+              </p>
+              <p>
+                Our well-water? Extorted for profit;<br>
+                  even our firewood comes at a price.
+              </p>
+            </div><!-- poem__versetext -->
+          </div><!-- poem__verse -->
 
           <br>
-          <div class="poem__verseref">5&ndash;7</div>
-          <div class="poem__versetext">
-            <p>
-              Up to our necks are we pursued;<br>
-                we wearied, we found no rest.
-            </p>
-            <p>
-              We stretched out hands to Egypt;<br>
-                to Assyria to beg for our bread.
-            </p>
-            <p>
-              Our ancestors offended and are no more;<br>
-                now we, we bear their punishment.
-            </p>
-          </div><!-- poem__versetext -->
+          <div class="poem__verse">
+            <div class="poem__verseref">5&ndash;7</div>
+            <div class="poem__versetext">
+              <p>
+                Up to our necks are we pursued;<br>
+                  we wearied, we found no rest.
+              </p>
+              <p>
+                We stretched out hands to Egypt;<br>
+                  to Assyria to beg for our bread.
+              </p>
+              <p>
+                Our ancestors offended and are no more;<br>
+                  now we, we bear their punishment.
+              </p>
+            </div><!-- poem__versetext -->
+          </div><!-- poem__verse -->
 
           <br>
-          <div class="poem__verseref">8&ndash;10</div>
+          <div class="poem__verse">
+            <div class="poem__verseref">8&ndash;10</div>
+            <div class="poem__versetext">
+              <p>
+                Slaves rule over us;<br>
+                  there is no-one to free us from their hand.
+              </p>
+              <?php
+                $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
+              ?>
+              <p>
+                Getting bread is at risk of our lives,<br>
+                  exposed to the desert sword.<?php Footnote($fn); ?>
+                  <!-- "exposed to...": idea from NABRE -->
+              </p>
+              <p>
+                Our skin burns hot as an oven<br>
+                  from the raging fevers of famine.
+              </p>
+            </div><!-- poem__versetext -->
+          </div><!-- poem__verse -->
+
+          <br>
+          <div class="poem__verse">
+            <div class="poem__verseref">11&ndash;14</div>
+            <div class="poem__versetext">
+              <p>
+                Women are raped in Zion;<br>
+                  virgins in the cities of Judah.
+              </p>
+              <p>
+                Princes are hanged by them;<br>
+                  elders are shown no respect.
+              </p>
+              <p>
+                Young men have millstones to carry;<br>
+                  lads under woodpiles stagger.
+              </p>
+              <p>
+                Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
+                  young men their songs.<!-- the first half's "abandoned" verb serves this half-->
+              </p>
+            </div><!-- poem__versetext -->
+          </div><!-- poem__verse -->
+
+          <br>
+          <div class="poem__verse">
+            <div class="poem__verseref">15&ndash;16</div>
+            <div class="poem__versetext">
+              <p>
+                Joy has abandoned our hearts;<br><!-- abandoned: vv.14,15 -->
+                  our dancing turned into dirges.
+                  <!-- if we can't acrosti-cate, let's alliterate -->
+              </p>
+              <p>
+                The crown from our head has toppled:<br>
+                  woe now to us; for we have offended.
+              </p>
+            </div><!-- poem__versetext -->
+          </div><!-- poem__verse -->
+
+          </div><!-- "left-indent" -->
+
+        <br>
+
+        <div class="poem__verse">
+          <div class="poem__verseref">17&ndash;18</div>
           <div class="poem__versetext">
             <p>
-              Slaves rule over us;<br>
-                there is no-one to free us from their hand.
+              For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
+            </p>
+            <p>
+              for all these: our eyes grow dim;
             </p>
             <?php
-              $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
+              $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
             ?>
             <p>
-              Getting bread is at risk of our lives,<br>
-                exposed to the desert sword.<?php Footnote($fn); ?>
-                <!-- "exposed to...": idea from NABRE -->
-            </p>
-            <p>
-              Our skin burns hot as an oven<br>
-                from the raging fevers of famine.
+              for Mount Zion: lying desolate,<br>
+                the haunt of hyenas.<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
-
-          <br>
-          <div class="poem__verseref">11&ndash;14</div>
-          <div class="poem__versetext">
-            <p>
-              Women are raped in Zion;<br>
-                virgins in the cities of Judah.
-            </p>
-            <p>
-              Princes are hanged by them;<br>
-                elders are shown no respect.
-            </p>
-            <p>
-              Young men have millstones to carry;<br>
-                lads under woodpiles stagger.
-            </p>
-            <p>
-              Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-                young men their songs.<!-- the first half's "abandoned" verb serves this half-->
-            </p>
-          </div><!-- poem__versetext -->
-
-          <br>
-          <div class="poem__verseref">15&ndash;16</div>
-          <div class="poem__versetext">
-            <p>
-              Joy has abandoned our hearts;<br><!-- abandoned: vv.14,15 -->
-                our dancing turned into dirges.
-                <!-- if we can't acrosti-cate, let's alliterate -->
-            </p>
-            <p>
-              The crown from our head has toppled:<br>
-                woe now to us; for we have offended.
-            </p>
-          </div><!-- poem__versetext -->
-
-          <br>
-        </div><!-- "left-indent" -->
-
-        <div class="poem__verseref">17&ndash;18</div>
-        <div class="poem__versetext">
-          <p>
-            For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
-          </p>
-          <p>
-            for all these: our eyes grow dim;
-          </p>
-          <?php
-            $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
-          ?>
-          <p>
-            for Mount Zion: lying desolate,<br>
-              the haunt of hyenas.<?php Footnote($fn); ?>
-          </p>
-        </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
 
         <br>
         <hr>
@@ -236,36 +252,39 @@
             *l*...*u*
             *i*...*a*
         -->
+
         <br>
-        <div class="poem__verseref">19&ndash;22<br>Alleluia</div>
-        <div class="poem__versetext">
-          <div class="poem--acrostic">
-            <p>
-              And you, <span class="yhwh">Lord</span>, your throne shall endure:<br>
-                ruling generations eterna<span class="acrostic-letter">l</span>;
-            </p>
-            <p>
-              Long years, why always forget us?<br>
-                Why forever forsak<span class="acrostic-letter">e</span>?
-            </p>
-            <p>
-              Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br>
-              let us turn back to yo<span class="acrostic-letter">u</span>.
-            </p>
-            <?php
-              $fn='The "<i>indeed</i>" translation is supported by both NABRE and Robert Alter.
-                Other versions also have this as statement
-                (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
-                The NIV has the more open "<i>unless you have&hellip;</i>".';
-              $fn2='This is an astonishingly grim ending; we do well to meditate on this closure.
-                Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
-            ?>
-            <p>
-              Indeed,<?php Footnote($fn); ?> you have discarded us:<br>
-              to you we are anathem<span class="acrostic-letter">a</span>.<?php Footnote($fn2); ?>
-            </p>
-          </div><!-- "poem/acrostic" -->
-        </div><!-- poem__versetext -->
+        <div class="poem__verse">
+          <div class="poem__verseref">19&ndash;22<br>Alleluia</div>
+          <div class="poem__versetext">
+            <div class="poem--acrostic">
+              <p>
+                And you, <span class="yhwh">Lord</span>, your throne shall endure:<br>
+                  ruling generations eterna<span class="acrostic-letter">l</span>;
+              </p>
+              <p>
+                Long years, why always forget us?<br>
+                  Why forever forsak<span class="acrostic-letter">e</span>?
+              </p>
+              <p>
+                Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br>
+                let us turn back to yo<span class="acrostic-letter">u</span>.
+              </p>
+              <?php
+                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Robert Alter.
+                  Other versions also have this as statement
+                  (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
+                  The NIV has the more open "<i>unless you have&hellip;</i>".';
+                $fn2='This is an astonishingly grim ending; we do well to meditate on this closure.
+                  Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
+              ?>
+              <p>
+                Indeed,<?php Footnote($fn); ?> you have discarded us:<br>
+                to you we are anathem<span class="acrostic-letter">a</span>.<?php Footnote($fn2); ?>
+              </p>
+            </div><!-- "poem/acrostic" -->
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
 
       </div><!-- "poem" -->
       <hr>
