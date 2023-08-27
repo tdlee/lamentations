@@ -44,17 +44,21 @@
         Goldingay, John (2022) "The Book of Lamentations", Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
       </li>
       <li>
-        Mandolfo, Carleen R. (2007) "Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations", Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
-      </li>
-      <li>
         Middlemas, Jill (2021) "Lamentations: An Introduction and Study Guide", T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
       </li>
     </ul>
 
     <p>
-      Additional sources for particular points are mentioned in relevant footnotes at the point of use.
+      Other sources include:
     </p>
-
+    <ul>
+      <li>
+        Various items mentioned in relevant footnotes at their point of use
+      </li>
+      <li>
+        Mandolfo, Carleen R. (2007) "Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations", Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
+      </li>
+    </ul>
 
     <hr>
     <div class="footnotes">
