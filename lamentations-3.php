@@ -72,7 +72,7 @@
        Footnote('Berlin (2004), p.86');
       ?>
       <span class="noprint">
-        (Hover the mouse over verses 1&ndash;6 to see the text of the psalm.)
+        (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
       </span>
     </p>
 
@@ -122,6 +122,7 @@
             Against me he turns his hand<br>
               from day-dawn to dusk;
           </p>
+</div><!-- Psalm 23 mouse-hover -->
         </div><!-- poem__versetext -->
 
         <br>
@@ -140,7 +141,6 @@
               to dwell as the long-dead.
           </p>
         </div><!-- poem__versetext -->
-</div><!-- Psalm 23 mouse-hover -->
 
         <br>
         <div class="poem__verseref">7&ndash;9</div>
