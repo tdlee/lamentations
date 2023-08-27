@@ -90,6 +90,8 @@
       might be appropriate.
     <p>
 
+    <div class="widthclear"></div>
+
     <div class="panel">
       <div class="poem poem__hebverse draft">
 

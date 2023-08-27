@@ -83,6 +83,8 @@
       and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94'); ?>
     </p>
 
+    <div class="widthclear"></div>
+
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
