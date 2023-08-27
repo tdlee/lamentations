@@ -200,9 +200,12 @@
 
         <br>
         <div class="poem__verseref">14</div>
+        <?php
+          $fn='The referent "they" is ambiguous. It makes sense for it to be the priests and prophets of the previous verse; this leads well into vv.15&ndash;16.  Goldingay (2022) p.176.';
+        ?>
         <p>
           Polluted with blood, through the streets<br>
-          &emsp;they grope blindly;<br>
+          &emsp;they<?php Footnote($fn); ?> grope blindly;<br>
           so defiled that none would dare<br>
           &emsp;touch their garments.
         </p>
