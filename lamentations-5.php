@@ -62,7 +62,7 @@
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
-        Footnote('Wielenga, Bob <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig.');
+        Footnote('Wielenga, Bob (2007) <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86, p.69.');
       ?>
     </p>
     <p>
