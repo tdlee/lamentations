@@ -186,11 +186,15 @@
     </ul>
     <p>
       Then observe that 2:20 uses it,
-      and even more that the final poem almost opens with that same pair of verbs:
+      and even more that the final poem almost opens with that same pair of verbs.
+      The "notice" root also puts in an appearance at 4:16.
     </p>
     <ul>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      4:16: &hellip;no longer he <strong>takes note</strong>&hellip;
     </li>
     <li>
       5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;

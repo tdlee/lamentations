@@ -291,10 +291,14 @@
           <div class="poem__verseref">16</div>
           <div class="poem__versetext">
             <p>
-              Scattered by the <span class="yhwh">Lord</span> himself:<br>
-              &emsp;no longer he faces them.<br>
-              The priests are shown no honour;<br>
-              &emsp;the elders, no favour.
+            <?php
+              $fnface1='Very few English translations capture this verse\'s double use of "face" in the Hebrew.  Young\'s Literal Translation is a notable exception.';
+              $fnface2='"The <span class="yhwh">Lord</span>\'s face" is usually a positive image, and with priestly blessing (Num:6:24&ndash;26) of favour. But here his face operates in a hostile fashion. Goldingay (2022), p.179.';
+            ?>
+              Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
+              &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
+	      The people turn their faces from the priests;<br>
+              &emsp;show elders no favour.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
