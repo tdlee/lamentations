@@ -75,7 +75,7 @@
       taking not only the first but also the final letter of each
       (an "acrostic-telestic")
       yields the eight-letter Hebrew phrase "your God is exalted greatly".<?php
-        Footnote('Guillaume, Philippe <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The seventh acrostic</cite></a>, Journal of Hebrew Scriptures.');
+        Footnote('Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The seventh acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>.');
         ?>
       While initially such praise looks a misfit in the context of devastation
       it nevertheless resonates well with Job's
