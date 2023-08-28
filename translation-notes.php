@@ -276,8 +276,8 @@
 
     <ul>
     <li>
-      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
-      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".<?php Footnote("Berlin (2004) p.51."); ?>
+      To the original hearers, this would have conveyed a powerful reminder, alas lost to us, of other dire times in another place.
     </li>
 
     <li>
