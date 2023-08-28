@@ -402,8 +402,11 @@
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
             <p>
-              Yearnings of anguish they heard,<br>
-              &emsp;but none brings me comfort.<br>
+              <?php
+                $fn='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: Yearnings&hellip;they heard: "none brings me comfort".';
+              ?>
+              Yearnings of anguish they heard:<br>
+              &emsp;none brings me comfort.<?php Footnote($fn); ?><br>
               My enemies all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               &emsp;rejoiced that you caused it.<br>
               Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
