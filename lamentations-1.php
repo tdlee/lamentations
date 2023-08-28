@@ -119,7 +119,7 @@
               Cast out into exile by force<br>
               &emsp;is Judah to hard labour.<br>
               She <!-- dwells --> lodges among the nations<br>
-              &emsp;but finds no rest.<br>
+              &emsp;but finds no repose.<br>
               All who pursue her overtake her:<br>
               &emsp;dire her straits.
             </p>
