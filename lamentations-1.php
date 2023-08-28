@@ -100,11 +100,14 @@
         <div class="poem__verse">
           <div class="poem__verseref">2</div>
           <div class="poem__versetext">
+              <?php
+                $fn='In some translations, "her lovers". But this is not the same as "lovers" in v.19. This "who love her" follows Berlin (2004) p.51.';
+              ?>
             <p>
               Bitterly she weeps through the night;<br>
               &emsp;tears wet her cheeks.<br>
               None there is to comfort her<br>
-              &emsp;from all her lovers;<br>
+              &emsp;from all who love her;<?php Footnote($fn); ?><br>
               her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
               &emsp;become her enemies.
             </p>
@@ -369,7 +372,7 @@
           <div class="poem__verseref">19</div>
           <div class="poem__versetext">
             <p>
-              Vainly I called to my lovers&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
+              Vainly I called to my lovers&mdash;<br><!-- verb: 15,19,21: match; 17:different --><!-- for "lovers" see note at v2 which is different -->
               &emsp;they abandoned me.<br>
               In the city my priests and my elders<br>
               &emsp;perish<br>
