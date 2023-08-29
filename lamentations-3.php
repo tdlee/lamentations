@@ -69,7 +69,7 @@
           <a href="https://doi.org/10.1080/09018320210000415" target="_blank">DOI: 10.1080/09018320210000415</a>');
       ?>
       Other commentators extend this reversal further, to v.9 or v.13.<?php
-       Footnote('Berlin (2004), p.86');
+       Footnote('Berlin (2004), p.86 n.4');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)

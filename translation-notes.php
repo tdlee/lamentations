@@ -186,11 +186,15 @@
     </ul>
     <p>
       Then observe that 2:20 uses it,
-      and even more that the final poem almost opens with that same pair of verbs:
+      and even more that the final poem almost opens with that same pair of verbs.
+      The "notice" root also puts in an appearance at 4:16.
     </p>
     <ul>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      4:16: &hellip;no longer he <strong>takes note</strong>&hellip;
     </li>
     <li>
       5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
@@ -276,8 +280,8 @@
 
     <ul>
     <li>
-      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".
-      To the original hearers, this would have conveyed a powerful reminder of other dire times in another place, alas, lost to us.
+      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".<?php Footnote("Berlin (2004) p.51; Goldingay (2022) p.54 note 'e'"); ?>
+      To the original hearers, this would have conveyed a powerful reminder, alas lost to us, of other dire times in another place.
     </li>
 
     <li>
