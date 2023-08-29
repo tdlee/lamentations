@@ -112,7 +112,10 @@
           <div class="poem__verseref">2</div>
           <div class="poem__versetext">
             <p>
-              Blitzed to the ground in desecration<br>
+              <?php
+                $fn='For acrostic purposes, couplets 2<i>a</i> and 2<i>c</i> have been interchanged.';
+              ?>
+              Blitzed to the ground in desecration<?php Footnote($fn); ?><br>
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
