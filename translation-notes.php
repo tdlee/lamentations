@@ -247,8 +247,32 @@
       would seen not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
     </p>
+    <h2>Word choices</h2>
 
-    <h2>Word choices: a worked example</h2>
+    <p>
+      Lamentations was written in contemporary language.
+      Accordingly this version sometimes uses words that are relatively modern
+      or that have a modern edge.
+      Two examples that additionally carry relevance with recent history are:
+    </p>
+    <ul>
+      <li>
+        Blitzed (2:2): Imported into English from the German "blitzkrieg" of WW2.
+      </li>
+      <li>
+        Holocaust (2:11, 3:47,48, 4:10): While an old word, this gained major usage following the gas-chamber slaughter of Jewish people and others in WW2.
+      </li>
+    </ul>
+
+    <p>
+      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "zilch" (3:64), "ziplock" (3:65).
+    </p>
+
+    <p>
+      Meanwhile the verb <a href="https://www.merriam-webster.com/dictionary/zone#id-dictionary-entry-2" target="_blank">"zoned"</a> (2:22) is old, whose meanings include "encicle".
+    </p>
+
+    <h3>Word choices: a worked example</h3>
 
     <p>
       The very first line, 1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
