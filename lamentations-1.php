@@ -325,7 +325,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='Some Jewish commentators here see a comforter-Messiah being yearned for.';
+                $fn='Some Jewish commentators here see a comforter-Messiah being yearned for; Goldingay (2022), p.75.';
               ?>
               Streaming with tears, my eyes&mdash;<br>
               &emsp;my eyes weep for these things;<br>
