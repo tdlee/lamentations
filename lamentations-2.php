@@ -146,14 +146,15 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='This overall line is shorter than the usual qinah 3&ndash;2.';
-                $fn2='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them.';
+                $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
+                $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
               ?>
               Drawing his bow like an enemy,<br>
-              &emsp;his right hand poised,<br>
+              &emsp;his right hand poised,<?php Footnote($fn1); ?><br>
               like a foe, he has slain those precious<br>
-              &emsp;in his eye;<?php Footnote($fn); ?><br>
-              on Daughter Zion's tent<?php Footnote($fn2); ?> his fire-wrath<br>
+              &emsp;in his eye;<?php Footnote($fn2); ?><br>
+              on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br>
               &emsp;has he outpoured.
             </p>
           </div><!-- poem__versetext -->
