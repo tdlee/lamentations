@@ -290,7 +290,7 @@
             <p>
               Mothers hear them crying out loud:<br>
               &emsp;"Where is corn and wine?"<br>
-              as they expire like the wounded<br>
+              as they expire like the sword-wounded<br>
               &emsp;in the city streets;<br>
               as their lives ebb away<br>
               &emsp;in their mothers' arms.
