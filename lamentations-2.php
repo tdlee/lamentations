@@ -189,7 +189,7 @@
               ?>
               Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
               &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
-              The <span class="yhwh">Lord</span> has blotted from Zion<br>
+              The <span class="yhwh">Lord</span> has obliterated from Zion<br>
               &emsp;his own feast-day and sabbath;<br>
               in angered rage has spurned<br>
               &emsp;both king and priest.
