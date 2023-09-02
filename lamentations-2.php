@@ -185,10 +185,10 @@
             <p>
               <?php
                 $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
-                $fn2='The garden/meeting-place terminology calls to mind the Garden of Eden, where the <span class="yhwh">Lord</span> would meet Adam and Eve (Gen.&nbsp;3:8-9).';
+                $fn2='The "like a garden" simile has been perplexing down the centuries, with no settled understanding. In her compact 126&nbsp;page commentary on the whole book, Berlin (2004) devotes over one entire page solely to this one term, briefly laying out a wide range of possibilities. Some sort of resonance with the Garden of Eden is likely, possibly combined with a contrast to Sodom from Gen.13:10: "&hellip;like the garden of the <span class="yhwh">Lord</span>&hellip;before the <span class="yhwh">Lord</span> had destroyed Sodom and Gomorrah".';
               ?>
-              Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
-              &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
+              Flattening his bivouac<?php Footnote($fn); ?> like a garden,<?php Footnote($fn2); ?><br>
+              &emsp;he destroyed his own meeting place.<br>
               The <span class="yhwh">Lord</span> has obliterated from Zion<br>
               &emsp;his own feast-day and sabbath;<br>
               in angered rage has spurned<br>
