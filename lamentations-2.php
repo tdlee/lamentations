@@ -242,8 +242,8 @@
               &emsp;he shattered her bars.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
-              her prophets no longer could find<br>
-              &emsp;any vision from the <span class="yhwh">Lord</span>.
+              her prophets, too, found<br>
+              &emsp;no vision from the <span class="yhwh">Lord</span>.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
