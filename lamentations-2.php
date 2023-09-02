@@ -113,7 +113,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='For acrostic purposes, couplets 2<i>a</i> and 2<i>c</i> have been interchanged.';
+                $fn='For acrostic purposes, the first and last couplets have been interchanged.';
               ?>
               Blitzed to the ground in desecration<?php Footnote($fn); ?><br>
               &emsp;a kingdom and its princes;<br>
