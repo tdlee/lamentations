@@ -274,9 +274,9 @@
           <div class="poem__versetext">
             <p>
               Lamenting, my weeping eyes fail;<br>
-              &emsp;my stomach is turned;<br>
+              &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-              &emsp;my heart to the ground spills<br>
+              &emsp;my liver-bile spills,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br>
               as the infants and children expire<br>
               &emsp;in the city streets.
             </p>
