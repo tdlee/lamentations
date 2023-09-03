@@ -306,7 +306,7 @@
           <div class="poem__versetext">
             <p>
               O Daughter Jerusalem: to what can I<br>
-              &emsp;liken you or compare?<br>
+              &emsp;liken you? How advocate?<br>
               O virgin Daughter Zion:<br>
               &emsp;whose plight is like yours?<br>
               Wide as the sea breaks your wound;<br>
