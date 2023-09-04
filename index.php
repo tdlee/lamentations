@@ -375,6 +375,22 @@
 
     <div class="widthclear"></div>
 
+    <h2>Why the chapter introductions and footnotes?</h2>
+    <p>
+      This version makes no attempt to be a commentary,
+      whether devotional or as biblical study.
+      For those purposes many excellent commentaries already exist
+      and several are listed in the <a href="bibliography.php">Bibliography</a>.
+    </p>
+    <p>
+      Instead, it has a relatively unique slant towards public recitation
+      and even staged performance.  (And, yes, it is perfectly possible
+      for recital and staged performance to be devotional, and deeply so.)
+      So the primary, although not exclusive, purpose of the introductions and footnotes
+      is to provide background and ideas from the perspectives of
+      recitation and stage production.
+    </p>
+
     <h2>In summary</h2>
     <p>
     So why this version?
@@ -382,7 +398,7 @@
     of the original Hebrew: Z-inclusive acrostic; qinah; linguistic compactness.
     </p>
     <p>
-    Perform it aloud!
+    Perform it aloud! Stage it in a worship space!
     </p>
     <p>
     See the visual acrostic; speak that 'qinah'.
@@ -399,7 +415,10 @@
           for excellent and inspirational critique of various portions
         </li>
         <li>
-          Commentary authors Adele Berlin, John Goldingay and Jill Middlemas
+          Commentary authors
+          <a href="https://english.umd.edu/directory/adele-berlin" target="_blank">Adele Berlin</a>,
+          <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>
+          and <a href="https://teol.ku.dk/english/dept/abe/staff/?pure=en/persons/693264" target="_blank">Jill Middlemas</a>
           for their enthusiasm for this project
         </li>
       </ul>
