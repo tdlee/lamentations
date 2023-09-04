@@ -53,8 +53,8 @@
       An early clear example is at 12&ndash;13 where the bow-and-arrow
       crosses the D/E acrostic boundary.
       This "enjambment" of ideas and images across the alphabetic boundaries
-      is a counterweight to the formal structuring on the acrostic
-      which keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
+      is a counterweight to the formal structuring on the acrostic,
+      and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
     </p>
 
@@ -125,18 +125,19 @@
 >
             <?php
               $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
+              $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
               Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 -->
                 by the rod of his wrath;
             </p>
             <p>
-              Away he has driven, force-marched me<br>
+              Away&mdash;me he has driven, force-marched<br>
                 in darkness, no light;
             </p>
             <p>
-              Against me he turns his hand<br>
-                from day-dawn to dusk;
+              Against me, he turns his hand<br>
+                from day-dawn to dusk;<?php Footnote($fn2); ?>
             </p>
 </div><!-- Psalm 23 mouse-hover -->
           </div><!-- poem__versetext -->

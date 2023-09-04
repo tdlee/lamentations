@@ -107,11 +107,11 @@
           by the rod of his wrath;
         </p>
         <p>
-        Away he has driven, force-marched me<br>
+        Away&mdash;me he has driven, force-marched<br>
           in darkness, no light;
         </p>
         <p>
-        Against me he turns his hand<br>
+        Against me, he turns his hand<br>
           from day-dawn to dusk;
         </p>
       </div><!-- "poem" -->
@@ -214,7 +214,7 @@
           by the <strong>rod</strong> &emsp;of his <strong>wrath</strong>;
         </p>
         <p>
-          &emsp;&emsp;&emsp;A<strong>way</strong> he has <strong>dri</strong>ven, force-<strong>marched</strong> me<br>
+          &emsp;&emsp;&emsp;A<strong>way</strong>&mdash;me he has <strong>dri</strong>ven, force-<strong>marched</strong><br>
           &emsp;&emsp;in <strong>dark</strong>ness, no <strong>light</strong>;
         </p>
         <p>
@@ -310,8 +310,8 @@
     <div class="panel panel--width-17em">
       <div class="poem poem__linewrap poem--acrostic">
         <p>Agonies: I am&nbsp;&hellip;</p>
-        <p>Away he has driven&nbsp;&hellip;</p>
-        <p>Against me he turns&nbsp;&hellip;</p>
+        <p>Away&mdash;me he has driven&nbsp;&hellip;</p>
+        <p>Against me, he turns&nbsp;&hellip;</p>
         <p>&nbsp;</p>
         <p>Breaking my bones&nbsp;&hellip;</p>
         <p>Besieged by him&nbsp;&hellip;</p>
