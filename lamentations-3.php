@@ -216,7 +216,7 @@
             </p>
             <p>
               Engorging me, force-feeding bitterness<br>
-                he sated me with gall;<!-- enjambment to next -->
+                he sated me with gall;<!-- vv.15,19: bitter/gall word-pair --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -245,7 +245,7 @@
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
             <p>
-              Gall, a bitter remembrance<br>
+              Gall, a bitter remembrance<br><!-- vv.15,19: bitter/gall word-pair -->
                 of my affliction, my wandering;
             </p>
             <p>
