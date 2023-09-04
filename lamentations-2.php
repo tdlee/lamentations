@@ -113,7 +113,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='For acrostic purposes, couplets 2<i>a</i> and 2<i>c</i> have been interchanged.';
+                $fn='For acrostic purposes, the first and last couplets have been interchanged.';
               ?>
               Blitzed to the ground in desecration<?php Footnote($fn); ?><br>
               &emsp;a kingdom and its princes;<br>
@@ -185,11 +185,11 @@
             <p>
               <?php
                 $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
-                $fn2='The garden/meeting-place terminology calls to mind the Garden of Eden, where the <span class="yhwh">Lord</span> would meet Adam and Eve (Gen.&nbsp;3:8-9).';
+                $fn2='The "like a garden" simile has been perplexing down the centuries, with no settled understanding. In her compact 126&nbsp;page commentary on the whole book, Berlin (2004) devotes over one entire page solely to this one term, briefly laying out a wide range of possibilities. Some sort of resonance with the Garden of Eden is likely, possibly combined with a contrast to Sodom from Gen.13:10: "&hellip;like the garden of the <span class="yhwh">Lord</span>&hellip;before the <span class="yhwh">Lord</span> had destroyed Sodom and Gomorrah".';
               ?>
-              Flattening his bivouac<?php Footnote($fn); ?> like a garden,<br>
-              &emsp;he destroyed his own meeting place.<?php Footnote($fn2); ?><br>
-              The <span class="yhwh">Lord</span> has blotted from Zion<br>
+              Flattening his bivouac<?php Footnote($fn); ?> like a garden,<?php Footnote($fn2); ?><br>
+              &emsp;he destroyed his own meeting place.<br>
+              The <span class="yhwh">Lord</span> has obliterated from Zion<br>
               &emsp;his own feast-day and sabbath;<br>
               in angered rage has spurned<br>
               &emsp;both king and priest.
@@ -206,7 +206,7 @@
                 $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
               ?>
               God<?php Footnote($fn); ?> has rejected his altar,<br>
-              &emsp;spurned his shrine;<br>
+              &emsp;disowned his shrine;<br>
               given over to enemy hands<br>
               &emsp;the walls of her strongholds.<br>
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
@@ -224,8 +224,8 @@
               &emsp;Daughter Zion's wall,<br>
               the <span class="yhwh">Lord</span> stretched out the measuring line;<br>
               &emsp;did not hesitate to devour;<br>
-              made wall and rampart lament:<br>
-              &emsp;together they succumbed.
+              made wall and rampart lament,<br>
+              &emsp;together collapsing.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -242,8 +242,8 @@
               &emsp;he shattered her bars.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
-              her prophets no longer could find<br>
-              &emsp;any vision from the <span class="yhwh">Lord</span>.
+              her prophets, too, found<br>
+              &emsp;no vision from the <span class="yhwh">Lord</span>.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -257,7 +257,7 @@
                 $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
               ?>
               Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
-              &emsp;sit silent on the ground;<br>
+              &emsp;sit dumbstruck on the ground;<br>
               dust they cast on their heads<br>
               &emsp;and sackcloth they gird.<br>
               Zion's young women bow<br>
@@ -274,9 +274,9 @@
           <div class="poem__versetext">
             <p>
               Lamenting, my weeping eyes fail;<br>
-              &emsp;my stomach is turned;<br>
+              &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-              &emsp;my heart to the ground spills<br>
+              &emsp;my liver-bile spills,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe -->
               as the infants and children expire<br>
               &emsp;in the city streets.
             </p>
@@ -290,7 +290,7 @@
             <p>
               Mothers hear them crying out loud:<br>
               &emsp;"Where is corn and wine?"<br>
-              as they expire like the wounded<br>
+              as they expire like the sword-wounded<br>
               &emsp;in the city streets;<br>
               as their lives ebb away<br>
               &emsp;in their mothers' arms.
@@ -306,7 +306,7 @@
           <div class="poem__versetext">
             <p>
               O Daughter Jerusalem: to what can I<br>
-              &emsp;liken you or compare?<br>
+              &emsp;liken you? How advocate?<br>
               O virgin Daughter Zion:<br>
               &emsp;whose plight is like yours?<br>
               Wide as the sea breaks your wound;<br>
@@ -407,9 +407,9 @@
               <?php
                 $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
               ?>
-              Vociferous! Cry anguished all night,<br>
+              Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
-              Spill out your heart like water<br>
+              Spill out your heart like water<br><!-- 2:11,19: same verb, I believe -->
               &emsp;in full sight of the Lord.<br>
               Lift up your hands to him<br>
               &emsp;for the lives of your babes<br>
@@ -445,8 +445,8 @@
               &emsp;on the ground in the streets;<br>
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
-              You slaughtered on the day of your wrath:<br>
-              &emsp;slew them without pity.
+              You slew them on the day of your wrath:<br>
+              &emsp;you butchered without pity.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
