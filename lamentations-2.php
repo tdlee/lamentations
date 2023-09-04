@@ -407,7 +407,7 @@
               <?php
                 $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
               ?>
-              Vociferous! Cry anguished all night,<br>
+              Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
               Spill out your heart like water<br>
               &emsp;in full sight of the Lord.<br>
