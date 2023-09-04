@@ -55,7 +55,7 @@
       This "enjambment" of ideas and images across the alphabetic boundaries
       is a counterweight to the formal structuring on the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
-      See also 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
+      See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
     </p>
 
     <p>
@@ -149,7 +149,7 @@
           <div class="poem__versetext">
             <p>
               Breaking my bones, he has wasted<br>
-                my flesh and my skin;
+                my flesh and my skin.
             </p>
             <p>
               Besieged by him; he caged me<br>
