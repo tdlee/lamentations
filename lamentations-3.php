@@ -400,7 +400,7 @@
                 that we return to the <span class="yhwh">Lord</span>;
             </p>
             <p>
-              Plead we, hearts in our hands,<br>
+              Plead we, hearts and hands raised,<br>
                 to God on high:
             </p>
             <p>
