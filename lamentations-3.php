@@ -266,8 +266,8 @@
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
               <p>
-                Habitual, though, his compassions;<br>
-                  the <span class="yhwh">Lord</span>'s love never fails us;
+                Habitual, though, the <span class="yhwh">Lord</span>'s loyalties;<br>
+                  his compassion never drains;<!-- or perhaps "expends"? -->
               </p>
               <p>
                 His mercies renew each day-dawning;<br>
