@@ -46,6 +46,19 @@
     </p>
 
     <p>
+      Structurally, while the acrostic tends to produce its own grouping
+      within acrostic boundaries,
+      nevertheless observe how particular thoughts may have their own
+      counter-grouping cutting across these boundaries.
+      An early clear example is at 12&ndash;13 where the bow-and-arrow
+      crosses the D/E acrostic boundary.
+      This "enjambment" of ideas and images across the alphabetic boundaries
+      is a counterweight to the formal structuring on the acrostic
+      which keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
+      See also 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
+    </p>
+
+    <p>
       Like the earlier two poems, this can also be seen as being in two primary "voices":
       an individual "geber" (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
       Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
@@ -181,7 +194,7 @@
             </p>
             <p>
               Drawing his bow, he propped me:<br>
-                for his arrows a target;
+                for his arrows a target;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -202,7 +215,7 @@
             </p>
             <p>
               Engorging me, force-feeding bitterness<br>
-                he sated me with gall;
+                he sated me with gall;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -391,7 +404,7 @@
             </p>
             <p>
               Perversely we have rebelled;<br>
-                you did not forgive.
+                you did not forgive;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -416,7 +429,7 @@
                 $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.';
               ?>
               Rejected<?php Footnote($fn); ?> and outcast you made us<br>
-                in the midst of the peoples.
+                in the midst of the peoples;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -438,7 +451,7 @@
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust". Further, the final part of 48 is the same as 2:11.';
               ?>
               Stream tears from my eyes at the holocaust<br>
-                of my Daughter People.<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 -->
+                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
