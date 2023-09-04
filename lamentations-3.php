@@ -230,7 +230,7 @@
                 he ground me in dust.
             </p>
             <p>
-              Far from my mind any peace,<br>
+              Far any peace from my spirit,<br><!-- vv.17,24: same "spirit" -->
                 I forgot what is good;
             </p>
             <p>
@@ -277,7 +277,7 @@
                 $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
-                Hope I then in him; may I say<br>
+                Hope I then in him; my spirit says<br><!-- vv.17,24: same "spirit" -->
                   "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
               </p>
             </div><!-- poem__versetext -->
