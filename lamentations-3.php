@@ -445,7 +445,7 @@
             </p>
             <p>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                holocaust and horror;<!-- alliteration; see also next verse -->
+                holocaust and horror.<!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
