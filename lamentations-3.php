@@ -525,7 +525,7 @@
                 you redeemed my life.
             </p>
             <p>
-              Witness, O <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
+              Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
                 do justice for me.
             </p>
             <p>
