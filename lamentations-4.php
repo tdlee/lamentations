@@ -134,7 +134,7 @@
               $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
             ?>
             <p>
-              Embraced now on dung heaps are those<br>
+              Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
               Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
               &emsp;lie destitute in alleys.
