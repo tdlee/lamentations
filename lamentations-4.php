@@ -44,6 +44,11 @@
     </p>
 
     <p>
+      Visually, a unique aspect of this chapter is the striking use of colour
+      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103'); ?>
+    </p>
+
+    <p>
       It starts with the impossible.
       Pure gold does not, and cannot, tarnish under normal circumstances.<?php
         Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
