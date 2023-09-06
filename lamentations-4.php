@@ -72,7 +72,7 @@
                 but also allows the metaphor for the stones of the destroyed Temple.
                 Taken in conjunction with following verse,
                 this metaphor links an increasingly human sequence:
-                "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
+                "<i>gold</i>", "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
                 Further, the Hebrew words "stones" (here) and "sons" (v2) are similar.';
             ?>
             <p>
