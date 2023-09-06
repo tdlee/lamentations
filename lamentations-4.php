@@ -136,7 +136,7 @@
             <p>
               Embraced now on dung heaps are those<br>
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
-              Those once feasting on sweetmeats<br>
+              Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
               &emsp;lie destitute in alleys.
             </p>
           </div><!-- poem__versetext -->
