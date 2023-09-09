@@ -132,7 +132,7 @@
                 by the rod of his wrath;
             </p>
             <p>
-              Away&mdash;me he has driven, force-marched<br>
+              Away&mdash;me he drove, force-marched<br>
                 in darkness, no light;
             </p>
             <p>
