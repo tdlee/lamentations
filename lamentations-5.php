@@ -130,7 +130,7 @@
                   our homes to occupiers.
               </p>
               <p>
-                Orphans we have become, without fathers;<br>
+                Orphans we have become: fatherless;<br>
                   our mothers as widows.
               </p>
               <p>
