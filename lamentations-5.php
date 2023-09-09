@@ -39,7 +39,9 @@
       </li>
       <li>
         the <i>qinah</i> three&ndash;two stress pattern is largely absent;
-        many stanzas are three&ndash;three.
+        most stanzas are three&ndash;three.<?php
+          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here.');
+        ?>
       </li>
     </ul>
     <p>
@@ -63,6 +65,15 @@
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
         Footnote('Wielenga, Bob (2007) <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86, p.69.');
+      ?>
+    </p>
+    <p>
+      A further contrast is that this chapter is communal.
+      No "I" speaks in this poem;
+      and whereas Lam.1 and Lam.2 never spoke in first-person plural terms,
+      and Lam.3 and Lam.4 did so only when past the halfway point,
+      Lam.5 speaks almost throughout in "we/our/us" terms.<?php
+        Footnote('Goldingay (2022), p.191.');
       ?>
     </p>
     <p>
@@ -127,11 +138,11 @@
             <div class="poem__versetext">
               <p>
                 Our heritage given over to strangers,<br>
-                  our homes to occupiers.
+                  our homes to occupiers.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
-                Orphans we have become, without fathers;<br>
-                  our mothers as widows.
+                Orphans we have become: fatherless;<br>
+                  our mothers as widows.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
                 Our well-water? Extorted for profit;<br>
@@ -163,9 +174,13 @@
           <div class="poem__verse">
             <div class="poem__verseref">8&ndash;10</div>
             <div class="poem__versetext">
+              <?php
+                $fn='These may be understood as Babylonian official who were slaves or servants of the Babylonain king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
+              ?>
+              <!-- The word "underlings" from Goldingay commentary, p.198 -->
               <p>
-                Slaves rule over us;<br>
-                  there is no-one to free us from their hand.
+                Underlings are now our overlords;<?php Footnote($fn); ?><br>
+                  there is no release from their hand.
               </p>
               <?php
                 $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
@@ -191,8 +206,8 @@
                   virgins in the cities of Judah.
               </p>
               <p>
-                Princes are hanged by them;<br>
-                  elders are shown no respect.
+                Princes are hung up by their hands;<br>
+                  elders disrespected to their faces.
               </p>
               <p>
                 Young men have millstones to carry;<br>
@@ -200,7 +215,7 @@
               </p>
               <p>
                 Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-                  young men their songs.<!-- the first half's "abandoned" verb serves this half-->
+                  young men their songs.<!-- the first half's "abandoned" verb serves this half--><!-- 2,3,14,18: qinah -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -216,7 +231,7 @@
               </p>
               <p>
                 The crown from our head has toppled:<br>
-                  woe now to us; for we have offended.
+                  woe to us; for we have offended.
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -239,7 +254,7 @@
             ?>
             <p>
               for Mount Zion: lying desolate,<br>
-                the haunt of hyenas.<?php Footnote($fn); ?>
+                the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
