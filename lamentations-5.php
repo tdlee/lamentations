@@ -39,7 +39,9 @@
       </li>
       <li>
         the <i>qinah</i> three&ndash;two stress pattern is largely absent;
-        many stanzas are three&ndash;three.
+        most stanzas are three&ndash;three.<?php
+          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here.');
+        ?>
       </li>
     </ul>
     <p>
@@ -127,11 +129,11 @@
             <div class="poem__versetext">
               <p>
                 Our heritage given over to strangers,<br>
-                  our homes to occupiers.
+                  our homes to occupiers.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
                 Orphans we have become: fatherless;<br>
-                  our mothers as widows.
+                  our mothers as widows.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
                 Our well-water? Extorted for profit;<br>
@@ -200,7 +202,7 @@
               </p>
               <p>
                 Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-                  young men their songs.<!-- the first half's "abandoned" verb serves this half-->
+                  young men their songs.<!-- the first half's "abandoned" verb serves this half--><!-- 2,3,14,18: qinah -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -239,7 +241,7 @@
             ?>
             <p>
               for Mount Zion: lying desolate,<br>
-                the haunt of hyenas.<?php Footnote($fn); ?>
+                the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
