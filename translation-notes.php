@@ -123,7 +123,7 @@
 
     <p>
       Conversely, the third poem's ninth stanza,
-      Hebrew letter "tet" corresponding to English "I",
+      Hebrew letter "tet",
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,

@@ -179,7 +179,7 @@
               ?>
               <!-- The word "underlings" from Goldingay commentary, p.198 -->
               <p>
-                Underlings are now our overlords;<?php Footnote($fn); ?><br>
+                Underlings now rule us as overlords;<?php Footnote($fn); ?><br>
                   there is no release from their hand.
               </p>
               <?php
