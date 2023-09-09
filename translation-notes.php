@@ -230,7 +230,7 @@
       Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
       In view of that, I simply endeavour to use qinah as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter 5,
-      where there is reasonable agreement that its rhythm is non-qinah, often 3&ndash;3.
+      where there is reasonable agreement that its rhythm is mostly non-qinah, often 3&ndash;3.
     </p>
 
     <h2>Inclusive language</h2>
