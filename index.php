@@ -227,7 +227,7 @@
     </div><!-- "panel" -->
 
     <p>
-    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the pentameter, so familiar in English poetry and particularly in Shakespeare plays; see "Twelfth Night" extract above.<?php
+    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the <a href="https://www.britannica.com/art/pentameter" target="_blank">pentameter</a>, so familiar in English poetry and particularly in Shakespeare plays; see "Twelfth Night" extract above.<?php
       Footnote('The pentameter analogy is only partial. Whereas pentameter, in its familiar iambic form, is reasonably strict "weak-STRONG" syllable-pairs (so "w-S w-S w-S w-S w-S"), <i>qinah</i> frequently has two or more weak syllables (occasionally zero) between the strong beats. So "<strong>Ag</strong>onies: <strong>I</strong> am the man <strong>seared</strong> by the <strong>rod</strong> of his <strong>wrath</strong>" is "S-w-w S-w-w-w S-w-w S-w-w&nbsp;S".');
     ?>
     </p>
