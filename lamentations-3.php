@@ -53,7 +53,7 @@
       An early clear example is at 12&ndash;13 where the bow-and-arrow
       crosses the D/E acrostic boundary.
       This "enjambment" of ideas and images across the alphabetic boundaries
-      is a counterweight to the formal structuring on the acrostic,
+      is a counterweight to the formal structuring of the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
     </p>
@@ -445,7 +445,7 @@
             </p>
             <p>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                holocaust and horror;<!-- alliteration; see also next verse -->
+                holocaust and horror.<!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
@@ -525,7 +525,7 @@
                 you redeemed my life.
             </p>
             <p>
-              Witness, O <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
+              Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
                 do justice for me.
             </p>
             <p>

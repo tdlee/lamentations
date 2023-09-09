@@ -44,6 +44,11 @@
     </p>
 
     <p>
+      Visually, a unique aspect of this chapter is the striking use of colour
+      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103'); ?>
+    </p>
+
+    <p>
       It starts with the impossible.
       Pure gold does not, and cannot, tarnish under normal circumstances.<?php
         Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
@@ -72,7 +77,7 @@
                 but also allows the metaphor for the stones of the destroyed Temple.
                 Taken in conjunction with following verse,
                 this metaphor links an increasingly human sequence:
-                "<i>gold</i>" "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
+                "<i>gold</i>", "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".
                 Further, the Hebrew words "stones" (here) and "sons" (v2) are similar.';
             ?>
             <p>
@@ -134,9 +139,9 @@
               $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
             ?>
             <p>
-              Embraced now on dung heaps are those<br>
+              Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
-              Those once feasting on sweetmeats<br>
+              Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
               &emsp;lie destitute in alleys.
             </p>
           </div><!-- poem__versetext -->
@@ -189,7 +194,7 @@
               Impaling on sword? Far better<br>
               &emsp;than piercing by famine.<br>
               Better to bleed from our wounds<br>
-              &emsp;than be starved of all food. See&mdash;
+              &emsp;than be starved of all food.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
