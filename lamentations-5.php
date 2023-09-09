@@ -206,8 +206,8 @@
                   virgins in the cities of Judah.
               </p>
               <p>
-                Princes are hanged by them;<br>
-                  elders are shown no respect.
+                Princes are hung up by their hands;<br>
+                  elders disrespected to their faces.
               </p>
               <p>
                 Young men have millstones to carry;<br>
