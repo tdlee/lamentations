@@ -175,7 +175,7 @@
             <div class="poem__verseref">8&ndash;10</div>
             <div class="poem__versetext">
               <?php
-                $fn='These may be understood as Babylonian official who were slaves or servants of the Babylonain king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
+                $fn='These may be understood as Babylonian officials who were slaves or servants of the Babylonian king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
               ?>
               <!-- The word "underlings" from Goldingay commentary, p.198 -->
               <p>
