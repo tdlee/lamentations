@@ -254,14 +254,17 @@
       Lamentations was written in contemporary language.
       Accordingly this version sometimes uses words that are relatively modern
       or that have a modern edge.
-      Two examples that additionally carry relevance with recent history are:
+      Examples that carry additional relevance from recent history, particularly <abbr title="World War 2">WW2</abbr>, are:
     </p>
     <ul>
       <li>
-        Blitzed (2:2): Imported into English from the German "blitzkrieg" of WW2.
+        blitzed (2:2): imported into English from the German "blitzkrieg".
       </li>
       <li>
-        Holocaust (2:11, 3:47,48, 4:10): While an old word, this gained major usage following the gas-chamber slaughter of Jewish people and others in WW2.
+        firestorm (4:11): an older word that gained particular currency from Allied bombing raids.
+      </li>
+      <li>
+        holocaust (2:11, 3:47,48, 4:10): while an old word, this gained specific usage following the gas-chamber slaughter of Jewish people and others.
       </li>
     </ul>
 

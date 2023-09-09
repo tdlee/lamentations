@@ -225,7 +225,7 @@
             <p>
               Meted out in full is the <span class="yhwh">Lord</span>'s anger,<br>
               &emsp;his wrath disgorged;<br><!-- disgorged: 4:1, 4:11, 4:13 -->
-              He has kindled a blaze in Zion<br>
+              He has kindled a firestorm in Zion<br><!-- "firestorm": see translation notes -->
               &emsp;that consumed her foundations.
             </p>
           </div><!-- poem__versetext -->
