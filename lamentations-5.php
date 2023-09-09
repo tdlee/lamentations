@@ -174,9 +174,13 @@
           <div class="poem__verse">
             <div class="poem__verseref">8&ndash;10</div>
             <div class="poem__versetext">
+              <?php
+                $fn='These may be understood as Babylonian official who were slaves or servants of the Babylonain king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
+              ?>
+              <!-- The word "underlings" from Goldingay commentary, p.198 -->
               <p>
-                Slaves rule over us;<br>
-                  there is no-one to free us from their hand.
+                Underlings are now our overlords;<?php Footnote($fn); ?><br>
+                  there is no release from their hand.
               </p>
               <?php
                 $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
