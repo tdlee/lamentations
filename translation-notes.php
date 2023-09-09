@@ -245,7 +245,7 @@
       The "Daughter Zion" and "Daughter Jerusalem" personalisation is integral to chapters 1 and 2.
       Similarly, the "strong man" characterisation recurs through chapter 3.
       In these contexts, attempting to downplay these characteristics
-      would seen not only pointless but even counter-productive.
+      would seem not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
     </p>
     <h2>Word choices</h2>
