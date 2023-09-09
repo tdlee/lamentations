@@ -225,7 +225,7 @@
             <p>
               Meted out in full is the <span class="yhwh">Lord</span>'s anger,<br>
               &emsp;his wrath disgorged;<br><!-- disgorged: 4:1, 4:11, 4:13 -->
-              He has kindled a blaze in Zion<br>
+              He has kindled a firestorm in Zion<br><!-- "firestorm": see translation notes -->
               &emsp;that consumed her foundations.
             </p>
           </div><!-- poem__versetext -->
@@ -262,7 +262,7 @@
           <div class="poem__verseref">14</div>
           <div class="poem__versetext">
             <?php
-              $fn='The referent "they" is ambiguous. It makes sense for it to be the priests and prophets of the previous verse; this leads well into vv.15&ndash;16.  Goldingay (2022) p.176.';
+              $fn='The referent "they" is ambiguous. It makes sense for it to be the priests and prophets of the previous verse; this leads well into vv.15&ndash;16; Goldingay (2022), p.176. And there is a certain irony in the prophets&mdash;the visionaries&mdash;being blind; Berlin (2004), p.111.';
             ?>
             <p>
               Polluted with blood, through the streets<br>
@@ -302,7 +302,7 @@
             ?>
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
               &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
-	      The people turn their faces from the priests;<br>
+              The people turn their faces from the priests;<br>
               &emsp;show elders no favour.
             </p>
           </div><!-- poem__versetext -->
@@ -312,10 +312,13 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+            <?php
+              $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113.';
+            ?>
             <p>
               Teared eyes still pine; looking<br>
               &emsp;for help, but in vain;<br>
-              From our watchtowers we watched for a nation,<br>
+              From our watchtowers we watched for a nation,<?php Footnote($fn); ?><br>
               &emsp;but that cannot deliver.
             </p>
           </div><!-- poem__versetext -->
