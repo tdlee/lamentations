@@ -137,12 +137,14 @@
     and sing them loud even in the dead of night;
   Halloo your name to the reverberate hills
     and make the babbling gossip of the air
-    cry out "O, list'n to us!" O, you should not rest
+    cry out "O, listen up!" O, you should not rest
     between the elements of air and earth
     but you should pity me.
         </div><!-- "verse" -->
         <div class="panel__cite">
-            &mdash;William Shakespeare "Twelfth Night" <i>(adapted)</i>
+            &mdash;William Shakespeare,
+            <a href="https://www.allgreatquotes.com/shakespeare-quotes-757/" target="_blank"><cite>Twelfth Night</cite></a>
+            <i>(adapted)</i>
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
