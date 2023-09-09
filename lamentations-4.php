@@ -302,7 +302,7 @@
             ?>
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
               &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
-	      The people turn their faces from the priests;<br>
+              The people turn their faces from the priests;<br>
               &emsp;show elders no favour.
             </p>
           </div><!-- poem__versetext -->
