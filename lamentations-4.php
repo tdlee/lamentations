@@ -194,7 +194,7 @@
               Impaling on sword? Far better<br>
               &emsp;than piercing by famine.<br>
               Better to bleed from our wounds<br>
-              &emsp;than be starved of all food. See&mdash;
+              &emsp;than be starved of all food.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
