@@ -231,7 +231,7 @@
               </p>
               <p>
                 The crown from our head has toppled:<br>
-                  woe now to us; for we have offended.
+                  woe to us; for we have offended.
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
