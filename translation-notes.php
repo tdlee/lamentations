@@ -269,7 +269,7 @@
     </ul>
 
     <p>
-      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "zilch" (3:64), "ziplock" (3:65).
+      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21).
     </p>
 
     <p>
