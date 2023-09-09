@@ -262,7 +262,7 @@
           <div class="poem__verseref">14</div>
           <div class="poem__versetext">
             <?php
-              $fn='The referent "they" is ambiguous. It makes sense for it to be the priests and prophets of the previous verse; this leads well into vv.15&ndash;16.  Goldingay (2022) p.176.';
+              $fn='The referent "they" is ambiguous. It makes sense for it to be the priests and prophets of the previous verse; this leads well into vv.15&ndash;16; Goldingay (2022), p.176. And there is a certain irony in the prophets&mdash;the visionaries&mdash;being blind; Berlin (2004), p.111.';
             ?>
             <p>
               Polluted with blood, through the streets<br>
