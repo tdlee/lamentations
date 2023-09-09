@@ -68,6 +68,15 @@
       ?>
     </p>
     <p>
+      A further contrast is that this chapter is communal.
+      No "I" speaks in this poem;
+      and whereas Lam.1 and Lam.2 never spoke in first-person plural terms,
+      and Lam.3 and Lam.4 did so only when past the halfway point,
+      Lam.5 speaks almost throughout in "we/our/us" terms.<?php
+        Footnote('Goldingay (2022), p.191.');
+      ?>
+    </p>
+    <p>
       Many attempts have been made to find something comparable to the acrostic.
       Not least, this would provide the otherwise missing "seventh acrostic"
       (the other six being one each in chapters 1, 2 and 4,
