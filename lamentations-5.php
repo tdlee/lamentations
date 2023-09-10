@@ -247,7 +247,7 @@
               For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
             </p>
             <p>
-              for all these: our eyes grow dim;
+              for all these: our eyes dim;
             </p>
             <?php
               $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
