@@ -446,7 +446,7 @@
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
-              &emsp;you butchered without pity.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
+              &emsp;you butchered&mdash;pitilessly.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
