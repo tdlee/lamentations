@@ -41,16 +41,27 @@
     </p>
 
     <p>
-      In the Hebrew text, the first eleven verses and the lines within them
-      almost all start with verbs.<?php
+      In the Hebrew text, over 80% of this poem's verses,
+      1&ndash;11 and 15&ndash;21, start with verbs.<?php
         Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
       ?>
+      And additionally, within those verses,
+      many of their internal couplets are similarly verb-fronted.
+      In English this can be seen strikingly in
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
+      from the late nineteenth century.<?php
+        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
+      ?>
+    </p>
+
+    <p>
       This bombarding effect is counter
       to the English-language "subject then verb" convention.
       That sustained, pounding drive is conveyed here
       by using a verb-fronted, list-like structure for the first few verses,
       with the subject being relegated to less prominent placement.
       For example the first three verses may be read as:
+    </p>
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
         <p>
