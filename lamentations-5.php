@@ -40,7 +40,7 @@
       <li>
         the <i>qinah</i> three&ndash;two stress pattern is largely absent;
         most stanzas are three&ndash;three.<?php
-          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here.');
+          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here, and seems particularly poignant at 17&ndash;18.');
         ?>
       </li>
     </ul>
