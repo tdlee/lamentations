@@ -359,8 +359,8 @@
               &emsp;at Daughter Jerusalem,<?php Footnote($fn2); ?><br>
               now those on the road passing by<br>
               &emsp;slow-clap in derision:<br><!-- "slow-clap" also in notes -->
-              Was this once: "Perfect in beauty,<br>
-              &emsp;joy of all earth"?<?php Footnote($fn); ?>
+              "Was this once 'Perfect in beauty,<br>
+              &emsp;joy of all earth'?"<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
