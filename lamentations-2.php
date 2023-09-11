@@ -41,16 +41,27 @@
     </p>
 
     <p>
-      In the Hebrew text, the first eleven verses and the lines within them
-      almost all start with verbs.<?php
+      In the Hebrew text, over 80% of this poem's verses,
+      1&ndash;11 and 15&ndash;21, start with verbs.<?php
         Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
       ?>
+      And additionally, within those verses,
+      many of their internal couplets are similarly verb-fronted.
+      In English this can be seen strikingly in
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
+      from the late nineteenth century.<?php
+        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
+      ?>
+    </p>
+
+    <p>
       This bombarding effect is counter
       to the English-language "subject then verb" convention.
       That sustained, pounding drive is conveyed here
       by using a verb-fronted, list-like structure for the first few verses,
       with the subject being relegated to less prominent placement.
       For example the first three verses may be read as:
+    </p>
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
         <p>
@@ -238,7 +249,7 @@
               <?php
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
-              Into the ground her gates sunk;<br>
+              Ingested in earth sank her gates;<br>
               &emsp;he shattered her bars.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
@@ -344,12 +355,12 @@
                 $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
                 $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
               ?>
-              Remembered once: "Perfect in beauty,<br>
-              &emsp;joy of all earth";<?php Footnote($fn); ?><br>
-              now those who pass by on the road<br>
-              &emsp;clap in derision;<br>
-              they hiss and wag their heads<br>
-              &emsp;over Daughter Jerusalem.<?php Footnote($fn2); ?>
+              Reviling with hiss and with head-toss<br>
+              &emsp;at Daughter Jerusalem,<?php Footnote($fn2); ?><br>
+              now those on the road passing by<br>
+              &emsp;slow-clap in derision:<br><!-- "slow-clap" also in notes -->
+              "Was this once 'Perfect in beauty,<br>
+              &emsp;joy of all earth'?"<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -446,7 +457,7 @@
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
-              &emsp;you butchered without pity.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
+              &emsp;you butchered&mdash;pitilessly.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
