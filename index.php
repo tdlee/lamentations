@@ -341,19 +341,6 @@
     </p>
 
     <p>
-    In his magesterial translation of the Hebrew Bible,
-    <a href="https://en.wikipedia.org/wiki/Robert_Alter" target="_blank">Robert Alter</a> notes:
-<i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
-    with the object of the verb 'fronted' at the beginning of many lines,
-    but the poet exploits this pattern for expressive emphasis."</i><?php
-      Footnote('Alter, Robert (2019), p.657');
-    ?>
-    Again, a prose-biased quest for "meaning" might miss this.
-    But it can come across with authentic power in the poem,
-    including in English translation or paraphrase.
-    </p>
-
-    <p>
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
     four letters need omitting.<?php
       Footnote('The further subtlety of two different versions of the Hebrew alphabet having
@@ -373,6 +360,45 @@
     even essential, component of "meaning"?
     Whatever necessary four letters are chosen for omission,
     "A" and "Z" surely remain indispensable.
+    </p>
+
+    <h3>Linguistic styling</h3>
+
+    <p>
+    In his magesterial translation of the Hebrew Bible,
+    <a href="https://en.wikipedia.org/wiki/Robert_Alter" target="_blank">Robert Alter</a> notes:
+<i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
+    with the object of the verb 'fronted' at the beginning of many lines,
+    but the poet exploits this pattern for expressive emphasis."</i><?php
+      Footnote('Alter, Robert (2019), p.657');
+    ?>
+    </p>
+
+    <p>
+      English translations of Lamentations also tend to lose
+      important stylistic distinctions between different chapters,
+      and thereby lose a richness of biblical diversity, even between adjacent chapters.<?php
+        Footnote('This translation loss is readily apparent in other biblical texts, especially in the Hebrew Bible (our Christian Old Testament). For me as a scientist and erstwhile geologist, a key loss is across the two markedly different and contrasting creation accounts at the opening of Genesis.');
+      ?>
+      A key example is the second chapter,
+      in which over 80% of the Hebrew text's verses start with a verb.
+      This itself generates a pounding effect to the hearer, audience or alert reader.
+      I could find only a single translation which had this:
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
+      from the late nineteenth century.
+      But even that seemed to be simply a by-product, rather than intention,
+      of its translation paradigm,
+      and it still missed a couple of instances.
+      Of course, the acrostic nature at the start of the Hebrew verse
+      hugely restricts our verb choice in its English representation
+      (Young's non-acrostic version was unhindered by this significant constraint)
+      but it seems at least worth attempting,
+      although a few instances were not possible.
+    </p>
+
+    <p>
+      Again, a prose-biased quest for "meaning" might miss these distinctive characteristics.
+      But they can come across with authentic power in the poem and staged reading.
     </p>
 
     <div class="widthclear"></div>
