@@ -244,13 +244,17 @@
         <div class="poem__verse">
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
+            <?php
+              $fn1='The pairing "gall" and "bitterness" echo from v.15.';
+              $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To retain this structure and emphasis, we position the verb at the verse-ends.';
+            ?>
             <p>
-              Gall, a bitter remembrance<br><!-- vv.15,19: bitter/gall word-pair -->
-                of my affliction, my wandering;
+              Gall and bitterness<?php Footnote($fn1); ?> in such affliction,<br><!-- vv.15,19: bitter/gall word-pair -->
+                such hollowness, such remembering;
             </p>
             <p>
-              Grief downcasts my soul,<br>
-                in its pained recollection;
+              Grief downcasts my soul&mdash;<br>
+                such recollecting; such remembering.<?php Footnote($fn2); ?>
             </p>
             <p>
               Glimmering, though, to heart<br>
