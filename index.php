@@ -423,13 +423,13 @@
     <p>
     So why this version?
     No existing version seems to capture the essential characteristics
-    of the original Hebrew: Z-inclusive acrostic; qinah; linguistic compactness.
+    of the original Hebrew: Z-inclusive acrostic; <i>qinah</i>; linguistic compactness.
     </p>
     <p>
     Perform it aloud! Stage it in a worship space!
     </p>
     <p>
-    See the visual acrostic; speak that 'qinah'.
+    See the visual acrostic; speak that <i>qinah</i>.
     </p>
 
     <h2>Acknowledgements</h2>
