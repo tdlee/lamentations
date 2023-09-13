@@ -245,7 +245,7 @@
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
             <?php
-              $fn1='The pairing "gall" and "bitterness" echo from v.15.';
+              $fn1='The pairing "gall" and "bitterness" echoes from v.15.';
               $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
             ?>
             <p>
