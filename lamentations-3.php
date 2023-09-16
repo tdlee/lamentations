@@ -545,7 +545,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='A near-direct repetition from the previous verse. Goldingay (2022) indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
+                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
               ?>
               You have heard, <span class="yhwh">Lord</span>, their insults,<br>
                 their scheming at me;<?php Footnote($fn); ?>
