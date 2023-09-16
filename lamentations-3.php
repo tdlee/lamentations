@@ -534,7 +534,7 @@
             </p>
             <p>
               Witness all their vindictiveness,<br><!-- 59/60: same opening word -->
-                their scheming against me.
+                their scheming against me.<!-- "against/at me": 60/61/62 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -545,13 +545,13 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
+                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
               ?>
               You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-                their scheming at me;<?php Footnote($fn); ?>
+                their scheming at me:<?php Footnote($fn); ?><!-- "against/at me": 60/61/62 -->
             </p>
             <p>
-              Yonder, they mutter and prattle<br>
+              Yonder, foes prattle against me<br><!-- "against/at me": 60/61/62 -->
                 from day-dawn to dusk;
             </p>
             <p>
