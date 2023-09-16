@@ -288,7 +288,7 @@
               &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
               &emsp;my liver-bile spills,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe -->
-              as the infants and children expire<br>
+              as infants and children expire<br>
               &emsp;in the city streets.
             </p>
           </div><!-- poem__versetext -->
