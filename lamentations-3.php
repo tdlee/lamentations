@@ -40,8 +40,13 @@
       and reflect a woman's perspective of the effects of war and siege,
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
-      from the gender-specific Hebrew "geber",
-      unlike "adam" which can sometimes be read in gender-inclusive ways.
+      from the male-specific Hebrew "geber".<?php
+        Footnote('Contrast the Hebrew "adam" which, rather like the English word "man",
+          is not only the male "Adam" in the Gen.2 Adam and Eve creation story,
+          but can sometimes be read in gender-inclusive manner
+          as in the "mankind/adam&hellip;male and female [God] created them"
+          in the preceding Gen.1 creation story.');
+      ?>
       This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
     </p>
 
