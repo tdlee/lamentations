@@ -188,11 +188,14 @@
     <p>
       Then observe that 2:20 uses it,
       and even more that the final poem almost opens with that same pair of verbs.
-      The "notice" root also puts in an appearance at 4:16.
+      The "notice" root also puts in an appearance at 3:63 and 4:16.
     </p>
     <ul>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      3:63: You <strong>notice?</strong>&hellip;
     </li>
     <li>
       4:16: &hellip;no longer he <strong>takes note</strong>&hellip;

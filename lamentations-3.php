@@ -555,7 +555,7 @@
                 from day-dawn to dusk;
             </p>
             <p>
-              You see them? Whether seated or rising,<br>
+              You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
                 they mock me in songs.
             </p>
           </div><!-- poem__versetext -->
