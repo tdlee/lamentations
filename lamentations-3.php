@@ -56,6 +56,7 @@
       is a counterweight to the formal structuring of the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
+      A similar change of thought happens between 58 and 59 within the "W" stanza.
     </p>
 
     <p>
@@ -530,7 +531,7 @@
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
-                do justice for me.
+                do justice for me;
             </p>
             <p>
               Witness all their vindictiveness,<br><!-- 59/60: same opening word -->
