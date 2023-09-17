@@ -60,7 +60,7 @@
       And it continues into the human realm,
       including the horror of mothers cannibalising their own God-given children.
       "Blessings of the covenant become human carnage."<?php
-        Footnote('Hens-Piazza, Gina (2017) "Lamentations", p.60. 978-0814681541');
+        Footnote('Hens-Piazza, Gina (2017) <cite>Lamentations</cite>, p.60. 978-0814681541');
       ?>
     </p>
 

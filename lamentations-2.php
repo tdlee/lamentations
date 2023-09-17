@@ -340,7 +340,7 @@
               They did not lay bare your guilt<br>
               &emsp;to restore your fortunes;<br>
               they saw for you only oracles<br>
-              &emsp;of illusions and deceit.
+              &emsp;of illusion and deceit.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -453,7 +453,7 @@
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
             <p>
-              Young and old lie dead together<br>
+              Young and old lie strewn<br>
               &emsp;on the ground in the streets;<br>
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>

@@ -240,7 +240,9 @@
 
     <p>
       Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
-      In general, this version adopts that principle.
+      In general, this version adopts that principle.<?php
+        Footnote('One specific exception is at 4:1&ndash;2 where "sons" is used to allow a carrying forward from the Hebrew of its "stones&hellip;sons" wordplay which is embedded in a larger-scale metaphor in those verses. See the further footnote there.');
+      ?>
     </p>
 
     <p>
@@ -312,7 +314,7 @@
     <ul>
     <li>
       At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".<?php Footnote("Berlin (2004) p.51; Goldingay (2022) p.54 note 'e'"); ?>
-      To the original hearers, this would have conveyed a powerful reminder, alas lost to us, of other dire times in another place.
+      In its original Jewish culture, this would have conveyed a powerful reminder, alas lost on us outsiders, of their ancestral enslavement there.
     </li>
 
     <li>

@@ -44,11 +44,11 @@
     </p>
 
     <p>
-      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with the book's theme of the totality of the devastion and suffering.
+      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
     </p>
 
     <p>
-      Reminder: the 3&ndash;2 "qinah" rhythm is vitally important to recitation and reading.
+      Reminder: the 3&ndash;2 <i>qinah</i> rhythm is vitally important to recitation and reading.
       <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
       </span>

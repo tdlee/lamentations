@@ -35,28 +35,49 @@
 
     <ul>
       <li>
-        Alter, Robert (2019) "The Hebrew Bible: Volume 3: The Writings", W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
+        Alter, Robert (2019) <cite>The Hebrew Bible: Volume 3: The Writings</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
       </li>
       <li>
-        Berlin, Adele (2004) "Lamentations: A Commentary", Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>
+        Berlin, Adele (2004) <cite>Lamentations: A Commentary</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>
       </li>
       <li>
-        Goldingay, John (2022) "The Book of Lamentations", Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
+        Goldingay, John (2022) <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
       </li>
       <li>
-        Middlemas, Jill (2021) "Lamentations: An Introduction and Study Guide", T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
+        Middlemas, Jill (2021) <cite>Lamentations: An Introduction and Study Guide</cite>, T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
       </li>
     </ul>
 
     <p>
-      Other sources include:
+      Other commentary and academic sources include:
     </p>
     <ul>
       <li>
         Various items mentioned in relevant footnotes at their point of use
       </li>
       <li>
-        Mandolfo, Carleen R. (2007) "Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations", Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
+        Mandolfo, Carleen R. (2007) <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
+      </li>
+    </ul>
+
+    <p>
+      Having no knowledge of Hebrew, the following online resources have proved immensely valuable:
+    </p>
+    <ul>
+      <li>
+	The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
+        dual-langauge version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
+        This not only shows the Hebrew text but allows each word to be selected
+        for dictionary look-up.
+        It also shows original word order, crucial for verifying, for example,
+        the leading verbs that so dominate the second chapter.
+      </li>
+      <li>
+        <a href="https://www.biblegateway.com/passage/?search=lamentations+1&version=YLT" target="_blank">Young's Literal Translation</a> (1862&ndash;1898).
+        This largely follows the word-ordering of the Hebrew
+        (see comment above about Sefaria/JPS)
+        and is careful to use words consistently,
+        allowing repetition to be clearly visible.
       </li>
     </ul>
 
