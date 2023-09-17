@@ -240,7 +240,9 @@
 
     <p>
       Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
-      In general, this version adopts that principle.
+      In general, this version adopts that principle.<?php
+        Footnote('One specific exception is at 4:1&ndash;2 where "sons" is used to allow a carrying forward from the Hebrew of its "stones&hellip;sons" wordplay which is embedded in a larger-scale metaphor in those verses. See the further footnote there.');
+      ?>
     </p>
 
     <p>
