@@ -188,11 +188,14 @@
     <p>
       Then observe that 2:20 uses it,
       and even more that the final poem almost opens with that same pair of verbs.
-      The "notice" root also puts in an appearance at 4:16.
+      The "notice" root also puts in an appearance at 3:63 and 4:16.
     </p>
     <ul>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      3:63: You <strong>notice?</strong>&hellip;
     </li>
     <li>
       4:16: &hellip;no longer he <strong>takes note</strong>&hellip;
@@ -273,7 +276,7 @@
     </p>
 
     <p>
-      Meanwhile the verb <a href="https://www.merriam-webster.com/dictionary/zone#id-dictionary-entry-2" target="_blank">"zoned"</a> (2:22) is old, whose meanings include "encicle".
+      Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
     </p>
 
     <h3>Word choices: a worked example</h3>

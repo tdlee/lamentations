@@ -185,7 +185,7 @@
     But perhaps even more important,
     and also jettisoned in most translations,
     is a forceful, angst-driven rhythm, known as 'qinah'.<?php
-      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  Middlemas (2021) discusses both: p.2 (large-scale genre) and pp.22&ndash;23 (rhythm). In our context, we use the rhythmic meaning.');
+      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  Middlemas (2021) discusses both: p.2 (large-scale genre), pp.22&ndash;23 (rhythm) and p.33 (their interaction). In our context, we use the rhythmic meaning.');
     ?>
     </p>
 
@@ -423,13 +423,13 @@
     <p>
     So why this version?
     No existing version seems to capture the essential characteristics
-    of the original Hebrew: Z-inclusive acrostic; qinah; linguistic compactness.
+    of the original Hebrew: Z-inclusive acrostic; <i>qinah</i>; linguistic compactness.
     </p>
     <p>
     Perform it aloud! Stage it in a worship space!
     </p>
     <p>
-    See the visual acrostic; speak that 'qinah'.
+    See the visual acrostic; speak that <i>qinah</i>.
     </p>
 
     <h2>Acknowledgements</h2>

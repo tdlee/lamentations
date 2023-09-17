@@ -40,8 +40,13 @@
       and reflect a woman's perspective of the effects of war and siege,
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
-      from the gender-specific Hebrew "geber",
-      unlike "adam" which can sometimes be read in gender-inclusive ways.
+      from the male-specific Hebrew "geber".<?php
+        Footnote('Contrast the Hebrew "adam" which, rather like the English word "man",
+          is not only the male "Adam" in the Gen.2 Adam and Eve creation story,
+          but can sometimes be read in gender-inclusive manner
+          as in the "mankind/adam&hellip;male and female [God] created them"
+          in the preceding Gen.1 creation story.');
+      ?>
       This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
     </p>
 
@@ -56,6 +61,7 @@
       is a counterweight to the formal structuring of the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
+      A similar change of thought happens between 58 and 59 within the "W" stanza.
     </p>
 
     <p>
@@ -244,13 +250,17 @@
         <div class="poem__verse">
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
+            <?php
+              $fn1='The pairing "gall" and "bitterness" echoes from v.15.';
+              $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
+            ?>
             <p>
-              Gall, a bitter remembrance<br><!-- vv.15,19: bitter/gall word-pair -->
-                of my affliction, my wandering;
+              Gall and bitterness<?php Footnote($fn1); ?> are this affliction<br><!-- vv.15,19: bitter/gall word-pair -->
+                and hollowness&mdash;such remembering;
             </p>
             <p>
-              Grief downcasts my soul,<br>
-                in its pained recollection;
+              Grief downcasts my soul&mdash;<br>
+                such recollecting; such remembering.<?php Footnote($fn2); ?>
             </p>
             <p>
               Glimmering, though, to heart<br>
@@ -427,7 +437,7 @@
             </p>
             <p>
               <?php
-                $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the enitre book.';
+                $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the entire book.';
               ?>
               Rejected<?php Footnote($fn); ?> and outcast you made us<br>
                 in the midst of the peoples;<!-- enjambment to next -->
@@ -526,11 +536,11 @@
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
-                do justice for me.
+                do justice for me;
             </p>
             <p>
               Witness all their vindictiveness,<br><!-- 59/60: same opening word -->
-                their scheming against me.
+                their scheming against me.<!-- "against/at me": 60/61/62 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -541,17 +551,17 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='A near-direct repetition from the previous verse. Goldingay (2022) indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this.';
+                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
               ?>
               You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-                their scheming at me;<?php Footnote($fn); ?>
+                their scheming at me:<?php Footnote($fn); ?><!-- "against/at me": 60/61/62 -->
             </p>
             <p>
-              Yonder, they mutter and prattle<br>
+              Yonder, foes prattle against me<br><!-- "against/at me": 60/61/62 -->
                 from day-dawn to dusk;
             </p>
             <p>
-              You see them? Whether seated or rising,<br>
+              You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
                 they mock me in songs.
             </p>
           </div><!-- poem__versetext -->
