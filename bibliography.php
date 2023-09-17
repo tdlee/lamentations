@@ -49,7 +49,7 @@
     </ul>
 
     <p>
-      Other sources include:
+      Other commentary and academic sources include:
     </p>
     <ul>
       <li>
@@ -57,6 +57,27 @@
       </li>
       <li>
         Mandolfo, Carleen R. (2007) <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
+      </li>
+    </ul>
+
+    <p>
+      Having no knowledge of Hebrew, the following online resources have proved immensely valuable:
+    </p>
+    <ul>
+      <li>
+	The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
+        dual-langauge version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
+        This not only shows the Hebrew text but allows each word to be selected
+        for dictionary look-up.
+        It also shows original word order, crucial for verifying, for example,
+        the leading verbs that so dominate the second chapter.
+      </li>
+      <li>
+        <a href="https://www.biblegateway.com/passage/?search=lamentations+1&version=YLT" target="_blank">Young's Literal Translation</a> (1862&ndash;1898).
+        This largely follows the word-ordering of the Hebrew
+        (see comment above about Sefaria/JPS)
+        and is careful to use words consistently,
+        allowing repetition to be clearly visible.
       </li>
     </ul>
 
