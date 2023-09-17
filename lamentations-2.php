@@ -453,7 +453,7 @@
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
             <p>
-              Young and old lie dead together<br>
+              Young and old lie strewn<br>
               &emsp;on the ground in the streets;<br>
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
