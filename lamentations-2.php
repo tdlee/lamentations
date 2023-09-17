@@ -340,7 +340,7 @@
               They did not lay bare your guilt<br>
               &emsp;to restore your fortunes;<br>
               they saw for you only oracles<br>
-              &emsp;of illusions and deceit.
+              &emsp;of illusion and deceit.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
