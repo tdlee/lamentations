@@ -276,7 +276,7 @@
     </p>
 
     <p>
-      Meanwhile the verb <a href="https://www.merriam-webster.com/dictionary/zone#id-dictionary-entry-2" target="_blank">"zoned"</a> (2:22) is old, whose meanings include "encicle".
+      Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
     </p>
 
     <h3>Word choices: a worked example</h3>
