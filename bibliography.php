@@ -84,6 +84,21 @@
       </li>
     </ul>
 
+    <h2>Background and introductory reading</h2>
+
+    <p>
+      The background to Lamentations was one of devasation, destruction and catastrophe for the Jewish people around 587/586 BCE, with brutal siege and exile.
+      Useful online sources include:
+    </p>
+    <ul>
+      <li>
+        <a href="https://bibleproject.com/guides/book-of-lamentations/" target="_blank">Guide to the Book of Lamentations</a> from the "BibleProject"
+      </li>
+      <li>
+        <a href="https://www.thetorah.com/article/an-introduction-to-lamentations" target="_blank">An Introduction to Lamentations</a> from the "TheTorah"
+      </li>
+    </ul>
+
     <hr>
     <div class="footnotes">
       <?php

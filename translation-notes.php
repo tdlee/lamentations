@@ -169,10 +169,51 @@
     <p>
       The verbs "look" and "notice" recur, sometimes in emphatic pairing.
       Other English verbs would have been candidates: "see", "behold", "observe" etc.
-      But our acrostic requirement drives the choice, particularly of "notice"
-      because 1:12 demands a strong, imperative verb at its start,
+      But our acrostic requirement drives the choice,
+      particularly at 1:12,
       which has to be at, or very close to, alphabetic 'n'.
-      But there is more.  The run up to that 1:12 prepares the way:
+      A typical good, but non-acrostic translation is the <abbr title="New Revised Standard Version">NRSV</abbr>:
+      </p>
+      <div class="panel panel--width-22em">
+        <div class="poem poem__hebverse">
+          <div class="poem__versetext">
+            <p>
+            Is it nothing to you, all you who pass by?<br>
+              Look and see
+            </p>
+            <p>
+            if there is any sorrow like my sorrow,<br>
+              which was brought upon me,
+            </p>
+            <p>
+            which the Lord inflicted<br>
+              on the day of his fierce anger.
+            </p>
+          </div>
+        </div>
+
+        <div class="panel__cite">
+            &mdash;Lam.1:12, NRSV
+        </div><!-- "panel__cite" -->
+      </div>
+
+
+    <p>
+      The obvious acrostic-leading 'n'-word would be that "nothing" in the first part of the first couplet.
+      Despite that, there seems no decent, readable means to re-organise the couplet
+      to start with "<span class="acrostic-letter">N</span>othing&hellip;" or similar.
+      But its second part is "look and see".
+      This would allow the 'n'-word "<span class="acrostic-letter">N</span>otice"
+      and presents a possible way forward.
+    </p>
+
+    <p>
+      But there is more.
+      The verbs and their frequent pairing present a recurrent theme,
+      not only within the first chapter but across other chapters.
+      So when locking in the acrostic  "<span class="acrostic-letter">N</span>otice"
+      these, too, must be considered.
+      The run up to that 1:12 prepares the way:
     </p>
     <ul>
     <li>
@@ -209,10 +250,7 @@
     </ul>
 
     <p>
-      But driving all that was the acrostic requirement at 1:12 for an 'n' verb,
-      which was itself driven by the need to re-organise the verse
-      because of the seeming impossibility of an English acrostic
-      from its original Hebrew order.
+      But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.
     </p>
 
     <h2>Qinah</h2>
