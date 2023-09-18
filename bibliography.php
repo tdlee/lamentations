@@ -41,6 +41,9 @@
         Berlin, Adele (2004), <cite>Lamentations: A Commentary</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>
       </li>
       <li>
+        Dobbs-Allsopp, F.W. (1997), <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>, Journal for the Study of the Old Testament, 22,74, pp.29&ndash;60, <a href="https://doi.org/10.1177/030908929702207402" target="_blank">DOI: 10.1177/030908929702207402</a>
+      </li>
+      <li>
         Goldingay, John (2022), <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
       </li>
       <li>

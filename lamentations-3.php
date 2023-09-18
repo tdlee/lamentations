@@ -69,12 +69,7 @@
       an individual "geber" (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
       Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
       That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
-        Footnote('Goldingay (2022), p.150');
-    ?><?php
-        Footnote('Dobbs-Allsopp, F.W. (1997),
-          <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>,
-          Journal for the Study of the Old Testament, 22,74, 41,
-          <a href="https://doi.org/10.1177/030908929702207402" target="_blank">DOI: 10.1177/030908929702207402</a>');
+        Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
       ?>
     </p>
 
