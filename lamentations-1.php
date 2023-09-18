@@ -387,7 +387,7 @@
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
             <p>
-              Witness, O <span class="yhwh">Lord</span>, my distress!<br>
+              Wretched am I, <span class="yhwh">Lord</span>; look!<br><!-- referenced in notes (for notice/look) -->
               &emsp;My stomach churns,<br>
               my heart recoils within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
