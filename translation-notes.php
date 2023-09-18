@@ -184,6 +184,9 @@
     <li>
       1:12: <strong>Notice!</strong> And <strong>look</strong>, you passers-by&hellip;
     </li>
+    <li>
+      1:20: &hellip;<span class="yhwh">Lord</span>; <strong>look!</strong>
+    </li>
     </ul>
     <p>
       Then observe that 2:20 uses it,
@@ -206,7 +209,10 @@
     </ul>
 
     <p>
-      But driving all that was the acrostic requirement at 1:12 for an 'n' verb.
+      But driving all that was the acrostic requirement at 1:12 for an 'n' verb,
+      which was itself driven by the need to re-organise the verse
+      because of the seeming impossibility of an English acrostic
+      from its original Hebrew order.
     </p>
 
     <h2>Qinah</h2>

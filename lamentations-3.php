@@ -62,6 +62,12 @@
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
       A similar change of thought happens between 58 and 59 within the "W" stanza.
+      Indeed, even <em>within</em> a verse, at 42,
+      when the poet is on the brink of regaining his confidence,
+      the vision of fragile hope is shattered and evaporates:
+      "But you did not forgive".<?php
+        Footnote('Dobbs-Allsopp (1997), p.48.');
+      ?>
     </p>
 
     <p>
@@ -69,12 +75,7 @@
       an individual "geber" (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
       Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
       That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
-        Footnote('Goldingay (2022), p.150');
-    ?><?php
-        Footnote('Dobbs-Allsopp, F.W. (1997),
-          <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>,
-          Journal for the Study of the Old Testament, 22,74, 41,
-          <a href="https://doi.org/10.1177/030908929702207402" target="_blank">DOI: 10.1177/030908929702207402</a>');
+        Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
       ?>
     </p>
 
@@ -414,8 +415,8 @@
                 to God on high:
             </p>
             <p>
-              Perversely we have rebelled;<br>
-                you did not forgive;<!-- enjambment to next -->
+              Perversely we have rebelled.<br>
+                &mdash;But you did not forgive;<!-- quoted in chapter intro --><!-- semantic enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
