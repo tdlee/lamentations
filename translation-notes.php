@@ -173,30 +173,30 @@
       particularly at 1:12,
       which has to be at, or very close to, alphabetic 'n'.
       A typical good, but non-acrostic translation is the <abbr title="New Revised Standard Version">NRSV</abbr>:
-      </p>
-      <div class="panel panel--width-22em">
-        <div class="poem poem__hebverse">
-          <div class="poem__versetext">
-            <p>
-            Is it nothing to you, all you who pass by?<br>
-              Look and see
-            </p>
-            <p>
-            if there is any sorrow like my sorrow,<br>
-              which was brought upon me,
-            </p>
-            <p>
-            which the Lord inflicted<br>
-              on the day of his fierce anger.
-            </p>
-          </div>
-        </div>
+    </p>
 
-        <div class="panel__cite">
-            &mdash;Lam.1:12, NRSV
-        </div><!-- "panel__cite" -->
+    <div class="panel panel--width-22em">
+      <div class="poem poem__hebverse">
+        <div class="poem__versetext">
+          <p>
+          Is it nothing to you, all you who pass by?<br>
+            Look and see
+          </p>
+          <p>
+          if there is any sorrow like my sorrow,<br>
+            which was brought upon me,
+          </p>
+          <p>
+          which the Lord inflicted<br>
+            on the day of his fierce anger.
+          </p>
+        </div>
       </div>
 
+      <div class="panel__cite">
+          &mdash;Lam.1:12, NRSV
+      </div><!-- "panel__cite" -->
+    </div>
 
     <p>
       The obvious acrostic-leading 'n'-word would be that "nothing" in the first part of the first couplet.
