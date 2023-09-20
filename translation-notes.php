@@ -204,8 +204,22 @@
       to start with "<span class="acrostic-letter">N</span>othing&hellip;" or similar.
       But its second part is "look and see".
       This would allow the 'n'-word "<span class="acrostic-letter">N</span>otice"
-      and presents a possible way forward.
+      and presents a possible way forward:
     </p>
+
+    <div class="panel panel--width-22em">
+      <div class="poem poem__hebverse poem--acrostic">
+        <div class="poem__verse">
+          <div class="poem__versetext">
+            <p>
+              Notice! And look, you passers-by;<br>
+                &emsp;is it nothing to you?<br>
+              Is there any&hellip;
+            </p>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
 
     <p>
       But there is more.
