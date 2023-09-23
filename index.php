@@ -425,6 +425,11 @@
     </p>
 
     <h2>In summary</h2>
+
+    <p>
+    <i>Lamentations is poetry. Not prose.</i>
+    </p>
+
     <p>
     So why this version?
     No existing version seems to capture the essential characteristics
