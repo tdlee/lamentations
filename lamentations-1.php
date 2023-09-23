@@ -262,7 +262,7 @@
           <div class="poem__versetext">
             <p>
               Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              &emsp;is it nothing to you?<br>
+              &emsp;is it nothing to you?<br><!-- couplet copied in "notes" -->
               Is there any pain like my pain,<br>
               &emsp;inflicted on me,<br>
               that the <span class="yhwh">Lord</span> wreaked on me<br>

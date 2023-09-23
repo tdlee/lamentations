@@ -438,7 +438,7 @@
             </p>
             <p>
               <?php
-                $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the entire book.';
+                $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
               ?>
               Rejected<?php Footnote($fn); ?> and outcast you made us<br>
                 in the midst of the peoples;<!-- enjambment to next -->
