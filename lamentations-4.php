@@ -64,6 +64,16 @@
       ?>
     </p>
 
+    <p>
+      From an inner-biblical perspective, just as the opening verses of Lam.3
+      seem to pull in tension against Psalm&nbsp;23,
+      so here v4 contrasts with Psalm&nbsp;131
+      and v16 with Numbers&nbsp;6:24&ndash;26.
+      <span class="noprint">
+        (Hover the mouse over these verses to see those contrasting texts.)
+      </span>
+    </p>
+
     <div class="widthclear"></div>
 
     <div class="panel">
@@ -126,12 +136,22 @@
         <div class="poem__verse">
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
+<div title="Contrast Psalm 131:2-3 (NASB):
+
+  But I have calmed and quieted myself,
+    I am like a weaned child with its mother;
+    like a weaned child I am content.
+
+  Israel, put your hope in the Lord
+    both now and forevermore."
+>
           <p>
               Dry-thirsted, the suckling's tongue<br>
               &emsp;glues to its palate;<br>
               infants beg for bread<br>
               &emsp;but none is proffered.
             </p>
+</div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -299,6 +319,16 @@
         <div class="poem__verse">
           <div class="poem__verseref">16</div>
           <div class="poem__versetext">
+<div title="Contrast Numbers 6:24-26 (NASB):
+
+  The Lord bless you, and keep you;
+
+  The Lord cause His face to shine on you,
+    and be gracious to you;
+
+  The Lord lift up His face to you,
+    and give you peace."
+>
             <p>
             <?php
               $fnface1='Very few English translations capture this verse\'s double use of "face" in the Hebrew.  Young\'s Literal Translation is a notable exception. The Hebrew even reinforces this aspect by opening both couplets with "face":  "[The] face&hellip; [the] faces&hellip;". In this version, alas, the acrostic constraint doesn\'t allow for that, so we instead position that repetition at line-ends';
@@ -309,6 +339,7 @@
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
+</div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
