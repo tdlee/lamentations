@@ -447,9 +447,10 @@
     </p>
       <ul>
         <li>
-          Adam Carlill,
+          <a href="https://www.stmarymagdalen-tilehurst.org/staff" target="_blansk">Revd. Dr Adam Carlill</a>,
           Oxford DPhil in Hebrew Bible theology,
-          for excellent and inspirational critique of various portions
+          for encouragement and inspirational critique of various portions
+          in the project's early stages
         </li>
         <li>
           Commentary authors
