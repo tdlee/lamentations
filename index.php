@@ -82,7 +82,7 @@
     </p>
 
     <p>
-      Contrast this traditional translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
+      Contrast this traditional, and rather polite, translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
       <!-- specifically not "poem__hebverse": NEB lacks even alternating indentation -->
@@ -343,9 +343,8 @@
     <p>
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
     four letters need omitting.<?php
-      Footnote('The further subtlety of two different versions of the Hebrew alphabet having
-        a reversal of two of its letters, with some chapters using one and some the other,
-        is deemed a geek-fest too far for this particular exercise.');
+      Footnote('There is a further subtlety of a letter-reversal at one point in two slightly different orderings of the Hebrew alphabet in different chapters.
+        This is deemed irrelevant here, as we already have to omit four letters of our own alphabet.');
     ?>
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
@@ -411,7 +410,7 @@
       whether devotional or as biblical study.
       Nor does it attempt to provide
       any systematic historical or theological background for the book
-      (which, in short, was of utter devastation and catastrophe for the Jewish people of the time, around 587/586 BCE).
+      (which, in short, was of utter devastation and catastrophe for the Jewish people around 587/586 BCE: the destruction of their homeland and temple, and their forced exile to Babylon).
       For these purposes many excellent commentaries already exist
       and several are listed in the <a href="bibliography.php">Bibliography</a>.
     </p>
@@ -448,9 +447,10 @@
     </p>
       <ul>
         <li>
-          Adam Carlill,
+          <a href="https://www.stmarymagdalen-tilehurst.org/staff" target="_blansk">Revd. Dr Adam Carlill</a>,
           Oxford DPhil in Hebrew Bible theology,
-          for excellent and inspirational critique of various portions
+          for encouragement and inspirational critique of various portions
+          in the project's early stages
         </li>
         <li>
           Commentary authors

@@ -72,7 +72,7 @@
     <ul>
       <li>
 	The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
-        dual-langauge version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
+        dual-language version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
         This not only shows the Hebrew text but allows each word to be selected
         for dictionary look-up.
         It also shows original word order, crucial for verifying, for example,
