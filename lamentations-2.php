@@ -37,7 +37,9 @@
       it is the polar opposite of the psalmist's praise,
         <a href="https://www.biblegateway.com/passage/?search=psalm+118%3A24-29&version=NRSVUE" target="_blank">Ps.&nbsp;118:24&ndash;27</a>.
       The poem has some striking similarities with the psalmist's lament,
-        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.
+        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
+          Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
+        ?>
     </p>
 
     <p>
