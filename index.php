@@ -343,9 +343,8 @@
     <p>
     In mapping Hebrew's 22 letters onto the western alphabet's 26,
     four letters need omitting.<?php
-      Footnote('The further subtlety of two different versions of the Hebrew alphabet having
-        a reversal of two of its letters, with some chapters using one and some the other,
-        is deemed a geek-fest too far for this particular exercise.');
+      Footnote('There is a further subtlety of a letter-reversal at one point in two slightly different orderings of the Hebrew alphabet in different chapters.
+        This is deemed irrelevant here, as we already have to omit four letters of our own alphabet.');
     ?>
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
