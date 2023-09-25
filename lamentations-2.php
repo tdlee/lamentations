@@ -40,6 +40,7 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
+      Observe, too, the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
     </p>
 
     <p>
@@ -132,7 +133,7 @@
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
-              The Lord has devoured without pity<br>
+              The Lord has devoured without pity<br><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
               &emsp;all the dwellings of Jacob;
             </p>
           </div><!-- poem__versetext -->
@@ -391,7 +392,7 @@
               The <span class="yhwh">Lord</span> has done what he planned,<br>
               &emsp;has fulfilled his threat<br>
               decreed from days of old,<br>
-              &emsp;to destroy without pity;<br>
+              &emsp;to destroy without pity;<br><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
               has let the enemy over you gloat<br>
               &emsp;and exalted your foes' horn.
             </p>
@@ -460,7 +461,7 @@
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
-              &emsp;you butchered&mdash;pitilessly.<?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
+              &emsp;you butchered&mdash;pitilessly.<!-- "pitiless": 2:2, 2:17, 2:21, 3.43 --><?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
