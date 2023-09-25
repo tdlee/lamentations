@@ -79,10 +79,10 @@
                 $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
                 $fn2='Despite the importance of the overall 3&ndash;2 <em>qinah</em> metre,
                   the opening "Alas!" is probably a preamble \'anacrusis\',
-                  external to that metre.
+                  external to that metre (i.e. 4&ndash;2).
                   This is probably also true of the "Alas!" of the second chapter
-                  although probably not of the fourth.
-                  So acrostically I have used an additional "A&hellip;" word following that "Alas!"';
+                  although probably not of the fourth.  See Goldingay (2022), p.49, note \'c\'.
+                  So in these two chapters I have followed this, and also used an additional acrostic "A&hellip;" word following that "Alas!"';
               ?>
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
               Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
