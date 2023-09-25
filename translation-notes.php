@@ -264,7 +264,9 @@
     </ul>
 
     <p>
-      But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.
+      But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.<?php
+        Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
+      ?>
     </p>
 
     <h2>Qinah</h2>
