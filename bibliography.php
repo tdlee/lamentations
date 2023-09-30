@@ -49,6 +49,9 @@
       <li>
         Middlemas, Jill (2021), <cite>Lamentations: An Introduction and Study Guide</cite>, T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
       </li>
+      <li>
+        Provan, Iain (2016), <cite>Lamentations: A Commentary</cite>, Regent College Publishing, <?php ISBN("978-1-57383-531-2"); ?>
+      </li>
     </ul>
 
     <p>
