@@ -136,7 +136,7 @@
             <p>
               Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
               &emsp;Zion roads mourn;<br><!-- may be "roads to" or "roads in" -->
-              her gateways all are desolate,<br>
+              her gateways all are desolate,<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;her priests groan,<br>
               her young women <!-- grieve; --> wail;<br>
               &emsp;how bitter her fate.
@@ -280,7 +280,7 @@
               &emsp;down into my bones.<br>
               He spread out a net for my feet;<br>
               &emsp;he turned me back.<br>
-              He has made me desolate:<br>
+              He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;all day faint.
             </p>
           </div><!-- poem__versetext -->
@@ -331,7 +331,7 @@
               &emsp;my eyes weep for these things;<br>
               far distant one who might comfort me,<?php Footnote($fn); ?><br>
               &emsp;to restore my soul.<br>
-              My children all are desolate;<br>
+              My children all are desolate;<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;the enemy has prevailed.
             </p>
           </div><!-- poem__versetext -->
