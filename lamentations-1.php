@@ -309,9 +309,9 @@
           <div class="poem__verseref">15</div>
           <div class="poem__versetext">
             <p>
-              Rejecting my own mighty warriors,<br>
-              &emsp;the Lord scorned them,<br>
-              and called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
+              Rejected are all my own warriors<br>
+              &emsp;by the Lord in my midst;<br>
+              he called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
               &emsp;to crush my young men.<br>
               In a winepress the Lord has trodden<br>
               &emsp;virgin Daughter Judah.
