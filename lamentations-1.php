@@ -214,7 +214,7 @@
           <div class="poem__verseref">9</div>
           <div class="poem__versetext">
             <p>
-              Iniquity clings to her skirts;<br>
+              Impurity clings to her skirts;<br>
               &emsp;she heeded not her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
