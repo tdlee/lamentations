@@ -361,8 +361,8 @@
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
               Hear, I pray, all you peoples,<br>
               &emsp;and look on my pain:<br>
-              all my young men and maidens<br>
-              &emsp;have gone into exile.
+              my maidens and my young men<br>
+              &emsp;gone into captivity.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
