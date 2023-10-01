@@ -225,7 +225,9 @@
               given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;the walls of her strongholds.<br>
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
-              &emsp;as on <em>our</em> feast-day.
+              &emsp;as on <em>our</em> feast-day.<?php
+                Footnote('"God has enabled Israel\'s enemies to engage in a parody of [Israel\'s] worship in the very temple itself." Provan (2016), p.67.');
+              ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
