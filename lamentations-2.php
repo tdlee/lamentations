@@ -420,7 +420,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 1:7 and 4:15.';
+                $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
               ?>
               Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>

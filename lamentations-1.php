@@ -180,7 +180,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='This verse has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also 2:19 and 4:15.';
+                $fn='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
               ?>
               Great treasures that once were hers<br>
               &emsp;in days gone by<br>
