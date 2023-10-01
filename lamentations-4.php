@@ -302,7 +302,7 @@
           <div class="poem__verseref">15</div>
           <div class="poem__versetext">
             <?php
-              $fn='Like 1:7 and 2:19 this verse is longer than other verses.  The two bracketed half-lines indicate where editorial gloss may have been added.';
+              $fn='This verse, like 1:7 and 2:19, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.';
             ?>
             <p>
               "Repulsive! Away!"<br>
