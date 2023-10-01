@@ -109,7 +109,7 @@
             <p>
               <?php
                 $fn='See footnotes on 1:1.';
-                $fn2='Footstool: a metaphorical reference to the Jerusalem Temple. See Goldingay (2022), p.92.';
+                $fn2='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
               Alas!<?php Footnote($fn); ?><br>
               Angered, the Lord beclouded<br>
