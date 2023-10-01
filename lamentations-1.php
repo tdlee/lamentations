@@ -136,7 +136,7 @@
             <p>
               Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
               &emsp;Zion roads mourn;<br><!-- may be "roads to" or "roads in" -->
-              her gateways all are desolate,<br>
+              her gateways all are desolate,<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;her priests groan,<br>
               her young women <!-- grieve; --> wail;<br>
               &emsp;how bitter her fate.
@@ -214,7 +214,7 @@
           <div class="poem__verseref">9</div>
           <div class="poem__versetext">
             <p>
-              Iniquity clings to her skirts;<br>
+              Impurity clings to her skirts;<br>
               &emsp;she heeded not her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
@@ -280,7 +280,7 @@
               &emsp;down into my bones.<br>
               He spread out a net for my feet;<br>
               &emsp;he turned me back.<br>
-              He has made me desolate:<br>
+              He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;all day faint.
             </p>
           </div><!-- poem__versetext -->
@@ -309,9 +309,9 @@
           <div class="poem__verseref">15</div>
           <div class="poem__versetext">
             <p>
-              Rejecting my own mighty warriors,<br>
-              &emsp;the Lord scorned them,<br>
-              and called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
+              Rejected are all my own warriors<br>
+              &emsp;by the Lord in my midst;<br>
+              he called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
               &emsp;to crush my young men.<br>
               In a winepress the Lord has trodden<br>
               &emsp;virgin Daughter Judah.
@@ -331,7 +331,7 @@
               &emsp;my eyes weep for these things;<br>
               far distant one who might comfort me,<?php Footnote($fn); ?><br>
               &emsp;to restore my soul.<br>
-              My children all are desolate;<br>
+              My children all are desolate;<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;the enemy has prevailed.
             </p>
           </div><!-- poem__versetext -->
@@ -361,8 +361,8 @@
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
               Hear, I pray, all you peoples,<br>
               &emsp;and look on my pain:<br>
-              all my young men and maidens<br>
-              &emsp;have gone into exile.
+              my maidens and my young men<br>
+              &emsp;gone into captivity.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

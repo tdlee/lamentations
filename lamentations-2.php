@@ -146,7 +146,7 @@
             <p>
               Cut off in his smouldering wrath<br>
               &emsp;every horn of Israel;<br>
-              withdrawn his right hand<br>
+              withdrawn his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;at enemy approach;<br>
               blazed against Jacob in fire,<br>
               &emsp;consuming all around.
@@ -160,12 +160,12 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them.';
+                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
               ?>
               Drawing his bow like an enemy,<br>
-              &emsp;his right hand poised,<?php Footnote($fn1); ?><br>
+              &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
               on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br>
@@ -221,7 +221,7 @@
               ?>
               God<?php Footnote($fn); ?> has rejected his altar,<br>
               &emsp;disowned his shrine;<br>
-              given over to enemy hands<br>
+              given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;the walls of her strongholds.<br>
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
               &emsp;as on <em>our</em> feast-day.
@@ -234,12 +234,12 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
             <p>
-              Hell-bent on destroying<br>
-              &emsp;Daughter Zion's wall,<br>
-              the <span class="yhwh">Lord</span> stretched out the measuring line;<br>
-              &emsp;did not hesitate to devour;<br>
-              made wall and rampart lament,<br>
-              &emsp;together collapsing.
+              Hell-bent was the <span class="yhwh">Lord</span> on destroying<br>
+              &emsp;Daughter Zion's wall;<br>
+              out-stretching his tape-measure; not staying<br>
+              &emsp;his hand from devouring;<br><!-- "hand": vv. 3,4,7,8,(19) -->
+              making mourn both wall and rampart,<br>
+              &emsp;which together collapse.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -426,7 +426,7 @@
               &emsp;at the start of each watch.<br>
               Spill out your heart like water<br><!-- 2:11,19: same verb, I believe -->
               &emsp;in full sight of the Lord.<br>
-              Lift up your hands to him<br>
+              Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
               [who faint from famine and hunger<br>
               &emsp;at every street-corner].<?php Footnote($fn); ?>
