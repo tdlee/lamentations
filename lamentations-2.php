@@ -256,7 +256,7 @@
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
               Ingested in earth sank her gates;<br>
-              &emsp;he shattered her bars.<br>
+              &emsp;her bars shattered, destroyed.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
               her prophets, too, found<br>
