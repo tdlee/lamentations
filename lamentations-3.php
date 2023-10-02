@@ -492,7 +492,7 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
             <p>
-              Unreasoning, my enemies ensnare me,<br><!-- "ensnare": 3:52; 4:18 -->
+              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 -->
                 ensnaring as a bird;
             </p>
             <p>
