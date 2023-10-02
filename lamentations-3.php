@@ -281,7 +281,7 @@
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
-                Habitual, though, the <span class="yhwh">Lord</span>'s loyalties;<br>
+                How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
                   his compassion never drains;<!-- or perhaps "expends"? -->
               </p>
               <p>
