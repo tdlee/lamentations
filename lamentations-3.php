@@ -264,8 +264,8 @@
                 such recollecting; such remembering.<?php Footnote($fn2); ?>
             </p>
             <p>
-              Glimmering, though, to heart<br>
-                dawns a faint, far-off hope:
+              Glimmering with this to heart<br>
+                therefore I will hope:<!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -276,6 +276,10 @@
           <div class="poem__verse">
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
+              <?php
+                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will I hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
+              ?>
               <p>
                 Habitual, though, the <span class="yhwh">Lord</span>'s loyalties;<br>
                   his compassion never drains;<!-- or perhaps "expends"? -->
@@ -284,12 +288,9 @@
                 His mercies renew each day-dawning;<br>
                   how great is your faithfulness.
               </p>
-              <?php
-                $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
-              ?>
               <p>
-                Hope I then in him; my spirit says<br><!-- vv.17,24: same "spirit" -->
-                  "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
+                Hope I therefore in him;<?php Footnote($fn1); ?> my spirit says<br><!-- vv.17,24: same "spirit" --><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
+                  "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn2); ?>
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
