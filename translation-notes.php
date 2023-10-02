@@ -366,13 +366,47 @@
     </p>
 
     <p>
-      Also, the use of "lies" in v.1 allows a further audible resonance
+      The use of "lies" in v.1 also allows a further audible resonance
       between "she lies" and "she&hellip;lady".
+    </p>
+
+    <p>
+      A related point is that the same verb occurs at 3:28,
+      and it would be advantageous to preserve this commonality if reasonably possible.
     </p>
 
     <h3>Other examples</h3>
 
     <ul>
+    <li>
+      Most English translations face the issue of representing
+      two closely related but different Hebrew words that name God:
+      "YHWH" and "Adonai".
+      This has considerations both for writing/reading and for recitation.
+      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master",
+      but this seems unsatisfactory because "Master" is outside normal Christian practice.
+      Yet using "Yahweh" or, worse, "Jehovah" seems unsatisfactory in a version
+      designed for recitation,
+      as Jewish custom avoids saying the Divine Name "YHWH",
+      instead saying the other word "Adonai".<?php
+        Footnote('Sometimes "Hashem", "the Name", is pronounced.');
+      ?>
+      But this Jewish custom at least results a common-sounding word for recitation.
+      Some English translations bring into play terms such as "the Lord Almighty".
+      Again, this long-windedness is unsatisfactory for a version
+      which must translate in as compact and concise a manner as possible.
+      The net result here
+      is adopting the usual present-day practice of writing, respectively,
+      "<span class='yhwh'>Lord</span>" (small capitals) and "Lord" (normal case).<?php
+        Footnote('"Much Ado about Nothing"?
+          Reducing further the concern about such detail
+          is that one of the earliest Hebrew witnesses,
+          Dead Sea Scrolls 4QLam,
+          itself shows some variation of YHWH/Adonai usage
+          from the authoritative but later Masoretic Text.')
+      ?>
+    </li>
+
     <li>
       At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".<?php Footnote("Berlin (2004) p.51; Goldingay (2022) p.54 note 'e'"); ?>
       In its original Jewish culture, this would have conveyed a powerful reminder, alas lost on us outsiders, of their ancestral enslavement there.

@@ -284,7 +284,7 @@
                   Why forever forsak<span class="acrostic-letter">e</span>?
               </p>
               <p>
-                Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br>
+                Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br><!-- 1:7, 5:21: "days of old" -->
                 let us turn back to yo<span class="acrostic-letter">u</span>.
               </p>
               <?php

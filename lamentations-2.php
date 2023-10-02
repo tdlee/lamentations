@@ -40,6 +40,7 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
+      Observe the "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
       Observe, too, the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
     </p>
 
@@ -108,7 +109,7 @@
             <p>
               <?php
                 $fn='See footnotes on 1:1.';
-                $fn2='Footstool: a metaphorical reference to the Jerusalem Temple. See Goldingay (2022), p.92.';
+                $fn2='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
               Alas!<?php Footnote($fn); ?><br>
               Angered, the Lord beclouded<br>
@@ -133,7 +134,7 @@
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
-              The Lord has devoured without pity<br><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
+              The Lord has devoured without pity<br><!-- "devour" thread --><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
               &emsp;all the dwellings of Jacob;
             </p>
           </div><!-- poem__versetext -->
@@ -183,8 +184,8 @@
                 $fn='The Hebrew also has an alliterative wordplay here.';
               ?>
               Enemy! So the Lord has become,<br>
-              &emsp;and devoured Israel&mdash;<br>
-              has devoured all of her palaces,<br>
+              &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
+              has devoured all of her palaces,<br><!-- "devour" thread -->
               &emsp;and laid waste her strongholds;<br>
               has multiplied for Daughter Judah<br>
               &emsp;wailing and weeping.<?php Footnote($fn); ?>
@@ -224,7 +225,9 @@
               given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;the walls of her strongholds.<br>
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
-              &emsp;as on <em>our</em> feast-day.
+              &emsp;as on <em>our</em> feast-day.<?php
+                Footnote('"God has enabled Israel\'s enemies to engage in a parody of [Israel\'s] worship in the very temple itself." Provan (2016), p.67.');
+              ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -237,7 +240,7 @@
               Hell-bent was the <span class="yhwh">Lord</span> on destroying<br>
               &emsp;Daughter Zion's wall;<br>
               out-stretching his tape-measure; not staying<br>
-              &emsp;his hand from devouring;<br><!-- "hand": vv. 3,4,7,8,(19) -->
+              &emsp;his hand from devouring;<br><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               making mourn both wall and rampart,<br>
               &emsp;which together collapse.
             </p>
@@ -253,7 +256,7 @@
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
               Ingested in earth sank her gates;<br>
-              &emsp;he shattered her bars.<br>
+              &emsp;her bars shattered, destroyed.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
               her prophets, too, found<br>
@@ -377,7 +380,7 @@
               Snarling and gnashing their teeth,<br>
               &emsp;all your enemies<br>
               open their mouths at you, saying<br>
-              &emsp;"We have devoured her!<br>
+              &emsp;"We have devoured her!<br><!-- "devour" thread -->
               Long for this day we have waited&mdash;<br>
               &emsp;we have lived to see it!"
             </p>

@@ -264,8 +264,8 @@
                 such recollecting; such remembering.<?php Footnote($fn2); ?>
             </p>
             <p>
-              Glimmering, though, to heart<br>
-                dawns a faint, far-off hope:
+              Glimmering with this to heart<br>
+                therefore I will hope:<!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -276,20 +276,21 @@
           <div class="poem__verse">
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
+              <?php
+                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will I hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
+              ?>
               <p>
-                Habitual, though, the <span class="yhwh">Lord</span>'s loyalties;<br>
+                How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
                   his compassion never drains;<!-- or perhaps "expends"? -->
               </p>
               <p>
                 His mercies renew each day-dawning;<br>
                   how great is your faithfulness.
               </p>
-              <?php
-                $fn='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
-              ?>
               <p>
-                Hope I then in him; my spirit says<br><!-- vv.17,24: same "spirit" -->
-                  "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn); ?>
+                Hope I therefore in him;<?php Footnote($fn1); ?> my spirit says<br><!-- vv.17,24: same "spirit" --><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
+                  "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn2); ?>
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -322,7 +323,7 @@
             <div class="poem__versetext">
               <p>
                 <?php
-                  $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
+                  $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies". Goldingay (2022), p.143.';
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
@@ -434,13 +435,13 @@
             </p>
             <p>
               Re-cloaked in enveloping cloud:<br>
-                impenetrable to prayer.
+                impervious to prayer.
             </p>
             <p>
               <?php
                 $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
               ?>
-              Rejected<?php Footnote($fn); ?> and outcast you made us<br>
+              Rejected<?php Footnote($fn); ?> and filth you made us<br>
                 in the midst of the peoples;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
@@ -492,12 +493,12 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
             <p>
-              Unreasoning, my enemies ensnare me,<br><!-- "ensnare": 3:52; 4:18 -->
-                ensnaring as a bird;
+              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 -->
+                ensnaring as a bird;<!-- double use of "ensnare" -->
             </p>
             <p>
               Undone&mdash;my life in a pit<br>
-                as rocks they cast on me;<!-- double use of "ensnare" -->
+                as rocks they cast on me;
             </p>
             <p>
               Under waters engulfing my head;<br>

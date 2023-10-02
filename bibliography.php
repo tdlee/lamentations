@@ -62,7 +62,10 @@
         Various items mentioned in relevant footnotes at their point of use
       </li>
       <li>
-        Assis, Elie (2007), <cite>Tha Alphabetic Acrostic in the Book of Lamentations</cite>, The Catholic Biblical Quarterly, 69,4 pp.710&ndash;724
+        Assis, Elie (2007), <cite>The Alphabetic Acrostic in the Book of Lamentations</cite>, The Catholic Biblical Quarterly, 69,4, pp.710&ndash;724
+      </li>
+      <li>
+        Assis, Elie (2009), <cite>The Unity of the Book of Lamentations</cite>, The Catholic Biblical Quarterly, 71, pp.306&ndash;329
       </li>
       <li>
         Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
