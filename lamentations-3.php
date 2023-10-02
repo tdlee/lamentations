@@ -493,11 +493,11 @@
           <div class="poem__versetext">
             <p>
               Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 -->
-                ensnaring as a bird;
+                ensnaring as a bird;<!-- double use of "ensnare" -->
             </p>
             <p>
               Undone&mdash;my life in a pit<br>
-                as rocks they cast on me;<!-- double use of "ensnare" -->
+                as rocks they cast on me;
             </p>
             <p>
               Under waters engulfing my head;<br>
