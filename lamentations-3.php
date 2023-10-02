@@ -435,7 +435,7 @@
             </p>
             <p>
               Re-cloaked in enveloping cloud:<br>
-                impenetrable to prayer.
+                impervious to prayer.
             </p>
             <p>
               <?php
