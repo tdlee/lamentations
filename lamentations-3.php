@@ -323,7 +323,7 @@
             <div class="poem__versetext">
               <p>
                 <?php
-                  $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies".';
+                  $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies". Goldingay (2022), p.143.';
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
