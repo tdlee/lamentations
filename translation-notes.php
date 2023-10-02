@@ -366,8 +366,13 @@
     </p>
 
     <p>
-      Also, the use of "lies" in v.1 allows a further audible resonance
+      The use of "lies" in v.1 also allows a further audible resonance
       between "she lies" and "she&hellip;lady".
+    </p>
+
+    <p>
+      A related point is that the same verb occurs at 3:28,
+      and it would be advantageous to preserve this commonality if reasonably possible.
     </p>
 
     <h3>Other examples</h3>
