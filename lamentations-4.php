@@ -348,7 +348,7 @@
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
             <?php
-              $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113.';
+              $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
             <p>
               Teared eyes still pine; looking<br>
