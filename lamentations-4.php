@@ -36,7 +36,7 @@
     <p>
       As with all three preceding poems, this, too, can work as two voices,
       although here as first-person singular (most) and first-person plural (17&ndash;20 or 17&ndash;22).<?php
-        Footnote('For 17&ndash;20 see Goldingay (2022), p.163; for 17&ndash;22 see Middlemas (2021), p.25.');
+        Footnote('For 17&ndash;20 see Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
       ?>
       Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
       but rather various groups within the population.
