@@ -290,7 +290,7 @@
             ?>
             <p>
               Polluted with blood, through the streets<br>
-              &emsp;they<?php Footnote($fn); ?> grope blindly;<br>
+              &emsp;they<?php Footnote($fn); ?> strayed blindly;<br><!-- 14,15: common "strayed" -->
               so defiled that none would dare<br>
               &emsp;touch their garments.
             </p>
@@ -308,7 +308,7 @@
               "Repulsive! Away!"<br>
               &emsp;[people shout at them.]<br>
               "Replusive! Repulsive! Hands off!"<br>
-              &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration -->
+              &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration --><!-- 14,15: common "strayed" -->
               [Resolute were the nations:]<br>
               &emsp;"They'll not reside here."<?php Footnote($fn); ?>
             </p>
