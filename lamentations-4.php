@@ -273,7 +273,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Offences of prophets, the cause,<br>
+              Offences of her prophets, the cause,<br>
               &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
               who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
               &emsp;the blood of the just.
