@@ -64,7 +64,7 @@
     <p>
       Yet this chapter, above the others, is the book's prayer.
       It is preceded by abandonment,
-      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p193') ?>
+      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193') ?>
       It remains in abandonment.
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
