@@ -46,6 +46,11 @@
     </ul>
     <p>
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
+      The very attempt to impose structure upon the chaos is under threat;
+      structure and content conspire together
+      to provide the book with a very unsettling ending.<?php
+        Footnote('Provan (2016), p.124.');
+      ?>
     </p>
     <p>
       Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.
