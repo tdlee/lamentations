@@ -447,7 +447,7 @@
     </p>
       <ul>
         <li>
-          <a href="https://www.stmarymagdalen-tilehurst.org/staff" target="_blansk">Revd. Dr Adam Carlill</a>,
+          <a href="https://www.stmarymagdalen-tilehurst.org/staff" target="_blank">Revd. Dr Adam Carlill</a>,
           Oxford DPhil in Hebrew Bible theology,
           for encouragement and inspirational critique of various portions
           in the project's early stages
