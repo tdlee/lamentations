@@ -46,9 +46,14 @@
     </ul>
     <p>
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
+      The very attempt to impose structure upon the chaos is under threat;
+      structure and content conspire together
+      to provide the book with a very unsettling ending.<?php
+        Footnote('Provan (2016), p.124.');
+      ?>
     </p>
     <p>
-      Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.
+      Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
       Mount Zion,
       God's dwelling-place
       and formerly "joy of all the earth" (2:15 and Ps.48:2)
@@ -59,7 +64,7 @@
     <p>
       Yet this chapter, above the others, is the book's prayer.
       It is preceded by abandonment,
-      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p193') ?>
+      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193') ?>
       It remains in abandonment.
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.

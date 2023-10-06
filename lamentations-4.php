@@ -36,7 +36,7 @@
     <p>
       As with all three preceding poems, this, too, can work as two voices,
       although here as first-person singular (most) and first-person plural (17&ndash;20 or 17&ndash;22).<?php
-        Footnote('For 17&ndash;20 see Goldingay (2022), p.163; for 17&ndash;22 see Middlemas (2021), p.25.');
+        Footnote('For 17&ndash;20 see Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
       ?>
       Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
       but rather various groups within the population.
@@ -273,7 +273,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Offences of prophets, the cause,<br>
+              Offences of her prophets, the cause,<br>
               &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
               who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
               &emsp;the blood of the just.
@@ -290,7 +290,7 @@
             ?>
             <p>
               Polluted with blood, through the streets<br>
-              &emsp;they<?php Footnote($fn); ?> grope blindly;<br>
+              &emsp;they<?php Footnote($fn); ?> strayed blindly;<br><!-- 14,15: common "strayed" -->
               so defiled that none would dare<br>
               &emsp;touch their garments.
             </p>
@@ -308,7 +308,7 @@
               "Repulsive! Away!"<br>
               &emsp;[people shout at them.]<br>
               "Replusive! Repulsive! Hands off!"<br>
-              &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration -->
+              &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration --><!-- 14,15: common "strayed" -->
               [Resolute were the nations:]<br>
               &emsp;"They'll not reside here."<?php Footnote($fn); ?>
             </p>
@@ -348,7 +348,7 @@
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
             <?php
-              $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113.';
+              $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
             <p>
               Teared eyes still pine; looking<br>
