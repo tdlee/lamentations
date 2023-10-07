@@ -474,8 +474,8 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
-              Zoned round: the terrors you summoned<br>
-              &emsp;as to a feast day;<br>
+              Zoned round, as to a feast day&mdash;<br>
+              &emsp;the terrors you summoned;<br>
               on the day of the <span class="yhwh">Lord</span>'s anger<br>
               &emsp;none escaped or survived.<br>
               Those I had nursed and reared,<br>
