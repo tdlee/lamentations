@@ -282,7 +282,7 @@
               He spread out a net for my feet;<br>
               &emsp;he turned me back.<br>
               He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
-              &emsp;all day faint.
+              &emsp;all day sickened.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -426,7 +426,7 @@
               as you tormented me<br>
               &emsp;for all my rebellions.<br>
               For many are my groans;<br>
-              &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17 -->
+              &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

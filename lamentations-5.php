@@ -249,7 +249,7 @@
           <div class="poem__verseref">17&ndash;18</div>
           <div class="poem__versetext">
             <p>
-              For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17 -->
+              For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
             <p>
               for all these: our eyes dim;
