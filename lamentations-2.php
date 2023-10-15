@@ -442,10 +442,13 @@
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
+              ?>
               Who have you thus tormented?<br>
               &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
               Must women eat their own womb's fruit,<br>
-              &emsp;their nursed babes?<br>
+              &emsp;their nursed<?php Footnote($fn); ?> babes?<br><!-- mentioned in "notes" -->
               Should priest and prophet be slain<br>
               &emsp;in the sanctuary of the Lord?
             </p>
