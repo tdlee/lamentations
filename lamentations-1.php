@@ -293,14 +293,15 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
+                $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
+                $fn2='Original wording is something like "Delivers the Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 qinah is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
-              Packed<?php Footnote($fn); ?> into a yoke are my sins;<br>
+              Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
               &emsp;bound tight by his hand<br>
               his yoke was upon my neck:<br>
               &emsp;he sapped my strength.<br>
-              The Lord has given me into the grip of those<br>
-              &emsp;I cannot withstand.
+              The Lord hand-delivered me to those<br>
+              &emsp;whom I cannot withstand.<?php Footnote($fn2); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
