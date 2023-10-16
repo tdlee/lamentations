@@ -223,7 +223,7 @@
           <div class="poem__versetext">
             <p>
               Impurity clings to her skirts;<br>
-              &emsp;she heeded not her future.<br>
+              &emsp;she was heedless to her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
