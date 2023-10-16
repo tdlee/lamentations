@@ -119,12 +119,15 @@
           <div class="poem__verseref">3</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The Hebrew "straits" (or "narrows") resonates strongly with their word for "Egypt"; Berlin (2004) p.51; Goldingay (2022) p.54 note \'e\'. This prompts a powerful reminder of their ancestral enslavement there. On that occasion, her pursuers famously did <em>not</em> overtake her, being destroyed at Moses\' parting of the sea. But on this occasion there is no such deliverance.';
+              ?>
               Cast out into exile by force<br>
               &emsp;is Judah to hard labour.<br>
               She <!-- dwells --> lodges among the nations<br>
               &emsp;but finds no repose.<br>
               All who pursue her overtake her:<br>
-              &emsp;dire her straits.
+              &emsp;dire her straits.<?php Footnote($fn); ?><!-- mentioned in "notes" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

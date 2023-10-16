@@ -86,7 +86,8 @@
     </p>
 
     <p>
-      Often, subtle aspects of wordplay are untranslatable.
+      Often, subtle aspects of wordplay are untranslatable;
+      see for example 1:3 and 2:20.
       But conversely it is sometimes possible to introduce English poetic features in unrelated places elsewhere.
       So, taking the bigger picture into account,
       an unavoidable loss of detail in one place
@@ -405,11 +406,6 @@
           itself shows some variation of YHWH/Adonai usage
           from the authoritative but later Masoretic Text.')
       ?>
-    </li>
-
-    <li>
-      At 1:3 the geographic word here translated as "straits" (or "narrows") cannot capture the Hebrew word's resonance with their word for "Egypt".<?php Footnote("Berlin (2004) p.51; Goldingay (2022) p.54 note 'e'"); ?>
-      In its original Jewish culture, this would have conveyed a powerful reminder, alas lost on us outsiders, of their ancestral enslavement there.
     </li>
 
     <li>
