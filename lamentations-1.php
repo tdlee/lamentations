@@ -40,6 +40,10 @@
     </p>
 
     <p>
+      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62'); ?>
+    </p>
+
+    <p>
       Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears (e.g. 9<i>c</i>; 17).
     </p>
 
@@ -140,7 +144,7 @@
               Devoid of all pilgrims to her assemblies,<br><!-- match v4:assemblies with v15:assembly -->
               &emsp;Zion roads mourn;<br><!-- may be "roads to" or "roads in" -->
               her gateways all are desolate,<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
-              &emsp;her priests groan,<br>
+              &emsp;her priests groan,<br><!-- quoted in chapter intro -->
               her young women <!-- grieve; --> wail;<br>
               &emsp;how bitter her fate.
             </p>
@@ -219,7 +223,7 @@
           <div class="poem__versetext">
             <p>
               Impurity clings to her skirts;<br>
-              &emsp;she heeded not her future.<br>
+              &emsp;she was heedless to her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
@@ -379,7 +383,7 @@
             <p>
               Vainly I called to my lovers&mdash;<br><!-- verb: 15,19,21: match; 17:different --><!-- for "lovers" see note at v2 which is different -->
               &emsp;they abandoned me.<br>
-              In the city my priests and my elders<br>
+              In the city my priests and my elders<br><!-- quoted in chapter intro -->
               &emsp;perish<br>
               when they search for food to revive<br>
               &emsp;their souls.

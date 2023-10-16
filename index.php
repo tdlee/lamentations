@@ -82,7 +82,7 @@
     </p>
 
     <p>
-      Contrast this traditional, and rather polite, translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
+      Contrast this traditional, rather polite and somewhat expansive translation of Lam.&nbsp;3:1&ndash;3 (New English Bible):
     </p>
     <div class="panel panel--width-25em">
       <!-- specifically not "poem__hebverse": NEB lacks even alternating indentation -->
@@ -98,7 +98,7 @@
       </div><!-- "poem" -->
     </div><!-- "panel" -->
     <p>
-      with the beat-driven, rhythmical version freshly offered here:
+      with the tight, beat-driven, rhythmical version freshly offered here:
     </p>
     <div class="panel panel--width-25em">
       <div class="poem poem__hebverse">
