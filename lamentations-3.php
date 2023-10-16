@@ -452,7 +452,7 @@
           <div class="poem__verseref">46&ndash;48</div>
           <div class="poem__versetext">
             <p>
-              Snapping and gaping their mouths at us<br>
+              Snapping and gaping their mouths at us<br><!-- "gape their mouths": 2:16 and 3:46 -->
                 are all our enemies;
             </p>
             <p>
