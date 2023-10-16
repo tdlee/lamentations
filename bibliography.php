@@ -80,10 +80,17 @@
     </p>
     <ul>
       <li>
-	The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
+        The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
         dual-language version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
         This not only shows the Hebrew text but allows each word to be selected
-        for dictionary look-up.
+        for dictionary look-up.<?php
+          Footnote('But such dictionary look-up is not primarily for meaning.
+            For that purpose I have used commentaries and other translations.
+            It is, rather, for verifying word repetition and threads.
+            For example at 4:16, the majority of English translations
+            fail to use the word "face" and even fewer respect its double use.
+            See the footnotes there.');
+        ?>
         It also shows original word order, crucial for verifying, for example,
         the leading verbs that so dominate the second chapter.
       </li>
