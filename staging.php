@@ -80,6 +80,9 @@
       <li>
         4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
       </li>
+      <li>
+        <em>(t.b.c.)</em>
+      </li>
     </ul>
 
     <h2>Recitation</h2>
@@ -101,6 +104,8 @@
       although not entirely so,
       the rhythmic pulse can still be used.
     </p>
+
+    <em>(t.b.c.)</em>
 
     <h2>Characterisation and voicing</h2>
 
