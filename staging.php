@@ -72,6 +72,16 @@
       using our full alphabet but greying out the omitted letters.
     </p>
 
+    <p>
+      Also:
+    </p>
+
+    <ul>
+      <li>
+        4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
+      </li>
+    </ul>
+
     <h2>Recitation</h2>
 
     <p>
