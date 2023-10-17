@@ -208,10 +208,14 @@
       He used the traditional Authorised (King James) text.
       So, of course, no acrostics; no <em>qinah</em>.
       For the theatrically minded,
-      his subsequent report to a conference through Asbury Seminary is well worth reading:
+      his script with stage directions
+      and his subsequent report to a conference through Asbury Seminary are worth reading:
     </p>
 
     <ul>
+      <li>
+        Toews, Brian G (1999), <a href="https://www.academia.edu/2384041/EKA_The_Hope_of_Zion_An_Interpretive_Play_on_the_Book_of_Lamentations" target="_blank"><cite>EKA&mdash;The Hope of Zion: An Interpretive Play from the Book of Lamentations</cite></a>
+      </li>
       <li>
         Toews, Brian G (2000), <a href="https://www.academia.edu/2383988/Performing_Scripture_Lamentations_Theatre_as_Hermeneutical_Tool" target="_blank"><cite>Performing Scripture: Theatre as a Hermeneutical Tool</cite></a>
       </li>
