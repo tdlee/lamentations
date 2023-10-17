@@ -88,6 +88,7 @@
                   although probably not of the fourth.  See Goldingay (2022), p.49, note \'c\'.
                   So in these two chapters I have followed this, and also used an additional acrostic "A&hellip;" word following that "Alas!"';
               ?>
+              <!-- 1:1, 5:18: quoted in new "staging" -->
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
               Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
               &emsp;once teeming with people;<br>

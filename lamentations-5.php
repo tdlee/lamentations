@@ -258,6 +258,7 @@
               $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
             ?>
             <p>
+              <!-- 1:1, 5:18: quoted in new "staging" -->
               for Mount Zion: lying desolate,<br>
                 the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
             </p>
