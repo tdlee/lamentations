@@ -429,6 +429,25 @@
     <i>Lamentations is poetry. Not prose.</i>
     </p>
 
+    <!-- panel -->
+    <div class="sidebar__right--width-28em">
+      <div class="panel">
+        <p>
+          The reader is not so much engaged by the Book of Lamentations as assaulted by it.
+          But with its unsparing focus on destruction, pain, and suffering
+          the book serves an invaluable function as part of Scripture,
+          witnessing to a biblical faith determined to express honestly
+          the harsh realities of a violent world
+          and providing contemporary readers the language to do the same.
+        </p>
+        <div class="panel__cite">
+            &mdash;<a href="http://www.usccb.org/bible/lamentations/0" target="_blank"><cite>Introduction to Lamentations</cite></a>,<br>New American Bible Revised Edition (NABRE)
+        </div><!-- "panel__cite" -->
+
+      </div><!-- "panel" -->
+    </div><!-- "sidebar" -->
+    <!-- panel -->
+
     <p>
     So why this version?
     No existing version seems to capture the essential characteristics
@@ -460,6 +479,8 @@
           for their enthusiasm for this project
         </li>
       </ul>
+
+    <div class="widthclear"></div>
 
     <hr>
     <div class="footnotes">
