@@ -105,6 +105,32 @@
       the rhythmic pulse can still be used.
     </p>
 
+    <p>
+      Be alert to particular words that recur.
+      A few examples:
+    </p>
+
+    <ul>
+      <li>
+        "Notice" and "look" form a running thread, often paired.
+        See the translation notes for further details.
+      </li>
+      <li>
+        Biblical poetry often refers to "hand" and "face".
+        <ul>
+          <li>
+            "Hand" occurs several times in each chapter.
+          </li>
+          <li>
+            "Face", while less common, can nevertheless be particularly important,
+            not least because of the theological association with "the face of God"
+            in the Torah (the foundational first five books of the Bible).
+            See 4:16 and its footnotes.
+          </li>
+        </ul>
+      </li>
+    </ul>
+
     <em>(t.b.c.)</em>
 
     <h2>Characterisation and voicing</h2>
