@@ -52,9 +52,9 @@
 
     <p>
       Structurally, while the acrostic tends to produce its own grouping
-      within acrostic boundaries,
+      <em>within</em> acrostic boundaries,
       nevertheless observe how particular thoughts may have their own
-      counter-grouping cutting across these boundaries.
+      counter-grouping cutting <em>across</em> these boundaries.
       An early clear example is at 12&ndash;13 where the bow-and-arrow
       crosses the D/E acrostic boundary.
       This "enjambment" of ideas and images across the alphabetic boundaries
