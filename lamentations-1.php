@@ -301,13 +301,13 @@
             <p>
               <?php
                 $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
-                $fn2='Original wording is something like "Delivers the Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 qinah is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
+                $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 qinah is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
               &emsp;bound tight by his hand<br>
               his yoke was upon my neck:<br>
               &emsp;he sapped my strength.<br>
-              The Lord hand-delivered me to those<br>
+              My Lord hand-delivered me to those<br>
               &emsp;whom I cannot withstand.<?php Footnote($fn2); ?>
             </p>
           </div><!-- poem__versetext -->
@@ -319,10 +319,10 @@
           <div class="poem__versetext">
             <p>
               Rejected are all my own warriors<br>
-              &emsp;by the Lord in my midst;<br>
+              &emsp;by my Lord in my midst;<br>
               he called an assembly against me<br><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
               &emsp;to crush my young men.<br>
-              In a winepress the Lord has trodden<br>
+              In a winepress my Lord has trodden<br>
               &emsp;virgin Daughter Judah.
             </p>
           </div><!-- poem__versetext -->
