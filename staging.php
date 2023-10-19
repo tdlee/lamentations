@@ -229,7 +229,7 @@
 
     <p>
       Back in 1999, long before I approached any work whatsoever on Lamentations,
-      <a href="https://cairn.edu/faculty/brian-toews/" target="_blank">Brian Toews</a> of Cairn University (at the time called Philadelphia Bible College)
+      <a href="https://cairn.edu/faculty/brian-toews/" target="_blank">Brian Toews</a> of Cairn University (at the time called Philadelphia College of Bible)
       had already staged it with and for his students in their coursework.
       He used the traditional Authorised (King James) text.
       So, of course, no acrostics; no <em>qinah</em>.
