@@ -188,7 +188,7 @@
             which was brought upon me,
           </p>
           <p>
-          which the Lord inflicted<br>
+          which the <span class="yhwh">Lord</span> inflicted<br>
             on the day of his fierce anger.
           </p>
         </div>
@@ -398,7 +398,11 @@
       which must translate in as compact and concise a manner as possible.
       The net result here
       is adopting the usual present-day practice of writing, respectively,
-      "<span class='yhwh'>Lord</span>" (small capitals) and "Lord" (normal case).<?php
+      "<span class='yhwh'>Lord</span>" (small capitals) and "Lord" (normal case).
+      And because "Adonai" generally appears in a grammatically possessive context
+      (the underlying noun being "Adon"),
+      it is here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
+      so that the subtle written difference is also audibly present in recitation.<?php
         Footnote('"Much Ado about Nothing"?
           Reducing further the concern about such detail
           is that one of the earliest Hebrew witnesses,

@@ -11,6 +11,7 @@
             <li><a href="lamentations-5.php">Lamentations&nbsp;5</a></li>
             <li><a href="translation-notes.php">Translation notes</a></li>
             <li><a href="bibliography.php">Bibliography</a></li>
+            <li><a href="staging.php">Musings on staging</a></li>
           </ul>
         </div><!-- "panel" -->
       </div><!-- "sidebar" -->

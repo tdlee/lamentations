@@ -348,7 +348,7 @@
                 <?php
                   $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
                 ?>
-                Mankind's desertion by the Lord<?php Footnote($fn); ?><br>
+                Mankind's desertion by our Lord<?php Footnote($fn); ?><br>
                   lasts not forever;
               </p>
               <p>
@@ -376,7 +376,7 @@
               </p>
               <p>
                 Negating our crying for justice?&mdash;<br>
-                  the Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
+                  our Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -387,7 +387,7 @@
             <div class="poem__versetext">
               <p>
                 Ordering futures? Who can make so<br>
-                  should the Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
+                  should our Lord not decree?<!-- vv36,37 "Lord" not "LORD" -->
               </p>
               <p>
                 Out of the Most High's mouth, come not<br><!-- vv35,38: "Most High" -->
@@ -533,7 +533,7 @@
           <div class="poem__verseref">58&ndash;60</div>
           <div class="poem__versetext">
             <p>
-              When you pleaded, O Lord, my cause,<br>
+              When you pleaded, my Lord, my cause,<br>
                 you redeemed my life.
             </p>
             <p>

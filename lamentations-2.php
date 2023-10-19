@@ -69,7 +69,7 @@
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
         <p>
-          <span class="acrostic-letter">A</span>las! Angered, the Lord:<br>
+          <span class="acrostic-letter">A</span>las! Angered, my Lord:<br>
             &mdash;beclouded&hellip;<br>
             &mdash;flung down&hellip;<br>
             &mdash;put out of mind&hellip;<br>
@@ -77,7 +77,7 @@
             &mdash;razed in fury&hellip;<br>
         </p>
         <p>
-          The Lord has:<br>
+          My Lord has:<br>
             &mdash;devoured&hellip;<br>
             &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
             &mdash;withdrawn&hellip;<br>
@@ -112,7 +112,7 @@
                 $fn2='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
               Alas!<?php Footnote($fn); ?><br>
-              Angered, the Lord beclouded<br>
+              Angered, my Lord beclouded<br>
               &emsp;Daughter Zion;<br>
               flung down from the heavens to earth<br>
               &emsp;the honour of Israel;<br>
@@ -134,7 +134,7 @@
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
-              The Lord has devoured without pity<br><!-- "devour" thread --><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
+              My Lord has devoured without pity<br><!-- "devour" thread --><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
               &emsp;all the dwellings of Jacob;
             </p>
           </div><!-- poem__versetext -->
@@ -183,7 +183,7 @@
               <?php
                 $fn='The Hebrew also has an alliterative wordplay here.';
               ?>
-              Enemy! So the Lord has become,<br>
+              Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
               has devoured all of her palaces,<br><!-- "devour" thread -->
               &emsp;and laid waste her strongholds;<br>
@@ -407,7 +407,7 @@
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
             <p>
-              Unto the Lord let your heart cry,<br>
+              Unto our Lord let your heart cry,<br>
               &emsp;wall of Daughter Zion.<br>
               Shed tears like a torrent<br>
               &emsp;day and night;<br>
@@ -428,7 +428,7 @@
               Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
               Spill out your heart like water<br><!-- 2:11,19: same verb, I believe -->
-              &emsp;in full sight of the Lord.<br>
+              &emsp;in full sight of our Lord.<br>
               Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
               [who faint from famine and hunger<br>
@@ -450,7 +450,7 @@
               Must women eat their own womb's fruit,<br>
               &emsp;their nursed<?php Footnote($fn); ?> babes?<br><!-- mentioned in "notes" -->
               Should priest and prophet be slain<br>
-              &emsp;in the sanctuary of the Lord?
+              &emsp;in the sanctuary of our Lord?
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
