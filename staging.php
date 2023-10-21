@@ -213,7 +213,7 @@
             <em>
             The movement from the sequence\'s opening primordial scream of "Eikhaaah!"
             (which is as much a token of glossolalia or pure sound&mdash;the kind of preferential ejaculation to which language is so often reduced by extreme suffering&mdash;as a semantically weighted word [NRSV\'s "How"])
-            to the articulate speech of the rest of the poetry)&hellip;similarly well symbolizes these poems\' reclamation of language from the wordless garble of anguished speech.
+            to the articulate speech of the rest of the poetry&hellip;similarly well symbolizes these poems\' reclamation of language from the wordless garble of anguished speech.
             </em>
             Dobbs-Allsopp (2012), p.33.');
           ?>
