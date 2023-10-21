@@ -44,8 +44,16 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts (e.g. 9<i>c</i>; 17).
+      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
     </p>
+    <ul>
+      <li>
+        The witness's section 8&ndash;10 about the city's accused sin and violation is briefly interrupted midway, 9<i>c</i>, by Jerusalem herself.
+      </li>
+      <li>
+        At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
+      </li>
+    </ul>
 
     <p>
       Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
