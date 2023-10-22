@@ -44,8 +44,16 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts (e.g. 9<i>c</i>; 17).
+      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
     </p>
+    <ul>
+      <li>
+        The witness's section 8&ndash;10 about the city's accused sin and violation is briefly interrupted midway, 9<i>c</i>, by Jerusalem herself.
+      </li>
+      <li>
+        At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
+      </li>
+    </ul>
 
     <p>
       Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
@@ -70,7 +78,7 @@
 
   alas!
   &emsp;a-LONE she LIES: the CI-ty
-  &emsp;&emsp;once TEEM-ing with PEO-ple;
+  &emsp;&emsp;once GREAT with PEO-ple;
 
   &emsp;SHE, once a LA-dy among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
@@ -91,8 +99,8 @@
               <!-- 1:1, 5:18: quoted in new "staging" -->
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
               Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
-              &emsp;once teeming with people;<br>
-              She, once a lady among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
+              &emsp;once great with people;<br><!-- "great": 1a,1b,22c -->
+              She, once great among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "great": 1a,1b,22c -->
               &emsp;now abandoned, widowed;<br>
               she, once princess among provinces,<br>
               &emsp;now chained, enslaved.
@@ -157,9 +165,12 @@
           <div class="poem__verseref">5</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='Note overlapping verb sequences: "afflicted"/"inflicted" (same Hebrew verb) at 5<em>b</em> and 12<em>c</em>, then "unleashed against" at 12<em>b</em> and 22. Dobbs-Allsopp (2012) p.68.';
+              ?>
               Enemies now have mastered her;<br>
               &emsp;her foes prosper,<br>
-              since the <span class="yhwh">Lord</span> has stricken her with sorrow<br>
+              since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;for her many misdeeds.<br>
               Her youngsters are driven to exile,<br>
               &emsp;captive before the foe.
@@ -191,7 +202,7 @@
                 $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322';
                 $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
               ?>
-              Great treasures that once were hers<br>
+              Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<br>
               &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
@@ -273,8 +284,8 @@
               Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;is it nothing to you?<br><!-- couplet copied in "notes" -->
               Is there any pain like my pain,<br>
-              &emsp;inflicted on me,<br>
-              that the <span class="yhwh">Lord</span> wreaked on me<br>
+              &emsp;unleashed against me&mdash;<br><!-- vv12,22: common "unleash" ("deal out") -->
+              that which the <span class="yhwh">Lord</span> inflicted<br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;in the day of his wrath?
             </p>
           </div><!-- poem__versetext -->
@@ -430,11 +441,14 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
-              Zero in&mdash;their malignant ways all<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
-              &emsp;are before you; torment them<br>
-              as you tormented me<br>
+              <?php
+                $fn='The opening v.1 "great", there used twice positively, here returns, but in negative contrast, to bracket this chapter.  See Dobbs-Allsopp (2012), p.74.';
+              ?>
+              Zero in&mdash;their malignancy all is before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+              &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
+              as you unleashed against me<br>
               &emsp;for all my rebellions.<br>
-              For many are my groans;<br>
+              For great<?php Footnote($fn); ?> are my groans;<br><!-- "great": 1a,1b,22c -->
               &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
           </div><!-- poem__versetext -->

@@ -194,7 +194,7 @@
       If one regards the closing four verses 5:19&ndash;22 as an epilogue,
       so the formal close is 5:18 rather than 5:22,
       then one has the opening
-      <em>"Alone she lies: the city once teeming with people"</em> (1:1)
+      <em>"Alone she lies: the city once great with people"</em> (1:1)
       returning and reflected in the closing
       <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
     </p>
@@ -213,11 +213,20 @@
             <em>
             The movement from the sequence\'s opening primordial scream of "Eikhaaah!"
             (which is as much a token of glossolalia or pure sound&mdash;the kind of preferential ejaculation to which language is so often reduced by extreme suffering&mdash;as a semantically weighted word [NRSV\'s "How"])
-            to the articulate speech of the rest of the poetry)&hellip;similarly well symbolizes these poems\' reclamation of language from the wordless garble of anguished speech.
+            to the articulate speech of the rest of the poetry&hellip;similarly well symbolizes these poems\' reclamation of language from the wordless garble of anguished speech.
             </em>
             Dobbs-Allsopp (2012), p.33.');
           ?>
           A rather more dramatic opening than simply reciting "Alas".
+      </li>
+
+      <li>
+        Within its 22 verses, the first chapter may contain no fewer than 12 allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
+        That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
+        But to a present-day western audience,
+        while the event (Moses, "Red Sea", Exodus wanderings, etc.) might be known about, but as a relatively remote story,
+        these deep allusions are probably entirely missed.
+        So staging might attempt to convey something of that.
       </li>
 
       <li>

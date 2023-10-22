@@ -101,7 +101,7 @@
       One approach can then be to swap lines within a verse.
       A case in point is 1:7 whose first line requires an opening "G" word.
       A workable solution is to switch its first and second lines,
-      allowing for "great treasures" to begin the verse.
+      allowing for "goodly treasures" to begin the verse.
     </p>
 
     <p>
@@ -364,11 +364,6 @@
       So in v.3, I use "lodges among the nations".
       While I am now using two different verbs where the original has one common verb,
       nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
-    </p>
-
-    <p>
-      The use of "lies" in v.1 also allows a further audible resonance
-      between "she lies" and "she&hellip;lady".
     </p>
 
     <p>
