@@ -101,7 +101,7 @@
       One approach can then be to swap lines within a verse.
       A case in point is 1:7 whose first line requires an opening "G" word.
       A workable solution is to switch its first and second lines,
-      allowing for "great treasures" to begin the verse.
+      allowing for "goodly treasures" to begin the verse.
     </p>
 
     <p>

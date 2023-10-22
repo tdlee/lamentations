@@ -202,7 +202,7 @@
                 $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322';
                 $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
               ?>
-              Great treasures that once were hers<br>
+              Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<br>
               &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
