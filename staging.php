@@ -190,6 +190,25 @@
     </ul>
 
     <p>
+      Indeed, an awareness of chiasm throughout is useful on a variety of scales.  For example in chapter 2:
+    </p>
+
+    <ul>
+      <li>
+        2:1: "in the day of his anger"
+      </li>
+      <li>
+        &emsp;2:3: "cut off&hellip;every horn of Israel"
+      </li>
+      <li>
+        &emsp;2:17: "exalted your foes' horn"
+      </li>
+      <li>
+        2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+      </li>
+    </ul>
+
+    <p>
       A further specific example of this mirror-like chiastic structure occurs almost at the extremes of the book.
       If one regards the closing four verses 5:19&ndash;22 as an epilogue,
       so the formal close is 5:18 rather than 5:22,
