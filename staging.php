@@ -221,6 +221,15 @@
       </li>
 
       <li>
+        Within its 22 verses, the first chapter may contain no fewer than 12 allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
+        That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
+        But to a present-day western audience,
+        while the event (Moses, "Red Sea", Exodus wanderings, etc.) might be known about, but as a relatively remote story,
+        these deep allusions are probably entirely missed.
+        So staging might attempt to convey something of that.
+      </li>
+
+      <li>
         <em>(t.b.c.)</em>
       </li>
     </ul>
