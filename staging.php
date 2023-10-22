@@ -249,6 +249,13 @@
       </li>
 
       <li>
+        The tape-measure is a tool for creation and construction.
+        But in the opening section of chapter 2
+        God uses it (2:8) in setting about the destruction of his very own dwelling-place.
+        "Demolition itself requires careful planning."<?php Footnote('Provan (2016), p.68.'); ?>
+      </li>
+
+      <li>
         <em>(t.b.c.)</em>
       </li>
     </ul>
