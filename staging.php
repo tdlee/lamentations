@@ -194,7 +194,7 @@
       If one regards the closing four verses 5:19&ndash;22 as an epilogue,
       so the formal close is 5:18 rather than 5:22,
       then one has the opening
-      <em>"Alone she lies: the city once teeming with people"</em> (1:1)
+      <em>"Alone she lies: the city once great with people"</em> (1:1)
       returning and reflected in the closing
       <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
     </p>

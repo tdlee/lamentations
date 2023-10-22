@@ -78,7 +78,7 @@
 
   alas!
   &emsp;a-LONE she LIES: the CI-ty
-  &emsp;&emsp;once TEEM-ing with PEO-ple;
+  &emsp;&emsp;once GREAT with PEO-ple;
 
   &emsp;SHE, once a LA-dy among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
@@ -99,8 +99,8 @@
               <!-- 1:1, 5:18: quoted in new "staging" -->
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
               Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
-              &emsp;once teeming with people;<br>
-              She, once a lady among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
+              &emsp;once great with people;<br><!-- "great": 1a,1b,22c -->
+              She, once great among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "great": 1a,1b,22c -->
               &emsp;now abandoned, widowed;<br>
               she, once princess among provinces,<br>
               &emsp;now chained, enslaved.
@@ -441,11 +441,14 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The opening v.1 "great", there used twice positively, here returns, but in negative contrast, to bracket this chapter.  See Dobbs-Allsopp (2012), p.74.';
+              ?>
               Zero in&mdash;their malignancy all is before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
               as you unleashed against me<br>
               &emsp;for all my rebellions.<br>
-              For many are my groans;<br>
+              For great<?php Footnote($fn); ?> are my groans;<br><!-- "great": 1a,1b,22c -->
               &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
           </div><!-- poem__versetext -->
