@@ -165,9 +165,12 @@
           <div class="poem__verseref">5</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='Note overlapping verb sequences: "afflicted"/"inflicted" (same Hebrew verb) at 5<em>b</em> and 12<em>c</em>, then "unleashed against" at 12<em>b</em> and 22. Dobbs-Allsopp (2012) p.68.';
+              ?>
               Enemies now have mastered her;<br>
               &emsp;her foes prosper,<br>
-              since the <span class="yhwh">Lord</span> has stricken her with sorrow<br>
+              since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;for her many misdeeds.<br>
               Her youngsters are driven to exile,<br>
               &emsp;captive before the foe.
@@ -281,8 +284,8 @@
               Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;is it nothing to you?<br><!-- couplet copied in "notes" -->
               Is there any pain like my pain,<br>
-              &emsp;inflicted on me,<br>
-              that the <span class="yhwh">Lord</span> wreaked on me<br>
+              &emsp;unleashed against me&mdash;<br><!-- vv12,22: common "unleash" ("deal out") -->
+              that which the <span class="yhwh">Lord</span> inflicted<br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;in the day of his wrath?
             </p>
           </div><!-- poem__versetext -->
@@ -438,9 +441,9 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
-              Zero in&mdash;their malignant ways all<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
-              &emsp;are before you; torment them<br>
-              as you tormented me<br>
+              Zero in&mdash;their malignancy all is before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+              &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
+              as you unleashed against me<br>
               &emsp;for all my rebellions.<br>
               For many are my groans;<br>
               &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
