@@ -29,9 +29,14 @@
     ?>
 
     <p>
+      <?php
+        $fn='This is just one of several chiasms in this chapter.
+          Others include its opening and closing with verbs
+          ("angered"/"beclouded" and "annihilated") and the "horn" motif';
+      ?>
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
-      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
+      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
       this is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
       it is the polar opposite of the psalmist's praise,

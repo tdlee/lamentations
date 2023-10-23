@@ -213,16 +213,22 @@
 
     <ul>
       <li>
-        2:1: "in the day of his anger"
+        2:1: "angered/beclouded" verb to open
       </li>
       <li>
-        &emsp;2:3: "cut off&hellip;every horn of Israel"
+        &emsp;2:1: "in the day of his anger"
       </li>
       <li>
-        &emsp;2:17: "exalted your foes' horn"
+        &emsp;&emsp;2:3: "cut off&hellip;every horn of Israel"
       </li>
       <li>
-        2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+        &emsp;&emsp;2:17: "exalted your foes' horn"
+      </li>
+      <li>
+        &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+      <li>
+        2:22: "annihilated" verb to close
+      </li>
       </li>
     </ul>
 
