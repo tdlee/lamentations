@@ -130,7 +130,10 @@
               <?php
                 $fn='For acrostic purposes, the first and last couplets have been interchanged.';
               ?>
-              Blitzed to the ground in desecration<?php Footnote($fn); ?><br>
+              <?php
+                $fn2='A "ground" thread runs throughout this chapter: vv.2,9,10,11,21. See also Dobbs-Allsopp (2012), p.93.';
+              ?>
+              Blitzed to the ground in desecration<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
@@ -255,7 +258,7 @@
               <?php
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
-              Ingested in earth sank her gates;<br>
+              Ingested in the ground sank her gates;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;her bars shattered, destroyed.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
@@ -275,11 +278,11 @@
                 $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire surviving population.  Berlin (2004), p.71; Dobbs-Allsopp (2012), p.92; Goldingay (2022), p.103.';
               ?>
               Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
-              &emsp;sit dumbstruck on the ground;<br>
+              &emsp;sit dumbstruck on the ground;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               dust they cast on their heads<br>
               &emsp;and sackcloth they gird.<br>
               Zion's young women<?php Footnote($fn2); ?> bow<br>
-              &emsp;their heads to the ground.
+              &emsp;their heads to the ground.<!-- "ground": 2a,9a,10a,10c,11b,21a -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -294,7 +297,7 @@
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-              &emsp;my liver-bile spills,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe -->
+              &emsp;my liver-bile spills to the ground,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               as infants and children expire<br>
               &emsp;in the city streets.
             </p>
@@ -463,7 +466,7 @@
           <div class="poem__versetext">
             <p>
               Young and old lie strewn<br>
-              &emsp;on the ground in the streets;<br>
+              &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>

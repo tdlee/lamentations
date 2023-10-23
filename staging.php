@@ -112,8 +112,14 @@
 
     <ul>
       <li>
-        "Notice" and "look" form a running thread, often paired.
+        "Notice" and "look" form a running thread across the chapters, often paired.
         See the translation notes for further details.
+      </li>
+      <li>
+        Chapter&nbsp;1: recurrent "all", which subtly helps establish the "A&nbsp;to&nbsp;Z" totality of the alphabetic acrostic.
+      </li>
+      <li>
+        Chapter&nbsp;2: "ground" thread.
       </li>
       <li>
         Biblical poetry often refers to "hand" and "face".
