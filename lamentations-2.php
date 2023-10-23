@@ -272,7 +272,7 @@
             <p>
               <?php
                 $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
-                $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire population.  Goldingay (2022), p.103; Berlin (2004), p.71.';
+                $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire surviving population.  Berlin (2004), p.71; Dobbs-Allsopp (2012), p.92; Goldingay (2022), p.103.';
               ?>
               Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
               &emsp;sit dumbstruck on the ground;<br>
