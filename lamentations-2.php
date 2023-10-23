@@ -489,11 +489,12 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               Zoned round, as to a feast day&mdash;<br>
-              &emsp;the terrors you summoned;<br>
-              on the day of the <span class="yhwh">Lord</span>'s anger<br>
-              &emsp;none escaped or survived.<br>
-              Those I had nursed and reared,<br>
+              &emsp;the terrors you summoned!<br>
+              On the day of the <span class="yhwh">Lord</span>'s anger<br>
+              &emsp;none escaped or survived;<br>
+              those I had nursed and reared,<br>
               &emsp;my enemy annihilated.
             </p>
           </div><!-- poem__versetext -->

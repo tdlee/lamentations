@@ -149,13 +149,22 @@
       </li>
     </ul>
 
-    <em>(t.b.c.)</em>
+    <p>
+      <em>(t.b.c.)</em>
+    </p>
 
     <h2>Characterisation and voicing</h2>
 
-    <em>(t.b.c.)</em>
+    <p>
+      In chapter&nbsp;2, although Daughter Zion's speech at the end is short, just three verses 20&ndash;22,
+      it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
+      One might then imagine her turning on her heels and walking way,
+      now narrator-like, with falling voice:
+      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
+    </p>
 
     <p>
+      <em>(t.b.c.)</em>
     </p>
 
     <h2>Structure</h2>
