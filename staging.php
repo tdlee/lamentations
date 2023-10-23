@@ -73,6 +73,18 @@
     </p>
 
     <p>
+      Some aspects of the text lend themselves to visual demonstration.
+      For example, chapter&nbsp;2 initially look like an audio monologue
+      (with Daughter Zion speaking only at the end).
+      But v.13 sets up a chain of "who" questions:
+      "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
+      which leads to a sweeping panorama of three iniital candidates on display:
+      prophets (14), passers-by (15) and even human enemies (16).
+      Finally there is a fourth candidate, God himself.
+      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat."<?php Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98.'); ?>
+    </p>
+
+    <p>
       Also:
     </p>
 
@@ -112,8 +124,14 @@
 
     <ul>
       <li>
-        "Notice" and "look" form a running thread, often paired.
+        "Notice" and "look" form a running thread across the chapters, often paired.
         See the translation notes for further details.
+      </li>
+      <li>
+        Chapter&nbsp;1: recurrent "all", which subtly helps establish the "A&nbsp;to&nbsp;Z" totality of the alphabetic acrostic.
+      </li>
+      <li>
+        Chapter&nbsp;2: "ground" thread; "pour" thread.
       </li>
       <li>
         Biblical poetry often refers to "hand" and "face".
@@ -131,13 +149,22 @@
       </li>
     </ul>
 
-    <em>(t.b.c.)</em>
+    <p>
+      <em>(t.b.c.)</em>
+    </p>
 
     <h2>Characterisation and voicing</h2>
 
-    <em>(t.b.c.)</em>
+    <p>
+      In chapter&nbsp;2, although Daughter Zion's speech at the end is short, just three verses 20&ndash;22,
+      it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
+      One might then imagine her turning on her heels and walking way,
+      now narrator-like, with falling voice:
+      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
+    </p>
 
     <p>
+      <em>(t.b.c.)</em>
     </p>
 
     <h2>Structure</h2>
@@ -195,16 +222,22 @@
 
     <ul>
       <li>
-        2:1: "in the day of his anger"
+        2:1: "angered/beclouded" verb to open
       </li>
       <li>
-        &emsp;2:3: "cut off&hellip;every horn of Israel"
+        &emsp;2:1: "in the day of his anger"
       </li>
       <li>
-        &emsp;2:17: "exalted your foes' horn"
+        &emsp;&emsp;2:3: "cut off&hellip;every horn of Israel"
       </li>
       <li>
-        2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+        &emsp;&emsp;2:17: "exalted your foes' horn"
+      </li>
+      <li>
+        &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+      <li>
+        2:22: "annihilated" verb to close
+      </li>
       </li>
     </ul>
 

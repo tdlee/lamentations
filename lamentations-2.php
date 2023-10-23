@@ -29,9 +29,14 @@
     ?>
 
     <p>
+      <?php
+        $fn='This is just one of several chiasms in this chapter.
+          Others include its opening and closing with verbs
+          ("angered"/"beclouded" and "annihilated") and the "horn" motif';
+      ?>
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
-      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",
+      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
       this is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
       it is the polar opposite of the psalmist's praise,
@@ -130,7 +135,10 @@
               <?php
                 $fn='For acrostic purposes, the first and last couplets have been interchanged.';
               ?>
-              Blitzed to the ground in desecration<?php Footnote($fn); ?><br>
+              <?php
+                $fn2='A "ground" thread runs throughout this chapter: vv.2,9,10,11,21. See also Dobbs-Allsopp (2012), p.93.';
+              ?>
+              Blitzed to the ground in desecration<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;a kingdom and its princes;<br>
               razed in fury the defences<br>
               &emsp;of Daughter Judah.<br>
@@ -164,13 +172,14 @@
                 $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+                $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.';
               ?>
               Drawing his bow like an enemy,<br>
               &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
               on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br>
-              &emsp;has he outpoured.
+              &emsp;has he outpoured.<?php Footnote($fn4); ?><!-- 2:4,11,12,19: same verb -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -255,7 +264,7 @@
               <?php
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
-              Ingested in earth sank her gates;<br>
+              Ingested in the ground sank her gates;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;her bars shattered, destroyed.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
@@ -272,14 +281,14 @@
             <p>
               <?php
                 $fn='The names "Jerusalem" and "Zion" are interchanged in this verse for acrostic purposes.  A rejected alternative would have been to invert the verse (lines 1-2-3 becoming 3-2-1) but that would have lost the thematic continuity from the previous verse\'s "rulers" and "prophets" into this verse\'s "elders".';
-                $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire population.  Goldingay (2022), p.103; Berlin (2004), p.71.';
+                $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire surviving population.  Berlin (2004), p.71; Dobbs-Allsopp (2012), p.92; Goldingay (2022), p.103.';
               ?>
               Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
-              &emsp;sit dumbstruck on the ground;<br>
+              &emsp;sit dumbstruck on the ground;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               dust they cast on their heads<br>
               &emsp;and sackcloth they gird.<br>
               Zion's young women<?php Footnote($fn2); ?> bow<br>
-              &emsp;their heads to the ground.
+              &emsp;their heads to the ground.<!-- "ground": 2a,9a,10a,10c,11b,21a -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -294,7 +303,7 @@
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-              &emsp;my liver-bile spills,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe -->
+              &emsp;my liver-bile pours to the ground,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               as infants and children expire<br>
               &emsp;in the city streets.
             </p>
@@ -310,8 +319,8 @@
               &emsp;"Where is corn and wine?"<br>
               as they expire like the sword-wounded<br>
               &emsp;in the city streets;<br>
-              as their lives ebb away<br>
-              &emsp;in their mothers' arms.
+              as their lives pour away<br><!-- 2:4,11,12,19: same verb -->
+              &emsp;on their mothers' bosom.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -323,6 +332,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               O Daughter Jerusalem: to what can I<br>
               &emsp;liken you? How advocate?<br>
               O virgin Daughter Zion:<br>
@@ -392,6 +402,7 @@
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               The <span class="yhwh">Lord</span> has done what he planned,<br>
               &emsp;has fulfilled his threat<br>
               decreed from days of old,<br>
@@ -427,7 +438,7 @@
               ?>
               Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
-              Spill out your heart like water<br><!-- 2:11,19: same verb, I believe -->
+              Pour out your heart like water<br><!-- 2:4,11,12,19: same verb -->
               &emsp;in full sight of our Lord.<br>
               Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
@@ -443,12 +454,13 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
+                $fn1='A horrific but untranslatable pun bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
+                $fn2='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
               ?>
-              Who have you thus tormented?<br>
-              &emsp;Look, <span class="yhwh">Lord</span>; notice.<br><!-- verbs match 1:11 (and reversed 1:12) -->
+              Who have you thus tormented?<?php Footnote($fn1); ?><br>
+              &emsp;Look, <span class="yhwh">Lord</span>; notice!<br><!-- verbs match 1:11 (and reversed 1:12) -->
               Must women eat their own womb's fruit,<br>
-              &emsp;their nursed<?php Footnote($fn); ?> babes?<br><!-- mentioned in "notes" -->
+              &emsp;their nursed<?php Footnote($fn2); ?> babes?<br><!-- mentioned in "notes" -->
               Should priest and prophet be slain<br>
               &emsp;in the sanctuary of our Lord?
             </p>
@@ -463,7 +475,7 @@
           <div class="poem__versetext">
             <p>
               Young and old lie strewn<br>
-              &emsp;on the ground in the streets;<br>
+              &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               young women and young men fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
@@ -477,11 +489,12 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               Zoned round, as to a feast day&mdash;<br>
-              &emsp;the terrors you summoned;<br>
-              on the day of the <span class="yhwh">Lord</span>'s anger<br>
-              &emsp;none escaped or survived.<br>
-              Those I had nursed and reared,<br>
+              &emsp;the terrors you summoned!<br>
+              On the day of the <span class="yhwh">Lord</span>'s anger<br>
+              &emsp;none escaped or survived;<br>
+              those I had nursed and reared,<br>
               &emsp;my enemy annihilated.
             </p>
           </div><!-- poem__versetext -->
