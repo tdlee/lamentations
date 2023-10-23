@@ -327,6 +327,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               O Daughter Jerusalem: to what can I<br>
               &emsp;liken you? How advocate?<br>
               O virgin Daughter Zion:<br>
@@ -396,6 +397,7 @@
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
             <p>
+              <!-- parts quoted in "staging" -->
               The <span class="yhwh">Lord</span> has done what he planned,<br>
               &emsp;has fulfilled his threat<br>
               decreed from days of old,<br>

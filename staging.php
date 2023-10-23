@@ -73,6 +73,18 @@
     </p>
 
     <p>
+      Some aspects of the text lend themselves to visual demonstration.
+      For example, chapter&nbsp;2 initially look like an audio monologue
+      (with Daughter Zion speaking only at the end).
+      But v.13 sets up a chain of "who" questions:
+      "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
+      which leads to a sweeping panorama of three iniital candidates on display:
+      prophets (14), passers-by (15) and even human enemies (16).
+      Finally there is a fourth candidate, God himself.
+      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat."<?php Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98.'); ?>
+    </p>
+
+    <p>
       Also:
     </p>
 
