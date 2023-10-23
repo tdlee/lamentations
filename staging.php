@@ -119,7 +119,7 @@
         Chapter&nbsp;1: recurrent "all", which subtly helps establish the "A&nbsp;to&nbsp;Z" totality of the alphabetic acrostic.
       </li>
       <li>
-        Chapter&nbsp;2: "ground" thread.
+        Chapter&nbsp;2: "ground" thread; "pour" thread.
       </li>
       <li>
         Biblical poetry often refers to "hand" and "face".

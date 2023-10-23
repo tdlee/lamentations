@@ -167,13 +167,14 @@
                 $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+                $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.';
               ?>
               Drawing his bow like an enemy,<br>
               &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
               on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br>
-              &emsp;has he outpoured.
+              &emsp;has he outpoured.<?php Footnote($fn4); ?><!-- 2:4,11,12,19: same verb -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -297,7 +298,7 @@
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<br>
               at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
-              &emsp;my liver-bile spills to the ground,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:11,19: same verb, I believe --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              &emsp;my liver-bile pours to the ground,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               as infants and children expire<br>
               &emsp;in the city streets.
             </p>
@@ -313,8 +314,8 @@
               &emsp;"Where is corn and wine?"<br>
               as they expire like the sword-wounded<br>
               &emsp;in the city streets;<br>
-              as their lives ebb away<br>
-              &emsp;in their mothers' arms.
+              as their lives pour away<br><!-- 2:4,11,12,19: same verb -->
+              &emsp;on their mothers' bosom.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -430,7 +431,7 @@
               ?>
               Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
-              Spill out your heart like water<br><!-- 2:11,19: same verb, I believe -->
+              Pour out your heart like water<br><!-- 2:4,11,12,19: same verb -->
               &emsp;in full sight of our Lord.<br>
               Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
