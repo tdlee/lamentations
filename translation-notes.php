@@ -248,7 +248,7 @@
       Then observe that 2:20 uses it,
       and even more that the final poem almost opens with that same pair of verbs.
       The "notice" root also puts in an appearance at 3:63 and 4:16,
-      and "look" at 2:16:
+      and "look" at 2:16 and 3:36:
     </p>
     <ul>
     <li>
@@ -256,6 +256,9 @@
     </li>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      3:36: does our Lord not <strong>look?</strong>
     </li>
     <li>
       3:63: You <strong>notice?</strong>&hellip;

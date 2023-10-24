@@ -378,8 +378,8 @@
                   before the Most High?<!-- vv35,38: "Most High" -->
               </p>
               <p>
-                Negating our crying for justice?&mdash;<br>
-                  our Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
+                Negation of our cry for justice&mdash;<br>
+                  does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
