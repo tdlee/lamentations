@@ -217,7 +217,21 @@
     </ul>
 
     <p>
-      Indeed, an awareness of chiasm throughout is useful on a variety of scales.  For example in chapter 2:
+      Indeed, an awareness of chiasm throughout is useful on a variety of scales.
+      For example, topping and tailing chapter&nbsp;1 as a contrast:
+    </p>
+
+    <ul>
+      <li>
+        1:1: "great with people"/"great among the nations"
+      </li>
+      <li>
+        1:22: "great are my groans"
+      </li>
+    </ul>
+
+    <p>
+      And in chapter&nbsp;2:
     </p>
 
     <ul>
