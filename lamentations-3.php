@@ -280,7 +280,7 @@
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
               <?php
-                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will I hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
