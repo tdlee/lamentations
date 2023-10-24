@@ -252,7 +252,6 @@
       <li>
         2:22: "annihilated" verb to close
       </li>
-      </li>
     </ul>
 
     <p>
