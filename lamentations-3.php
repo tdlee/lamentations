@@ -240,9 +240,12 @@
               Far any peace from my spirit,<br><!-- vv.17,24: same "spirit" -->
                 I forgot what is good;
             </p>
+            <?php
+              $fn1='The original carries a double meaning of not only "hope <em>in</em> the <span class="yhwh">Lord</span> has perished"  but also "hope <em>because of</em> the <span class="yhwh">Lord</span> has perished". See also Dobbs-Allsopp (2012), p.114.';
+            ?>
             <p>
-              Fled, dregs of honour; and perished<br><!-- "perished" better than previous "gone": Dobbs-Allsopp (2012), p.114 -->
-                all I'd hoped in the <span class="yhwh">Lord</span>.
+              Fled, perished dregs of honour and<br><!-- "perished" better than previous "gone": Dobbs-Allsopp (2012), p.114 -->
+                vestigial hope from the <span class="yhwh">Lord</span>.<?php Footnote($fn1); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

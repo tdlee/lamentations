@@ -312,6 +312,12 @@
       </li>
 
       <li>
+        3:18: Note the double meaning, mentioned in the footnote.
+        The text has had to lean one way;
+        stage gesture can indicate the more accusatory edge.
+      </li>
+
+      <li>
         <em>(t.b.c.)</em>
       </li>
     </ul>
