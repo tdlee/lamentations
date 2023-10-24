@@ -273,6 +273,8 @@
       the acrostic (which tended to expand the line),
       the <em>qinah</em> rhythm (which needs to constrain the line)
       and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<em>qinah</em>.'); ?>
+      Also, the Hebrew verb carries the additional nuance of "to experience, know",
+      important to this instance of its use.<?php Footnote('Dobbs-Allsopp (2012), p.111.'); ?>
     </p>
 
     <p>
