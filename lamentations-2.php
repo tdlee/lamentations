@@ -392,7 +392,7 @@
               gape their mouths at you, saying<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->
               Long for this day we have waited&mdash;<br>
-              &emsp;we have lived to see it!"
+              &emsp;we have lived to look upon it!"<!-- "look", as in "look"/"notice" thread -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

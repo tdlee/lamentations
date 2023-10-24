@@ -247,9 +247,13 @@
     <p>
       Then observe that 2:20 uses it,
       and even more that the final poem almost opens with that same pair of verbs.
-      The "notice" root also puts in an appearance at 3:63 and 4:16.
+      The "notice" root also puts in an appearance at 3:63 and 4:16,
+      and "look" at 2:16:
     </p>
     <ul>
+    <li>
+      2:16: we have lived to <strong>look</strong> upon it
+    </li>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
     </li>
@@ -273,6 +277,8 @@
       the acrostic (which tended to expand the line),
       the <em>qinah</em> rhythm (which needs to constrain the line)
       and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<em>qinah</em>.'); ?>
+      Also, the Hebrew verb carries the additional nuance of "to experience, know",
+      important to this instance of its use.<?php Footnote('Dobbs-Allsopp (2012), p.111.'); ?>
     </p>
 
     <p>
