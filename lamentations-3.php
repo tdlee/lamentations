@@ -241,7 +241,7 @@
                 I forgot what is good;
             </p>
             <p>
-              Fled, dregs of honour; and gone<br>
+              Fled, dregs of honour; and perished<br><!-- "perished" better than previous "gone": Dobbs-Allsopp (2012), p.114 -->
                 all I'd hoped in the <span class="yhwh">Lord</span>.
             </p>
           </div><!-- poem__versetext -->
