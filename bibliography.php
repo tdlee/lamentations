@@ -71,6 +71,9 @@
         Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
       </li>
       <li>
+        Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97
+      </li>
+      <li>
         Various items mentioned in relevant footnotes at their point of use
       </li>
     </ul>
