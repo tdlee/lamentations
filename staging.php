@@ -74,7 +74,7 @@
 
     <p>
       Some aspects of the text lend themselves to visual demonstration.
-      For example, chapter&nbsp;2 initially look like an audio monologue
+      For example, chapter&nbsp;2 initially looks like an audio monologue
       (with Daughter Zion speaking only at the end).
       But v.13 sets up a chain of "who" questions:
       "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
