@@ -273,6 +273,16 @@
       </li>
 
       <li>
+        Drama, of course, thrives on contrast and tension.
+        At several points Lamentations pulls against other biblical passages,
+        sometimes in seemingly deliberate opposition.
+        The introduction to chapter&nbsp;4 gives two examples;
+        perhaps more subtle is that at the opening of chapter&nbsp;3.
+        Can this be worked in?
+        ("Your covenant promise with us was good <em>X</em>, but we are now in opposite state&nbsp;<em>Y</em>".)
+      </li>
+
+      <li>
         Within its 22 verses, the first chapter may contain no fewer than 12 allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
         That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
         But to a present-day western audience,
