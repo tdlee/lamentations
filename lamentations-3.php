@@ -95,6 +95,22 @@
     </p>
 
     <p>
+      As if to support this,
+      "there are a number of places in 3:25&ndash;39
+      where the [Hebrew] syntax is convoluted and even problematic.&hellip;
+      One effect&hellip;is
+      to disrupt&hellip;the ease and forthrightness
+      of the poetry's meaning at this point,
+      to slow down the reading process
+      and to require our closer attention.
+      Dissonance thus enters the poetry's message"<?php
+        Footnote('Dobbs-Allsopp (2012), pp.120-121');
+      ?>
+      at precisely the solitary point where hope is expressed.
+      The syntax of this new version attempts to reflect this.
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
         Footnote('Van Hecke, Pierre J.P. (2002),
