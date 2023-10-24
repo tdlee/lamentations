@@ -80,6 +80,21 @@
     </p>
 
     <p>
+      There are many,
+      especially in my own tradition,
+      the protestant regions of the western Christian faith,
+      who isolate the hopeful passage of 3:22&ndash;39
+      from the stark images of the rest of the poems.
+      But it seems useful, verging on essential,
+      to recognise that this
+      "grand statement of hope stands at the centre of the work as a whole
+      <em>but not as the focal point</em> [emphasis mine]
+      because it exists in tension
+      with the portraits of human suffering&hellip;in
+      the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
         Footnote('Van Hecke, Pierre J.P. (2002),
