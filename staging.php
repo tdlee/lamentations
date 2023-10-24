@@ -74,7 +74,7 @@
 
     <p>
       Some aspects of the text lend themselves to visual demonstration.
-      For example, chapter&nbsp;2 initially look like an audio monologue
+      For example, chapter&nbsp;2 initially looks like an audio monologue
       (with Daughter Zion speaking only at the end).
       But v.13 sets up a chain of "who" questions:
       "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
@@ -217,7 +217,21 @@
     </ul>
 
     <p>
-      Indeed, an awareness of chiasm throughout is useful on a variety of scales.  For example in chapter 2:
+      Indeed, an awareness of chiasm throughout is useful on a variety of scales.
+      For example, topping and tailing chapter&nbsp;1 as a contrast:
+    </p>
+
+    <ul>
+      <li>
+        1:1: "great with people"/"great among the nations"
+      </li>
+      <li>
+        1:22: "great are my groans"
+      </li>
+    </ul>
+
+    <p>
+      And in chapter&nbsp;2:
     </p>
 
     <ul>
@@ -237,7 +251,6 @@
         &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
       <li>
         2:22: "annihilated" verb to close
-      </li>
       </li>
     </ul>
 
@@ -270,6 +283,16 @@
             Dobbs-Allsopp (2012), p.33.');
           ?>
           A rather more dramatic opening than simply reciting "Alas".
+      </li>
+
+      <li>
+        Drama, of course, thrives on contrast and tension.
+        At several points Lamentations pulls against other biblical passages,
+        sometimes in seemingly deliberate opposition.
+        The introduction to chapter&nbsp;4 gives two examples;
+        perhaps more subtle is that at the opening of chapter&nbsp;3.
+        Can this be worked in?
+        ("Your covenant promise with us was good <em>X</em>, but we are now in opposite state&nbsp;<em>Y</em>".)
       </li>
 
       <li>

@@ -265,6 +265,17 @@
     </ul>
 
     <p>
+      Further, <strong>look</strong> should also be in 3:1,
+      where the man's opening follows hard on the heels of Daughter Zion's
+      commanding use of it, 2:20, in her brief but devasting speech.
+      Sadly, triple constraints
+      conspire to put its incorporation beyond reach:
+      the acrostic (which tended to expand the line),
+      the <em>qinah</em> rhythm (which needs to constrain the line)
+      and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<em>qinah</em>.'); ?>
+    </p>
+
+    <p>
       But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
       ?>
