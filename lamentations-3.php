@@ -547,8 +547,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">55&ndash;57</div>
           <div class="poem__versetext">
+            <?php
+              $fn1='In 55&ndash;61 the verb tenses, which work differently between Biblical Hebrew and English, can be interpreted as past or present or even a mixture. We follow Dobbs-Allsopp (2012), pp.126&ndash;127, Berlin (2004), pp.81&ndash;83 and Provan (2016), pp.105&ndash;108 in adopting the present tense. For the past tense, see Goldingay (2022), pp.156ff.';
+            ?>
             <p>
-              Voiced I your name, <span class="yhwh">Lord</span>,<br>
+              Voice<?php Footnote($fn1); ?> I your name, <span class="yhwh">Lord</span>,<br>
                 from bottom-most pit;
             </p>
             <p>
@@ -556,8 +559,8 @@
                 your ears to my cry.
             </p>
             <p>
-              Venturing close when I called you,<br>
-                you spoke: "do not fear".
+              Venturing close when I call you,<br>
+                say: "do not fear".
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -567,8 +570,8 @@
           <div class="poem__verseref">58&ndash;60</div>
           <div class="poem__versetext">
             <p>
-              When you pleaded, my Lord, my cause,<br>
-                you redeemed my life.
+              When you plead, my Lord, my cause,<br>
+                you redeem my life.
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
@@ -589,7 +592,7 @@
               <?php
                 $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
               ?>
-              You have heard, <span class="yhwh">Lord</span>, their insults,<br>
+              You hear, <span class="yhwh">Lord</span>, their insults,<br>
                 their scheming at me:<?php Footnote($fn); ?><!-- "against/at me": 60/61/62 -->
             </p>
             <p>
