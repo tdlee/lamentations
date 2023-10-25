@@ -35,6 +35,13 @@
     </p>
 
     <p>
+      "Look!" and "notice!" are a thread running through each chapter of Lamentations and across all of them:
+      see the <a href="translation-notes.php">translation notes</a>.
+      And it is all about bringing vivid pictures into the mind.
+      Visual staging seems to be not only an option, but encouraged.
+    </p>
+
+    <p>
       In preparing this version of the text over the course of a few years
       various thoughts and ideas have come to mind,
       ("I wonder how a producer/director would do that?")
