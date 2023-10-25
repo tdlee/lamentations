@@ -516,8 +516,8 @@
                 and sees from the heavens.
             </p>
             <p>
-              Tears stream: how grieves my soul<br><!-- see 49 -->
-                for the daughters of my city.
+              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
+                for all the daughters of my city.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

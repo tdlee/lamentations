@@ -457,7 +457,7 @@
                 $fn1='A horrific but untranslatable pun bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
                 $fn2='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
               ?>
-              Who have you thus tormented?<?php Footnote($fn1); ?><br>
+              Who have you thus tormented?<?php Footnote($fn1); ?><br><!-- 2:20, 3:51: same strong verb -->
               &emsp;Look, <span class="yhwh">Lord</span>; notice!<br><!-- verbs match 1:11 (and reversed 1:12) -->
               Must women eat their own womb's fruit,<br>
               &emsp;their nursed<?php Footnote($fn2); ?> babes?<br><!-- mentioned in "notes" -->
