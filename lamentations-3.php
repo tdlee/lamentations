@@ -80,6 +80,37 @@
     </p>
 
     <p>
+      There are many,
+      especially in my own tradition,
+      the protestant regions of the western Christian faith,
+      who isolate the hopeful passage of 3:22&ndash;39
+      from the stark images of the rest of the poems.
+      But it seems useful, verging on essential,
+      to recognise that this
+      "grand statement of hope stands at the centre of the work as a whole
+      <em>but not as the focal point</em> [emphasis mine]
+      because it exists in tension
+      with the portraits of human suffering&hellip;in
+      the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
+    </p>
+
+    <p>
+      As if to support this,
+      "there are a number of places in 3:25&ndash;39
+      where the [Hebrew] syntax is convoluted and even problematic.&hellip;
+      One effect&hellip;is
+      to disrupt&hellip;the ease and forthrightness
+      of the poetry's meaning at this point,
+      to slow down the reading process
+      and to require our closer attention.
+      Dissonance thus enters the poetry's message"<?php
+        Footnote('Dobbs-Allsopp (2012), pp.120-121');
+      ?>
+      at precisely the solitary point where hope is expressed.
+      The syntax of this new version attempts to reflect this.
+    </p>
+
+    <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
         Footnote('Van Hecke, Pierre J.P. (2002),
@@ -240,9 +271,12 @@
               Far any peace from my spirit,<br><!-- vv.17,24: same "spirit" -->
                 I forgot what is good;
             </p>
+            <?php
+              $fn1='The original carries a double meaning of not only "hope <em>in</em> the <span class="yhwh">Lord</span> has perished"  but also "hope <em>because of</em> the <span class="yhwh">Lord</span> has perished". See also Dobbs-Allsopp (2012), p.114.';
+            ?>
             <p>
-              Fled, dregs of honour; and gone<br>
-                all I'd hoped in the <span class="yhwh">Lord</span>.
+              Fled, perished dregs of honour and<br><!-- "perished" better than previous "gone": Dobbs-Allsopp (2012), p.114 -->
+                vestigial hope from the <span class="yhwh">Lord</span>.<?php Footnote($fn1); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -256,7 +290,7 @@
               $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
             ?>
             <p>
-              Gall and bitterness<?php Footnote($fn1); ?> are this affliction<br><!-- vv.15,19: bitter/gall word-pair -->
+              Gall and bitterness<?php Footnote($fn1); ?> are my affliction<br><!-- vv.15,19: bitter/gall word-pair -->
                 and hollowness&mdash;such remembering;
             </p>
             <p>
@@ -277,7 +311,7 @@
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
               <?php
-                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will I hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
@@ -375,8 +409,8 @@
                   before the Most High?<!-- vv35,38: "Most High" -->
               </p>
               <p>
-                Negating our crying for justice?&mdash;<br>
-                  our Lord would not bide.<!-- vv36,37 "Lord" not "LORD" -->
+                Negation of our cry for justice&mdash;<br>
+                  does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -408,8 +442,8 @@
           <div class="poem__verseref">40&ndash;42</div>
           <div class="poem__versetext">
             <p>
-              Plumb we our ways, let us audit them,<br>
-                that we return to the <span class="yhwh">Lord</span>;
+              Plumb we our ways, examine them,<br>
+                and turn back to the <span class="yhwh">Lord</span>;
             </p>
             <p>
               Plead we, hearts and hands raised,<br>
@@ -439,7 +473,7 @@
             </p>
             <p>
               <?php
-                $fn='The verb "rejected" can be seen as anticpating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
+                $fn='The verb "rejected" can be seen as anticipating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
               ?>
               Rejected<?php Footnote($fn); ?> and filth you made us<br>
                 in the midst of the peoples;<!-- enjambment to next -->
@@ -482,8 +516,8 @@
                 and sees from the heavens.
             </p>
             <p>
-              Tears stream: how grieves my soul<br><!-- see 49 -->
-                for the daughters of my city.
+              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
+                for all the daughters of my city.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -513,8 +547,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">55&ndash;57</div>
           <div class="poem__versetext">
+            <?php
+              $fn1='In 55&ndash;61 the verb tenses, which work differently between Biblical Hebrew and English, can be interpreted as past or present or even a mixture. We follow Dobbs-Allsopp (2012), pp.126&ndash;127, Berlin (2004), pp.81&ndash;83 and Provan (2016), pp.105&ndash;108 in adopting the present tense. For the past tense, see Goldingay (2022), pp.156ff.';
+            ?>
             <p>
-              Voiced I your name, <span class="yhwh">Lord</span>,<br>
+              Voice<?php Footnote($fn1); ?> I your name, <span class="yhwh">Lord</span>,<br>
                 from bottom-most pit;
             </p>
             <p>
@@ -522,8 +559,8 @@
                 your ears to my cry.
             </p>
             <p>
-              Venturing close when I called you,<br>
-                you spoke: "do not fear".
+              Venturing close when I call you,<br>
+                say: "do not fear".
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -533,8 +570,8 @@
           <div class="poem__verseref">58&ndash;60</div>
           <div class="poem__versetext">
             <p>
-              When you pleaded, my Lord, my cause,<br>
-                you redeemed my life.
+              When you plead, my Lord, my cause,<br>
+                you redeem my life.
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
@@ -553,10 +590,11 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
+                $fn1='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
+                $fn2='Just as this poem opens with "I am", so also it (almost) closes.';
               ?>
-              You have heard, <span class="yhwh">Lord</span>, their insults,<br>
-                their scheming at me:<?php Footnote($fn); ?><!-- "against/at me": 60/61/62 -->
+              You hear, <span class="yhwh">Lord</span>, their insults,<br>
+                their scheming at me:<?php Footnote($fn1); ?><!-- "against/at me": 60/61/62 -->
             </p>
             <p>
               Yonder, foes prattle against me<br><!-- "against/at me": 60/61/62 -->
@@ -564,7 +602,7 @@
             </p>
             <p>
               You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
-                they mock me in songs.
+                I am their snide-song.<?php Footnote($fn2); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

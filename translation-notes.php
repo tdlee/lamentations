@@ -248,7 +248,7 @@
       Then observe that 2:20 uses it,
       and even more that the final poem almost opens with that same pair of verbs.
       The "notice" root also puts in an appearance at 3:63 and 4:16,
-      and "look" at 2:16:
+      and "look" at 2:16 and 3:36:
     </p>
     <ul>
     <li>
@@ -256,6 +256,9 @@
     </li>
     <li>
       2:20: &hellip;<strong>Look</strong>, <span class="yhwh">Lord</span>; <strong>notice</strong>&hellip;
+    </li>
+    <li>
+      3:36: does our Lord not <strong>look?</strong>
     </li>
     <li>
       3:63: You <strong>notice?</strong>&hellip;
@@ -352,7 +355,7 @@
     </ul>
 
     <p>
-      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "slow-clap" (2:15), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21), "up to our necks" (5:5).
+      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21), "up to our necks" (5:5).
       And "ranked" (4:2) also now carries an additional modern slant of disdain.
     </p>
 

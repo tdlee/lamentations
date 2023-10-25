@@ -62,9 +62,6 @@
     </p>
     <ul>
       <li>
-        Various items mentioned in relevant footnotes at their point of use
-      </li>
-      <li>
         Assis, Elie (2007), <a href="https://www.researchgate.net/publication/290869814_The_alphabetic_acrostic_in_the_Book_of_Lamentations" target="_blank"><cite>The Alphabetic Acrostic in the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 69,4, pp.710&ndash;724
       </li>
       <li>
@@ -72,6 +69,12 @@
       </li>
       <li>
         Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
+      </li>
+      <li>
+        Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">DOI: 10.1177/030908920402900104</a>
+      </li>
+      <li>
+        Various items mentioned in relevant footnotes at their point of use
       </li>
     </ul>
 

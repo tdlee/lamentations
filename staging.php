@@ -35,6 +35,13 @@
     </p>
 
     <p>
+      "Look!" and "notice!" are a thread running through each chapter of Lamentations and across all of them:
+      see the <a href="translation-notes.php">translation notes</a>.
+      And it is all about bringing vivid pictures into the mind.
+      Visual staging seems to be not only an option, but encouraged.
+    </p>
+
+    <p>
       In preparing this version of the text over the course of a few years
       various thoughts and ideas have come to mind,
       ("I wonder how a producer/director would do that?")
@@ -89,6 +96,10 @@
     </p>
 
     <ul>
+      <li>
+	The entire "look"/"notice" thread.
+        And although at 3:1 this version was unable to incorporate the original "looked at (known, experienced) affliction", its threefold "I/me" opening seems to demand visual gesture to command an audience to look and notice.
+      </li>
       <li>
         4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
       </li>
@@ -309,6 +320,12 @@
         But in the opening section of chapter 2
         God uses it (2:8) in setting about the destruction of his very own dwelling-place.
         "Demolition itself requires careful planning."<?php Footnote('Provan (2016), p.68.'); ?>
+      </li>
+
+      <li>
+        3:18: Note the double meaning, mentioned in the footnote.
+        The text has had to lean one way;
+        stage gesture can indicate the more accusatory edge.
       </li>
 
       <li>
