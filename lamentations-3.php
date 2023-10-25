@@ -442,8 +442,8 @@
           <div class="poem__verseref">40&ndash;42</div>
           <div class="poem__versetext">
             <p>
-              Plumb we our ways, let us audit them,<br>
-                that we return to the <span class="yhwh">Lord</span>;
+              Plumb we our ways, examine them,<br>
+                and turn back to the <span class="yhwh">Lord</span>;
             </p>
             <p>
               Plead we, hearts and hands raised,<br>
