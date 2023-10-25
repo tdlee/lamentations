@@ -590,10 +590,11 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
+                $fn1='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
+                $fn2='Just as this poem opens with "I am", so also it (almost) closes.';
               ?>
               You hear, <span class="yhwh">Lord</span>, their insults,<br>
-                their scheming at me:<?php Footnote($fn); ?><!-- "against/at me": 60/61/62 -->
+                their scheming at me:<?php Footnote($fn1); ?><!-- "against/at me": 60/61/62 -->
             </p>
             <p>
               Yonder, foes prattle against me<br><!-- "against/at me": 60/61/62 -->
@@ -601,7 +602,7 @@
             </p>
             <p>
               You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
-                they mock me in songs.
+                I am their snide-song.<?php Footnote($fn2); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

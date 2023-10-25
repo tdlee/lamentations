@@ -355,7 +355,7 @@
     </ul>
 
     <p>
-      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "slow-clap" (2:15), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21), "up to our necks" (5:5).
+      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21), "up to our necks" (5:5).
       And "ranked" (4:2) also now carries an additional modern slant of disdain.
     </p>
 
