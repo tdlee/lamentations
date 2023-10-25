@@ -97,6 +97,10 @@
 
     <ul>
       <li>
+	The entire "look"/"notice" thread.
+        And although at 3:1 this version was unable to incorporate the original "looked at (known, experienced) affliction", its threefold "I/me" opening seems to demand visual gesture to command an audience to look and notice.
+      </li>
+      <li>
         4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
       </li>
       <li>
