@@ -178,16 +178,19 @@
       <em>(t.b.c.)</em>
     </p>
 
-    <h2>Structure</h2>
+    <h2>Chiastic structures</h2>
 
     <p>
-      Across the text as a whole,
-      a less obvious but nevertheless potentially important feature
-      is some resonance, both thematic and lingistic,
-      between the outermost chapters, 1&nbsp;and&nbsp;5,
-      and, working inwards, their neighouring chapters, 2&nbsp;and&nbsp;4.
-      This provides the five chapters an overall
-      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank"><em>chiastic</em></a> framework: A&nbsp;B&nbsp;C&nbsp;B'&nbsp;A':
+      Across the book, on a variety of scales,
+      an awareness of
+      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank"><em>chiastic</em></a> structure,
+      resembling A&nbsp;B&nbsp;C&nbsp;B'&nbsp;A', is useful.
+    </p>
+
+    <p>
+      There is some resonance, both thematic and lingistic,
+      between the outermost chapters 1&nbsp;and&nbsp;5
+      and, working inwards, their neighouring chapters 2&nbsp;and&nbsp;4.
     </p>
 
     <ul>
@@ -211,10 +214,7 @@
     <p>
       From Assis (2009), which is admittedly rather technical,
       cherry-picking these approachable aspects is thoroughly recommended for exploration.
-    </p>
-
-    <p>
-      These are some themes that appear in one chapter pair (e.g. 2&nbsp;and&nbsp;4)
+      For example there are some themes that appear in one chapter pair (e.g. 2&nbsp;and&nbsp;4)
       but are absent from the other pair (e.g. 1&nbsp;and&nbsp;5).
     </p>
 
@@ -228,8 +228,7 @@
     </ul>
 
     <p>
-      Indeed, an awareness of chiasm throughout is useful on a variety of scales.
-      For example, topping and tailing chapter&nbsp;1 as a contrast:
+      Topping and tailing chapter&nbsp;1 as a contrast:
     </p>
 
     <ul>
@@ -242,7 +241,7 @@
     </ul>
 
     <p>
-      And in chapter&nbsp;2:
+      Chapter&nbsp;2:
     </p>
 
     <ul>
@@ -262,6 +261,33 @@
         &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
       <li>
         2:22: "annihilated" verb to close
+      </li>
+    </ul>
+
+    <p>
+    Chapter&nbsp;3:
+    </p>
+
+    <ul>
+      <li>
+        3:1: Opening self-identification: "I am the man seared&hellip;"
+      </li>
+      <li>
+        &emsp;3:1&ndash;18: grief, complaint<?php Footnote('Section headings adapted from Dobbs-Allsopp (2012), pp.109ff.'); ?>
+      </li>
+      <li>
+        &emsp;&emsp;3:19&ndash;24: towards hope
+      </li>
+      <li>
+        &emsp;&emsp;&emsp;3:25&ndash;39: wisdom
+      </li>
+      <li>
+        &emsp;&emsp;3:40&ndash;47: hope abandoned
+      </li>
+      <li>
+        &emsp;3:48&ndash;63: grief, supplication
+      <li>
+        3:63: Near-closing self-identification: "I am their snide-song".
       </li>
     </ul>
 

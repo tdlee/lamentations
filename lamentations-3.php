@@ -166,7 +166,7 @@
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
-              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 -->
+              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" -->
                 by the rod of his wrath;
             </p>
             <p>
@@ -602,7 +602,7 @@
             </p>
             <p>
               You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
-                I am their snide-song.<?php Footnote($fn2); ?>
+                I am their snide-song.<?php Footnote($fn2); ?><!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
