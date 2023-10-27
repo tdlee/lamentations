@@ -181,11 +181,14 @@
     <h2>Chiastic structures</h2>
 
     <p>
-      Across the book, on a variety of scales,
+      On a variety of scales,
       an awareness of
-      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank"><em>chiastic</em></a> structure,
+      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank">chiastic structure</a>,
       resembling A&nbsp;B&nbsp;C&nbsp;B'&nbsp;A', is useful.
+      Its consideration could provide a bearing on set design or other aspects of staging and production.
     </p>
+
+    <h3>Across the book</h3>
 
     <p>
       There is some resonance, both thematic and lingistic,
@@ -226,6 +229,18 @@
         1 and 5: Widowhood; comparison with past ("days of old"); weeping over desolation; feeling of pain and loss; mourning; "no rest"; loss of independence and its leading to servitude; shame and loss of dignity; economic distress
       </li>
     </ul>
+
+    <p>
+      A further example occurs almost at the extremes of the book.
+      If one regards the closing four verses 5:19&ndash;22 as an epilogue,
+      so the formal close is 5:18 rather than 5:22,
+      then one has the opening
+      <em>"Alone she lies: the city once great with people"</em> (1:1)
+      returning and reflected in the closing
+      <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
+    </p>
+
+    <h3>Within chapters</h3>
 
     <p>
       Topping and tailing chapter&nbsp;1 as a contrast:
@@ -290,20 +305,6 @@
         3:63: Near-closing self-identification: "I am their snide-song".
       </li>
     </ul>
-
-    <p>
-      A further specific example of this mirror-like chiastic structure occurs almost at the extremes of the book.
-      If one regards the closing four verses 5:19&ndash;22 as an epilogue,
-      so the formal close is 5:18 rather than 5:22,
-      then one has the opening
-      <em>"Alone she lies: the city once great with people"</em> (1:1)
-      returning and reflected in the closing
-      <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
-    </p>
-
-    <p>
-      Consideration of these more hidden features might provide a bearing on set design or other aspects of staging and production.
-    </p>
 
     <h2>Some random details</h2>
 
