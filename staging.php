@@ -145,7 +145,7 @@
         Chapter&nbsp;2: "ground" thread; "pour" thread.
       </li>
       <li>
-        Chapter&nbsp;4: "disgorge" thread.
+        Chapter&nbsp;4: "disgorge" thread (a continuation of chapter&nbsp;2's "pour" thread)
       </li>
       <li>
         Biblical poetry often refers to "hand" and "face".
