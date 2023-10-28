@@ -48,7 +48,7 @@
       And this translation emphasises this inherent, structural poetry as a defining characteristic.
       Certainly, the acrostic, including its "A" and "Z" endpoints, is key.
       Equally key is the underlying rhythm:
-      that incessantly driving 3&ndash;2 'qinah' pulse of the first four chapters.
+      that incessantly driving 3&ndash;2 <em>qinah</em> pulse of the first four chapters.
       To the best of my knowledge no other translation of Lamentations has both.
     </p>
 
@@ -298,7 +298,7 @@
 
     <p>
       Most biblical scholarship is agreed beyond reasonable doubt
-      that the 3&ndash;2 qinah beat is prevalent in the first four chapters.
+      that the 3&ndash;2 <em>qinah</em> beat is prevalent in the first four chapters.
       But there is lively debate about particular details in particular verses.
     </p>
 
@@ -312,9 +312,9 @@
 
     <p>
       Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
-      In view of that, I simply endeavour to use qinah as consistently as possible in these chapters.
+      In view of that, I simply endeavour to use <em>qinah</em> as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-qinah, often 3&ndash;3.
+      where there is reasonable agreement that its rhythm is mostly non-<em>qinah</em>, often 3&ndash;3.
     </p>
 
     <h2>Inclusive language</h2>
