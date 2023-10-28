@@ -94,7 +94,7 @@
             <p>
               Alas!<?php Footnote($fn); ?> The gold, now dulled;<br>
               &emsp;finest gold tarnished!<br>
-              the holy stones<?php Footnote($fn2); ?> lie disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
+              the holy stones<?php Footnote($fn2); ?> disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
               &emsp;on every street corner.
             </p>
           </div><!-- poem__versetext -->
