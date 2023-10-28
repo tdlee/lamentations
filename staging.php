@@ -170,16 +170,36 @@
     <h2>Characterisation and voicing</h2>
 
     <p>
+      In this translation of <cite>Lamentations</cite>
+      we resist the temptation to delve too far into
+      what interpretation any individual stage production might bring.
+      Nevertheless it seems worth mentioning that throughout the Dobbs-Allsopp (2012) commentary
+      there are some very useful thoughts about not only characters
+      and possible motivations and thoughts, but also groups.
+      For example:
+    </p>
+
+    <ul>
+    <li>
+      Chorus: While chapter&nbsp;4 is mostly narration,
+      nevertheless it is about various groups of people.
+      Then at v17 a chorus "we" speaks up.<?php
+        Footnote('Dobbs-Allsopp (2012), pp.134&ndash;137: "<em>Excursus</em>: The Choral Lyric".');
+      ?>
+    </li>
+
+    <li>
       In chapter&nbsp;2, although Daughter Zion's speech at the end is short, just three verses 20&ndash;22,
       it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
       One might then imagine her turning on her heels and walking way,
       now narrator-like, with falling voice:
       "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
-    </p>
+    </li>
 
-    <p>
+    <li>
       <em>(t.b.c.)</em>
-    </p>
+    </li>
+    </ul>
 
     <h2>Chiastic structures</h2>
 
