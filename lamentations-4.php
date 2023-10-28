@@ -332,7 +332,7 @@
 >
             <p>
             <?php
-              $fnface1='Very few English translations capture this verse\'s double use of "face" in the Hebrew.  Young\'s Literal Translation is a notable exception. The Hebrew even reinforces this aspect by opening both couplets with "face":  "[The] face&hellip; [the] faces&hellip;". In this version, alas, the acrostic constraint doesn\'t allow for that, so we instead position that repetition at line-ends';
+              $fnface1='Astonishingly, very few English translations capture this verse\'s double use of "face" in the Hebrew. See the translation notes.';
               $fnface2='"The <span class="yhwh">Lord</span>\'s face" is usually a positive image, and with priestly blessing of favour: Num.&nbsp;6:24&ndash;26. But here his face operates in a hostile fashion; see Goldingay (2022), p.179. It can be his angry face: Lev.&nbsp;26:17; see Berlin (2004), p.102, note&nbsp;\'m\'.';
             ?>
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
