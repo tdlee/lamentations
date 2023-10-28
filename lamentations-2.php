@@ -172,7 +172,7 @@
                 $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
-                $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.';
+                $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
               Drawing his bow like an enemy,<br>
               &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->

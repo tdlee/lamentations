@@ -433,6 +433,15 @@
     </li>
 
     <li>
+      Chapters 2 and 4 share the verb "pour"/"disgorge" as a thread,
+      internal to each and common acoss them,
+      and absent from other chapters.
+      But whereas "pour" suits chapter&nbsp;2 and "disgorge" suits chapter&nbsp;4,
+      neither seems quite right for the other chapter,
+      nor did any other verb seem right for both.
+    </li>
+
+    <li>
       At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
       Other translations variously use "foxes" or "jackals";
       ancient zoological classifications are sometimes ambiguous to us.

@@ -145,6 +145,9 @@
         Chapter&nbsp;2: "ground" thread; "pour" thread.
       </li>
       <li>
+        Chapter&nbsp;4: "disgorge" thread.
+      </li>
+      <li>
         Biblical poetry often refers to "hand" and "face".
         <ul>
           <li>
@@ -229,6 +232,12 @@
         1 and 5: Widowhood; comparison with past ("days of old"); weeping over desolation; feeling of pain and loss; mourning; "no rest"; loss of independence and its leading to servitude; shame and loss of dignity; economic distress
       </li>
     </ul>
+
+    <p>
+      Chapters 2 and 4 are also linked by a common verb "pour", absent from other chapters.
+      As discussed in the <a href="translation-notes.php">translation notes</a>
+      it seemed preferable to represent this as "disgorge" in chapter&nbsp;4.
+    </p>
 
     <p>
       A further example occurs almost at the extremes of the book.

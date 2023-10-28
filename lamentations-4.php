@@ -90,11 +90,12 @@
                 Taken in conjunction with following verse,
                 this metaphor links an increasingly human sequence:
                 "<i>gold</i>", "<i>holy stones</i>", "<i>belov&egrave;d sons &amp; Daughter People</i>".';
+                $fn3='A "disgorge" thread runs through the chapter at vv.1, 11 and 13.  See also the "pour" thread in chapter&nbsp;2.';
             ?>
             <p>
               Alas!<?php Footnote($fn); ?> The gold, now dulled;<br>
               &emsp;finest gold tarnished!<br>
-              the holy stones<?php Footnote($fn2); ?> disgorged<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
+              the holy stones<?php Footnote($fn2); ?> disgorged<?php Footnote($fn3); ?><br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
               &emsp;on every street corner.
             </p>
           </div><!-- poem__versetext -->
