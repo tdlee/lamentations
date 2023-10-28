@@ -175,7 +175,7 @@
                   to Assyria to beg for our bread.
               </p>
               <p>
-                Our ancestors offended and are no more;<br>
+                Our ancestors sinned and are no more;<br>
                   now we, we bear their punishment.
               </p>
             </div><!-- poem__versetext -->
@@ -242,7 +242,7 @@
               </p>
               <p>
                 The crown from our head has toppled:<br>
-                  woe to us; for we have offended.
+                  woe to us; for we have sinned.
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
