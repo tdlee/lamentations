@@ -174,7 +174,7 @@
                 in darkness, no light;
             </p>
             <p>
-              Against me, he turns his hand<br>
+              Against me, he turns his hand<br><!-- 3:3, 5:2: common verb "turn" -->
                 from day-dawn to dusk;<?php Footnote($fn2); ?>
             </p>
 </div><!-- Psalm 23 mouse-hover -->

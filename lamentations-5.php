@@ -71,6 +71,12 @@
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
         Footnote('Wielenga, Bob (2007) <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86, p.69.');
       ?>
+      And textually, although the previous <em>qinah</em> rhythm
+      and sophisticated cross-line and cross-verse enjambment
+      have all but vanished,
+      there are instead the more balanced lines of Hebrew poetry
+      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140.'); ?>
+      the form so emblematic of Bible's highest form of prayer, the Psalms.
     </p>
     <p>
       A further contrast is that this chapter is communal.
@@ -142,7 +148,7 @@
             <div class="poem__verseref">2&ndash;4</div>
             <div class="poem__versetext">
               <p>
-                Our heritage given over to strangers,<br>
+                Our heritage turned over to strangers,<br><!-- 3:3, 5:2: common verb "turn" -->
                   our homes to occupiers.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
@@ -169,7 +175,7 @@
                   to Assyria to beg for our bread.
               </p>
               <p>
-                Our ancestors offended and are no more;<br>
+                Our ancestors sinned and are no more;<br>
                   now we, we bear their punishment.
               </p>
             </div><!-- poem__versetext -->
@@ -236,7 +242,7 @@
               </p>
               <p>
                 The crown from our head has toppled:<br>
-                  woe to us; for we have offended.
+                  woe to us; for we have sinned.
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
