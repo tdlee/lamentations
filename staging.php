@@ -97,7 +97,7 @@
 
     <ul>
       <li>
-	The entire "look"/"notice" thread.
+        The entire "look"/"notice" thread.
         And although at 3:1 this version was unable to incorporate the original "looked at (known, experienced) affliction", its threefold "I/me" opening seems to demand visual gesture to command an audience to look and notice.
       </li>
       <li>
@@ -178,16 +178,22 @@
       <em>(t.b.c.)</em>
     </p>
 
-    <h2>Structure</h2>
+    <h2>Chiastic structures</h2>
 
     <p>
-      Across the text as a whole,
-      a less obvious but nevertheless potentially important feature
-      is some resonance, both thematic and lingistic,
-      between the outermost chapters, 1&nbsp;and&nbsp;5,
-      and, working inwards, their neighouring chapters, 2&nbsp;and&nbsp;4.
-      This provides the five chapters an overall
-      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank"><em>chiastic</em></a> framework: A&nbsp;B&nbsp;C&nbsp;B'&nbsp;A':
+      On a variety of scales,
+      an awareness of
+      <a href="https://en.wikipedia.org/wiki/Chiastic_structure" target="_blank">chiastic structure</a>,
+      resembling A&nbsp;B&nbsp;C&nbsp;B'&nbsp;A', is useful.
+      Its consideration could provide a bearing on set design or other aspects of staging and production.
+    </p>
+
+    <h3>Across the book</h3>
+
+    <p>
+      There is some resonance, both thematic and lingistic,
+      between the outermost chapters 1&nbsp;and&nbsp;5
+      and, working inwards, their neighouring chapters 2&nbsp;and&nbsp;4.
     </p>
 
     <ul>
@@ -211,10 +217,7 @@
     <p>
       From Assis (2009), which is admittedly rather technical,
       cherry-picking these approachable aspects is thoroughly recommended for exploration.
-    </p>
-
-    <p>
-      These are some themes that appear in one chapter pair (e.g. 2&nbsp;and&nbsp;4)
+      For example there are some themes that appear in one chapter pair (e.g. 2&nbsp;and&nbsp;4)
       but are absent from the other pair (e.g. 1&nbsp;and&nbsp;5).
     </p>
 
@@ -228,8 +231,19 @@
     </ul>
 
     <p>
-      Indeed, an awareness of chiasm throughout is useful on a variety of scales.
-      For example, topping and tailing chapter&nbsp;1 as a contrast:
+      A further example occurs almost at the extremes of the book.
+      If one regards the closing four verses 5:19&ndash;22 as an epilogue,
+      so the formal close is 5:18 rather than 5:22,
+      then one has the opening
+      <em>"Alone she lies: the city once great with people"</em> (1:1)
+      returning and reflected in the closing
+      <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
+    </p>
+
+    <h3>Within chapters</h3>
+
+    <p>
+      Topping and tailing chapter&nbsp;1 as a contrast:
     </p>
 
     <ul>
@@ -242,7 +256,7 @@
     </ul>
 
     <p>
-      And in chapter&nbsp;2:
+      Chapter&nbsp;2:
     </p>
 
     <ul>
@@ -266,18 +280,31 @@
     </ul>
 
     <p>
-      A further specific example of this mirror-like chiastic structure occurs almost at the extremes of the book.
-      If one regards the closing four verses 5:19&ndash;22 as an epilogue,
-      so the formal close is 5:18 rather than 5:22,
-      then one has the opening
-      <em>"Alone she lies: the city once great with people"</em> (1:1)
-      returning and reflected in the closing
-      <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
+    Chapter&nbsp;3:
     </p>
 
-    <p>
-      Consideration of these more hidden features might provide a bearing on set design or other aspects of staging and production.
-    </p>
+    <ul>
+      <li>
+        3:1: Opening self-identification: "I am the man seared&hellip;"
+      </li>
+      <li>
+        &emsp;3:1&ndash;18: grief, complaint<?php Footnote('Section headings adapted from Dobbs-Allsopp (2012), pp.109ff.'); ?>
+      </li>
+      <li>
+        &emsp;&emsp;3:19&ndash;24: towards hope
+      </li>
+      <li>
+        &emsp;&emsp;&emsp;3:25&ndash;39: wisdom
+      </li>
+      <li>
+        &emsp;&emsp;3:40&ndash;47: hope abandoned
+      </li>
+      <li>
+        &emsp;3:48&ndash;63: grief, supplication
+      <li>
+        3:63: Near-closing self-identification: "I am their snide-song".
+      </li>
+    </ul>
 
     <h2>Some random details</h2>
 

@@ -104,7 +104,7 @@
       to slow down the reading process
       and to require our closer attention.
       Dissonance thus enters the poetry's message"<?php
-        Footnote('Dobbs-Allsopp (2012), pp.120-121');
+        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121');
       ?>
       at precisely the solitary point where hope is expressed.
       The syntax of this new version attempts to reflect this.
@@ -115,8 +115,8 @@
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
         Footnote('Van Hecke, Pierre J.P. (2002),
           <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
-          <cite>Lamentations 3,1-6: An anti-psalm 23</cite></a>,
-          Scandinavian Journal of the Old Testament, 16:2, 264-282,
+          <cite>Lamentations 3,1&ndash;6: An anti-psalm 23</cite></a>,
+          Scandinavian Journal of the Old Testament, 16:2, 264&ndash;282,
           <a href="https://doi.org/10.1080/09018320210000415" target="_blank">DOI: 10.1080/09018320210000415</a>');
       ?>
       Other commentators extend this reversal further, to v.9 or v.13.<?php
@@ -166,7 +166,7 @@
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
-              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 -->
+              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" -->
                 by the rod of his wrath;
             </p>
             <p>
@@ -602,7 +602,7 @@
             </p>
             <p>
               You notice? Whether seated or rising,<br><!-- "notice" from the look/notice thread -->
-                I am their snide-song.<?php Footnote($fn2); ?>
+                I am their snide-song.<?php Footnote($fn2); ?><!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
