@@ -181,11 +181,22 @@
 
     <ul>
     <li>
-      Chorus: While chapter&nbsp;4 is mostly narration,
+      Chorus (chap.4): While chapter&nbsp;4 is mostly narration,
       nevertheless it is about various groups of people.
       Then at v17 a chorus "we" speaks up.<?php
         Footnote('Dobbs-Allsopp (2012), pp.134&ndash;137: "<em>Excursus</em>: The Choral Lyric".');
       ?>
+    </li>
+
+    <li>
+      Chorus (chap.5): The embryonic chorus at the end of chapter&nbsp;4
+      sets up the full chorus of chapter&nbsp;5.
+      Verses 2&ndash;16 constitute a piling up catalogue of brief but pointed complaints
+      from a wide cross-section of the oppressed people.
+      They are meant to pull us, the passive audience, into the story.
+      So rather than being traditionally staged,
+      consider scattered actors as representatives
+      voicing these verses from <em>within</em> the audience.
     </li>
 
     <li>
