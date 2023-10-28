@@ -442,6 +442,22 @@
     </li>
 
     <li>
+      At 4:16 very few English translations capture this verse's use of "face" in the Hebrew.
+      Even fewer capture its double use.
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>
+      and the <a href="https://biblehub.com/lsv/lamentations/4.htm" target="_blank">Literal Standard Version</a>
+      are two notable exceptions.
+      The Hebrew even reinforces this aspect by opening both couplets with "face":
+      "[The] face&hellip; [the] faces&hellip;".
+      This seems an astonishing omission,
+      as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
+      seems theologically important in the Torah.
+      This version makes sure to include it.<?php
+        Footnote('Alas, the acrostic constraint prevents its use to head the first line, so we instead position that repetition at the line ends.');
+      ?>
+    </li>
+
+    <li>
       At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
       Other translations variously use "foxes" or "jackals";
       ancient zoological classifications are sometimes ambiguous to us.
