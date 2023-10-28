@@ -387,6 +387,11 @@
     </p>
 
     <p>
+      The same verb recurs at 4:21 but now in a sarcastic context,
+      applied to the enemy Daughter Edom.<?php Footnote('Dobbs-Allsopp (2012), p.137.'); ?>
+    </p>
+
+    <p>
       A related point is that the same verb occurs at 3:28,
       and it would be advantageous to preserve this commonality if reasonably possible.
     </p>
