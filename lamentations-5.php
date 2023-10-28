@@ -148,7 +148,7 @@
             <div class="poem__verseref">2&ndash;4</div>
             <div class="poem__versetext">
               <p>
-                Our heritage given over to strangers,<br>
+                Our heritage turned over to strangers,<br><!-- 3:3, 5:2: common verb "turn" -->
                   our homes to occupiers.<!-- 2,3,14,18: qinah -->
               </p>
               <p>
