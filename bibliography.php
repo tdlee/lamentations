@@ -77,6 +77,9 @@
         Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, <?php ISBN("978-0814681541"); ?>
       </li>
       <li>
+        Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch
+      </li>
+      <li>
         Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
       </li>
       <li>

@@ -430,7 +430,7 @@
           is that one of the earliest Hebrew witnesses,
           Dead Sea Scrolls 4QLam,
           itself shows some variation of YHWH/Adonai usage
-          from the authoritative but later Masoretic Text.')
+          from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
       ?>
     </p>
 
