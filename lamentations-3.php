@@ -40,11 +40,11 @@
       and reflect a woman's perspective of the effects of war and siege,
       this poem is strongly masculine in perspective.
       Indeed its opening words would be best translated as "I am the man",
-      from the male-specific Hebrew "geber".<?php
-        Footnote('Contrast the Hebrew "adam" which, rather like the English word "man",
+      from the male-specific Hebrew <em>geber</em>.<?php
+        Footnote('Contrast the Hebrew <em>adam</em> which, rather like the English word "man",
           is not only the male "Adam" in the Gen.2 Adam and Eve creation story,
           but can sometimes be read in gender-inclusive manner
-          as in the "mankind/adam&hellip;male and female [God] created them"
+          as in the "mankind/<em>adam</em>&hellip;male and female [God] created them"
           in the preceding Gen.1 creation story.');
       ?>
       This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
@@ -72,7 +72,7 @@
 
     <p>
       Like the earlier two poems, this can also be seen as being in two primary "voices":
-      an individual "geber" (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
+      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
       Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
       That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
         Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
@@ -356,7 +356,8 @@
                   $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies". Goldingay (2022), p.143.';
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
-                Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb as 1:1 -->
+                <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
+                Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
@@ -425,7 +426,7 @@
               </p>
               <p>
                 Of what shall one living complain;<br><!-- man/geber: vv 1,27,35,39 -->
-                  this man for his sins?<?php Footnote('The first half-verse has Hebrew "adam", the second has "geber". This contrast is preserved here using "one" and "man".'); ?>
+                  this man for his sins?<?php Footnote('The first half-verse has Hebrew <em>adam</em>, the second has <em>geber</em>. This contrast is preserved here using "one" and "man".'); ?>
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->

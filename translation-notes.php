@@ -394,6 +394,19 @@
     <p>
       A related point is that the same verb occurs at 3:28,
       and it would be advantageous to preserve this commonality if reasonably possible.
+      Here, we additionally make use of it as part of the alphabetic acrostic.
+    </p>
+
+    <p>
+      Finally, in a detail overlooked by almost all translations,
+      it occurs almost at the very end, 5:19,
+      "And you, <span class="yhwh">Lord</span>, forever lie enthroned".
+    </p>
+
+    <p>
+      So the verb appears at the beginning (1:1) concerning the city,
+      almost at the centre (3:28) concerning the representative man/<em>geber</em>
+      and almost at the end (5:19) about God himself.
     </p>
 
     <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>

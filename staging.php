@@ -135,6 +135,14 @@
 
     <ul>
       <li>
+        The opening
+        "Alone she lies&hellip;" (1:1)
+        is picked up at the centre
+        "Lie he alone&hellip;"
+        then returns and is reflected in the closing
+        "And you, <span class="yhwh">Lord</span>, forever lie&hellip; (5:19).
+      </li>
+      <li>
         "Notice" and "look" form a running thread across the chapters, often paired.
         See the translation notes for further details.
       </li>
@@ -268,16 +276,6 @@
       Chapters 2 and 4 are also linked by a common verb "pour", absent from other chapters.
       As discussed in the <a href="translation-notes.php">translation notes</a>
       it seemed preferable to represent this as "disgorge" in chapter&nbsp;4.
-    </p>
-
-    <p>
-      A further example occurs almost at the extremes of the book.
-      If one regards the closing four verses 5:19&ndash;22 as an epilogue,
-      so the formal close is 5:18 rather than 5:22,
-      then one has the opening
-      <em>"Alone she lies: the city once great with people"</em> (1:1)
-      returning and reflected in the closing
-      <em>"Mount Zion: lying desolate, the haunt of hyenas"</em> (5:18).
     </p>
 
     <h3>Within chapters</h3>
