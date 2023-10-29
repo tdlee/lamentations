@@ -113,11 +113,7 @@
     <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke, Pierre J.P. (2002),
-          <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
-          <cite>Lamentations 3,1&ndash;6: An anti-psalm 23</cite></a>,
-          Scandinavian Journal of the Old Testament, 16:2, 264&ndash;282,
-          <a href="https://doi.org/10.1080/09018320210000415" target="_blank">DOI: 10.1080/09018320210000415</a>');
+        Footnote('Van Hecke (2002)');
       ?>
       Other commentators extend this reversal further, to v.9 or v.13.<?php
        Footnote('Berlin (2004), p.86 n.4');
@@ -174,7 +170,7 @@
                 in darkness, no light;
             </p>
             <p>
-              Against me, he turns his hand<br>
+              Against me, he turns his hand<br><!-- 3:3, 5:2: common verb "turn" -->
                 from day-dawn to dusk;<?php Footnote($fn2); ?>
             </p>
 </div><!-- Psalm 23 mouse-hover -->

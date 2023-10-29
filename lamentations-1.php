@@ -33,8 +33,7 @@
       but is additionally personified by the hauntingly endearing term "Daughter Zion" and variants such as "Daughter Jerusalem" and "my Daughter People".
       The poems lament not merely an inanimate city;
       the city is a precious daughter, beloved of God.<?php
-          Footnote('Adelman, Rachel (2021).  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a> Shalvi/Hyman Encyclopedia of Jewish Women.');
-          Footnote('Berlin (2004), pp.10&ndash;12');
+          Footnote('Adelman (2021); Berlin (2004), pp.10&ndash;12');
           ?>
       This is set out within the very first verse.
     </p>
