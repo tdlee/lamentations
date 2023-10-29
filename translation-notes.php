@@ -410,7 +410,7 @@
       designed for recitation,
       as Jewish custom avoids saying the Divine Name "YHWH",
       instead saying the other word "Adonai".<?php
-        Footnote('Sometimes "Hashem", "the Name", is pronounced.');
+        Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
       But this Jewish custom at least results a common-sounding word for recitation.
       Some English translations bring into play terms such as "the Lord Almighty".
