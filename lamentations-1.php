@@ -94,10 +94,14 @@
                   This is probably also true of the "Alas!" of the second chapter
                   although probably not of the fourth.  See Goldingay (2022), p.49, note \'c\'.
                   So in these two chapters I have followed this, and also used an additional acrostic "A&hellip;" word following that "Alas!"';
+                $fn3='This verb "lie" runs as a thread through the book.
+                  Here at the start it describes the city;
+                  at almost the centre, 3:28, it describes a representative person;
+                  finally at almost the close, 5:19, it describes God himself.';
               ?>
-              <!-- 1:1, 5:18: quoted in new "staging" -->
+              <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
-              Alone she lies: the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse -->
+              Alone she lies:<?php Footnote($fn3); ?> the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               &emsp;once great with people;<br><!-- "great": 1a,1b,22c -->
               She, once great among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "great": 1a,1b,22c -->
               &emsp;now abandoned, widowed;<br>

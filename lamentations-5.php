@@ -264,8 +264,7 @@
               $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
             ?>
             <p>
-              <!-- 1:1, 5:18: quoted in new "staging" -->
-              for Mount Zion: lying desolate,<br>
+              for Mount Zion: made desolate,<br>
                 the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
             </p>
           </div><!-- poem__versetext -->
@@ -288,12 +287,13 @@
           <div class="poem__versetext">
             <div class="poem--acrostic">
               <p>
-                And you, <span class="yhwh">Lord</span>, your throne shall endure:<br>
+                <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
+                And you, <span class="yhwh">Lord</span>, forever lie enthroned,<br><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   ruling generations eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>
                 Long years, why always forget us?<br>
-                  Why forever forsak<span class="acrostic-letter">e</span>?
+                  Why for all time forsak<span class="acrostic-letter">e</span>?
               </p>
               <p>
                 Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br><!-- 1:7, 5:21: "days of old" -->

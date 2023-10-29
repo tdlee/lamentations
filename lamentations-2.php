@@ -171,14 +171,14 @@
               <?php
                 $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
-                $fn3='The city.  Contrast 6<em>a</em>, a different noun, which refers to the Temple.';
+                $fn3='The city.  Contrast "bivouac", 6<em>a</em>, a different noun, which refers to the Temple.';
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
               Drawing his bow like an enemy,<br>
               &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
-              on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br>
+              on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
               &emsp;has he outpoured.<?php Footnote($fn4); ?><!-- 2:4,11,12,19: same verb -->
             </p>
           </div><!-- poem__versetext -->
@@ -208,10 +208,10 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The Temple, yet here referred to as something flimsy and temporary. See note on 4<em>e</em>.';
+                $fn1='The Temple, yet here referred to as something flimsy and temporary. See note on "tent", 4<em>c</em>.';
                 $fn2='The "like a garden" simile has been perplexing down the centuries, with no settled understanding. In her compact 126&nbsp;page commentary on the whole book, Berlin (2004) devotes over one entire page solely to this one term, briefly laying out a wide range of possibilities. Some sort of resonance with the Garden of Eden is likely, possibly combined with a contrast to Sodom from Gen.13:10: "&hellip;like the garden of the <span class="yhwh">Lord</span>&hellip;before the <span class="yhwh">Lord</span> had destroyed Sodom and Gomorrah".';
               ?>
-              Flattening his bivouac<?php Footnote($fn); ?> like a garden,<?php Footnote($fn2); ?><br>
+              Flattening his bivouac<?php Footnote($fn1); ?> like a garden,<?php Footnote($fn2); ?><br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
               &emsp;he destroyed his own meeting place.<br>
               The <span class="yhwh">Lord</span> has obliterated from Zion<br>
               &emsp;his own feast-day and sabbath;<br>
