@@ -62,10 +62,19 @@
     </p>
     <ul>
       <li>
+        Adelman, Rachel (2021),  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>, Shalvi/Hyman Encyclopedia of Jewish Women
+      </li>
+      <li>
         Assis, Elie (2007), <a href="https://www.researchgate.net/publication/290869814_The_alphabetic_acrostic_in_the_Book_of_Lamentations" target="_blank"><cite>The Alphabetic Acrostic in the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 69,4, pp.710&ndash;724
       </li>
       <li>
         Assis, Elie (2009), <a href="https://www.researchgate.net/publication/290883963_The_Unity_of_the_Book_of_Lamentations" target="_blank"><cite>The Unity of the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 71, pp.306&ndash;329
+      </li>
+      <li>
+        Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>
+      </li>
+      <li>
+        Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, <?php ISBN("978-0814681541"); ?>
       </li>
       <li>
         Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
@@ -74,7 +83,14 @@
         Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">DOI: 10.1177/030908920402900104</a>
       </li>
       <li>
-        Various items mentioned in relevant footnotes at their point of use
+        Van Hecke, Pierre J.P. (2002),
+          <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
+          <cite>Lamentations 3,1&ndash;6: An anti-psalm 23</cite></a>,
+          Scandinavian Journal of the Old Testament, 16:2, 264&ndash;282,
+          <a href="https://doi.org/10.1080/09018320210000415" target="_blank">DOI: 10.1080/09018320210000415</a>
+      </li>
+      <li>
+        Wielenga, Bob (2007), <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86
       </li>
     </ul>
 
