@@ -396,10 +396,9 @@
       and it would be advantageous to preserve this commonality if reasonably possible.
     </p>
 
-    <h3>Other examples</h3>
+    <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>
 
-    <ul>
-    <li>
+    <p>
       Most English translations face the issue of representing
       two closely related but different Hebrew words that name God:
       "YHWH" and "Adonai".
@@ -410,28 +409,34 @@
       designed for recitation,
       as Jewish custom avoids saying the Divine Name "YHWH",
       instead saying the other word "Adonai".<?php
-        Footnote('Sometimes "Hashem", "the Name", is pronounced.');
+        Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
       But this Jewish custom at least results a common-sounding word for recitation.
       Some English translations bring into play terms such as "the Lord Almighty".
       Again, this long-windedness is unsatisfactory for a version
       which must translate in as compact and concise a manner as possible.
+    </p>
+
+    <p>
       The net result here
-      is adopting the usual present-day practice of writing, respectively,
-      "<span class='yhwh'>Lord</span>" (small capitals) and "Lord" (normal case).
+      is firstly to adopt the usual present-day practice of writing
+      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals) and "Adonai" as "Lord" (normal case).
       And because "Adonai" generally appears in a grammatically possessive context
       (the underlying noun being "Adon"),
-      it is here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
+      it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
       so that the subtle written difference is also audibly present in recitation.<?php
         Footnote('"Much Ado about Nothing"?
           Reducing further the concern about such detail
           is that one of the earliest Hebrew witnesses,
           Dead Sea Scrolls 4QLam,
           itself shows some variation of YHWH/Adonai usage
-          from the authoritative but later Masoretic Text.')
+          from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
       ?>
-    </li>
+    </p>
 
+    <h3>Other examples</h3>
+
+    <ul>
     <li>
       Chapters 2 and 4 share the verb "pour"/"disgorge" as a thread,
       internal to each and common acoss them,
