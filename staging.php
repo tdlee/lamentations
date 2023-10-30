@@ -111,7 +111,7 @@
     <h2>Recitation</h2>
 
     <p>
-      The 3&ndash;2 <em>qinah</em> pulse is vital to the first four chapters.
+      The 3&ndash;2 <i>qinah</i> pulse is vital to the first four chapters.
       Readers or cast members who have ever performed the iambic pentameter of Shakespeare
       should have little trouble in quickly picking this up.
       Even the differences in how the weak syllabes work
@@ -123,7 +123,7 @@
     </p>
 
     <p>
-      And in the final chapter, where <em>qinah</em> is largely absent,
+      And in the final chapter, where <i>qinah</i> is largely absent,
       although not entirely so,
       the rhythmic pulse can still be used.
     </p>
@@ -405,7 +405,7 @@
       <a href="https://cairn.edu/faculty/brian-toews/" target="_blank">Brian Toews</a> of Cairn University (at the time called Philadelphia College of Bible)
       had already staged it with and for his students in their coursework.
       He used the traditional Authorised (King James) text.
-      So, of course, no acrostics; no <em>qinah</em>.
+      So, of course, no acrostics; no <i>qinah</i>.
       For the theatrically minded,
       his script with stage directions
       and his subsequent report to a conference through Asbury Seminary are worth reading:

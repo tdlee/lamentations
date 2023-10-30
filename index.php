@@ -29,7 +29,7 @@
     ?>
 
     <p>
-      In brief: Alphabetic acrostics. And rhythmical 'qinah'.
+      In brief: Alphabetic acrostics. And rhythmical <i>qinah</i>.
     </p>
 
     <p>
@@ -184,7 +184,7 @@
     Lamentations also has the acrostic, discarded in most translations.
     But perhaps even more important,
     and also jettisoned in most translations,
-    is a forceful, angst-driven rhythm, known as 'qinah'.<?php
+    is a forceful, angst-driven rhythm, known as <i>qinah</i>.<?php
       Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  Middlemas (2021) discusses both: p.2 (large-scale genre), pp.22&ndash;23 (rhythm) and p.33 (their interaction). In our context, we use the rhythmic meaning.');
     ?>
     </p>

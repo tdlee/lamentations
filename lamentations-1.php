@@ -88,7 +88,7 @@
             <p>
               <?php
                 $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
-                $fn2='Despite the importance of the overall 3&ndash;2 <em>qinah</em> metre,
+                $fn2='Despite the importance of the overall 3&ndash;2 <i>qinah</i> metre,
                   the opening "Alas!" is probably a preamble \'anacrusis\',
                   external to that metre (i.e. 4&ndash;2).
                   This is probably also true of the "Alas!" of the second chapter
@@ -316,7 +316,7 @@
             <p>
               <?php
                 $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
-                $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 qinah is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
+                $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
               &emsp;bound tight by his hand<br>

@@ -48,7 +48,7 @@
       And this translation emphasises this inherent, structural poetry as a defining characteristic.
       Certainly, the acrostic, including its "A" and "Z" endpoints, is key.
       Equally key is the underlying rhythm:
-      that incessantly driving 3&ndash;2 <em>qinah</em> pulse of the first four chapters.
+      that incessantly driving 3&ndash;2 <i>qinah</i> pulse of the first four chapters.
       To the best of my knowledge no other translation of Lamentations has both.
     </p>
 
@@ -322,8 +322,8 @@
       Sadly, triple constraints
       conspire to put its incorporation beyond reach:
       the acrostic (which tended to expand the line),
-      the <em>qinah</em> rhythm (which needs to constrain the line)
-      and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<em>qinah</em>.'); ?>
+      the <i>qinah</i> rhythm (which needs to constrain the line)
+      and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<i>qinah</i>.'); ?>
       Also, the Hebrew verb carries the additional nuance of "to experience, know",
       important to this instance of its use.<?php Footnote('Dobbs-Allsopp (2012), p.111.'); ?>
     </p>
@@ -342,7 +342,7 @@
 
     <p>
       Most biblical scholarship is agreed beyond reasonable doubt
-      that the 3&ndash;2 <em>qinah</em> beat is prevalent in the first four chapters.
+      that the 3&ndash;2 <i>qinah</i> beat is prevalent in the first four chapters.
       But there is lively debate about particular details in particular verses.
     </p>
 
@@ -356,9 +356,9 @@
 
     <p>
       Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
-      In view of that, I simply endeavour to use <em>qinah</em> as consistently as possible in these chapters.
+      In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-<em>qinah</em>, often 3&ndash;3.
+      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
     </p>
 
     <h2>Word choices</h2>
