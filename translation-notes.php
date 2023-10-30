@@ -46,7 +46,7 @@
     <p>
       That creates a tension here in Lamentations, which is strongly poetic.
       And this translation emphasises this inherent, structural poetry as a defining characteristic.
-      Certainly, the acrostic, including its "A" and "Z" endpoints, is key.
+      Certainly, the acrostic, including its 'A' and 'Z' endpoints, is key.
       Equally key is the underlying rhythm:
       that incessantly driving 3&ndash;2 <em>qinah</em> pulse of the first four chapters.
       To the best of my knowledge no other translation of Lamentations has both.
@@ -99,14 +99,14 @@
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
-      A case in point is 1:7 whose first line requires an opening "G" word.
+      A case in point is 1:7 whose first line requires an opening 'G' word.
       A workable solution is to switch its first and second lines,
       allowing for "goodly treasures" to begin the verse.
     </p>
 
     <p>
       But a chapter later at 2:7 a similar problem arises,
-      and also, as it happens, with a "G" verse.
+      and also, as it happens, with a 'G' verse.
       Here, too, a similar line-swap solution offered itself.
       This was tempting.
       But other factors argued against its adoption,
@@ -115,7 +115,7 @@
     </p>
 
     <p>
-      The acrostic use of "Z" for the final stanza of the first four poems
+      The acrostic use of 'Z' for the final stanza of the first four poems
       is an interesting challenge, as there are so few such English words
       in regular use.
       The third poem in particular requires the use of three such words.
@@ -128,9 +128,9 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as "g" is the seventh, not ninth, letter in our alphabet.
-      We need an "I" word that is reasonably synonymous with "good".<?php
-        Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to "J" or even "K".  But the smaller number of such words would only have made the problem harder, not easier.');
+      as 'G' is the seventh, not ninth, letter in our alphabet.
+      We need an 'I' word that is reasonably synonymous with "good".<?php
+        Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to \'J\' or even \'K\'.  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
       "Irreproachable" seems a reasonable choice, with not too much semantic compromise,
       although its five syllables rather than one pull against our desired linguistic compactness.
@@ -140,7 +140,7 @@
       In the triple acrostic at 3:43&ndash;45
       the first two verses have noticeably similar structures,
       both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
-      At this point we need an "R" word, but there is no readily apparent such verb,
+      At this point we need an 'R' word, but there is no readily apparent such verb,
       nor is there another word suitably shareable across them both.
       So the unusual, but clear "re-cloak" was used.
       While its "re-" prefix suggests a concept of recurrence
@@ -172,7 +172,7 @@
       Other English verbs would have been candidates: "see", "behold", "observe" etc.
       But our acrostic requirement drives the choice,
       particularly at 1:12,
-      which has to be at, or very close to, alphabetic 'n'.
+      which has to be at, or very close to, alphabetic 'N'.
       A typical good, but non-acrostic translation is the <abbr title="New Revised Standard Version">NRSV</abbr>:
     </p>
 
@@ -200,11 +200,11 @@
     </div>
 
     <p>
-      The obvious acrostic-leading 'n'-word would be that "nothing" in the first part of the first couplet.
+      The obvious acrostic-leading 'N'-word would be that "nothing" in the first part of the first couplet.
       Despite that, there seems no decent, readable means to re-organise the couplet
       to start with "<span class="acrostic-letter">N</span>othing&hellip;" or similar.
       But its second part is "look and see".
-      This would allow the 'n'-word "<span class="acrostic-letter">N</span>otice"
+      This would allow the 'N'-word "<span class="acrostic-letter">N</span>otice"
       and presents a possible way forward:
     </p>
 
@@ -285,7 +285,7 @@
     </p>
 
     <p>
-      But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.<?php
+      But driving all that was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
       ?>
     </p>
