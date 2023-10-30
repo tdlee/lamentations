@@ -62,8 +62,8 @@
       The alphabetic acrostic of the first four chapters,
       and its absence in the last,
       is an essential foundation.
-      Some way of presenting it is vital;
-      perhaps an obvious one is projecting the letters onto a screen.
+      This works visually: seeing the passing alphabet is vital.
+      Perhaps an obvious method is projecting the letters onto a screen.
       I was re-assured to discover that this is also what a forerunner did: see below.
       In his case (which was a univeristy biblical studies course)
       he was able to use the Hebrew alphabet.
