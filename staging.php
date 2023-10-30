@@ -136,11 +136,11 @@
     <ul>
       <li>
         The opening
-        "Alone she lies&hellip;" (1:1)
+        "Alone she sits&hellip;" (1:1)
         is picked up at the centre
-        "Lie he alone&hellip;"
+        "Lonesome let him sit&hellip;"
         then returns and is reflected in the closing
-        "And you, <span class="yhwh">Lord</span>, forever lie&hellip; (5:19).
+        "And you, <span class="yhwh">Lord</span>, sit forever&hellip;" (5:19).
       </li>
       <li>
         "Notice" and "look" form a running thread across the chapters, often paired.

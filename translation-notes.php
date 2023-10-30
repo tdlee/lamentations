@@ -58,6 +58,51 @@
 
     <h2>Guiding principles</h2>
 
+    <!-- panel -->
+    <div class="sidebar__right--width-28em">
+      <div class="panel">
+        <div class="panel__head">
+          A personal note
+        </div>
+        <p>
+          As readers we inevitably import, subconsciously or otherwise,
+          our own perspectives. These influence our interpretation.
+          The same applies to translators.
+          <span lang="it"><em>Traduttore, traditore</em></span>:
+          "To translate is to betray [some aspect of the original]."
+        </p>
+        <p>
+          My own background, hence implicit perspective,
+          is rooted in lifelong Christian faith,
+          and towards the evangelical
+          region of that range
+          (although at arm's length from some of fundamentalism's excesses).
+          When my Christian hymn-writing
+          turns to setting of the pre-Christian psalms,
+          there I further had to learn the importance
+          of reading such Old Testament texts
+          with their pre-Christian original intent,
+          and to be alert to potential imposition of
+          our subsequent Christian theology.
+        </p>
+        <p>
+          In preparing this version of Lamentations,
+          I have very consciously attempted to avoid imposing
+          any Christian colouration over the text.
+        </p>
+        <p>
+          I also have no knowledge whatsover of the Hebrew language.
+          So this has been a crash course in at least becoming aware of
+          various linguistic features usually little considered by
+          lay readers of English:
+          concepts such as "precative perfect" which so influences, for instance, 3:55&ndash;63,
+          and terms such as <em>qatal</em> and <em>yiqtol</em>.
+        </p>
+
+      </div><!-- "panel" -->
+    </div><!-- "sidebar" -->
+    <!-- panel -->
+
     <p>
       The alphabetic acrostic is central.  The rhythm is central.
       But what about the text?
@@ -81,8 +126,7 @@
 
     <p>
       Both Hebrew and English use metaphor.
-      Where reasonably possible, this is conveyed,
-      although achieving it sometimes requires substitution.
+      Where reasonably possible, this is conveyed.
     </p>
 
     <p>
@@ -363,50 +407,67 @@
       Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
     </p>
 
-    <h3>Word choices: a worked example</h3>
+    <h3>Sit/lodge/lie: a worked example</h3>
 
     <p>
-      The very first line, 1:1,  "Alas! Alone she lies: the city" demonstrates substitution.
-      The original verb is more literally "sits",
-      and most prose-oriented English translations use this.
-      But in English, we tend to think of such a city as "lying desolate" rather than "sitting desolate".  For us, "lie" is a better poetic metaphor than "sits".
-      Further, and more subtly, the same verb is used a little later in the middle of v.3.  This would be "&hellip;sits among the nations".
-      But again, that doesn't really work in English.  Yet neither would "&hellip;lies among the nations".
+      The very first line "[Alas!] Alone she sits:&hellip;" ignites a translational ambiguity in vocabulary.
+      The original verb may be legitimately represented as 'sit', 'abide', 'lodge', 'reside' or 'lie'.
+      But no single English verb naturally embraces this range.
+      From the very start of this version, I had opted for "Alone she lies"
+      (a) reasoning (with hindsight, weakly) that in English
+      we tend to think of a city as "lying" rather than "sitting" in a landscape
+      and (b) liking the alone/lies alliteration.
+      But almost immediately at 1:3 a problem arose
+      in describing the exiled, deported populace
+      which would be "she lies [among the nations]".
+      So I used a different but nonetheless alliterative verb "she lodges [among the nations]".
+      I left it at that, having become perhaps over-attached to 1:1 'lies',
+      and despite knowing full well the importance of poetic resonance
+      across the text as a word recurs in different contexts.
     </p>
 
     <p>
-      Part of the problem is that the original "sits" has an additional shade of meaning that can incorporate something like "dwells" or "resides".
-      And the two uses here allow one common Hebrew verb to express both ideas.
-      But no single English verb captures this.
+      A long time later, I began to notice that same Hebrew verb
+      (although often obscured in existing English translations)
+      recurring elsewhere, particularly:
+    </p>
+
+    <ul>
+      <li>
+        3:28: at almost the centre of the book, applied to the man/<em>geber</em><?php Footnote ('Goldingay (2022), p.143.'); ?>
+        which suggests a posture of 'sitting' rather than 'lying'
+      </li>
+      <li>
+        4:21: applied in a sarcastic context to the enemy Daughter Edom<?php Footnote('Dobbs-Allsopp (2012), p.137.'); ?>
+      </li>
+      <li>
+        5:19: at almost the very end,
+        and in a repetition and implied resonance
+        astonishingly overlooked by almost all translations,
+        applied to God himself, where a late revision specifically to handle this
+        was about to become
+        "And you, <span class="yhwh">Lord</span>, forever lie [enthroned]".
+      </li>
+    </ul>
+
+    <p>
+      Surely this threaded repetition of 'lie'
+      was intentional by the author(s) and editor(s).
+      While translation inevitably forces some compromises in some places,
+      this instance seems too important to fudge,
+      particularly in our avowedly poetically-driven framework.
     </p>
 
     <p>
-      So in v.3, I use "lodges among the nations".
-      While I am now using two different verbs where the original has one common verb,
-      nevertheless the pairing of "lies" and "lodges" lends alliterative commonality and association.
+      But in this 5:19 case, I immediately realised that
+      in saying of God that he "forever lies"
+      creates a new problem of ambiguity,
+      this time within English: "God forever [tells] lies".
+      However unintentional, this would clearly be unsatisfactory!
     </p>
 
     <p>
-      The same verb recurs at 4:21 but now in a sarcastic context,
-      applied to the enemy Daughter Edom.<?php Footnote('Dobbs-Allsopp (2012), p.137.'); ?>
-    </p>
-
-    <p>
-      A related point is that the same verb occurs at 3:28,
-      and it would be advantageous to preserve this commonality if reasonably possible.
-      Here, we additionally make use of it as part of the alphabetic acrostic.
-    </p>
-
-    <p>
-      Finally, in a detail overlooked by almost all translations,
-      it occurs almost at the very end, 5:19,
-      "And you, <span class="yhwh">Lord</span>, forever lie enthroned".
-    </p>
-
-    <p>
-      So the verb appears at the beginning (1:1) concerning the city,
-      almost at the centre (3:28) concerning the representative man/<em>geber</em>
-      and almost at the end (5:19) about God himself.
+      As a result, I reworked the verb across the text to become 'sit'.
     </p>
 
     <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>

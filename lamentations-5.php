@@ -288,7 +288,7 @@
             <div class="poem--acrostic">
               <p>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                And you, <span class="yhwh">Lord</span>, forever lie enthroned,<br><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                And you, <span class="yhwh">Lord</span>, sit forever enthroned,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   ruling generations eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>
