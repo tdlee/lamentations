@@ -404,7 +404,7 @@
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
             <?php
-              $fn1='While "Daughter Zion" is clearly a term of endearment, by contrast "Daughter Edom", for Zion\'s enemy, can, and probably should, be read with a sarcastic twist.  (See also Is.&nbsp;47 "Daughter Babylon".) Berlin (2004) p.113; Dobbs-Allsopp (2012), p.137.';
+              $fn1='While "Daughter Zion" is clearly a term of endearment, by contrast "Daughter Edom", for Zion\'s enemy, can, and probably should, be read with a sarcastic twist.  Berlin (2004) p.113; Dobbs-Allsopp (2012), p.137.';
               $fn2='Same verb as for Daughter Zion at the 1:1 opening of the book, now coming full circle to describe the unsuspecting fate of the enemy.';
               $fn3='See also Jer.&nbsp;25:15&ndash;29 for this imagery, where Edom and Uz are included.';
             ?>
