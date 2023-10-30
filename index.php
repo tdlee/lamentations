@@ -349,7 +349,7 @@
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
     "A&nbsp;to&nbsp;Z" sense of totality:<?php
-      Footnote('van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2, pp.513&ndash;532.');
+      Footnote('van der Spuy (2008), pp.513&ndash;532.');
     ?>
     in the case of the people of Lamentations, the totality of the destruction of their beloved Jerusalem;
     the <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
@@ -371,7 +371,7 @@
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
     but the poet exploits this pattern for expressive emphasis."</i><?php
-      Footnote('Alter, Robert (2019), p.657');
+      Footnote('Alter (2019), p.657.');
     ?>
     </p>
 

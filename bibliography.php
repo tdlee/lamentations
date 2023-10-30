@@ -86,6 +86,9 @@
         Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">DOI: 10.1177/030908920402900104</a>
       </li>
       <li>
+        van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
+      </li>
+      <li>
         Van Hecke, Pierre J.P. (2002),
           <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
           <cite>Lamentations 3,1&ndash;6: An anti-psalm 23</cite></a>,
