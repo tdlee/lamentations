@@ -58,6 +58,51 @@
 
     <h2>Guiding principles</h2>
 
+    <!-- panel -->
+    <div class="sidebar__right--width-28em">
+      <div class="panel">
+        <div class="panel__head">
+          A personal note
+        </div>
+        <p>
+          As readers we inevitably import, subconsciously or otherwise,
+          our own perspectives. These influence our interpretation.
+          The same applies to translators.
+          <span lang="it"><em>Traduttore, traditore</em></span>:
+          "To translate is to betray [some aspect of the original]."
+        </p>
+        <p>
+          My own background, hence implicit perspective,
+          is rooted in lifelong Christian faith,
+          and towards the evangelical
+          region of that range
+          (although at arm's length from some of fundamentalism's excesses).
+          When my Christian hymn-writing
+          turns to setting of the pre-Christian psalms,
+          there I further had to learn the importance
+          of reading such Old Testament texts
+          with their pre-Christian original intent,
+          and to be alert to potential imposition of
+          our subsequent Christian theology.
+        </p>
+        <p>
+          In preparing this version of Lamentations,
+          I have very consciously attempted to avoid imposing
+          any Christian colouration over the text.
+        </p>
+        <p>
+          I also have no knowledge whatsover of the Hebrew language.
+          So this has been a crash course in at least becoming aware of
+          various linguistic features usually little considered by
+          lay readers of English:
+          concepts such as "precative perfect" which so influences, for instance, 3:55&ndash;63,
+          and terms such as <em>qatal</em> and <em>yiqtol</em>.
+        </p>
+
+      </div><!-- "panel" -->
+    </div><!-- "sidebar" -->
+    <!-- panel -->
+
     <p>
       The alphabetic acrostic is central.  The rhythm is central.
       But what about the text?
