@@ -71,7 +71,7 @@
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
         Footnote('Wielenga (2007), p.69');
       ?>
-      And textually, although the previous <em>qinah</em> rhythm
+      And textually, although the previous <i>qinah</i> rhythm
       and sophisticated cross-line and cross-verse enjambment
       have all but vanished,
       there are instead the more balanced lines of Hebrew poetry
