@@ -410,7 +410,7 @@
             ?>
             <p>
               You rejoice; you gloat, Daughter Edom:<?php Footnote($fn1); ?><br>
-              &emsp;lie<?php Footnote($fn2); ?> basking in Uz;<br><!-- same verb as 1:1 -->
+              &emsp;sit<?php Footnote($fn2); ?> basking in Uz;<br><!-- same verb as 1:1 -->
               but to you, too, the chalice shall pass&mdash;<br>
               &emsp;to you, boozed and debauched.<?php Footnote($fn3); ?>
             </p>

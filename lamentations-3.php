@@ -353,11 +353,11 @@
             <div class="poem__versetext">
               <p>
                 <?php
-                  $fn='"Lie" is the same verb as 1:1&mdash;"Alone she lies". Goldingay (2022), p.143.';
+                  $fn1='"Sit" is the same verb as 1:1&mdash;"Alone she sits". Goldingay (2022), p.143.';
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                Lie he alone and in silence<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                Lonesome let him sit and in silence<?php Footnote($fn1); ?><?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
