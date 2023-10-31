@@ -137,6 +137,33 @@
       an unavoidable loss of detail in one place
       may be compensated by an introduced poetic expression in another place.
 
+    <h2>Qinah</h2>
+
+    <p>
+      <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
+    </p>
+
+    <p>
+      Most biblical scholarship is agreed beyond reasonable doubt
+      that the 3&ndash;2 <i>qinah</i> beat is prevalent in the first four chapters.
+      But there is lively debate about particular details in particular verses.
+    </p>
+
+    <p>
+      For example, the opening "Alas!" verse of the first chapter,
+      and probably also of the second, may be seen as 4&ndash;2.
+      Accordingly some of the rhythmically alert translations
+      set that single-beat "Alas!" as a separate anacrusis.
+      This version, too, adopts that practice.
+    </p>
+
+    <p>
+      Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
+      In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
+      This also helps highlight the contrast on entering chapter&nbsp;5,
+      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
+    </p>
+
     <h2>Acrostic challenges</h2>
 
     <p>
@@ -332,33 +359,6 @@
       But driving all that was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
       ?>
-    </p>
-
-    <h2>Qinah</h2>
-
-    <p>
-      <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
-    </p>
-
-    <p>
-      Most biblical scholarship is agreed beyond reasonable doubt
-      that the 3&ndash;2 <i>qinah</i> beat is prevalent in the first four chapters.
-      But there is lively debate about particular details in particular verses.
-    </p>
-
-    <p>
-      For example, the opening "Alas!" verse of the first chapter,
-      and probably also of the second, may be seen as 4&ndash;2.
-      Accordingly some of the rhythmically alert translations
-      set that single-beat "Alas!" as a separate anacrusis.
-      This version, too, adopts that practice.
-    </p>
-
-    <p>
-      Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
-      In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
-      This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
