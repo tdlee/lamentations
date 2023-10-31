@@ -424,43 +424,6 @@
       As a result, I reworked the verb across the text to become 'sit'.
     </p>
 
-    <h3>Other examples</h3>
-
-    <ul>
-    <li>
-      Chapters 2 and 4 share the verb "pour"/"disgorge" as a thread,
-      internal to each and common acoss them,
-      and absent from other chapters.
-      But whereas "pour" suits chapter&nbsp;2 and "disgorge" suits chapter&nbsp;4,
-      neither seems quite right for the other chapter,
-      nor did any other verb seem right for both.
-    </li>
-
-    <li>
-      At 4:16 very few English translations capture this verse's use of "face" in the Hebrew.
-      Even fewer capture its double use.
-      <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>
-      and the <a href="https://biblehub.com/lsv/lamentations/4.htm" target="_blank">Literal Standard Version</a>
-      are two notable exceptions.
-      The Hebrew even reinforces this aspect by opening both couplets with "face":
-      "[The] face&hellip; [the] faces&hellip;".
-      This seems an astonishing omission,
-      as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
-      seems theologically important in the Torah.
-      This version makes sure to include it.<?php
-        Footnote('Alas, the acrostic constraint prevents its use to head the first line, so we instead position that repetition at the line ends.');
-      ?>
-    </li>
-
-    <li>
-      At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
-      Other translations variously use "foxes" or "jackals";
-      ancient zoological classifications are sometimes ambiguous to us.
-      Here, I use "haunt of hyenas", which maintains the broad zoological classification
-      and allows the use of a suitably unsettling alliterative expression.
-    </li>
-    </ul>
-
     <h2>Word choices</h2>
 
     <p>
@@ -527,6 +490,43 @@
           from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
       ?>
     </p>
+
+    <h3>Other examples</h3>
+
+    <ul>
+    <li>
+      Chapters 2 and 4 share the verb "pour"/"disgorge" as a thread,
+      internal to each and common acoss them,
+      and absent from other chapters.
+      But whereas "pour" suits chapter&nbsp;2 and "disgorge" suits chapter&nbsp;4,
+      neither seems quite right for the other chapter,
+      nor did any other verb seem right for both.
+    </li>
+
+    <li>
+      At 4:16 very few English translations capture this verse's use of "face" in the Hebrew.
+      Even fewer capture its double use.
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>
+      and the <a href="https://biblehub.com/lsv/lamentations/4.htm" target="_blank">Literal Standard Version</a>
+      are two notable exceptions.
+      The Hebrew even reinforces this aspect by opening both couplets with "face":
+      "[The] face&hellip; [the] faces&hellip;".
+      This seems an astonishing omission,
+      as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
+      seems theologically important in the Torah.
+      This version makes sure to include it.<?php
+        Footnote('Alas, the acrostic constraint prevents its use to head the first line, so we instead position that repetition at the line ends.');
+      ?>
+    </li>
+
+    <li>
+      At 5:18, desolate Zion is vividly pictured as occupied by wild animals.
+      Other translations variously use "foxes" or "jackals";
+      ancient zoological classifications are sometimes ambiguous to us.
+      Here, I use "haunt of hyenas", which maintains the broad zoological classification
+      and allows the use of a suitably unsettling alliterative expression.
+    </li>
+    </ul>
 
     <h2>Inclusive language</h2>
 
