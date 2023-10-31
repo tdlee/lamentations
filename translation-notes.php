@@ -46,7 +46,7 @@
     <p>
       That creates a tension here in Lamentations, which is strongly poetic.
       And this translation emphasises this inherent, structural poetry as a defining characteristic.
-      Certainly, the acrostic, including its "A" and "Z" endpoints, is key.
+      Certainly, the acrostic, including its 'A' and 'Z' endpoints, is key.
       Equally key is the underlying rhythm:
       that incessantly driving 3&ndash;2 <i>qinah</i> pulse of the first four chapters.
       To the best of my knowledge no other translation of Lamentations has both.
@@ -104,7 +104,7 @@
     <!-- panel -->
 
     <p>
-      The alphabetic acrostic is central.  The rhythm is central.
+      The alphabetic acrostic is central.  The <i>qinah</i> rhythm is central.
       But what about the text?
     </p>
 
@@ -137,20 +137,47 @@
       an unavoidable loss of detail in one place
       may be compensated by an introduced poetic expression in another place.
 
+    <h2>Qinah</h2>
+
+    <p>
+      <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
+    </p>
+
+    <p>
+      Most biblical scholarship is agreed beyond reasonable doubt
+      that the 3&ndash;2 <i>qinah</i> beat is prevalent in the first four chapters.
+      But there is lively debate about particular details in particular verses.
+    </p>
+
+    <p>
+      For example, the opening "Alas!" verse of the first chapter,
+      and probably also of the second, may be seen as 4&ndash;2.
+      Accordingly some of the rhythmically alert translations
+      set that single-beat "Alas!" as a separate anacrusis.
+      This version, too, adopts that practice.
+    </p>
+
+    <p>
+      Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
+      In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
+      This also helps highlight the contrast on entering chapter&nbsp;5,
+      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
+    </p>
+
     <h2>Acrostic challenges</h2>
 
     <p>
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
       One approach can then be to swap lines within a verse.
-      A case in point is 1:7 whose first line requires an opening "G" word.
+      A case in point is 1:7 whose first line requires an opening 'G' word.
       A workable solution is to switch its first and second lines,
       allowing for "goodly treasures" to begin the verse.
     </p>
 
     <p>
       But a chapter later at 2:7 a similar problem arises,
-      and also, as it happens, with a "G" verse.
+      and also, as it happens, with a 'G' verse.
       Here, too, a similar line-swap solution offered itself.
       This was tempting.
       But other factors argued against its adoption,
@@ -159,7 +186,7 @@
     </p>
 
     <p>
-      The acrostic use of "Z" for the final stanza of the first four poems
+      The acrostic use of 'Z' for the final stanza of the first four poems
       is an interesting challenge, as there are so few such English words
       in regular use.
       The third poem in particular requires the use of three such words.
@@ -172,9 +199,9 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as "g" is the seventh, not ninth, letter in our alphabet.
-      We need an "I" word that is reasonably synonymous with "good".<?php
-        Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to "J" or even "K".  But the smaller number of such words would only have made the problem harder, not easier.');
+      as 'G' is the seventh, not ninth, letter in our alphabet.
+      We need an 'I' word that is reasonably synonymous with "good".<?php
+        Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to \'J\' or even \'K\'.  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
       "Irreproachable" seems a reasonable choice, with not too much semantic compromise,
       although its five syllables rather than one pull against our desired linguistic compactness.
@@ -184,7 +211,7 @@
       In the triple acrostic at 3:43&ndash;45
       the first two verses have noticeably similar structures,
       both leading with a powerfully pictorial verb meaning "cover", "veil", "screen" or "envelop".
-      At this point we need an "R" word, but there is no readily apparent such verb,
+      At this point we need an 'R' word, but there is no readily apparent such verb,
       nor is there another word suitably shareable across them both.
       So the unusual, but clear "re-cloak" was used.
       While its "re-" prefix suggests a concept of recurrence
@@ -216,7 +243,7 @@
       Other English verbs would have been candidates: "see", "behold", "observe" etc.
       But our acrostic requirement drives the choice,
       particularly at 1:12,
-      which has to be at, or very close to, alphabetic 'n'.
+      which has to be at, or very close to, alphabetic 'N'.
       A typical good, but non-acrostic translation is the <abbr title="New Revised Standard Version">NRSV</abbr>:
     </p>
 
@@ -244,11 +271,11 @@
     </div>
 
     <p>
-      The obvious acrostic-leading 'n'-word would be that "nothing" in the first part of the first couplet.
+      The obvious acrostic-leading 'N'-word would be that "nothing" in the first part of the first couplet.
       Despite that, there seems no decent, readable means to re-organise the couplet
       to start with "<span class="acrostic-letter">N</span>othing&hellip;" or similar.
       But its second part is "look and see".
-      This would allow the 'n'-word "<span class="acrostic-letter">N</span>otice"
+      This would allow the 'N'-word "<span class="acrostic-letter">N</span>otice"
       and presents a possible way forward:
     </p>
 
@@ -329,36 +356,9 @@
     </p>
 
     <p>
-      But driving all that was the requirement at 1:12 for a leading acrostic 'n'-word.<?php
+      But driving all that was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
       ?>
-    </p>
-
-    <h2>Qinah</h2>
-
-    <p>
-      <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
-    </p>
-
-    <p>
-      Most biblical scholarship is agreed beyond reasonable doubt
-      that the 3&ndash;2 <i>qinah</i> beat is prevalent in the first four chapters.
-      But there is lively debate about particular details in particular verses.
-    </p>
-
-    <p>
-      For example, the opening "Alas!" verse of the first chapter,
-      and probably also of the second, may be seen as 4&ndash;2.
-      Accordingly some of the rhythmically alert translations
-      set that single-beat "Alas!" as a separate anacrusis.
-      This version, too, adopts that practice.
-    </p>
-
-    <p>
-      Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
-      In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
-      This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
     </p>
 
     <h2>Word choices</h2>
@@ -388,6 +388,44 @@
 
     <p>
       Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
+    </p>
+
+    <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>
+
+    <p>
+      Most English translations face the issue of representing
+      two closely related but different Hebrew words that name God:
+      "YHWH" and "Adonai".
+      This has considerations both for writing/reading and for recitation.
+      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master",
+      but this seems unsatisfactory because "Master" is outside normal Christian practice.
+      Yet using "Yahweh" or, worse, "Jehovah" seems unsatisfactory in a version
+      designed for recitation,
+      as Jewish custom avoids saying the Divine Name "YHWH",
+      instead saying the other word "Adonai".<?php
+        Footnote('Sometimes "HaShem", "the Name", is pronounced.');
+      ?>
+      But this Jewish custom at least results a common-sounding word for recitation.
+      Some English translations bring into play terms such as "the Lord Almighty".
+      Again, this long-windedness is unsatisfactory for a version
+      which must translate in as compact and concise a manner as possible.
+    </p>
+
+    <p>
+      The net result here
+      is firstly to adopt the usual present-day practice of writing
+      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals) and "Adonai" as "Lord" (normal case).
+      And because "Adonai" generally appears in a grammatically possessive context
+      (the underlying noun being "Adon"),
+      it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
+      so that the subtle written difference is also audibly present in recitation.<?php
+        Footnote('"Much Ado about Nothing"?
+          Reducing further the concern about such detail
+          is that one of the earliest Hebrew witnesses,
+          Dead Sea Scrolls 4QLam,
+          itself shows some variation of YHWH/Adonai usage
+          from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
+      ?>
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
@@ -434,8 +472,8 @@
     </ul>
 
     <p>
-      Surely this threaded repetition of 'lie'
-      was intentional by the author(s) and editor(s).
+      Surely this threaded repetition of the verb
+      was intentional by the original author(s) and editor(s).
       While translation inevitably forces some compromises in some places,
       this instance seems too important to fudge,
       particularly in our avowedly poetically-driven framework.
@@ -451,44 +489,6 @@
 
     <p>
       As a result, I reworked the verb across the text to become 'sit'.
-    </p>
-
-    <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>
-
-    <p>
-      Most English translations face the issue of representing
-      two closely related but different Hebrew words that name God:
-      "YHWH" and "Adonai".
-      This has considerations both for writing/reading and for recitation.
-      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master",
-      but this seems unsatisfactory because "Master" is outside normal Christian practice.
-      Yet using "Yahweh" or, worse, "Jehovah" seems unsatisfactory in a version
-      designed for recitation,
-      as Jewish custom avoids saying the Divine Name "YHWH",
-      instead saying the other word "Adonai".<?php
-        Footnote('Sometimes "HaShem", "the Name", is pronounced.');
-      ?>
-      But this Jewish custom at least results a common-sounding word for recitation.
-      Some English translations bring into play terms such as "the Lord Almighty".
-      Again, this long-windedness is unsatisfactory for a version
-      which must translate in as compact and concise a manner as possible.
-    </p>
-
-    <p>
-      The net result here
-      is firstly to adopt the usual present-day practice of writing
-      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals) and "Adonai" as "Lord" (normal case).
-      And because "Adonai" generally appears in a grammatically possessive context
-      (the underlying noun being "Adon"),
-      it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
-      so that the subtle written difference is also audibly present in recitation.<?php
-        Footnote('"Much Ado about Nothing"?
-          Reducing further the concern about such detail
-          is that one of the earliest Hebrew witnesses,
-          Dead Sea Scrolls 4QLam,
-          itself shows some variation of YHWH/Adonai usage
-          from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
-      ?>
     </p>
 
     <h3>Other examples</h3>
@@ -511,7 +511,7 @@
       are two notable exceptions.
       The Hebrew even reinforces this aspect by opening both couplets with "face":
       "[The] face&hellip; [the] faces&hellip;".
-      This seems an astonishing omission,
+      Its absence from most English versions seems an astonishing omission,
       as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
       seems theologically important in the Torah.
       This version makes sure to include it.<?php
