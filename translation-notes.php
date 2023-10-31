@@ -104,7 +104,7 @@
     <!-- panel -->
 
     <p>
-      The alphabetic acrostic is central.  The rhythm is central.
+      The alphabetic acrostic is central.  The <i>qinah</i> rhythm is central.
       But what about the text?
     </p>
 
