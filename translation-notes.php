@@ -434,8 +434,8 @@
     </ul>
 
     <p>
-      Surely this threaded repetition of 'lie'
-      was intentional by the author(s) and editor(s).
+      Surely this threaded repetition of the verb
+      was intentional by the original author(s) and editor(s).
       While translation inevitably forces some compromises in some places,
       this instance seems too important to fudge,
       particularly in our avowedly poetically-driven framework.
