@@ -361,69 +361,6 @@
       ?>
     </p>
 
-    <h3>Sit/lodge/lie: a worked example</h3>
-
-    <p>
-      The very first line "[Alas!] Alone she sits:&hellip;" ignites a translational ambiguity in vocabulary.
-      The original verb may be legitimately represented as 'sit', 'abide', 'lodge', 'reside' or 'lie'.
-      But no single English verb naturally embraces this range.
-      From the very start of this version, I had opted for "Alone she lies"
-      (a) reasoning (with hindsight, weakly) that in English
-      we tend to think of a city as "lying" rather than "sitting" in a landscape
-      and (b) liking the alone/lies alliteration.
-      But almost immediately at 1:3 a problem arose
-      in describing the exiled, deported populace
-      which would be "she lies [among the nations]".
-      So I used a different but nonetheless alliterative verb "she lodges [among the nations]".
-      I left it at that, having become perhaps over-attached to 1:1 'lies',
-      and despite knowing full well the importance of poetic resonance
-      across the text as a word recurs in different contexts.
-    </p>
-
-    <p>
-      A long time later, I began to notice that same Hebrew verb
-      (although often obscured in existing English translations)
-      recurring elsewhere, particularly:
-    </p>
-
-    <ul>
-      <li>
-        3:28: at almost the centre of the book, applied to the man/<em>geber</em><?php Footnote ('Goldingay (2022), p.143.'); ?>
-        which suggests a posture of 'sitting' rather than 'lying'
-      </li>
-      <li>
-        4:21: applied in a sarcastic context to the enemy Daughter Edom<?php Footnote('Dobbs-Allsopp (2012), p.137.'); ?>
-      </li>
-      <li>
-        5:19: at almost the very end,
-        and in a repetition and implied resonance
-        astonishingly overlooked by almost all translations,
-        applied to God himself, where a late revision specifically to handle this
-        was about to become
-        "And you, <span class="yhwh">Lord</span>, forever lie [enthroned]".
-      </li>
-    </ul>
-
-    <p>
-      Surely this threaded repetition of the verb
-      was intentional by the original author(s) and editor(s).
-      While translation inevitably forces some compromises in some places,
-      this instance seems too important to fudge,
-      particularly in our avowedly poetically-driven framework.
-    </p>
-
-    <p>
-      But in this 5:19 case, I immediately realised that
-      in saying of God that he "forever lies"
-      creates a new problem of ambiguity,
-      this time within English: "God forever [tells] lies".
-      However unintentional, this would clearly be unsatisfactory!
-    </p>
-
-    <p>
-      As a result, I reworked the verb across the text to become 'sit'.
-    </p>
-
     <h2>Word choices</h2>
 
     <p>
@@ -489,6 +426,69 @@
           itself shows some variation of YHWH/Adonai usage
           from the authoritative but later Masoretic Text. Kotz&eacute; (2011), p.115.')
       ?>
+    </p>
+
+    <h3>Sit/lodge/lie: a worked example</h3>
+
+    <p>
+      The very first line "[Alas!] Alone she sits:&hellip;" ignites a translational ambiguity in vocabulary.
+      The original verb may be legitimately represented as 'sit', 'abide', 'lodge', 'reside' or 'lie'.
+      But no single English verb naturally embraces this range.
+      From the very start of this version, I had opted for "Alone she lies"
+      (a) reasoning (with hindsight, weakly) that in English
+      we tend to think of a city as "lying" rather than "sitting" in a landscape
+      and (b) liking the alone/lies alliteration.
+      But almost immediately at 1:3 a problem arose
+      in describing the exiled, deported populace
+      which would be "she lies [among the nations]".
+      So I used a different but nonetheless alliterative verb "she lodges [among the nations]".
+      I left it at that, having become perhaps over-attached to 1:1 'lies',
+      and despite knowing full well the importance of poetic resonance
+      across the text as a word recurs in different contexts.
+    </p>
+
+    <p>
+      A long time later, I began to notice that same Hebrew verb
+      (although often obscured in existing English translations)
+      recurring elsewhere, particularly:
+    </p>
+
+    <ul>
+      <li>
+        3:28: at almost the centre of the book, applied to the man/<em>geber</em><?php Footnote ('Goldingay (2022), p.143.'); ?>
+        which suggests a posture of 'sitting' rather than 'lying'
+      </li>
+      <li>
+        4:21: applied in a sarcastic context to the enemy Daughter Edom<?php Footnote('Dobbs-Allsopp (2012), p.137.'); ?>
+      </li>
+      <li>
+        5:19: at almost the very end,
+        and in a repetition and implied resonance
+        astonishingly overlooked by almost all translations,
+        applied to God himself, where a late revision specifically to handle this
+        was about to become
+        "And you, <span class="yhwh">Lord</span>, forever lie [enthroned]".
+      </li>
+    </ul>
+
+    <p>
+      Surely this threaded repetition of the verb
+      was intentional by the original author(s) and editor(s).
+      While translation inevitably forces some compromises in some places,
+      this instance seems too important to fudge,
+      particularly in our avowedly poetically-driven framework.
+    </p>
+
+    <p>
+      But in this 5:19 case, I immediately realised that
+      in saying of God that he "forever lies"
+      creates a new problem of ambiguity,
+      this time within English: "God forever [tells] lies".
+      However unintentional, this would clearly be unsatisfactory!
+    </p>
+
+    <p>
+      As a result, I reworked the verb across the text to become 'sit'.
     </p>
 
     <h3>Other examples</h3>
