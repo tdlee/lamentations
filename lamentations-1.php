@@ -88,22 +88,22 @@
             <p>
               <?php
                 $fn='"Alas!": Hebrew <i>Ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
-                $fn2='Despite the importance of the overall 3&ndash;2 <em>qinah</em> metre,
+                $fn2='Despite the importance of the overall 3&ndash;2 <i>qinah</i> metre,
                   the opening "Alas!" is probably a preamble \'anacrusis\',
                   external to that metre (i.e. 4&ndash;2).
                   This is probably also true of the "Alas!" of the second chapter
                   although probably not of the fourth.  See Goldingay (2022), p.49, note \'c\'.
                   So in these two chapters I have followed this, and also used an additional acrostic "A&hellip;" word following that "Alas!"';
-                $fn3='This verb "lie" runs as a thread through the book.
+                $fn3='This verb "sit" runs as a thread through the book.
                   Here at the start it describes the city;
                   at almost the centre, 3:28, it describes a representative person;
                   finally at almost the close, 5:19, it describes God himself.';
               ?>
               <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
               Alas!<?php Footnote($fn); Footnote($fn2); ?><br>
-              Alone she lies:<?php Footnote($fn3); ?> the city<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+              Alone she sits:<?php Footnote($fn3); ?> the city<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               &emsp;once great with people;<br><!-- "great": 1a,1b,22c -->
-              She, once great among nations,<br><!-- "she/l[ies]" and "she/l[ady]" resonance within this verse --><!-- "great": 1a,1b,22c -->
+              She, once great among nations,<br><!-- "great": 1a,1b,22c -->
               &emsp;now abandoned, widowed;<br>
               she, once princess among provinces,<br>
               &emsp;now chained, enslaved.
@@ -140,7 +140,7 @@
               ?>
               Cast out into exile by force<br>
               &emsp;is Judah to hard labour.<br>
-              She <!-- dwells --> lodges among the nations<br>
+              She <!-- sit/dwell/lie as 1:1 --> sits among the nations<br><!-- quoted in "notes" -->
               &emsp;but finds no repose.<br>
               All who pursue her overtake her:<br>
               &emsp;dire her straits.<?php Footnote($fn); ?><!-- mentioned in "notes" -->
@@ -316,7 +316,7 @@
             <p>
               <?php
                 $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
-                $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 qinah is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
+                $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
               &emsp;bound tight by his hand<br>

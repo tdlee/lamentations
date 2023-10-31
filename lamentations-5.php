@@ -71,7 +71,7 @@
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
         Footnote('Wielenga (2007), p.69');
       ?>
-      And textually, although the previous <em>qinah</em> rhythm
+      And textually, although the previous <i>qinah</i> rhythm
       and sophisticated cross-line and cross-verse enjambment
       have all but vanished,
       there are instead the more balanced lines of Hebrew poetry
@@ -264,7 +264,7 @@
               $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
             ?>
             <p>
-              for Mount Zion: made desolate,<br>
+              for Mount Zion: now desolate,<br>
                 the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
             </p>
           </div><!-- poem__versetext -->
@@ -288,7 +288,7 @@
             <div class="poem--acrostic">
               <p>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                And you, <span class="yhwh">Lord</span>, forever lie enthroned,<br><!-- "lie": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                And you, <span class="yhwh">Lord</span>, sit forever enthroned,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   ruling generations eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>

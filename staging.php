@@ -62,8 +62,8 @@
       The alphabetic acrostic of the first four chapters,
       and its absence in the last,
       is an essential foundation.
-      Some way of presenting it is vital;
-      perhaps an obvious one is projecting the letters onto a screen.
+      This works visually: seeing the passing alphabet is vital.
+      Perhaps an obvious method is projecting the letters onto a screen.
       I was re-assured to discover that this is also what a forerunner did: see below.
       In his case (which was a univeristy biblical studies course)
       he was able to use the Hebrew alphabet.
@@ -111,7 +111,7 @@
     <h2>Recitation</h2>
 
     <p>
-      The 3&ndash;2 <em>qinah</em> pulse is vital to the first four chapters.
+      The 3&ndash;2 <i>qinah</i> pulse is vital to the first four chapters.
       Readers or cast members who have ever performed the iambic pentameter of Shakespeare
       should have little trouble in quickly picking this up.
       Even the differences in how the weak syllabes work
@@ -123,7 +123,7 @@
     </p>
 
     <p>
-      And in the final chapter, where <em>qinah</em> is largely absent,
+      And in the final chapter, where <i>qinah</i> is largely absent,
       although not entirely so,
       the rhythmic pulse can still be used.
     </p>
@@ -136,11 +136,11 @@
     <ul>
       <li>
         The opening
-        "Alone she lies&hellip;" (1:1)
+        "Alone she sits&hellip;" (1:1)
         is picked up at the centre
-        "Lie he alone&hellip;"
+        "Lonesome let him sit&hellip;"
         then returns and is reflected in the closing
-        "And you, <span class="yhwh">Lord</span>, forever lie&hellip; (5:19).
+        "And you, <span class="yhwh">Lord</span>, sit forever&hellip;" (5:19).
       </li>
       <li>
         "Notice" and "look" form a running thread across the chapters, often paired.
@@ -405,7 +405,7 @@
       <a href="https://cairn.edu/faculty/brian-toews/" target="_blank">Brian Toews</a> of Cairn University (at the time called Philadelphia College of Bible)
       had already staged it with and for his students in their coursework.
       He used the traditional Authorised (King James) text.
-      So, of course, no acrostics; no <em>qinah</em>.
+      So, of course, no acrostics; no <i>qinah</i>.
       For the theatrically minded,
       his script with stage directions
       and his subsequent report to a conference through Asbury Seminary are worth reading:
