@@ -511,7 +511,7 @@
       are two notable exceptions.
       The Hebrew even reinforces this aspect by opening both couplets with "face":
       "[The] face&hellip; [the] faces&hellip;".
-      This seems an astonishing omission,
+      Its absence from most English versions seems an astonishing omission,
       as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
       seems theologically important in the Torah.
       This version makes sure to include it.<?php
