@@ -486,7 +486,12 @@
     <p>
       This version,
       with its slants towards recovery of the original poetry and to present-day dramatic usage (including worship contexts),
-      specifically follows the "Daughter X" route.
+      specifically follows the "Daughter X" route.<?php
+        Footnote('In a couple of instances the pervasive challenge of the acrostic constraint
+          have necessitated an inversion
+          from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
+          and from "Daughter Zion" to "Zion-Daughter" (4:22).');
+      ?>
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
