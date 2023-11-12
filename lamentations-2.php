@@ -29,13 +29,20 @@
     ?>
 
     <p>
+      This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
+      She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
+      It recounts God's anger being unleashed on her;
+      it concludes in turn with her anger being unleashed towards God.<?php
+        Footnote('Hens-Piazza (2017), p.xliii.');
+      ?>
+    </p>
+
+    <p>
       <?php
         $fn='This is just one of several chiasms in this chapter.
           Others include its opening and closing with verbs
           ("angered"/"beclouded" and "annihilated") and the "horn" motif';
       ?>
-      This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
-      She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
       this is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
