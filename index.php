@@ -172,6 +172,7 @@
     By contrast to this "pinning down" of prose,
     the very form and nature of poetry can take us in the opposite direction:
     the act of performing it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
+    Poetic imagery points to experiences that eclipse words.<?php Footnote('Hens-Piazza (2017), p.xlvi'); ?>
     </p>
 
     <p>
