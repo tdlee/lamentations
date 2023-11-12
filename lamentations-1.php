@@ -468,12 +468,13 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: Yearnings&hellip;they heard: "none brings me comfort".';
+                $fn1='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: Yearnings&hellip;they heard: "none brings me comfort".';
+                $fn2='In Hebrew this word, meaning something like "bad" but used here as a noun, can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v21 to v22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
               ?>
               Yearnings of anguish they heard:<br>
-              &emsp;none brings me comfort.<?php Footnote($fn); ?><br>
-              My foes all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
-              &emsp;rejoiced that you caused it.<br>
+              &emsp;none brings me comfort.<?php Footnote($fn1); ?><br>
+              My foes all heard my malignant<?php Footnote($fn2); ?> state,<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
+              &emsp;rejoicing that you caused it.<br>
               Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
               &emsp;let them be as me!
             </p>
@@ -488,7 +489,7 @@
               <?php
                 $fn='The opening v.1 "great", there used twice positively, here returns, but in negative contrast, to bracket this chapter.  See Dobbs-Allsopp (2012), p.74.';
               ?>
-              Zero in&mdash;their malignancy all is before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+              Zero in&mdash;their malignant ways all are before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
               as you unleashed against me<br>
               &emsp;for all my rebellions.<br>
