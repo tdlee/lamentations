@@ -50,6 +50,9 @@
         Goldingay, John (2022), <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
       </li>
       <li>
+        Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, <?php ISBN("978-0814681541"); ?>
+      </li>
+      <li>
         Middlemas, Jill (2021), <cite>Lamentations: An Introduction and Study Guide</cite>, T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
       </li>
       <li>
@@ -72,9 +75,6 @@
       </li>
       <li>
         Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>
-      </li>
-      <li>
-        Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, <?php ISBN("978-0814681541"); ?>
       </li>
       <li>
         Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch

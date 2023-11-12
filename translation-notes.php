@@ -496,7 +496,7 @@
     <ul>
     <li>
       Chapters 2 and 4 share the verb "pour"/"disgorge" as a thread,
-      internal to each and common acoss them,
+      internal to each and common across them,
       and absent from other chapters.
       But whereas "pour" suits chapter&nbsp;2 and "disgorge" suits chapter&nbsp;4,
       neither seems quite right for the other chapter,

@@ -70,6 +70,18 @@
     <div class="panel">
       <div class="poem poem__hebverse poem--acrostic draft">
 
+<!-- enemy; foe
+     Two different words in use.
+     There doesn't seem to be a significant difference.
+     Verses: 2, 5, 7, 9, 10, 16, 17, 21.
+     Nevertheless we try to respect the original.
+     We let the E-acrostic at v5 decide on "enemy" to open it.
+     This couplet has both words so makes a good baseline for tracking usage.
+       Goldingay/Young:adversary  Berlin:foe    Sefaria:enemy  Lee:enemy
+       Goldingay/Young:enemy:     Berlin:enemy  Sefaria:foe    Lee:foe
+     although Sefaria/JPS has a couple of internal inconsistencies.
+-->
+
         <div class="poem__verse">
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
@@ -125,7 +137,7 @@
               None there is to comfort her<br>
               &emsp;from all who love her;<?php Footnote($fn); ?><br>
               her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
-              &emsp;become her enemies.
+              &emsp;become her foes.<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -171,12 +183,12 @@
               <?php
                 $fn='Note overlapping verb sequences: "afflicted"/"inflicted" (same Hebrew verb) at 5<em>b</em> and 12<em>c</em>, then "unleashed against" at 12<em>b</em> and 22. Dobbs-Allsopp (2012) p.68.';
               ?>
-              Enemies now have mastered her;<br>
-              &emsp;her foes prosper,<br>
+              Enemies now have mastered her;<br><!-- enemy/foe -->
+              &emsp;her foes prosper,<br><!-- enemy/foe -->
               since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;for her many misdeeds.<br>
               Her youngsters are driven to exile,<br>
-              &emsp;captive before the foe.
+              &emsp;captive before the enemy.<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -209,9 +221,9 @@
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<br>
               &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
-              [When her people fell to enemy hand,<br>
+              [When her people fell to enemy hand,<br><!-- enemy/foe -->
               &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
-              Her foes look on and mock<br>
+              Her enemies look on and mock<br>
               &emsp;her fallen state.
             </p>
           </div><!-- poem__versetext -->
@@ -242,7 +254,7 @@
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
-              &emsp;how the enemy triumphs."
+              &emsp;how the foe triumphs."<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -254,7 +266,7 @@
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
             <p>
-              Lecherous enemy hands spread<br>
+              Lecherous enemy hands spread<br><!-- enemy/foe -->
               &emsp;all over her treasures;<br>
               pagan nations she sees<br>
               &emsp;enter her sanctuary&mdash;<br>
@@ -356,7 +368,7 @@
               far distant one who might comfort me,<?php Footnote($fn); ?><br>
               &emsp;to restore my soul.<br>
               My children all are desolate;<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
-              &emsp;the enemy has prevailed.
+              &emsp;the foe has prevailed.<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -369,7 +381,7 @@
               Taut-stretched reach out Zion's hands,<br>
               &emsp;but none comforts her;<br>
               the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
-              &emsp;his foes to encircle;<br>
+              &emsp;his enemies to encircle;<br>
               Jerusalem in their eyes has become<br>
               &emsp;a soiled towel.<!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
             </p>
@@ -431,7 +443,7 @@
               ?>
               Yearnings of anguish they heard:<br>
               &emsp;none brings me comfort.<?php Footnote($fn); ?><br>
-              My enemies all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+              My foes all heard my malignant state&mdash;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
               &emsp;rejoiced that you caused it.<br>
               Oh, bring on the day you called forth&mdash;<br><!-- verb: 15,19,21: match; 17:different -->
               &emsp;let them be as me!
