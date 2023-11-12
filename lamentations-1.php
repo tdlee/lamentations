@@ -47,12 +47,41 @@
     </p>
     <ul>
       <li>
-        The witness's section 8&ndash;10 about the city's accused sin and violation is briefly interrupted midway, 9<i>c</i>, by Jerusalem herself.
+        The witness's section 7&ndash;10 about the city's accused sin and violation is briefly interrupted at 9<i>c</i> by Jerusalem herself.
       </li>
       <li>
         At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
       </li>
     </ul>
+
+    <p>
+      Section 7&ndash;10 is clearly female-initimate
+      and the language heaps up with innuendo.
+      Yet it contains a deep and unsettling ambiguity
+      which has a significant bearing on how we receive it.
+      At first sight, the section is strongly suggestive of Daughter Zion
+      having been wilfully unfaithful and wantonly adulterous,
+      including the accusation of "sin" (v8).<?php
+        Footnote('Several other linguistic resonances and wordplays across the whole chapter
+          lead the surface reading in this direction.');
+      ?>
+      Yet in contrast with forcefully direct language in the prophets
+      (Isaiah, Ezekiel, the Twelve, etc.)
+      the language of the Lamentations poet is non-specific:
+      she is never here accused of "adultery" or "whoring".<?php
+        Footnote('Dobbs-Allsopp (2012), p.64,');
+      ?>
+      And a totally different thread also emerges from behind this:
+      that of victim of sexual defilement and rape,
+      aligned with swathes of other Lamentations passages
+      focussed on the abuse and violation of the innocent.
+      Both threads, adulteress and rape victim, are co-existing possibilities.
+      For us as readers, indeed as disciples and worshippers,
+      inhabiting the poetic and disturbing both/and is more valuable
+      than rushing into a falsely simplistic either/or.
+      The reader is referred to Dobbs-Allsopp (2012), pp.63&ndash;67
+      and Hens-Piazza (2017), pp.8&ndash;18.
+    </p>
 
     <p>
       Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.

@@ -173,6 +173,11 @@
     the very form and nature of poetry can take us in the opposite direction:
     the act of performing it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
     Poetic imagery points to experiences that eclipse words.<?php Footnote('Hens-Piazza (2017), p.xlvi'); ?>
+    It can also purposefully exploit ambiguity:
+    appearing to say one thing,
+    yet simultaneously suggesting something else, even the opposite.
+    A case in point here is 1:7&ndash;10:
+    do we perceive and receive Daughter Zion as sinner or victim (or both)?
     </p>
 
     <p>
