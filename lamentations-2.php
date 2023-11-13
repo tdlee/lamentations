@@ -39,9 +39,9 @@
 
     <p>
       <?php
-        $fn='This is just one of several chiasms in this chapter.
-          Others include its opening and closing with verbs
-          ("angered"/"beclouded" and "annihilated") and the "horn" motif';
+        $fn='This is just one component of a chiastic structure across this chapter.
+          Other components include the resonance of the opening and closing verbs
+          ("angered"/"beclouded" and "annihilated") and the "horn" motif.';
       ?>
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
       this is the nightmare-turned-reality incarnation of the prophet's warning,
