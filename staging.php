@@ -220,6 +220,19 @@
     </li>
     </ul>
 
+    <p>
+      Chapters&nbsp;1, 2 and 4 strongly feature a narrator.
+      The character in chapter&nbsp;1 may be seen as largely objective,
+      reporting <em>about</em> what they witness.
+      The character in chapter&nbsp;4 may be seen as much more involved
+      <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii') ?>
+      So might they be envisaged as two different people?
+      Between them, in chapter&nbsp;2, the narrator seems to undergo a change
+      within the chapter itself.
+      By contrast, then, might this indicate one single overall narrator,
+      themselves changed and transformed across the three chapters?
+    </p>
+
     <h2>Chiastic structures</h2>
 
     <p>

@@ -428,6 +428,72 @@
       ?>
     </p>
 
+    <h3>Daughter Zion</h3>
+
+    <p>
+      Central to chapters&nbsp;1 and 2 is "Daughter Zion" ("Daughter Jerusalem").
+      The "Daughter&nbsp;X" metaphor extends across all the first four chapters
+      with "Daughter Judah" and "Daughter People".
+      In chapter&nbsp;4 it is given a further, but sarcastic, twist
+      of <i><span lang="de">schadenfreude</span></i>
+      with "Daughter Edom".
+    </p>
+
+    <p>
+      Yet this seemingly simple form of wording, in Hebrew <em>bat Tzion</em>,
+      is notoriously difficult to translate across
+      from Ancient Near East cultures into modern Western cultures.
+      Many older translations had opted for "Daughter&nbsp;<em>of</em> X".
+    </p>
+
+    <p>
+      Perhaps the majority of recent translations and commentators specifically avoid the inserted English "of".
+      There seems a widely agreed recognition that this grammatical construction
+      is a conceptual metaphor,
+      yielding multiple meanings for God's relationship to the people, the land, and the Temple at its sacred centre,
+      and is not to be understood in the sense of daughter <em>of</em> Zion, but rather in the sense of Zion <em>as</em> daughter.<?php Footnote('Adelman (2021).'); ?>
+      This is not merely a secular-usage "Land of X" or "City of X" or "People of X";
+      rather, all these concepts are wrapped together, and in relationship to God, as "Daughter X".
+      Further, an attempt to retain "of" stretches to breaking point
+      of unnecessary obscurity
+      in what would have to become "Daughter [of my] People" (2:11, 3:48, 4:3,6,10).
+    </p>
+
+    <p>
+      With the "Daughter" (<em>bat</em>) component, most translations keep this.
+      Nevertheless some commentators use other words for illustration,
+      not least to reflect, in their context of study, that the Hebrew <em>bat Tzion</em>
+      has a wider semantic range than its English representation "Daughter Zion".
+      Further, the sense of endearment in "daughter" also varies among commentators. Adelman (2021) and Berlin (2004), p.12, endorse it;  Goldingay (2022), p.60, downplays it.
+    </p>
+
+    <p>
+      A few examples.
+      The NIV has "Daughter X" (upper-case 'D');
+      the NABBRE and NIV (also Provan (2016), p.41) have "daughter X" (lower-case 'd');
+      Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
+      Hens-Piazza (2017) has "Woman Zion";
+      Goldingay (2022) has "Ms.&nbsp;Zion" (Miss/Mistress).
+      Those recent versions which omit the "of" generally capitalise "Daughter" (or their equivalent word),
+      making it a proper noun, with a sense not merely of description but also of title.
+    </p>
+
+    <p>
+      For a deeper introduction to this topic, both grammatical and cross-cultural,
+      see the three page discussion in Berlin (2004), pp.10-12.
+    </p>
+
+    <p>
+      This version,
+      with its slants towards recovery of the original poetry and to present-day dramatic usage (including worship contexts),
+      specifically follows the "Daughter X" route.<?php
+        Footnote('In a couple of instances the pervasive challenge of the acrostic constraint
+          have necessitated an inversion
+          from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
+          and from "Daughter Zion" to "Zion-Daughter" (4:22).');
+      ?>
+    </p>
+
     <h3>Sit/lodge/lie: a worked example</h3>
 
     <p>

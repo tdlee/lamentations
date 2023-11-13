@@ -172,6 +172,12 @@
     By contrast to this "pinning down" of prose,
     the very form and nature of poetry can take us in the opposite direction:
     the act of performing it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
+    Poetic imagery points to experiences that eclipse words.<?php Footnote('Hens-Piazza (2017), p.xlvi'); ?>
+    It can also purposefully exploit ambiguity:
+    appearing to say one thing,
+    yet simultaneously suggesting something else, even the opposite.
+    A case in point here is 1:7&ndash;10:
+    do we perceive and receive Daughter Zion as sinner or victim (or both)?
     </p>
 
     <p>
@@ -212,23 +218,23 @@
     <div class="panel panel--width-26em">
       <div class="poem">
         <p>
-          &emsp;&emsp;&emsp;&emsp;<strong>Ag</strong>onies:&emsp;&emsp;<strong>I</strong> am the man <strong>seared</strong><br>
-          by the <strong>rod</strong> &emsp;of his <strong>wrath</strong>;
+          &emsp;&emsp;&emsp;&emsp;<u>Ag</u>onies:&emsp;&emsp;<u>I</u> am the man <u>seared</u><br>
+          by the <u>rod</u> &emsp;of his <u>wrath</u>;
         </p>
         <p>
-          &emsp;&emsp;&emsp;A<strong>way</strong>&mdash;me he <strong>drove</strong>, force-<strong>marched</strong><br>
-          &emsp;&emsp;in <strong>dark</strong>ness, no <strong>light</strong>;
+          &emsp;&emsp;&emsp;A<u>way</u>&mdash;me he <u>drove</u>, force-<u>marched</u><br>
+          &emsp;&emsp;in <u>dark</u>ness, no <u>light</u>;
         </p>
         <p>
-          &emsp;&emsp;&emsp;A<strong>gainst</strong> me he <strong>turns</strong> &emsp;his&emsp; <strong>hand</strong><br>
-          &emsp;from <strong>day</strong>-dawn to <strong>dusk</strong>;
+          &emsp;&emsp;&emsp;A<u>gainst</u> me he <u>turns</u> &emsp;his&emsp; <u>hand</u><br>
+          &emsp;from <u>day</u>-dawn to <u>dusk</u>;
         </p>
       </div><!-- "poem" -->
     </div><!-- "panel" -->
 
     <p>
     Further, we might observe that the overall three&ndash;two count of the line resonates closely with the <a href="https://www.britannica.com/art/pentameter" target="_blank">pentameter</a>, so familiar in English poetry and particularly in Shakespeare plays; see "Twelfth Night" extract above.<?php
-      Footnote('The pentameter analogy is only partial. Whereas pentameter, in its familiar iambic form, is reasonably strict "weak-STRONG" syllable-pairs (so "w-S w-S w-S w-S w-S"), <i>qinah</i> frequently has two or more weak syllables (occasionally zero) between the strong beats. So "<strong>Ag</strong>onies: <strong>I</strong> am the man <strong>seared</strong> by the <strong>rod</strong> of his <strong>wrath</strong>" is "S-w-w S-w-w-w S-w-w S-w-w&nbsp;S".');
+      Footnote('The pentameter analogy is only partial. Whereas pentameter, in its familiar iambic form, is reasonably strict "weak-<u>strong</u>" syllable-pairs (so "w-<u>S</u> w-<u>S</u> w-<u>S</u> w-<u>S</u> w-<u>S</u>"), <i>qinah</i> frequently has two or more weak syllables (occasionally zero) between the strong beats. So "<u>Ag</u>onies: <u>I</u> am the man <u>seared</u> by the <u>rod</u> of his <u>wrath</u>" is "<u>S</u>-w-w <u>S</u>-w-w-w <u>S</u>-w-w <u>S</u>-w-w&nbsp;<u>S</u>".');
     ?>
     </p>
 

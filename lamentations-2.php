@@ -29,13 +29,20 @@
     ?>
 
     <p>
-      <?php
-        $fn='This is just one of several chiasms in this chapter.
-          Others include its opening and closing with verbs
-          ("angered"/"beclouded" and "annihilated") and the "horn" motif';
-      ?>
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
+      It recounts God's anger being unleashed on her;
+      it concludes in turn with her anger being unleashed towards God.<?php
+        Footnote('Hens-Piazza (2017), p.xliii.');
+      ?>
+    </p>
+
+    <p>
+      <?php
+        $fn='This is just one component of a chiastic structure across this chapter.
+          Other components include the resonance of the opening and closing verbs
+          ("angered"/"beclouded" and "annihilated") and the "horn" motif.';
+      ?>
       Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
       this is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
@@ -100,7 +107,12 @@
       Yet in the midst of their initially objective reportage,
       the reporter breaks down and speaks subjectively of their own personal response
       in a soliloquy, 11&ndash;17, that interrrupts their graphic portrayal of the violence
-      and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94'); ?>
+      and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
+      And the likely trigger for the observer's change of stance in v11?
+      Here is where the tortured, lingering deaths of infants and children,
+      the innocents, are witnessed, with their own mothers agonisingly helpless.<?php
+        Footnote('Hens-Piazza (2017), pp.25&ndash;26.');
+      ?>
     </p>
 
     <div class="widthclear"></div>
@@ -227,7 +239,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+                $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "The Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
               ?>
               God<?php Footnote($fn); ?> has rejected his altar,<br>
               &emsp;disowned his shrine;<br>
