@@ -92,6 +92,27 @@
     </p>
 
     <p>
+      The transition from chapter&nbsp;2 into and through chapter&nbsp;3
+      has visual potential.
+      Chapters&nbsp;1 and 2 have been portraying Daughter Zion in great distress.
+      The audience is longing for her rescue.
+      Now chapter&nbsp;3 opens with the arrival of the "strong man",
+      announcing "I am the man":
+      the classic set-up for the arrival of the "rescuing hero",
+      the mighty soldier building expectations of protection.<?php Footnote('Hens-Piazza (2017), p.40.'); ?>
+      Leaving Daughter Zion on stage can heighten this.
+      But the reality will be far different.
+      Instead of rescue he is utterly self-absorbed;
+      he doesn't even acknowledge her (as "Daughter People", 48, and "daughters of my city", 51)
+      until well past the two-thirds point of the scene.
+      And then?
+      He immediately reverts to self-absorption,
+      "<em>my</em> enemies ensared <em>me</em>",
+      and continues to ignore her.
+      He has recited that central passage about hope&hellip;yet abandons her, hopeless.
+    </p>
+
+    <p>
       Also:
     </p>
 

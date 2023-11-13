@@ -495,7 +495,7 @@
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust". Further, the final part of 48 is the same as 2:11.';
               ?>
               Stream tears from my eyes at the holocaust<br>
-                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next -->
+                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next --><!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -514,7 +514,7 @@
             </p>
             <p>
               Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
-                for all the daughters of my city.
+                for all the daughters of my city.<!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -524,7 +524,7 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
             <p>
-              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 -->
+              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 --><!-- quoted in "staging" -->
                 ensnaring as a bird;<!-- double use of "ensnare" -->
             </p>
             <p>
