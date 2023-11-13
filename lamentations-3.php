@@ -80,6 +80,23 @@
     </p>
 
     <p>
+      <!-- Ths paragraph and following list referenced in "staging" -->
+      The three 'L'-acrostic lines, 28&ndash;30, may be seen relating to three earlier complaints:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
+    </p>
+
+    <ul>
+      <li>
+        28: "Lonesome let him sit and in silence": <i>cf.</i> 2&ndash;8: the dark isolation and confinement
+      </li>
+      <li>
+        29: "Lend he his mouth to the dust": <i>cf.</i> 16: "Fracturing my teeth on gravel, he ground me in dust".
+      </li>
+      <li>
+        30: "Lend he his cheek to the assailant"; take his fill of disgrace: <i>cf.</i> 11&ndash;14: the physical attacks and laughing-stock.
+      </li>
+    </ul>
+
+    <p>
       There are many,
       especially in my own tradition,
       the protestant regions of the western Christian faith,
@@ -264,6 +281,7 @@
           <div class="poem__verseref">16&ndash;18</div>
           <div class="poem__versetext">
             <p>
+              <!-- couplet quoted in chapter intro -->
               Fracturing my teeth on gravel,<br>
                 he ground me in dust.
             </p>
@@ -361,14 +379,17 @@
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
+                <!-- couplet quoted in chapter intro -->
                 Lonesome let him sit<?php Footnote($fn1); ?> and in silence<?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
+                <!-- couplet quoted in chapter intro -->
                 Lend he his mouth to the dust&mdash;<br>
                   perhaps yet may be hope.
               </p>
               <p>
+                <!-- couplet quoted in chapter intro -->
                 Lend he his cheek to the assailant;<br>
                   take his fill of disgrace.
               </p>

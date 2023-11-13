@@ -92,6 +92,11 @@
     </p>
 
     <p>
+      Similarly, if the staging of chapter&nbsp;3 involves some sort of scenery and props
+      then its 'L'-acrostic verses lend themselves to re-visiting scenes from earlier verses; see the chapter introduction.
+    </p>
+
+    <p>
       The transition from chapter&nbsp;2 into and through chapter&nbsp;3
       has visual potential.
       Chapters&nbsp;1 and 2 have been portraying Daughter Zion in great distress.
