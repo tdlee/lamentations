@@ -47,7 +47,7 @@
           as in the "mankind/<em>adam</em>&hellip;male and female [God] created them"
           in the preceding Gen.1 creation story.');
       ?>
-      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
+      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45.'); ?>
     </p>
 
     <p>
@@ -72,8 +72,8 @@
 
     <p>
       Like the earlier two poems, this can also be seen as being in two primary "voices":
-      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
-      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
+      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125.'); ?>
+      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
       That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
         Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
       ?>
@@ -104,7 +104,7 @@
       to slow down the reading process
       and to require our closer attention.
       Dissonance thus enters the poetry's message"<?php
-        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121');
+        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121.');
       ?>
       at precisely the solitary point where hope is expressed.
       The syntax of this new version attempts to reflect this.
@@ -117,10 +117,10 @@
     <p>
       Some see in this chapter's first six verses a sort of "anti-psalm"
       to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002)');
+        Footnote('Van Hecke (2002).');
       ?>
       Other commentators extend this reversal further, to v.9 or v.13.<?php
-       Footnote('Berlin (2004), p.86 n.4');
+       Footnote('Berlin (2004), p.86 n.4.');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
