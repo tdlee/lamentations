@@ -321,6 +321,12 @@
         &emsp;&emsp;2:3: "cut off&hellip;every horn of Israel"
       </li>
       <li>
+        &emsp;&emsp;&emsp;2:8: "Hell-bent [determined] was the <span class="yhwh">Lord</span> on destroying"
+      </li>
+      <li>
+        &emsp;&emsp;&emsp;2:17: "The <span class="yhwh">Lord</span> has done what he planned [determined]&hellip;to destroy without pity"
+      </li>
+      <li>
         &emsp;&emsp;2:17: "exalted your foes' horn"
       </li>
       <li>

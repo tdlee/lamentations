@@ -258,7 +258,7 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
             <p>
-              Hell-bent was the <span class="yhwh">Lord</span> on destroying<br>
+              Hell-bent was the <span class="yhwh">Lord</span> on destroying<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               &emsp;Daughter Zion's wall;<br>
               out-stretching his tape-measure; not staying<br>
               &emsp;his hand from devouring;<br><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
@@ -415,7 +415,7 @@
           <div class="poem__versetext">
             <p>
               <!-- parts quoted in "staging" -->
-              The <span class="yhwh">Lord</span> has done what he planned,<br>
+              The <span class="yhwh">Lord</span> has done what he planned,<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               &emsp;has fulfilled his threat<br>
               decreed from days of old,<br>
               &emsp;to destroy without pity;<br><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
