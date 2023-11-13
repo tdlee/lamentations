@@ -361,7 +361,7 @@
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                Lonesome let him sit and in silence<?php Footnote($fn1); ?><?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                Lonesome let him sit<?php Footnote($fn1); ?> and in silence<?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
