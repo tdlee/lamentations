@@ -108,6 +108,10 @@
       ?>
       at precisely the solitary point where hope is expressed.
       The syntax of this new version attempts to reflect this.
+      Similarly, the intensely ordered form of the triple acrostic in the man's outward speech
+      is strikingly at odds with the ambiguity riddling his interior response.<?php
+        Footnote('Hens-Piazza (2017), p.40.');
+      ?>
     </p>
 
     <p>
