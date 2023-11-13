@@ -334,7 +334,7 @@
               ?>
               <p>
                 How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
-                  his compassion never drains;<!-- or perhaps "expends"? -->
+                  his compassion is never drained;
               </p>
               <p>
                 His mercies renew each day-dawning;<br>
