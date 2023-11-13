@@ -47,7 +47,7 @@
 
     <p>
       Visually, a unique aspect of this chapter is the striking use of colour
-      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103'); ?>
+      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103.'); ?>
     </p>
 
     <p>
@@ -60,7 +60,7 @@
       And it continues into the human realm,
       including the horror of mothers cannibalising their own God-given children.
       "Blessings of the covenant become human carnage."<?php
-        Footnote('Hens-Piazza (2017), p.60');
+        Footnote('Hens-Piazza (2017), p.60.');
       ?>
     </p>
 
