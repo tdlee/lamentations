@@ -239,7 +239,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='Translation compromise. Rather than "God has&hellip; (Heb:El) this should be "The Lord has&hellip;" (Heb:Adonai). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+                $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "The Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
               ?>
               God<?php Footnote($fn); ?> has rejected his altar,<br>
               &emsp;disowned his shrine;<br>
