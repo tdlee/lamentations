@@ -52,8 +52,15 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
-      Observe the "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
-      Observe, too, the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
+    </p>
+
+    <p>
+      Observe the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
+      Observe, too, the even more savage "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
+      There is a final, vile twist at v.20.
+      Women are cannibalising their children because the Lord has devoured his people.<?php
+        Footnote('Hens-Piazza (2017), pp.34&ndash;35.');
+      ?>
     </p>
 
     <p>
