@@ -33,13 +33,13 @@
       but is additionally personified by the hauntingly endearing term "Daughter Zion" and variants such as "Daughter Jerusalem" and "my Daughter People".
       The poems lament not merely an inanimate city;
       the city is a precious daughter, beloved of God.<?php
-          Footnote('Adelman (2021); Berlin (2004), pp.10&ndash;12');
+          Footnote('Adelman (2021); Berlin (2004), pp.10&ndash;12.');
           ?>
       This is set out within the very first verse.
     </p>
 
     <p>
-      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62'); ?>
+      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62.'); ?>
     </p>
 
     <p>
@@ -69,7 +69,7 @@
       (Isaiah, Ezekiel, the Twelve, etc.)
       the language of the Lamentations poet is non-specific:
       she is never here accused of "adultery" or "whoring".<?php
-        Footnote('Dobbs-Allsopp (2012), p.64,');
+        Footnote('Dobbs-Allsopp (2012), p.64.');
       ?>
       And a totally different thread also emerges from behind this:
       that of victim of sexual defilement and rape,
@@ -84,7 +84,7 @@
     </p>
 
     <p>
-      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
+      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41.'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastion and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
     </p>
 
     <p>
@@ -243,7 +243,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322';
+                $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322.';
                 $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
               ?>
               Goodly treasures once hers<br>
