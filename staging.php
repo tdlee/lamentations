@@ -93,8 +93,20 @@
 
     <p>
       Similarly, if the staging of chapter&nbsp;3 involves some sort of scenery and props
-      then its 'L'-acrostic verses lend themselves to re-visiting scenes from earlier verses; see the chapter introduction.
+      then its 'L'-acrostic lines, 28&ndash;30, lend themselves to re-visiting complaint scenes from earlier verses:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
     </p>
+
+    <ul>
+      <li>
+        28: "Lonesome let him sit and in silence": <i>cf.</i> 2&ndash;8: the dark isolation and confinement.
+      </li>
+      <li>
+        29: "Lend he his mouth to the dust": <i>cf.</i> 16: "Fracturing my teeth on gravel, he ground me in dust".
+      </li>
+      <li>
+        30: "Lend he his cheek to the assailant"; take his fill of disgrace: <i>cf.</i> 11&ndash;14: the physical attacks and laughing-stock.
+      </li>
+    </ul>
 
     <p>
       The transition from chapter&nbsp;2 into and through chapter&nbsp;3
