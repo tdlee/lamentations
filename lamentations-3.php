@@ -53,9 +53,9 @@
     <p>
       Structurally, while the acrostic tends to produce its own grouping
       <em>within</em> acrostic boundaries,
-      nevertheless observe how particular thoughts may have their own
+      observe how particular thoughts may have their own
       counter-grouping cutting <em>across</em> these boundaries.
-      An early clear example is at 12&ndash;13 where the bow-and-arrow
+      An early, clear example is at 12&ndash;13 where the bow-and-arrow
       crosses the D/E acrostic boundary.
       This "enjambment" of ideas and images across the alphabetic boundaries
       is a counterweight to the formal structuring of the acrostic,
@@ -143,12 +143,9 @@
     </p>
 
     <p>
-      Some see in this chapter's first six verses a sort of "anti-psalm"
-      to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002).');
-      ?>
-      Other commentators extend this reversal further, to v.9 or v.13.<?php
-       Footnote('Berlin (2004), p.86 n.4.');
+      Several commentators see in the first few verses a sort of "anti-psalm"
+      to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
+        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41.');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
