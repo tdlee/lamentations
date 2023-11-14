@@ -62,11 +62,22 @@
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
       A similar change of thought happens between 58 and 59 within the "W" stanza.
-      Indeed, even <em>within</em> a verse, at 42,
-      when the poet is on the brink of regaining his confidence,
+    </p>
+
+    <p>
+      And it is <em>within</em> a single verse, at 42,
+      that perhaps the most abrupt change of direction happens.
+      Just when the poet is on the brink of regaining his confidence,
       the vision of fragile hope is shattered and evaporates:
-      "But you did not forgive".<?php
-        Footnote('Dobbs-Allsopp (1997), p.48.');
+      "<em>But you did not forgive</em>".
+      Like a thunderbolt from a clear blue sky,
+      scything through the verse
+      and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
+      "<em>But you did not forgive</em>".<?php
+        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52.');
+      ?>
+      This may be the most disturbing idea in the chapter, and in the entire book.<?php
+        Footnote('Berlin (2004), p.96.');
       ?>
     </p>
 
