@@ -88,7 +88,33 @@
       which leads to a sweeping panorama of three iniital candidates on display:
       prophets (14), passers-by (15) and even human enemies (16).
       Finally there is a fourth candidate, God himself.
-      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat."<?php Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98.'); ?>
+      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98.'); ?>
+    </p>
+
+    <p>
+      Similarly, if the staging of chapter&nbsp;3 involves some sort of scenery and props
+      then its 'L'-acrostic verses lend themselves to re-visiting scenes from earlier verses; see the chapter introduction.
+    </p>
+
+    <p>
+      The transition from chapter&nbsp;2 into and through chapter&nbsp;3
+      has visual potential.
+      Chapters&nbsp;1 and 2 have been portraying Daughter Zion in great distress.
+      The audience is longing for her rescue.
+      Now chapter&nbsp;3 opens with the arrival of the "strong man",
+      announcing "I am the man":
+      the classic set-up for the arrival of the "rescuing hero",
+      the mighty soldier building expectations of protection.<?php Footnote('Hens-Piazza (2017), p.40.'); ?>
+      Leaving Daughter Zion on stage can heighten this.
+      But the reality will be far different.
+      Instead of rescue he is utterly self-absorbed;
+      he doesn't even acknowledge her (as "Daughter People", 48, and "daughters of my city", 51)
+      until well past the two-thirds point of the scene.
+      And then?
+      He immediately reverts to self-absorption,
+      "<em>my</em> enemies ensared <em>me</em>",
+      and continues to ignore her.
+      He has recited that central passage about hope&hellip;yet abandons her, hopeless.
     </p>
 
     <p>
@@ -321,6 +347,12 @@
         &emsp;&emsp;2:3: "cut off&hellip;every horn of Israel"
       </li>
       <li>
+        &emsp;&emsp;&emsp;2:8: "Hell-bent [determined] was the <span class="yhwh">Lord</span> on destroying"
+      </li>
+      <li>
+        &emsp;&emsp;&emsp;2:17: "The <span class="yhwh">Lord</span> has done what he planned [determined]&hellip;to destroy without pity"
+      </li>
+      <li>
         &emsp;&emsp;2:17: "exalted your foes' horn"
       </li>
       <li>
@@ -385,7 +417,7 @@
       </li>
 
       <li>
-        Within its 22 verses, the first chapter may contain no fewer than 12 allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
+        Within its 22 verses, the first chapter may contain a dozen or so allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
         That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
         But to a present-day western audience,
         while the event (Moses, "Red Sea", Exodus wanderings, etc.) might be known about, but as a relatively remote story,

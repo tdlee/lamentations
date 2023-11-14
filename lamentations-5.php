@@ -64,12 +64,12 @@
     <p>
       Yet this chapter, above the others, is the book's prayer.
       It is preceded by abandonment,
-      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193') ?>
+      especially chapter 4, which "was distinctive for incorprating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193.') ?>
       It remains in abandonment.
       But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
       this chapter is framed as a prayer to him.
       This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
-        Footnote('Wielenga (2007), p.69');
+        Footnote('Wielenga (2007), p.69.');
       ?>
       And textually, although the previous <i>qinah</i> rhythm
       and sophisticated cross-line and cross-verse enjambment
@@ -97,7 +97,7 @@
       taking not only the first but also the final letter of each
       (an "acrostic-telestic")
       yields the eight-letter Hebrew phrase "your God is exalted greatly".<?php
-        Footnote('Guillaume (2009)');
+        Footnote('Guillaume (2009).');
         ?>
       While initially such praise looks a misfit in the context of devastation
       it nevertheless resonates well with Job's

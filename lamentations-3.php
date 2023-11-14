@@ -47,37 +47,65 @@
           as in the "mankind/<em>adam</em>&hellip;male and female [God] created them"
           in the preceding Gen.1 creation story.');
       ?>
-      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45'); ?>
+      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45.'); ?>
     </p>
 
     <p>
       Structurally, while the acrostic tends to produce its own grouping
       <em>within</em> acrostic boundaries,
-      nevertheless observe how particular thoughts may have their own
+      observe how particular thoughts may have their own
       counter-grouping cutting <em>across</em> these boundaries.
-      An early clear example is at 12&ndash;13 where the bow-and-arrow
+      An early, clear example is at 12&ndash;13 where the bow-and-arrow
       crosses the D/E acrostic boundary.
       This "enjambment" of ideas and images across the alphabetic boundaries
       is a counterweight to the formal structuring of the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
       A similar change of thought happens between 58 and 59 within the "W" stanza.
-      Indeed, even <em>within</em> a verse, at 42,
-      when the poet is on the brink of regaining his confidence,
+    </p>
+
+    <p>
+      And it is <em>within</em> a single verse, at 42,
+      that perhaps the most abrupt change of direction happens.
+      Just when the poet is on the brink of regaining his confidence,
       the vision of fragile hope is shattered and evaporates:
-      "But you did not forgive".<?php
-        Footnote('Dobbs-Allsopp (1997), p.48.');
+      "<em>But you did not forgive</em>".
+      Like a thunderbolt from a clear blue sky,
+      scything through the verse
+      and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
+      "<em>But you did not forgive</em>".<?php
+        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52.');
+      ?>
+      This may be the most disturbing idea in the chapter, and in the entire book.<?php
+        Footnote('Berlin (2004), p.96.');
       ?>
     </p>
 
     <p>
-      Like the earlier two poems, this can also be seen as being in two primary "voices":
-      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.125'); ?>
-      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92'); ?>
+      Like the earlier two poems, this may also be seen as being in two primary "voices":
+      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.123. But Hens-Piazza (2017), p.39 sees just one voice throughout.'); ?>
+      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
       That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
         Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
       ?>
     </p>
+
+    <p>
+      <!-- Ths paragraph and following list referenced in "staging" -->
+      The three 'L'-acrostic lines, 28&ndash;30, may be seen relating to three earlier complaints:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
+    </p>
+
+    <ul>
+      <li>
+        28: "Lonesome let him sit and in silence": <i>cf.</i> 2&ndash;8: the dark isolation and confinement
+      </li>
+      <li>
+        29: "Lend he his mouth to the dust": <i>cf.</i> 16: "Fracturing my teeth on gravel, he ground me in dust".
+      </li>
+      <li>
+        30: "Lend he his cheek to the assailant"; take his fill of disgrace: <i>cf.</i> 11&ndash;14: the physical attacks and laughing-stock.
+      </li>
+    </ul>
 
     <p>
       There are many,
@@ -104,19 +132,20 @@
       to slow down the reading process
       and to require our closer attention.
       Dissonance thus enters the poetry's message"<?php
-        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121');
+        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121.');
       ?>
       at precisely the solitary point where hope is expressed.
       The syntax of this new version attempts to reflect this.
+      Similarly, the intensely ordered form of the triple acrostic in the man's outward speech
+      is strikingly at odds with the ambiguity riddling his interior response.<?php
+        Footnote('Hens-Piazza (2017), p.40.');
+      ?>
     </p>
 
     <p>
-      Some see in this chapter's first six verses a sort of "anti-psalm"
-      to the well-known Psalm 23 "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002)');
-      ?>
-      Other commentators extend this reversal further, to v.9 or v.13.<?php
-       Footnote('Berlin (2004), p.86 n.4');
+      Several commentators see in the first few verses a sort of "anti-psalm"
+      to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
+        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41.');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
@@ -260,6 +289,7 @@
           <div class="poem__verseref">16&ndash;18</div>
           <div class="poem__versetext">
             <p>
+              <!-- couplet quoted in chapter intro -->
               Fracturing my teeth on gravel,<br>
                 he ground me in dust.
             </p>
@@ -312,7 +342,7 @@
               ?>
               <p>
                 How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
-                  his compassion never drains;<!-- or perhaps "expends"? -->
+                  his compassion is never drained;
               </p>
               <p>
                 His mercies renew each day-dawning;<br>
@@ -357,14 +387,17 @@
                   $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                Lonesome let him sit and in silence<?php Footnote($fn1); ?><?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                <!-- couplet quoted in chapter intro -->
+                Lonesome let him sit<?php Footnote($fn1); ?> and in silence<?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
+                <!-- couplet quoted in chapter intro -->
                 Lend he his mouth to the dust&mdash;<br>
                   perhaps yet may be hope.
               </p>
               <p>
+                <!-- couplet quoted in chapter intro -->
                 Lend he his cheek to the assailant;<br>
                   take his fill of disgrace.
               </p>
@@ -495,7 +528,7 @@
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust". Further, the final part of 48 is the same as 2:11.';
               ?>
               Stream tears from my eyes at the holocaust<br>
-                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next -->
+                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next --><!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -514,7 +547,7 @@
             </p>
             <p>
               Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
-                for all the daughters of my city.
+                for all the daughters of my city.<!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -524,7 +557,7 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
             <p>
-              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 -->
+              Unreasoning, my enemies ensnared me,<br><!-- "ensnare": 3:52; 4:18 --><!-- quoted in "staging" -->
                 ensnaring as a bird;<!-- double use of "ensnare" -->
             </p>
             <p>

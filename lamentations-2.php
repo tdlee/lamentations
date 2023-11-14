@@ -52,8 +52,15 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
-      Observe the "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
-      Observe, too, the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
+    </p>
+
+    <p>
+      Observe the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
+      Observe, too, the even more savage "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
+      There is a final, vile twist at v.20.
+      Women are cannibalising their children because the Lord has devoured his people.<?php
+        Footnote('Hens-Piazza (2017), pp.34&ndash;35.');
+      ?>
     </p>
 
     <p>
@@ -258,8 +265,8 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
             <p>
-              Hell-bent was the <span class="yhwh">Lord</span> on destroying<br>
-              &emsp;Daughter Zion's wall;<br>
+              Hell-bent was the <span class="yhwh">Lord</span> on destroying<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
+              &emsp;Daughter Zion's wall;<br><!-- mentioned in "staging", section "Daughter Zion" -->
               out-stretching his tape-measure; not staying<br>
               &emsp;his hand from devouring;<br><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               making mourn both wall and rampart,<br>
@@ -415,7 +422,7 @@
           <div class="poem__versetext">
             <p>
               <!-- parts quoted in "staging" -->
-              The <span class="yhwh">Lord</span> has done what he planned,<br>
+              The <span class="yhwh">Lord</span> has done what he planned,<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               &emsp;has fulfilled his threat<br>
               decreed from days of old,<br>
               &emsp;to destroy without pity;<br><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->

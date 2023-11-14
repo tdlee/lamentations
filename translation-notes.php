@@ -486,11 +486,17 @@
     <p>
       This version,
       with its slants towards recovery of the original poetry and to present-day dramatic usage (including worship contexts),
-      specifically follows the "Daughter X" route.<?php
-        Footnote('In a couple of instances the pervasive challenge of the acrostic constraint
-          have necessitated an inversion
-          from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
-          and from "Daughter Zion" to "Zion-Daughter" (4:22).');
+      specifically follows the "Daughter X" route.
+      In a couple of instances the pervasive challenge of the acrostic constraint
+      have necessitated an inversion
+      from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
+      and from "Daughter Zion" to "Zion-Daughter" (4:22).<?php
+        Footnote('As a minor beneficial side-effect
+          this can occasionally aid recitation compactness
+          where strong <i>qinah</i> beats are a scarce commodity.
+          While "<u>daugh</u>ter Je<u>ru</u>salem" still normally uses two beats,
+          it can be eased into a single beat (e.g. "daughter Je<u>ru</u>salem")
+          if necessary, such as at 2:8.');
       ?>
     </p>
 
