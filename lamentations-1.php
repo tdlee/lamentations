@@ -117,10 +117,10 @@
 <div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
 
   alas!
-  &emsp;a-LONE she LIES: the CI-ty
+  &emsp;a-LONE she SITS: the CI-ty
   &emsp;&emsp;once GREAT with PEO-ple;
 
-  &emsp;SHE, once a LA-dy among NA-tions,
+  &emsp;SHE, once GREAT among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
   &emsp;SHE, once prin-CESS among PRO-vinces,
