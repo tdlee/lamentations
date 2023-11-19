@@ -75,7 +75,7 @@
       and sophisticated cross-line and cross-verse enjambment
       have all but vanished,
       there are instead the more balanced lines of Hebrew poetry
-      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140.'); ?>
+      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140; Middlemas (2021), pp.21&ndash;22.'); ?>
       the form so emblematic of Bible's highest form of prayer, the Psalms.
     </p>
     <p>
