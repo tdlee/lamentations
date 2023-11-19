@@ -221,8 +221,8 @@
                   elders disrespected to their faces.
               </p>
               <p>
-                Young men have millstones to carry;<br>
-                  lads under woodpiles stagger.
+                Young men slave at millstones;<br>
+                  lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?>
               </p>
               <p>
                 Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
