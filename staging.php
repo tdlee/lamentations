@@ -130,6 +130,13 @@
     </p>
 
     <p>
+      The opening of chapter&nbsp;3 contrasts against Psalm&nbsp;23;
+      see the chapter introduction.
+      Perhaps the psalm text could be projected,
+      then step-by-step erased as those verses progress.
+    </p>
+
+    <p>
       Also:
     </p>
 

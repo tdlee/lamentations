@@ -49,7 +49,7 @@
       The very attempt to impose structure upon the chaos is under threat;
       structure and content conspire together
       to provide the book with a very unsettling ending.<?php
-        Footnote('Provan (2016), p.124.');
+        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75.');
       ?>
     </p>
     <p>
@@ -75,7 +75,7 @@
       and sophisticated cross-line and cross-verse enjambment
       have all but vanished,
       there are instead the more balanced lines of Hebrew poetry
-      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140.'); ?>
+      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140; Middlemas (2021), pp.21&ndash;22.'); ?>
       the form so emblematic of Bible's highest form of prayer, the Psalms.
     </p>
     <p>
@@ -221,8 +221,8 @@
                   elders disrespected to their faces.
               </p>
               <p>
-                Young men have millstones to carry;<br>
-                  lads under woodpiles stagger.
+                Young men slave at millstones;<br>
+                  lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?>
               </p>
               <p>
                 Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
