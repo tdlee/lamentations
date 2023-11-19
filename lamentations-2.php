@@ -75,9 +75,6 @@
       from the late nineteenth century.<?php
         Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
       ?>
-    </p>
-
-    <p>
       This bombarding effect is counter
       to the English-language "subject then verb" convention.
       That sustained, pounding drive is conveyed here
