@@ -49,7 +49,7 @@
       The very attempt to impose structure upon the chaos is under threat;
       structure and content conspire together
       to provide the book with a very unsettling ending.<?php
-        Footnote('Provan (2016), p.124.');
+        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75.');
       ?>
     </p>
     <p>
