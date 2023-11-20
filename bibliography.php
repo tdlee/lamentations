@@ -101,14 +101,14 @@
     </ul>
 
     <p>
-      Having no knowledge of Hebrew, the following online resources have proved immensely valuable:
+      The following online resources have proved immensely valuable:
     </p>
     <ul>
       <li>
         The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
-        dual-language version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985).
-        This not only shows the Hebrew text but allows each word to be selected
-        for dictionary look-up.<?php
+        dual-language version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985)
+        not only shows the Hebrew text alongside an English version,
+        but allows each Hebrew word to be selected for dictionary look-up.<?php
           Footnote('But such dictionary look-up is not primarily for meaning.
             For that purpose I have used commentaries and other translations.
             It is, rather, for verifying word repetition and threads.
@@ -125,6 +125,12 @@
         (see comment above about Sefaria/JPS)
         and is careful to use words consistently,
         allowing repetition to be clearly visible.
+      </li>
+      <li>
+        Biblehub provides a <a href="https://biblehub.com/parallel/lamentations/1-1.htm" target="_blank">verse-by-verse parallel</a> display
+        of nearly forty different versions,
+        providing a good range of both the consistency and diversity
+        of translation.
       </li>
     </ul>
 
