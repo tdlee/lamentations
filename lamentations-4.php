@@ -235,10 +235,13 @@
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
+              ?>
               Loving women's own hands<br>
               &emsp;cook their own children:<br>
-              their children their food at the holocaust<br>
-              &emsp;of my Daughter People.<!-- 2:11, 3:48, 4:10 -->
+              at the holocaust of my Daughter People<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 -->
+              &emsp;they became their food.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

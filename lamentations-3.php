@@ -503,15 +503,18 @@
                 are all our enemies;
             </p>
             <p>
+              <?php
+                $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust".';
+              ?>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                holocaust and horror.<!-- alliteration; see also next verse -->
+                holocaust and horror.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
-                $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust". Further, the final part of 48 is the same as 2:11.';
+                $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
-              Stream tears from my eyes at the holocaust<br>
-                of my Daughter People;<?php Footnote($fn); ?><!-- holocaust from 47; whole line from 2:11; also 4:10 --><!-- enjambment to next --><!-- quoted in "staging" -->
+              Stream tears from my eyes<br>
+                at the holocaust of my Daughter People;<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- enjambment to next --><!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
