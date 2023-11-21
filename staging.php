@@ -109,6 +109,22 @@
     </ul>
 
     <p>
+      Inclusion of a wall at or towards one side of the stage could be beneficial.
+      Walling is explicitly mentioned in 3:7 and 3:9
+      where it acts as a barrier to prayer.<?php
+        Footnote('The acrostic constraint in this English version has required rendering this with the verb "confine". Nevertheless "wall" is explicitly retained in the overall rendering of the 3:7&ndash;9 verse-set.');
+      ?>
+      At 3:44 God metaphorically walls himself off from prayer by a cloud.
+      At the opening of chapter&nbsp;5 ("Recall, look, notice")
+      the wall can act as a link, now communal.<?php Footnote('Hens-Piazza (2017), p.77.'); ?>
+      To a present-day audience,
+      visual resonance with the well-known Western Wall of the Temple Mount complex
+      then springs to mind
+      (although more literally that might be considered anachronistic
+      as it dates from after the time of Lamentations).
+    </p>
+
+    <p>
       The transition from chapter&nbsp;2 into and through chapter&nbsp;3
       has visual potential.
       Chapters&nbsp;1 and 2 have been portraying Daughter Zion in great distress.
@@ -168,9 +184,9 @@
     </p>
 
     <p>
-      And in the final chapter, where <i>qinah</i> is largely absent,
+      And in the final chapter, where 3&ndash;2 <i>qinah</i> is largely replaced by 3&ndash;3,
       although not entirely so,
-      the rhythmic pulse can still be used.
+      rhythmic pulse is still entirely appropriate.
     </p>
 
     <p>
