@@ -215,6 +215,9 @@
       "<a href="https://en.wikipedia.org/wiki/Sprung_rhythm" target="_blank">sprung rhythm</a> with attitude".
     </p>
 
+    <!--
+      Replicated in "index" and "reading".
+    -->
     <div class="panel panel--width-26em">
       <div class="poem">
         <p>
