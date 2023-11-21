@@ -184,9 +184,9 @@
     </p>
 
     <p>
-      And in the final chapter, where <i>qinah</i> is largely absent,
+      And in the final chapter, where 3&ndash;2 <i>qinah</i> is largely replaced by 3&ndash;3,
       although not entirely so,
-      the rhythmic pulse can still be used.
+      rhythmic pulse is still entirely appropriate.
     </p>
 
     <p>
