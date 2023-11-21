@@ -316,9 +316,12 @@
           <div class="poem__verseref">11</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
+              ?>
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<br>
-              at the holocaust of my Daughter People<br><!-- line recurs at 3:48 and 4:10 -->
+              at the holocaust of my Daughter People<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 -->
               &emsp;my liver-bile pours to the ground,<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               as infants and children expire<br>
               &emsp;in the city streets.
