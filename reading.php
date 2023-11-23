@@ -39,36 +39,52 @@
       If you have ever recited nursery rhymes,
       or heard kids excitedly calling them out in the playground,
       then you already know how to do it.
-      Here are some well-known examples (in these cases 4&ndash;3 and 4&ndash;4):
+      Here are some well-known examples:
     </p>
 
-    <div class="panel panel--width-26em">
-      <div class="poem">
-        <p>
-          &emsp;&emsp;<u>Ma</u>ry,&emsp;&emsp;&emsp;&emsp;&emsp;<u>Ma</u>ry,&emsp;&emsp;&emsp;<u>quite</u> con<u>tra</u>ry<br>
-          &emsp;&emsp;<u>how</u> does your <u>gar</u>den&emsp;&emsp;<u>grow</u>?<br>
-          with <u>sil</u>ver&emsp;&emsp;&emsp;&emsp;&emsp;<u>bells</u> and <u>coc</u>kle&emsp;&emsp;<u>shells</u><br>
-          and <u>pret</u>ty maids&emsp;<u>all</u> in a&emsp;&emsp;<u>row</u>.
-        </p>
-      </div><!-- "poem" -->
+    <div class="panel panel--width-30em">
+      <table class="stresstable nowrap">
+        <tr>
+          <td class="td--right"></td><td class="td--right"><strong>Ma</strong></td><td>ry,&nbsp;</td><td class="td--right"><strong>Ma</strong></td><td>ry,&nbsp;</td><td><strong>quite</strong></td><td>&nbsp;con</td><td class="td--center"><strong>tra</strong></td><td>ry,</td>
+        </tr>
+        <tr>
+          <td class="td--right"></td><td><strong>how</strong></td><td class="td--center">&nbsp;does your&nbsp;</td><td class="td--right"><strong>gar</strong></td><td>den&nbsp;</td><td><strong>grow</strong>?</td><td colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="td--right">With&nbsp;</td><td class="td--right"><strong>sil</strong></td><td>ver&nbsp;</td><td><strong>bells</strong></td><td class="td--center">&nbsp;and&nbsp;</td><td class="td--right"><strong>coc</strong></td><td>kle&nbsp;</td><td><strong>shells</strong>,</td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">and&nbsp;</td><td class="td--right"><strong>pret</strong></td><td>ty maids&nbsp;</td><td class="td--center"><strong>all</strong></td><td class="td--center">&nbsp;in a&nbsp;</td><td><strong>row</strong>.</td><td colspan="3"></td>
+        </tr>
+      </table>
 
       <div class="panel__cite">
-        pulse: 4&ndash;3, 4&ndash;3
+        pulse (line-pairs): 4&ndash;3, 4&ndash;3
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
-    <div class="panel panel--width-26em">
-      <div class="poem">
-        <p>
-          &emsp;&emsp;<u>Hush</u> little &emsp;&emsp;<u>ba</u>by,&emsp;&emsp;&emsp;<u>don't</u> say a <u>word</u><br>
-          &emsp;&emsp;<u>Ma</u>ma's gonna <u>buy</u> you a <u>mock</u>ing &emsp;<u>bird</u><br>
-          And <u>if</u>&emsp;&emsp;that&emsp;&emsp;<u>mock</u>ing&emsp;&emsp;<u>bird</u> don't&emsp;<u>sing</u>,<br>
-          &emsp;&emsp;<u>Ma</u>ma's gonna <u>buy</u> you a&emsp;<u>dia</u>mond&emsp;<u>ring</u>.
-        </p>
-      </div><!-- "poem" -->
+    <p>
+      and:
+    </p>
+
+    <div class="panel panel--width-30em">
+      <table class="stresstable nowrap">
+        <tr>
+          <td class="td--right"></td><td><strong>Hush</strong></td><td class="td--center">&nbsp;little&nbsp;</td><td class="td--right"><strong>ba</strong></td><td>by,&nbsp;</td><td><strong>don't</strong></td><td class="td--center">&nbsp;say a&nbsp;</td><td><strong>word</strong>,</td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right"></td><td class="td--right"><strong>Ma</strong></td><td>ma's gonna&nbsp;</td><td class="td--center"><strong>buy</strong></td><td class="td--center">&nbsp;you a&nbsp;</td><td><strong>mock</strong></td><td>ing&nbsp;</td><td><strong>bird</strong>.</td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">And&nbsp;</td><td class="td--center"><strong>if</strong></td><td class="td--center">&nbsp;that&nbsp;</td><td><strong>mock</strong></td><td>ing&nbsp;</td><td><strong>bird</strong></td><td class="td--center">&nbsp;don't&nbsp;</td><td><strong>sing</strong>,</td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right"></td><td class="td--right"><strong>Ma</strong></td><td>ma's gonna&nbsp;</td><td class="td--center"><strong>buy</strong></td><td class="td--center">&nbsp;you a&nbsp;</td><td class="td--right"><strong>dia</strong></td><td>mond&nbsp;</td><td><strong>ring</strong>.</td><td></td>
+        </tr>
+      </table>
 
       <div class="panel__cite">
-        pulse: 4&ndash;4, 4&ndash;4
+        pulse (line-pairs): 4&ndash;4, 4&ndash;4
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -85,24 +101,30 @@
     <!--
       Replicated in "index" and "reading".
     -->
-    <div class="panel panel--width-26em">
-      <div class="poem">
-        <p>
-          &emsp;&emsp;&emsp;&emsp;<u>Ag</u>onies:&emsp;&emsp;<u>I</u> am the man <u>seared</u><br>
-          by the <u>rod</u> &emsp;of his <u>wrath</u>;
-        </p>
-        <p>
-          &emsp;&emsp;&emsp;A<u>way</u>&mdash;me he <u>drove</u>, force-<u>marched</u><br>
-          &emsp;&emsp;in <u>dark</u>ness, no <u>light</u>;
-        </p>
-        <p>
-          &emsp;&emsp;&emsp;A<u>gainst</u> me he <u>turns</u> &emsp;his&emsp; <u>hand</u><br>
-          &emsp;from <u>day</u>-dawn to <u>dusk</u>;
-        </p>
-      </div><!-- "poem" -->
+    <div class="panel panel--width-30em">
+      <table class="stresstable nowrap">
+        <tr>
+          <td class="td--right"></td><td class="td--right"><strong>Ag</strong></td><td>onies:&nbsp;</td><td class="td--center"><strong>I</strong></td><td class="td--center">&nbsp;am the man&nbsp;</td><td><strong>seared</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">by the&nbsp;</td><td class="td--center"><strong>rod</strong></td><td class="td--center">&nbsp;of his&nbsp;</td><td><strong>wrath</strong>;</td><td colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="td--right">A</td><td><strong>way</strong>&mdash;</td><td class="td--center">&nbsp;me he&nbsp;</td><td class="td--center"><strong>drove</strong>,</td><td class="td--right">&nbsp;force-</td><td><strong>marched</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>dark</strong></td><td>ness, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="td--right">A</td><td><strong>gainst</strong></td><td class="td--center">&nbsp;me, he&nbsp;</td><td class="td--center"><strong>turns</strong></td><td class="td--center">&nbsp;his&nbsp;</td><td><strong>hand</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">from&nbsp;</td><td class="td--right"><strong>day</strong>-</td><td>dawn to&nbsp;</td><td class="td--center"><strong>dusk</strong>;</td><td colspan="3"></td>
+        </tr>
+      </table>
 
       <div class="panel__cite">
-        pulse: 3&ndash;2, 3&ndash;2, 3&ndash;2
+        pulse (line-pairs): 3&ndash;2, 3&ndash;2, 3&ndash;2
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
