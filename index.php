@@ -215,21 +215,34 @@
       "<a href="https://en.wikipedia.org/wiki/Sprung_rhythm" target="_blank">sprung rhythm</a> with attitude".
     </p>
 
-    <div class="panel panel--width-26em">
-      <div class="poem">
-        <p>
-          &emsp;&emsp;&emsp;&emsp;<u>Ag</u>onies:&emsp;&emsp;<u>I</u> am the man <u>seared</u><br>
-          by the <u>rod</u> &emsp;of his <u>wrath</u>;
-        </p>
-        <p>
-          &emsp;&emsp;&emsp;A<u>way</u>&mdash;me he <u>drove</u>, force-<u>marched</u><br>
-          &emsp;&emsp;in <u>dark</u>ness, no <u>light</u>;
-        </p>
-        <p>
-          &emsp;&emsp;&emsp;A<u>gainst</u> me he <u>turns</u> &emsp;his&emsp; <u>hand</u><br>
-          &emsp;from <u>day</u>-dawn to <u>dusk</u>;
-        </p>
-      </div><!-- "poem" -->
+    <!--
+      Replicated in "index" and "reading".
+    -->
+    <div class="panel panel--width-30em">
+      <table class="stresstable nowrap">
+        <tr>
+          <td class="td--right"></td><td class="td--right"><strong>Ag</strong></td><td>onies:&nbsp;</td><td class="td--center"><strong>I</strong></td><td class="td--center">&nbsp;am the man&nbsp;</td><td><strong>seared</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">by the&nbsp;</td><td class="td--center"><strong>rod</strong></td><td class="td--center">&nbsp;of his&nbsp;</td><td><strong>wrath</strong>;</td><td colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="td--right">A</td><td><strong>way</strong>&mdash;</td><td class="td--center">&nbsp;me he&nbsp;</td><td class="td--center"><strong>drove</strong>,</td><td class="td--right">&nbsp;force-</td><td><strong>marched</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>dark</strong></td><td>ness, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="td--right">A</td><td><strong>gainst</strong></td><td class="td--center">&nbsp;me, he&nbsp;</td><td class="td--center"><strong>turns</strong></td><td class="td--center">&nbsp;his&nbsp;</td><td><strong>hand</strong></td><td></td>
+        </tr>
+        <tr>
+          <td class="td--right">from&nbsp;</td><td class="td--right"><strong>day</strong>-</td><td>dawn to&nbsp;</td><td class="td--center"><strong>dusk</strong>;</td><td colspan="3"></td>
+        </tr>
+      </table>
+
+      <div class="panel__cite">
+        &mdash;Lam.&nbsp;3:1&ndash;3
+      </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>

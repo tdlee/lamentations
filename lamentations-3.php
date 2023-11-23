@@ -203,7 +203,7 @@
             </p>
             <p>
               Bound by him in darkness<br>
-                to dwell as the forever-dead.<!-- "forever-dead" preferable to "long-dead"; Berlin,p90; Goldingay,p130 -->
+                to dwell as the ever-dead.<!-- "ever-dead" preferable to "long-dead"; Berlin,p90; Goldingay,p130 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

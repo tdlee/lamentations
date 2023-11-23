@@ -56,7 +56,10 @@
         Middlemas, Jill (2021), <cite>Lamentations: An Introduction and Study Guide</cite>, T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>
       </li>
       <li>
-        Provan, Iain (2016), <cite>Lamentations: A Commentary</cite>, Regent College Publishing, <?php ISBN("978-1-57383-531-2"); ?>
+        O'Connor, Kathleen (2002), <cite>Lamentations and the Tears of the World</cite>, Orbis Books, <?php ISBN("978-1570753992"); ?>
+      </li>
+      <li>
+        Provan, Iain (2016), <cite>Lamentations: A Commentary</cite>, Regent College Publishing, <?php ISBN("978-1-57383-531-2"); ?><?php Footnote('Originally published 1991 by Marshall Pickering (UK) and William B. Eerdmans (USA).'); ?>
       </li>
     </ul>
 
