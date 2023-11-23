@@ -428,7 +428,7 @@
 
     <ul>
       <li>
-        Although the opening "Alas!", Hebrew "Ekah!", of chapters one, two and four is a word,
+        Although the opening "Alas!", Hebrew <i>ekah</i>, of chapters one, two and four is a word,
         a leading commentator describes this as <em>opening primordial scream of "Eikhaaah!"</em>.<?php
           Footnote('In full:
             <em>
