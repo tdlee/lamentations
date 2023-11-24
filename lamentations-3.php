@@ -514,7 +514,7 @@
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
               Stream tears from my eyes<br>
-                at the holocaust of my Daughter People;<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- enjambment to next --><!-- quoted in "staging" -->
+                at my Daughter People's holocaust;<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- enjambment to next --><!-- quoted in "staging" --><!-- quoted in "reading" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
