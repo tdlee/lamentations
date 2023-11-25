@@ -231,7 +231,7 @@
               &emsp;all her splendour.<br>
               Her leaders now wander like deer&mdash;<br>
               &emsp;they find no pasture;<br>
-              They run, all strength spent,<br>
+              they run, all strength spent,<br>
               &emsp;pursued by the hunter.
             </p>
           </div><!-- poem__versetext -->
