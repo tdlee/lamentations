@@ -227,8 +227,8 @@
           <div class="poem__verseref">6</div>
           <div class="poem__versetext">
             <p>
-              From Daughter Zion has departed<br>
-              &emsp;all her splendour.<br>
+              Fled from Daughter Zion<br>
+              &emsp;is all her splendour.<br>
               Her leaders now wander like deer&mdash;<br>
               &emsp;they find no pasture;<br>
               they run, all strength spent,<br>
