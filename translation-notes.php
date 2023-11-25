@@ -494,8 +494,8 @@
         Footnote('As a minor beneficial side-effect
           this can occasionally aid recitation compactness
           where strong <i>qinah</i> beats are a scarce commodity.
-          While "<u>daugh</u>ter Je<u>ru</u>salem" still normally uses two beats,
-          it can be eased into a single beat (e.g. "daughter Je<u>ru</u>salem")
+          While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" still normally uses two beats,
+          it can be eased into a single beat (e.g. "daughter Je<strong>ru</strong>salem")
           if necessary, such as at 2:8.');
       ?>
     </p>

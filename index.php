@@ -367,10 +367,14 @@
     ?>
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
-    "A&nbsp;to&nbsp;Z" sense of totality:<?php
+    "A&nbsp;to&nbsp;Z" sense of totality;<?php
       Footnote('van der Spuy (2008), pp.513&ndash;532.');
     ?>
-    in the case of the people of Lamentations, the totality of the destruction of their beloved Jerusalem;
+    a suffering as vast as the universe of pain, from "A&nbsp;to&nbsp;Z",
+    to which nothing more can be added.<?php
+      Footnote('O\'Connor (2002), p.13.');
+    ?>
+    In the case of the people of Lamentations, this was the totality of the destruction of their beloved Jerusalem;
     the <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
     Indeed, the text of the second poem is itself book-ended, "A&nbsp;to&nbsp;Z" style,
     by "the day of the <span class="yhwh">Lord</span>'s anger".

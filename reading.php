@@ -134,7 +134,7 @@
       rhythmic pulse is still entirely appropriate.
     </p>
 
-    <h2>Theme words and recurrence</h2>
+    <h2>Recurring theme words and phrases</h2>
 
     <p>
       Be alert to particular words that recur.
@@ -176,6 +176,9 @@
             See 4:16 and its footnotes.
           </li>
         </ul>
+      </li>
+      <li>
+        In 2:11, 3:48 and 4:10 the second half-line is common: "at my Daughter People's holocaust".  From the <i>qinah</i> perspective this would ideally have just two strong beats: "at my <strong>Daugh</strong>ter-People's <strong>ho</strong>locaust".
       </li>
     </ul>
 
