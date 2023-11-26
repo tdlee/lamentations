@@ -65,8 +65,9 @@
         Footnote('Several other linguistic resonances and wordplays across the whole chapter
           lead the surface reading in this direction.');
       ?>
-      Yet in contrast with forcefully direct language in the prophets
-      (Isaiah, Ezekiel, the Twelve, etc.)
+      Yet in contrast with forcefully direct language in the
+      <a href="https://www.britannica.com/topic/biblical-literature/The-Nevi-im-Prophets" target="_blank">Latter Prophets</a>
+      (Isaiah, Jeremiah, Ezekiel, and the twelve minor prophets)
       the language of the Lamentations poet is non-specific:
       she is never here accused of "adultery" or "whoring".<?php
         Footnote('Dobbs-Allsopp (2012), p.64.');
