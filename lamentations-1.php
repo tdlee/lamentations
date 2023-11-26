@@ -342,7 +342,7 @@
             <p>
               Out of the heights he hurled fire<br>
               &emsp;down into my bones.<br>
-              He spread out a net for my feet;<br>
+              He spread a net for my feet;<br>
               &emsp;he turned me back.<br>
               He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;all day sickened.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
