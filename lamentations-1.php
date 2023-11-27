@@ -264,12 +264,15 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v13 she turns the same terminology to her defence.';
+              ?>
               How grievously has Jerusalem sinned&mdash;<br>
               &emsp;how become a soiled rag.<br><!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
               Those who once honoured her, despise her,<br>
               &emsp;seeing her nakedness.<br>
               She, aghast, cries out;<br>
-              &emsp;she hides her face.
+              &emsp;she recoils backwards.<?php Footnote($fn); ?><!-- vv8,13: same root words "turn/back" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -344,7 +347,7 @@
               Out of the heights he hurled fire<br>
               &emsp;down into my bones.<br>
               He spread a net for my feet;<br>
-              &emsp;he turned me back.<br>
+              &emsp;recoiling me backwards.<?php Footnote('See footnote at v8.'); ?><br><!-- vv8,13: same root words "turn/back" -->
               He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;all day sickened.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
@@ -455,7 +458,7 @@
             <p>
               Wretched am I, <span class="yhwh">Lord</span>; look!<br><!-- referenced in notes (for notice/look) -->
               &emsp;My stomach churns,<br>
-              my heart recoils within me:<br>
+              my heart turns over within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               Outside the sword bereaves;<br>
               &emsp;inside, too, death.
