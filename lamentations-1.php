@@ -216,7 +216,7 @@
               Enemies now have mastered her;<br><!-- enemy/foe -->
               &emsp;her foes prosper,<br><!-- enemy/foe -->
               since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
-              &emsp;for her many misdeeds.<br>
+              &emsp;for her many transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               Her youngsters are driven to exile,<br>
               &emsp;captive before the enemy.<!-- enemy/foe -->
             </p>
@@ -363,7 +363,7 @@
                 $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
-              Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
+              Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;<br><!-- 5,14,22: same word "transgressions" -->
               &emsp;bound tight by his hand<br>
               his yoke was upon my neck:<br>
               &emsp;he sapped my strength.<br>
@@ -496,7 +496,7 @@
               Zero in&mdash;their malignant ways all are before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
               as you unleashed against me<br>
-              &emsp;for all my rebellions.<br>
+              &emsp;for all my transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               For great<?php Footnote($fn); ?> are my groans;<br><!-- "great": 1a,1b,22c -->
               &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
