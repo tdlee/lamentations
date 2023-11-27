@@ -312,7 +312,7 @@
           <div class="poem__versetext">
             <p>
               Moaning in famine her people<br>
-              &emsp;searching for bread,<br>
+              &emsp;all search for bread,<br>
               bartering treasures for food<br>
               &emsp;to cling to their lives.<br>
               "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
