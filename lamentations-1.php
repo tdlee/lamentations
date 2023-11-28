@@ -380,7 +380,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
+                $fn1='This is the only occurrence of this verb in the entire Bible, so any translation is conjectural.';
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;<br><!-- 5,14,22: same word "transgressions" -->
