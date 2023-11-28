@@ -126,6 +126,7 @@
   &emsp;SHE, once prin-CESS among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
                 $fn='"Alas!": Hebrew <i>ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
@@ -282,9 +283,14 @@
               &emsp;she was heedless to her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
+            </p>
+            <div class="poem__versespeaker">Daughter Zion:</div>
+            <div class="poem--non-acrostic">
+            <p>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
               &emsp;how the foe triumphs."<!-- enemy/foe -->
             </p>
+            </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -294,6 +300,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               Lecherous enemy hands spread<br><!-- enemy/foe -->
               &emsp;all over her treasures;<br>
@@ -314,9 +321,14 @@
               &emsp;searching for bread,<br>
               bartering treasures for food<br>
               &emsp;to cling to their lives.<br>
+            </p>
+            <div class="poem__versespeaker">Daughter Zion:</div>
+            <div class="poem--non-acrostic">
+            <p>
               "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;for I am despised."
             </p>
+            </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -406,6 +418,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               Taut-stretched reach out Zion's hands,<br>
               &emsp;but none comforts her;<br>
@@ -421,6 +434,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Daughter Zion:</div>
             <p>
               Upright in judgement is the <span class="yhwh">Lord</span>,<br>
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->

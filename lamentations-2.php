@@ -127,6 +127,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
                 $fn='See footnotes on 1:1.';
@@ -471,6 +472,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Daughter Zion:</div>
             <p>
               <?php
                 $fn1='A horrific but untranslatable pun bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
