@@ -127,6 +127,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
                 $fn='See footnotes on 1:1.';
@@ -471,9 +472,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Daughter Zion:</div>
             <p>
               <?php
-                $fn1='A horrific but untranslatable pun bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
+                $fn1='An untranslatable pun of horrific intensity bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
                 $fn2='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
               ?>
               Who have you thus tormented?<?php Footnote($fn1); ?><br><!-- 2:20, 3:51: same strong verb -->

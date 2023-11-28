@@ -65,8 +65,9 @@
         Footnote('Several other linguistic resonances and wordplays across the whole chapter
           lead the surface reading in this direction.');
       ?>
-      Yet in contrast with forcefully direct language in the prophets
-      (Isaiah, Ezekiel, the Twelve, etc.)
+      Yet in contrast with forcefully direct language in the
+      <a href="https://www.britannica.com/topic/biblical-literature/The-Nevi-im-Prophets" target="_blank">Latter Prophets</a>
+      (Isaiah, Jeremiah, Ezekiel, and the twelve minor prophets)
       the language of the Lamentations poet is non-specific:
       she is never here accused of "adultery" or "whoring".<?php
         Footnote('Dobbs-Allsopp (2012), p.64.');
@@ -126,6 +127,7 @@
   &emsp;SHE, once prin-CESS among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
                 $fn='"Alas!": Hebrew <i>ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
@@ -215,7 +217,7 @@
               Enemies now have mastered her;<br><!-- enemy/foe -->
               &emsp;her foes prosper,<br><!-- enemy/foe -->
               since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
-              &emsp;for her many misdeeds.<br>
+              &emsp;for her many transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               Her youngsters are driven to exile,<br>
               &emsp;captive before the enemy.<!-- enemy/foe -->
             </p>
@@ -227,11 +229,11 @@
           <div class="poem__verseref">6</div>
           <div class="poem__versetext">
             <p>
-              From Daughter Zion has departed<br>
-              &emsp;all her splendour.<br>
+              Fled from Daughter Zion<br>
+              &emsp;is all her splendour.<br>
               Her leaders now wander like deer&mdash;<br>
               &emsp;they find no pasture;<br>
-              They run, all strength spent,<br>
+              they run, all strength spent,<br>
               &emsp;pursued by the hunter.
             </p>
           </div><!-- poem__versetext -->
@@ -263,12 +265,15 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v13 she turns the same terminology to her defence.';
+              ?>
               How grievously has Jerusalem sinned&mdash;<br>
               &emsp;how become a soiled rag.<br><!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
               Those who once honoured her, despise her,<br>
               &emsp;seeing her nakedness.<br>
               She, aghast, cries out;<br>
-              &emsp;she hides her face.
+              &emsp;she recoils backwards.<?php Footnote($fn); ?><!-- vv8,13: same root words "turn/back" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -282,9 +287,14 @@
               &emsp;she was heedless to her future.<br>
               Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
               &emsp;there is none to comfort her.<br>
+            </p>
+            <div class="poem__versespeaker">Daughter Zion:</div>
+            <div class="poem--non-acrostic">
+            <p>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
               &emsp;how the foe triumphs."<!-- enemy/foe -->
             </p>
+            </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -294,6 +304,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               Lecherous enemy hands spread<br><!-- enemy/foe -->
               &emsp;all over her treasures;<br>
@@ -311,12 +322,17 @@
           <div class="poem__versetext">
             <p>
               Moaning in famine her people<br>
-              &emsp;searching for bread,<br>
+              &emsp;all search for bread,<br>
               bartering treasures for food<br>
               &emsp;to cling to their lives.<br>
+            </p>
+            <div class="poem__versespeaker">Daughter Zion:</div>
+            <div class="poem--non-acrostic">
+            <p>
               "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;for I am despised."
             </p>
+            </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -342,8 +358,8 @@
             <p>
               Out of the heights he hurled fire<br>
               &emsp;down into my bones.<br>
-              He spread out a net for my feet;<br>
-              &emsp;he turned me back.<br>
+              He spread a net for my feet;<br>
+              &emsp;recoiling me backwards.<?php Footnote('See footnote at v8.'); ?><br><!-- vv8,13: same root words "turn/back" -->
               He has made me desolate:<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;all day sickened.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
@@ -359,7 +375,7 @@
                 $fn1='The Hebrew verb "nisqad" only occurs here so any translation is conjectural.';
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
-              Packed<?php Footnote($fn1); ?> into a yoke are my sins;<br>
+              Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;<br><!-- 5,14,22: same word "transgressions" -->
               &emsp;bound tight by his hand<br>
               his yoke was upon my neck:<br>
               &emsp;he sapped my strength.<br>
@@ -406,6 +422,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <p>
               Taut-stretched reach out Zion's hands,<br>
               &emsp;but none comforts her;<br>
@@ -421,6 +438,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Daughter Zion:</div>
             <p>
               Upright in judgement is the <span class="yhwh">Lord</span>,<br>
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
@@ -454,7 +472,7 @@
             <p>
               Wretched am I, <span class="yhwh">Lord</span>; look!<br><!-- referenced in notes (for notice/look) -->
               &emsp;My stomach churns,<br>
-              my heart recoils within me:<br>
+              my heart turns over within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               Outside the sword bereaves;<br>
               &emsp;inside, too, death.
@@ -492,7 +510,7 @@
               Zero in&mdash;their malignant ways all are before you;<br><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               &emsp;unleash against them<br><!-- vv12,22: common "unleash" ("deal out") -->
               as you unleashed against me<br>
-              &emsp;for all my rebellions.<br>
+              &emsp;for all my transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               For great<?php Footnote($fn); ?> are my groans;<br><!-- "great": 1a,1b,22c -->
               &emsp;my heart is sick.<!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
             </p>
