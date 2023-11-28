@@ -266,14 +266,22 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v13 she turns the same terminology to her defence.';
+                $fn_soiled='The Hebrew is unclear and anomalous,
+                  with three possibilities of meaning and interpretation:
+                  "mockery", "wanderer" and "menstruant",
+                  the last supported by its similarity to (although not sameness as)
+                  the closing phrase of the more certain v17.
+                  There may well be an intentional interplay of them all.
+                  See Berlin (2004), pp.53&ndash;54 (and 58&ndash;59); also Goldingay (2022), pp.62&ndash;63.
+                  This version uses a common "soiled" at both verses to reflect this resonance.';
+                $fn_recoil='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v13 she turns the same terminology to her defence.';
               ?>
               How grievously has Jerusalem sinned&mdash;<br>
-              &emsp;how become a soiled rag.<br><!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
+              &emsp;how become a soiled rag.<?php Footnote($fn_soiled); ?><br><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
               Those who once honoured her, despise her,<br>
               &emsp;seeing her nakedness.<br>
               She, aghast, cries out;<br>
-              &emsp;she recoils backwards.<?php Footnote($fn); ?><!-- vv8,13: same root words "turn/back" -->
+              &emsp;she recoils backwards.<?php Footnote($fn_recoil); ?><!-- vv8,13: same root words "turn/back" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -428,8 +436,8 @@
               &emsp;but none comforts her;<br>
               the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
               &emsp;his enemies to encircle;<br>
-              Jerusalem in their eyes has become<br>
-              &emsp;a soiled towel.<!-- vv 8,17: "soiled x" Hebrew roots very similar; let them resonate in English -->
+              Jerusalem has become among them<br>
+              &emsp;menstrually soiled.<!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
