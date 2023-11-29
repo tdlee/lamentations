@@ -213,7 +213,7 @@
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
               has devoured all of her palaces,<br><!-- "devour" thread -->
               &emsp;and laid waste her strongholds;<br>
-              has multiplied for Daughter Judah<br>
+              has multiplied within Daughter Judah<br>
               &emsp;wailing and weeping.<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
