@@ -211,7 +211,7 @@
               ?>
               Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
-              has devoured all her palaces,<br><!-- "devour" thread -->
+              has devoured all her palaces,<br><!-- "devour" thread --><!-- vv.5,7: same "palaces" word -->
               &emsp;and laid waste her strongholds;<br>
               has multiplied within Daughter Judah<br>
               &emsp;wailing and weeping.<?php Footnote($fn); ?>
@@ -249,7 +249,7 @@
               God<?php Footnote($fn); ?> has rejected his altar,<br>
               &emsp;disowned his shrine;<br>
               given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
-              &emsp;the walls of her strongholds.<br>
+              &emsp;the walls of her palaces.<br><!-- vv.5,7: same "palaces" word -->
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
               &emsp;as on <em>our</em> feast-day.<?php
                 Footnote('"God has enabled Israel\'s enemies to engage in a parody of [Israel\'s] worship in the very temple itself." Provan (2016), p.67.');
