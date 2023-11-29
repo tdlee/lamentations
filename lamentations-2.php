@@ -211,7 +211,7 @@
               ?>
               Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
-              has devoured all of her palaces,<br><!-- "devour" thread -->
+              has devoured all her palaces,<br><!-- "devour" thread -->
               &emsp;and laid waste her strongholds;<br>
               has multiplied within Daughter Judah<br>
               &emsp;wailing and weeping.<?php Footnote($fn); ?>
