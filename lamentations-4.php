@@ -179,7 +179,7 @@
             <p>
               Far greater my Daughter People's iniquity<br>
               &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
-              which had been in an instant erased<br>
+              which had been overthrown in an instant<br><!-- "overthrown": the "turn" verb from other chapters -->
               &emsp;with no hand on her laid.
             </p>
           </div><!-- poem__versetext -->
