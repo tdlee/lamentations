@@ -432,7 +432,7 @@
           <div class="poem__versetext">
             <div class="poem__versespeaker">Narrator:</div>
             <p>
-              Taut-stretched reach out Zion's hands,<br>
+              Taut-stretched, Zion's hands reach out,<br>
               &emsp;but none comforts her;<br>
               the <span class="yhwh">Lord</span> has summoned against Jacob<br><!-- verb: 15,19: match; 17:different -->
               &emsp;his enemies to encircle;<br>
