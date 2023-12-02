@@ -39,7 +39,8 @@
       If you have ever recited nursery rhymes,
       or heard kids excitedly calling them out in the playground,
       then you already know how to do it.
-      Here are some well-known examples:
+      Here are some well-known examples and their respective rhythmical pulses,
+      first in 4&ndash;3:
     </p>
 
     <div class="panel panel--width-30em">
@@ -64,7 +65,7 @@
     </div><!-- "panel" -->
 
     <p>
-      and:
+      then in 4&ndash;4:
     </p>
 
     <div class="panel panel--width-30em">
@@ -95,7 +96,8 @@
     </p>
 
     <p>
-      Here are the opening verses from this version of Lamentations&nbsp;3:
+      Here are the opening verses from this version of Lamentations&nbsp;3
+      in its characteristic 3&ndash;2 <i>qinah</i> pulse:
     </p>
 
     <!--
