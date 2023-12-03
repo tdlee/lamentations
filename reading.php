@@ -39,7 +39,10 @@
       If you have ever recited nursery rhymes,
       or heard kids excitedly calling them out in the playground,
       then you already know how to do it.
-      Here are some well-known examples:
+      Here are some well-known examples and their respective rhythmical pulses.
+      This first is in 4&ndash;3:
+      in each line pair the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
+      and the second has three strong beats ("how", "gar-", "grow"):
     </p>
 
     <div class="panel panel--width-30em">
@@ -64,7 +67,8 @@
     </div><!-- "panel" -->
 
     <p>
-      and:
+      This second is in 4&ndash;4:
+      in each line pair, both have four strong beats.
     </p>
 
     <div class="panel panel--width-30em">
@@ -95,7 +99,8 @@
     </p>
 
     <p>
-      Here are the opening verses from this version of Lamentations&nbsp;3:
+      Here are the opening verses from this rendering of Lamentations&nbsp;3
+      in its characteristic 3&ndash;2 <i>qinah</i> pulse:
     </p>
 
     <!--

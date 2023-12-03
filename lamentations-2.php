@@ -211,9 +211,9 @@
               ?>
               Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
-              has devoured all of her palaces,<br><!-- "devour" thread -->
+              has devoured all her palaces,<br><!-- "devour" thread --><!-- vv.5,7: same "palaces" word -->
               &emsp;and laid waste her strongholds;<br>
-              has multiplied for Daughter Judah<br>
+              has multiplied within Daughter Judah<br>
               &emsp;wailing and weeping.<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
@@ -244,12 +244,12 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "The Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "the Lord"; and early, strong identification seems important in this verse.';
+                $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "My Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "my Lord"; and early, strong identification seems important in this verse.';
               ?>
               God<?php Footnote($fn); ?> has rejected his altar,<br>
               &emsp;disowned his shrine;<br>
               given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
-              &emsp;the walls of her strongholds.<br>
+              &emsp;the walls of her palaces.<br><!-- vv.5,7: same "palaces" word -->
               Now <em>they</em> in the <span class="yhwh">Lord</span>'s house shout<br>
               &emsp;as on <em>our</em> feast-day.<?php
                 Footnote('"God has enabled Israel\'s enemies to engage in a parody of [Israel\'s] worship in the very temple itself." Provan (2016), p.67.');
