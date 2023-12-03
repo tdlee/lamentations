@@ -504,17 +504,17 @@
             </p>
             <p>
               <?php
-                $fn='Verses 47&ndash;48 involve alliteration and the repetition of "holocaust".';
+                $fn='Verses 47&ndash;48 involve alliteration and the repetition of "ravaging".';
               ?>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                holocaust and horror.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
+                ravaging and ransack.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
               Stream tears from my eyes<br>
-                at my Daughter People's holocaust;<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- enjambment to next --><!-- quoted in "staging" --><!-- quoted in "reading" -->
+                at my Daughter People's ravaging;<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- enjambment to next --><!-- quoted in "staging" --><!-- quoted in "reading" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
