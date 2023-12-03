@@ -463,7 +463,7 @@
               Vociferous! Cry anguished at night,<br>
               &emsp;at the start of each watch.<br>
               Pour out your heart like water<br><!-- 2:4,11,12,19: same verb -->
-              &emsp;in full sight of our Lord.<br>
+              &emsp;before the face of our Lord.<br><!-- "face": 2:19, 4:16 -->
               Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
               [who faint from famine and hunger<br>

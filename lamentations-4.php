@@ -338,6 +338,7 @@
               $fnface1='Astonishingly, very few English translations capture this verse\'s double use of "face" in the Hebrew. See the translation notes.';
               $fnface2='"The <span class="yhwh">Lord</span>\'s face" is usually a positive image, and with priestly blessing of favour: Num.&nbsp;6:24&ndash;26. But here his face operates in a hostile fashion; see Goldingay (2022), p.179. It can be his angry face: Lev.&nbsp;26:17; see Berlin (2004), p.102, note&nbsp;\'m\'.';
             ?>
+              <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
               &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
               The people from the priests turn their own faces:<br>
