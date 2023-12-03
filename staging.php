@@ -88,7 +88,9 @@
       which leads to a sweeping panorama of three iniital candidates on display:
       prophets (14), passers-by (15) and even human enemies (16).
       Finally there is a fourth candidate, God himself.
-      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98.'); ?>
+      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php
+        Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98; O\'Connor (2002), pp.40&ndash;41.');
+      ?>
     </p>
 
     <p>
