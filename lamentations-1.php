@@ -251,7 +251,7 @@
               Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<br>
-              &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
+              &emsp;in her days of downfall.<br><!-- 1:7,9, 3:19: "downfall" -->
               [When her people fell to enemy hand,<br><!-- enemy/foe -->
               &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
               Her enemies look on and mock<br>
@@ -293,7 +293,7 @@
             <p>
               Impurity clings to her skirts;<br>
               &emsp;she was heedless to her future.<br>
-              Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
+              Downfallen in jaw-dropping shock,<br><!-- 1:7,9, 3:19: "downfall" -->
               &emsp;there is none to comfort her.<br>
             </p>
             <div class="poem__versespeaker">Daughter Zion:</div>

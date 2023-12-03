@@ -174,7 +174,7 @@
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
-              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- 3:1, 3:19: "sear" verbal root. -->
+              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
                 by the rod of his wrath;
             </p>
             <p>
@@ -199,7 +199,7 @@
             </p>
             <p>
               Besieged by him; he caged me<br>
-                by bitterness, hardship;
+                by hardship and gall;<!-- vv.5,19: "gall" -->
             </p>
             <p>
               Bound by him in darkness<br>
@@ -262,7 +262,7 @@
             </p>
             <p>
               Engorging me, force-feeding bitterness<br>
-                he sated me with gall;<!-- vv.15,19: bitter/gall word-pair --><!-- enjambment to next -->
+                he sated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -295,16 +295,16 @@
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
             <?php
-              $fn1='The pairing "gall" and "bitterness" echoes from v.15.';
-              $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
+              $fn1='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
+              $fn2='This "remembering" verse brings the section towards its close, itself recalling its opening "searing", O\'Connor (2002), p.48, and bracketing its "gall" (v5) and "wormwood" (v15), Goldingay (2022), p.136.  It also recalls the "downfall" of 1:7,9; Goldingay (2022), pp.60&ndash;61, 65, 135&ndash;136; Berlin(2004), p.82.';
             ?>
             <p>
-              Gall and bitterness<?php Footnote($fn1); ?> are my searing<br><!-- vv.15,19: bitter/gall word-pair --><!-- 3:1, 3:19: "sear" verbal root. -->
-                and hollowness&mdash;such remembering;
+              Gall and wormwood are my searing<br><!-- vv.15,19: "wormwood" --><!-- vv.5,19: "gall" --><!-- vv.1,19: "sear" verbal root. -->
+                and downfall&mdash;such remembering;<?php Footnote($fn1); Footnote($fn2); ?><!-- 1:7,9, 3:19: "downfall" -->
             </p>
             <p>
               Grief downcasts my soul&mdash;<br>
-                such recollecting; such remembering.<?php Footnote($fn2); ?>
+                such recollecting; such remembering.
             </p>
             <p>
               Glimmering with this to heart<br>
