@@ -277,7 +277,7 @@
                 he ground me in dust.
             </p>
             <p>
-              Far any peace from my spirit,<br><!-- vv.17,24: same "spirit" -->
+              Far any peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 I forgot what is good;
             </p>
             <?php
@@ -303,7 +303,7 @@
                 and downfall&mdash;such remembering;<?php Footnote($fn1); Footnote($fn2); ?><!-- 1:7,9, 3:19: "downfall" -->
             </p>
             <p>
-              Grief downcasts my soul&mdash;<br>
+              Grief downcasts my soul&mdash;<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 such recollecting; such remembering.
             </p>
             <p>
@@ -332,7 +332,7 @@
                   how great is your faithfulness.
               </p>
               <p>
-                Hope I therefore in him;<?php Footnote($fn1); ?> my spirit says<br><!-- vv.17,24: same "spirit" --><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
+                Hope I therefore in him;<?php Footnote($fn1); ?> my soul says<br><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                   "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn2); ?>
               </p>
             </div><!-- poem__versetext -->
@@ -347,7 +347,7 @@
                   $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
                 ?>
                 Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
-                  to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
+                  to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
                 Irreproachable: our hoping in quietness<br>
@@ -532,7 +532,7 @@
                 and sees from the heavens.
             </p>
             <p>
-              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
+              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 for all the daughters of my city.<!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
@@ -587,7 +587,7 @@
           <div class="poem__versetext">
             <p>
               When you plead, my Lord, my cause,<br>
-                you redeem my life.
+                you redeem my soul.<!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->
