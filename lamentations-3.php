@@ -174,7 +174,7 @@
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
-              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" -->
+              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- 3:1, 3:19: "sear" verbal root. -->
                 by the rod of his wrath;
             </p>
             <p>
@@ -299,7 +299,7 @@
               $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
             ?>
             <p>
-              Gall and bitterness<?php Footnote($fn1); ?> are my affliction<br><!-- vv.15,19: bitter/gall word-pair -->
+              Gall and bitterness<?php Footnote($fn1); ?> are my searing<br><!-- vv.15,19: bitter/gall word-pair --><!-- 3:1, 3:19: "sear" verbal root. -->
                 and hollowness&mdash;such remembering;
             </p>
             <p>
