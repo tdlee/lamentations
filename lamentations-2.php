@@ -323,7 +323,7 @@
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<br>
               my liver-bile pours to the ground<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
-              &emsp;at my Daughter People's holocaust,<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
+              &emsp;at my Daughter People's ravaging,<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               as infants and children expire<br>
               &emsp;in the city streets.
             </p>
@@ -357,7 +357,7 @@
               &emsp;liken you? How advocate?<br>
               O virgin Daughter Zion:<br>
               &emsp;whose plight is like yours?<br>
-              Wide as the sea breaks your wound;<br>
+              Wide as the sea is your ravaging;<br>
               &emsp;who could heal you?
             </p>
           </div><!-- poem__versetext -->

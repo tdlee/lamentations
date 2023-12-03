@@ -367,27 +367,12 @@
       Lamentations was written in contemporary language.
       Accordingly this version sometimes uses words and terms that are relatively modern
       or that have a modern edge.
-      Examples that carry additional relevance from recent history, particularly <abbr title="World War 2">WW2</abbr>, are:
-    </p>
-    <ul>
-      <li>
-        blitzed (2:2): imported into English from the German "blitzkrieg".
-      </li>
-      <li>
-        firestorm (4:11): an older word that gained particular currency from Allied bombing raids.
-      </li>
-      <li>
-        holocaust (2:11, 3:47,48, 4:10): while an old word, this gained specific usage following the gas-chamber slaughter of Jewish people and others.
-      </li>
-    </ul>
-
-    <p>
-      Other examples include: "zero in" (1:22), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "boozed" (4:21), "up to our necks" (5:5).
-      And "ranked" (4:2) also now carries an additional modern slant of disdain.
+      Examples include: "zero in" (1:22), "blitzed" (2:2), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "up to our necks" (5:5).
     </p>
 
     <p>
       Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
+      And "ranked" (4:2) also now carries an appropriate modern slant of disdain.
     </p>
 
     <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>

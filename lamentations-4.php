@@ -241,7 +241,7 @@
               Loving women's own hands<br>
               &emsp;cook their own children:<br>
               they became their food for them<br>
-              &emsp;at my Daughter People's holocaust.<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
+              &emsp;at my Daughter People's ravaging.<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

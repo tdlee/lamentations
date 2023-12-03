@@ -183,7 +183,18 @@
         </ul>
       </li>
       <li>
-        In 2:11, 3:48 and 4:10 the second half-line is common: "at my Daughter People's holocaust".  From the <i>qinah</i> perspective this would ideally have just two strong beats: "at my <strong>Daugh</strong>ter-People's <strong>ho</strong>locaust".
+        The word "ravaging" threads through 2:11, 2:13, 3:47, 3:48 and 4:10.
+        <ul>
+          <li>
+            At 2:11, 3:48 and 4:10 the second half-line is common:
+            "at my Daughter People's ravaging".
+            From the <i>qinah</i> perspective this would ideally have just two strong beats:
+            "at my <strong>Daugh</strong>ter-People's <strong>ra</strong>vaging".
+          </li>
+          <li>
+            At 3:47 each half-line itself has its own alliteration.
+          </li>
+        </ul>
       </li>
     </ul>
 
