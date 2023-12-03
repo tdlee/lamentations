@@ -96,7 +96,7 @@
     </p>
 
     <p>
-      Here are the opening verses from this version of Lamentations&nbsp;3
+      Here are the opening verses from this rendering of Lamentations&nbsp;3
       in its characteristic 3&ndash;2 <i>qinah</i> pulse:
     </p>
 
