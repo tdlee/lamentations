@@ -117,6 +117,10 @@
       the innocents, are witnessed, with their own mothers agonisingly helpless.<?php
         Footnote('Hens-Piazza (2017), pp.25&ndash;26.');
       ?>
+      "Who could heal you?"&nbsp;(v13). The only possible healer is God,
+      but God is the very one ravaging her in the first place.<?php
+        Footnote('O\'Connor (2002), p.38.');
+      ?>
     </p>
 
     <div class="widthclear"></div>
@@ -358,7 +362,7 @@
               O virgin Daughter Zion:<br>
               &emsp;whose plight is like yours?<br>
               Wide as the sea is your ravaging;<br>
-              &emsp;who could heal you?
+              &emsp;who could heal you?<!-- quoted at start of chapter -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
