@@ -463,7 +463,7 @@
                 to God on high:
             </p>
             <p>
-              Perversely we have rebelled.<br>
+              Perversely we have transgressed.<br><!-- "transgress" root, as 1:5,14,22 -->
                 &mdash;But you did not forgive;<!-- quoted in chapter intro --><!-- semantic enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
