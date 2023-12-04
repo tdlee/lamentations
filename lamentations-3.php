@@ -74,7 +74,7 @@
       scything through the verse
       and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
       "<em>But you did not forgive</em>".<?php
-        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52.');
+        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52. Also O\'Connor (2002), p.53.');
       ?>
       This may be the most disturbing idea in the chapter, and in the entire book.<?php
         Footnote('Berlin (2004), p.96.');
