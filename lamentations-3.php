@@ -377,7 +377,7 @@
               <p>
                 <!-- couplet quoted in chapter intro -->
                 Lend he his mouth to the dust&mdash;<?php Footnote($fn2); ?><br>
-                  perhaps yet may be hope.
+                  perhaps yet may be hope;
               </p>
               <p>
                 <!-- couplet quoted in chapter intro -->
