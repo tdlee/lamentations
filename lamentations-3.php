@@ -399,11 +399,11 @@
                   lasts not forever;
               </p>
               <p>
-                Mercy and kindness will follow<br>
-                  his sorrow-borne strike;<br>
+                Mercy is his, though he afflicted;<br><!-- 32,33: "afflict" -->
+                  so great his loving-kindness.<br><!-- Hebrew "hesed", as in pslams etc. -->
               </p>
               <p>
-                Mean heart guides not his affliction<br>
+                Mean heart guides not his affliction<br><!-- 32,33: "afflict" -->
                   of humanity's children.
               </p>
             </div><!-- poem__versetext -->
