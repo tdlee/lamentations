@@ -486,9 +486,9 @@
             </p>
             <p>
               <?php
-                $fn='The verb "rejected" can be seen as anticipating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
+                $fn='The "discarded" can be seen as anticipating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
               ?>
-              Rejected<?php Footnote($fn); ?> and filth you made us<br>
+              Rejected you made us, discarded,<?php Footnote($fn); ?><br><!-- "discarded": 3:45; 5:22 -->
                 in the midst of the peoples;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
