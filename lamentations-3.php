@@ -355,7 +355,7 @@
               </p>
               <p>
                 Irreproachable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
-                  the yoke while in youth.
+                  the yoke while in youth;
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
