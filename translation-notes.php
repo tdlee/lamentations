@@ -203,8 +203,10 @@
       We need an 'I' word that is reasonably synonymous with "good".<?php
         Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to \'J\' or even \'K\'.  But the smaller number of such words would only have made the problem harder, not easier.');
       ?>
-      "Irreproachable" seems a reasonable choice, with not too much semantic compromise,
-      although its five syllables rather than one pull against our desired linguistic compactness.
+      "Impeccable" seems a reasonable choice, with not too much semantic compromise,
+      although its four syllables rather than one pull against our desired linguistic compactness.<?php
+        Footnote('The first draft had used the even less satisfactory five-syllable "irreproachable".');
+      ?>
     </p>
 
     <p>
