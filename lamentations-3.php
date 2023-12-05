@@ -320,11 +320,11 @@
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
               <?php
-                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn1='In the Greek Septuagint/LXX, this three-verse acrostic stanza, 22&ndash;24, is strangely absent. The previous stanza, 19&ndash;21, ends with "therefore I will hope" and 22&ndash;24 (in the Hebrew) with "therefore I will hope in him". This similarity possibly led to its accidental omission (<i>homoioteleuton</i>) by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
-                How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
+                How constant the <span class="yhwh">Lord</span>'s loyalties;<?php Footnote($fn1); ?><br>
                   his compassion is never drained;
               </p>
               <p>
@@ -332,7 +332,7 @@
                   how great is your faithfulness.
               </p>
               <p>
-                Hope I therefore in him;<?php Footnote($fn1); ?> my soul says<br><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+                Hope I therefore in him; my soul says<br><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                   "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn2); ?>
               </p>
             </div><!-- poem__versetext -->
