@@ -507,7 +507,7 @@
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "ravaging".';
               ?>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                ravaging and ransack.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
+                ransack and ravaging.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
