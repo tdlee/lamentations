@@ -308,7 +308,7 @@
                   Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
               ?>
               <p>
-                Indeed,<?php Footnote($fn); ?> you have discarded us:<br>
+                Indeed,<?php Footnote($fn); ?> you have discarded us:<br><!-- "discarded": 3:45; 5:22 -->
                 to you we are anathem<span class="acrostic-letter">a</span>.<?php Footnote($fn2); ?>
               </p>
             </div><!-- "poem/acrostic" -->

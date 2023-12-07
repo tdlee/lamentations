@@ -74,7 +74,7 @@
       scything through the verse
       and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
       "<em>But you did not forgive</em>".<?php
-        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52.');
+        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52. Also O\'Connor (2002), p.53.');
       ?>
       This may be the most disturbing idea in the chapter, and in the entire book.<?php
         Footnote('Berlin (2004), p.96.');
@@ -174,7 +174,7 @@
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
             ?>
             <p>
-              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" -->
+              Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
                 by the rod of his wrath;
             </p>
             <p>
@@ -199,7 +199,7 @@
             </p>
             <p>
               Besieged by him; he caged me<br>
-                by bitterness, hardship;
+                by hardship and gall;<!-- vv.5,19: "gall" -->
             </p>
             <p>
               Bound by him in darkness<br>
@@ -213,8 +213,8 @@
           <div class="poem__verseref">7&ndash;9</div>
           <div class="poem__versetext">
             <p>
-              Confined, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
-                he chained me and weighted me;
+              Confining, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
+                he chained me, he weighted me;<!-- double "he" in verse, as per most translations -->
             </p>
             <p>
               Cry though I into the void,<br>
@@ -262,7 +262,7 @@
             </p>
             <p>
               Engorging me, force-feeding bitterness<br>
-                he sated me with gall;<!-- vv.15,19: bitter/gall word-pair --><!-- enjambment to next -->
+                he sated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -277,7 +277,7 @@
                 he ground me in dust.
             </p>
             <p>
-              Far any peace from my spirit,<br><!-- vv.17,24: same "spirit" -->
+              Far any peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 I forgot what is good;
             </p>
             <?php
@@ -295,16 +295,16 @@
           <div class="poem__verseref">19&ndash;21</div>
           <div class="poem__versetext">
             <?php
-              $fn1='The pairing "gall" and "bitterness" echoes from v.15.';
-              $fn2='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
+              $fn1='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
+              $fn2='This "remembering" verse brings the section towards its close, itself recalling its opening "searing", O\'Connor (2002), p.48, and bracketing its "gall" (v5) and "wormwood" (v15), Goldingay (2022), p.136.  It also recalls the "downfall" of 1:7,9; Goldingay (2022), pp.60&ndash;61, 65, 135&ndash;136; Berlin(2004), p.82.';
             ?>
             <p>
-              Gall and bitterness<?php Footnote($fn1); ?> are my affliction<br><!-- vv.15,19: bitter/gall word-pair -->
-                and hollowness&mdash;such remembering;
+              Gall and wormwood are my searing<br><!-- vv.15,19: "wormwood" --><!-- vv.5,19: "gall" --><!-- vv.1,19: "sear" verbal root. -->
+                and downfall&mdash;such remembering;<?php Footnote($fn1); Footnote($fn2); ?><!-- 1:7,9, 3:19: "downfall" -->
             </p>
             <p>
-              Grief downcasts my soul&mdash;<br>
-                such recollecting; such remembering.<?php Footnote($fn2); ?>
+              Grief downcasts my soul&mdash;<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+                such recollecting; such remembering.
             </p>
             <p>
               Glimmering with this to heart<br>
@@ -320,11 +320,11 @@
             <div class="poem__verseref">22&ndash;24</div>
             <div class="poem__versetext">
               <?php
-                $fn1='The Hebrew three-verse acrostic stanza 19&ndash;21 ends with "therefore I will hope" and 22&ndash;24 with "therefore I will hope in him". Indeed this similarity possibly led to the accidental omission (<i>homoioteleuton</i>) of the 22&ndash;24 stanza in the Septuagint/LXX by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
+                $fn1='In the Greek Septuagint/LXX, this three-verse acrostic stanza, 22&ndash;24, is strangely absent. The previous stanza, 19&ndash;21, ends with "therefore I will hope" and 22&ndash;24 (in the Hebrew) with "therefore I will hope in him". This similarity possibly led to its accidental omission (<i>homoioteleuton</i>) by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
               <p>
-                How constant the <span class="yhwh">Lord</span>'s loyalties;<br>
+                How constant the <span class="yhwh">Lord</span>'s loyalties;<?php Footnote($fn1); ?><br>
                   his compassion is never drained;
               </p>
               <p>
@@ -332,7 +332,7 @@
                   how great is your faithfulness.
               </p>
               <p>
-                Hope I therefore in him;<?php Footnote($fn1); ?> my spirit says<br><!-- vv.17,24: same "spirit" --><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") -->
+                Hope I therefore in him; my soul says<br><!-- 21,24, "therefore/I/hope" similarities (24 adds "in him") --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                   "My portion is the <span class="yhwh">Lord</span>".<?php Footnote($fn2); ?>
               </p>
             </div><!-- poem__versetext -->
@@ -346,16 +346,16 @@
                 <?php
                   $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
                 ?>
-                Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
-                  to the one who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular -->
+                Impeccable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
+                  to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
-                Irreproachable: our hoping in quietness<br>
+                Impeccable is our hoping in quietness<br>
                   for the <span class="yhwh">Lord</span>'s deliverance;
               </p>
               <p>
-                Irreproachable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
-                  the yoke while in youth.
+                Impeccable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
+                  the yoke while in youth;
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -367,17 +367,17 @@
               <p>
                 <?php
                   $fn1='"Sit" is the same verb as 1:1&mdash;"Alone she sits". Goldingay (2022), p.143.';
-                  $fn2='The three lines of this stanza all begin with verbs; lines two and three share the same one that can mean put, give or offer.';
+                  $fn2='Lines two and three of this stanza start with the same verb that can mean put, give or offer.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
                 <!-- couplet quoted in chapter intro -->
-                Lonesome let him sit<?php Footnote($fn1); ?> and in silence<?php Footnote($fn2); ?><br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                Lonesome let him sit<?php Footnote($fn1); ?> and in silence<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
                   when it's laid so upon him.
               </p>
               <p>
                 <!-- couplet quoted in chapter intro -->
-                Lend he his mouth to the dust&mdash;<br>
-                  perhaps yet may be hope.
+                Lend he his mouth to the dust&mdash;<?php Footnote($fn2); ?><br>
+                  perhaps yet may be hope;
               </p>
               <p>
                 <!-- couplet quoted in chapter intro -->
@@ -399,11 +399,11 @@
                   lasts not forever;
               </p>
               <p>
-                Mercy and kindness will follow<br>
-                  his sorrow-borne strike;<br>
+                Mercy is his, though he afflicted;<br><!-- 32,33: "afflict" -->
+                  so great his loving-kindness.<br><!-- Hebrew "hesed", as in pslams etc. -->
               </p>
               <p>
-                Mean heart guides not his affliction<br>
+                Mean heart guides not his affliction<br><!-- 32,33: "afflict" -->
                   of humanity's children.
               </p>
             </div><!-- poem__versetext -->
@@ -463,7 +463,7 @@
                 to God on high:
             </p>
             <p>
-              Perversely we have rebelled.<br>
+              Perversely we have transgressed.<br><!-- "transgress" root, as 1:5,14,22 -->
                 &mdash;But you did not forgive;<!-- quoted in chapter intro --><!-- semantic enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
@@ -486,9 +486,9 @@
             </p>
             <p>
               <?php
-                $fn='The verb "rejected" can be seen as anticipating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
+                $fn='The "discarded" can be seen as anticipating its recurrence at 5:22, the devasting final verse of the entire book. Goldingay (2022), p.153.';
               ?>
-              Rejected<?php Footnote($fn); ?> and filth you made us<br>
+              Rejected you made us, discarded,<?php Footnote($fn); ?><br><!-- "discarded": 3:45; 5:22 -->
                 in the midst of the peoples;<!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
@@ -507,7 +507,7 @@
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "ravaging".';
               ?>
               Suffering, ours: terror and traps,<br><!-- alliteration -->
-                ravaging and ransack.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
+                ransack and ravaging.<?php Footnote($fn); ?><!-- alliteration; see also next verse -->
             </p>
             <p>
               <?php
@@ -532,7 +532,7 @@
                 and sees from the heavens.
             </p>
             <p>
-              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb -->
+              Tears stream, tormenting my soul<br><!-- see 49 --><!-- 2:20, 3:51: same strong verb --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 for all the daughters of my city.<!-- quoted in "staging" -->
             </p>
           </div><!-- poem__versetext -->
@@ -587,7 +587,7 @@
           <div class="poem__versetext">
             <p>
               When you plead, my Lord, my cause,<br>
-                you redeem my life.
+                you redeem my soul.<!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             </p>
             <p>
               Witness, <span class="yhwh">Lord</span>, how I am wronged;<br><!-- 59/60: same opening word -->

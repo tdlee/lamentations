@@ -415,7 +415,7 @@
       and it still missed a couple of instances.
       Of course, the acrostic nature at the start of the Hebrew verse
       hugely restricts our verb choice in its English representation
-      (Young's non-acrostic version was unhindered by this significant constraint)
+      (Young's non-acrostic translation was unhindered by this significant constraint)
       but it seems at least worth attempting,
       although a few instances were not possible.
     </p>
@@ -473,7 +473,7 @@
 
     <p>
     So why this version?
-    No existing version seems to capture the essential characteristics
+    No existing translation seems to capture the essential characteristics
     of the original Hebrew: Z-inclusive acrostic; <i>qinah</i>; linguistic compactness.
     </p>
     <p>

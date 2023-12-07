@@ -251,7 +251,7 @@
               Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<br>
-              &emsp;in her days of downfall.<br><!-- "vv.7,9: "downfall" -->
+              &emsp;in her days of downfall.<br><!-- 1:7,9, 3:19: "downfall" -->
               [When her people fell to enemy hand,<br><!-- enemy/foe -->
               &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
               Her enemies look on and mock<br>
@@ -293,7 +293,7 @@
             <p>
               Impurity clings to her skirts;<br>
               &emsp;she was heedless to her future.<br>
-              Downfallen in jaw-dropping shock,<br><!-- "vv.7,9: "downfall" -->
+              Downfallen in jaw-dropping shock,<br><!-- 1:7,9, 3:19: "downfall" -->
               &emsp;there is none to comfort her.<br>
             </p>
             <div class="poem__versespeaker">Daughter Zion:</div>
@@ -332,7 +332,7 @@
               Moaning in famine her people<br>
               &emsp;all search for bread,<br>
               bartering treasures for food<br>
-              &emsp;to cling to their lives.<br>
+              &emsp;to salvage their souls.<br><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             </p>
             <div class="poem__versespeaker">Daughter Zion:</div>
             <div class="poem--non-acrostic">
@@ -419,7 +419,7 @@
               Streaming with tears, my eyes&mdash;<br>
               &emsp;my eyes weep for these things;<br>
               far distant one who might comfort me,<?php Footnote($fn); ?><br>
-              &emsp;to restore my soul.<br>
+              &emsp;to salvage my soul.<br><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               My children all are desolate;<br><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               &emsp;the foe has prevailed.<!-- enemy/foe -->
             </p>
@@ -467,8 +467,8 @@
               &emsp;they abandoned me.<br>
               In the city my priests and my elders<br><!-- quoted in chapter intro -->
               &emsp;perish<br>
-              when they search for food to revive<br>
-              &emsp;their souls.
+              when they search for food for themselves<br>
+              &emsp;to salvage their souls.<!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
