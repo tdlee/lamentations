@@ -176,9 +176,12 @@
         <div class="poem__verse">
           <div class="poem__verseref">6</div>
           <div class="poem__versetext">
+            <?php
+              $fn='The pairing of "iniquity" and "outrage" is common to vv.6, 13 and&nbsp;22; see Goldingay (2022), p.186. "Outrage" in this chapter, required by the \'O\' acrostic in v13, corresponds to "sin" in other chapters. (The O-acrostic possibility of "offence" seems too mild.)';
+            ?>
             <p>
               Far greater my Daughter People's iniquity<br>
-              &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
+              &emsp;than the outrage of Sodom,<?php Footnote($fn); ?><br><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
               which had been overthrown in an instant<br><!-- "overthrown": the "turn" verb from other chapters -->
               &emsp;with no hand on her laid.
             </p>
@@ -277,8 +280,8 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Offences of her prophets, the cause,<br>
-              &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
+              Outrages of her prophets, the cause,<br>
+              &emsp;and the iniquities of her priests,<br><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
               who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
               &emsp;the blood of the just.
             </p>
@@ -430,7 +433,7 @@
               Zion-Daughter, your iniquity expiated,<br>
               &emsp;your exile will he lift.<br>
               But your iniquity, Daughter Edom, will he prosecute,<br>
-              &emsp;lay bare your offences.<!-- see also vv.6,13 -->
+              &emsp;lay bare your outrages.<!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
