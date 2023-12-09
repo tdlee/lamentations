@@ -150,7 +150,7 @@
               Dry-thirsted, the suckling's tongue<br>
               &emsp;glues to its palate;<br>
               infants beg for bread<br>
-              &emsp;but none is proffered.
+              &emsp;but no one offers any.
             </p>
 </div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
