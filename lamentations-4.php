@@ -344,7 +344,7 @@
             ?>
               <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
-              &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
+              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" -->
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
