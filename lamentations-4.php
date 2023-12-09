@@ -220,7 +220,7 @@
           <div class="poem__versetext">
             <p>
               Impaling on sword? Far better<br>
-              &emsp;than piercing by famine.<br>
+              &emsp;than impaling by famine.<br>
               Better to bleed from our wounds<br>
               &emsp;than be starved of all food.
             </p>
