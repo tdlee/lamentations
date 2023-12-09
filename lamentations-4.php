@@ -112,7 +112,7 @@
               Belov&egrave;d sons<?php Footnote($fn); ?> of Zion<br><!-- "stones" (v1) and "sons" (v2) should resonate -->
               &emsp;of gold-weight worth,<br>
               alas, ranked mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" doesn't quite capture disposable nature of Hebrew -->
-              &emsp;work of any potter.
+              &emsp;work of a potter's hands.<!-- all three keywords (work, potter, hand) are important -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
