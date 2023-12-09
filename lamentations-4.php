@@ -239,9 +239,10 @@
           <div class="poem__versetext">
             <p>
               <?php
+                $fn_acrostic='The word for God\'s daily compassionate "mercies" from 3:22 here re-appears (adjectively) in a horrifyingly different guise; O\'Connor (2002), p.62; also Goldingay (2022), p.173. Our acrostic constraint requires use of a substitute word, which unfortunately loses that association.';
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
-              Loving women's own hands<br>
+              Loving<?php Footnote($fn_acrostic); ?> women's own hands<br>
               &emsp;cook their own children:<br>
               they became their food for them<br>
               &emsp;at my Daughter People's ravaging.<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
