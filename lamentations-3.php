@@ -346,15 +346,15 @@
                 <?php
                   $fn='In this \'I\' stanza, each line shares an opening Hebrew word meaning "good".';
                 ?>
-                Impeccable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
+                Irreproachable<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,<br>
                   to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
-                Impeccable is our hoping in quietness<br>
+                Irreproachable is our hoping in quietness<br>
                   for the <span class="yhwh">Lord</span>'s deliverance;
               </p>
               <p>
-                Impeccable: a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
+                Irreproachable is a man's bearing<br><!-- man/geber: vv 1,27,35,39 -->
                   the yoke while in youth;
               </p>
             </div><!-- poem__versetext -->
