@@ -112,7 +112,7 @@
               Belov&egrave;d sons<?php Footnote($fn); ?> of Zion<br><!-- "stones" (v1) and "sons" (v2) should resonate -->
               &emsp;of gold-weight worth,<br>
               alas, ranked mere clay crocks&mdash;<br><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" doesn't quite capture disposable nature of Hebrew -->
-              &emsp;work of any potter.
+              &emsp;work of a potter's hands.<!-- all three keywords (work, potter, hand) are important -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -150,7 +150,7 @@
               Dry-thirsted, the suckling's tongue<br>
               &emsp;glues to its palate;<br>
               infants beg for bread<br>
-              &emsp;but none is proffered.
+              &emsp;but no one offers any.
             </p>
 </div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
@@ -176,9 +176,12 @@
         <div class="poem__verse">
           <div class="poem__verseref">6</div>
           <div class="poem__versetext">
+            <?php
+              $fn='The pairing of "iniquity" and "outrage" is common to vv.6, 13 and&nbsp;22; see Goldingay (2022), p.186. "Outrage" in this chapter, required by the \'O\' acrostic in v13, corresponds to "sin" in other chapters. (The O-acrostic possibility of "offence" seems too mild.)';
+            ?>
             <p>
               Far greater my Daughter People's iniquity<br>
-              &emsp;than the offence of Sodom,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
+              &emsp;than the outrage of Sodom,<?php Footnote($fn); ?><br><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
               which had been overthrown in an instant<br><!-- "overthrown": the "turn" verb from other chapters -->
               &emsp;with no hand on her laid.
             </p>
@@ -217,7 +220,7 @@
           <div class="poem__versetext">
             <p>
               Impaling on sword? Far better<br>
-              &emsp;than piercing by famine.<br>
+              &emsp;than impaling by famine.<br>
               Better to bleed from our wounds<br>
               &emsp;than be starved of all food.
             </p>
@@ -236,9 +239,10 @@
           <div class="poem__versetext">
             <p>
               <?php
+                $fn_acrostic='The word for God\'s daily compassionate "mercies" from 3:22 here re-appears (adjectively) in a horrifyingly different guise; O\'Connor (2002), p.62; also Goldingay (2022), p.173. Our acrostic constraint requires use of a substitute word, which unfortunately loses that association.';
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
-              Loving women's own hands<br>
+              Loving<?php Footnote($fn_acrostic); ?> women's own hands<br>
               &emsp;cook their own children:<br>
               they became their food for them<br>
               &emsp;at my Daughter People's ravaging.<?php Footnote($fn); ?><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
@@ -277,8 +281,8 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Offences of her prophets, the cause,<br>
-              &emsp;and the iniquities of her priests,<br><!-- 4:6,13: same nouns, reverse order; 6:singular; 13:plural; also 22 -->
+              Outrages of her prophets, the cause,<br>
+              &emsp;and the iniquities of her priests,<br><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
               who had disgorged in the midst of the city<br><!-- disgorged: 4:1, 4:11, 4:13 -->
               &emsp;the blood of the just.
             </p>
@@ -340,7 +344,7 @@
             ?>
               <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
-              &emsp;no longer he takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. -->
+              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" -->
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
@@ -430,7 +434,7 @@
               Zion-Daughter, your iniquity expiated,<br>
               &emsp;your exile will he lift.<br>
               But your iniquity, Daughter Edom, will he prosecute,<br>
-              &emsp;lay bare your offences.<!-- see also vv.6,13 -->
+              &emsp;lay bare your outrages.<!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
