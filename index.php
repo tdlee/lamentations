@@ -182,7 +182,7 @@
 
     <p>
     Poetry through the ages deploys a range of techniques.
-    There is rhyme.  Metre.  Alliteration.
+    There is rhyme.  Alliteration.  Rhythm and metre.
     Even the physical feel of aloud-spoken words in the mouth plays a part.
     </p>
 
@@ -191,7 +191,7 @@
     But perhaps even more important,
     and also jettisoned in most translations,
     is a forceful, angst-driven rhythm, known as <i>qinah</i>.<?php
-      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm or meter within a poetic line (primarily but not exclusively used within such eulogies).  Middlemas (2021) discusses both: p.2 (large-scale genre), pp.22&ndash;23 (rhythm) and p.33 (their interaction). In our context, we use the rhythmic meaning.');
+      Footnote('The term <i>qinah</i> has two different poetic uses: (a) large-scale: the genre of an entire funeral-eulogy poem; (b) small-scale: a particular 3&ndash;2 rhythm within a poetic line, primarily but not exclusively used within such eulogies.  Middlemas (2021) discusses both: p.2 (large-scale genre), pp.22&ndash;23 (rhythm) and p.33 (their interaction). In our context, we use the rhythmic meaning.');
     ?>
     </p>
 

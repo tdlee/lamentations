@@ -48,7 +48,7 @@
       And this translation emphasises this inherent, structural poetry as a defining characteristic.
       Certainly, the acrostic, including its 'A' and 'Z' endpoints, is key.
       Equally key is the underlying rhythm:
-      that incessantly driving 3&ndash;2 <i>qinah</i> pulse of the first four chapters.
+      that driving 3&ndash;2 <i>qinah</i> rhythm of the first four chapters.
       To the best of my knowledge no other translation of Lamentations has both.
     </p>
 
