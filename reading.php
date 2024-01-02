@@ -31,15 +31,14 @@
     <h2>Qinah de-mystified</h2>
 
     <p>
-      The 3&ndash;2 <i>qinah</i> pulse is vital to the first four chapters.
-      But don't let the thought of poetic stress stress you, or of pulse threaten your pulse-rate.
+      The 3&ndash;2 <i>qinah</i> rhythm is vital to the first four chapters.
     </p>
 
     <p>
       If you have ever recited nursery rhymes,
       or heard kids excitedly calling them out in the playground,
       then you already know how to do it.
-      Here are some well-known examples and their respective rhythmical pulses.
+      Here are some well-known examples and their respective rhythms.
       This first is in 4&ndash;3:
       in each line pair the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
       and the second has three strong beats ("how", "gar-", "grow"):
@@ -62,7 +61,7 @@
       </table>
 
       <div class="panel__cite">
-        pulse (line-pairs): 4&ndash;3, 4&ndash;3
+        rhythm (line-pairs): 4&ndash;3, 4&ndash;3
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -88,19 +87,19 @@
       </table>
 
       <div class="panel__cite">
-        pulse (line-pairs): 4&ndash;4, 4&ndash;4
+        rhythm (line-pairs): 4&ndash;4, 4&ndash;4
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>
-      The pulse is maintained
+      The rhythm is maintained
       and the varying number of words simply slot naturally into place.
       But that said, don't be too rigid about it; give it natural fluidity.
     </p>
 
     <p>
       Here are the opening verses from this rendering of Lamentations&nbsp;3
-      in its characteristic 3&ndash;2 <i>qinah</i> pulse:
+      in its characteristic 3&ndash;2 <i>qinah</i> rhythm:
     </p>
 
     <!--
@@ -129,14 +128,14 @@
       </table>
 
       <div class="panel__cite">
-        pulse (line-pairs): 3&ndash;2, 3&ndash;2, 3&ndash;2
+        rhythm (line-pairs): 3&ndash;2, 3&ndash;2, 3&ndash;2
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>
       And in the final chapter, where 3&ndash;2 <i>qinah</i> is largely replaced by 3&ndash;3,
       although not entirely so,
-      rhythmic pulse is still entirely appropriate.
+      a sense of rhythm is still entirely appropriate.
     </p>
 
     <h2>Recurring theme words and phrases</h2>
