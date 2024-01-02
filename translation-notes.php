@@ -589,9 +589,7 @@
 
     <p>
       Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
-      In general, this version adopts that principle.<?php
-        Footnote('One specific exception is at 4:1&ndash;2 where "sons" is used to allow a carrying forward from the Hebrew of its "stones&hellip;sons" wordplay which is embedded in a larger-scale metaphor in those verses. See the further footnote there.');
-      ?>
+      In general, this version adopts that principle.
     </p>
 
     <p>
@@ -602,6 +600,36 @@
       would seem not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
     </p>
+
+    <p>
+      Particular points include:
+    </p>
+
+    <ul>
+    <li>
+      Chapter&nbsp;3 is primarily about the "strong man", Hebrew <i>geber</i>.
+      But it also uses the Hebrew word <i>adam</i> which is
+      rather like the English word "man",
+      being sometimes generically human and sometimes male-specific.<?php
+        Footnote('See, for example, the near-adjacent uses in Genesis.
+          Gen.1:27 is the generic
+          "God created <i>adam</i>:&hellip; male and female he created them".
+          Gen 2:7 is the male-specific
+          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground",
+          where the context prepares the way for the further creation of his female partner, Eve.');
+      ?>
+      Indeed, 3:39 uses both words.
+      We translate <i>geber</i> as male-specific "man" (or similar)
+      and <i>adam</i> as a generic "one" (or similar).
+    </li>
+
+    <li>
+      At 4:1&ndash;2 "sons" is used to allow a carrying forward from the Hebrew
+      of its "stones&hellip;sons" wordplay
+      which is embedded in a larger-scale metaphor in those verses.
+      See the footnote there.
+    </li>
+    </ul>
 
     <hr>
     <div class="footnotes">
