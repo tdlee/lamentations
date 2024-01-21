@@ -382,25 +382,32 @@
       two closely related but different Hebrew words that name God:
       "YHWH" and "Adonai".
       This has considerations both for writing/reading and for recitation.
-      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master",
-      but this seems unsatisfactory because "Master" is outside normal Christian practice.
-      Yet using "Yahweh" or, worse, "Jehovah" seems unsatisfactory in a version
-      designed for recitation,
-      as Jewish custom avoids saying the Divine Name "YHWH",
+      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master".
+    </p>
+
+    <p>
+      Jewish custom avoids saying the Divine Name "YHWH",
       instead saying the other word "Adonai".<?php
         Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
-      But this Jewish custom at least results a common-sounding word for recitation.
-      Some English translations bring into play terms such as "the Lord Almighty".
-      Again, this long-windedness is unsatisfactory for a version
-      which must translate in as compact and concise a manner as possible.
+      This results a common-sounding word for recitation.
+      Representing "YHWH" as "Yahweh" or, worse, "Jehovah"
+      seems unsatisfactory in a version designed for recitation,
+      And representing "Adonai" as "Master" seems unsatisfactory
+      because it is outside normal Christian practice.
+      Some English translations bring "Sovereign" into play,
+      especially when the Hebrew is "Adonai YHWH",
+      which becomes "Sovereign <span class='yhwh'>Lord</span>".
+      But in Lamentations that double term doesn't appear,
+      so we needn't consider that slightly awkward wording.
     </p>
 
     <p>
       The net result here
       is firstly to adopt the usual present-day practice of writing
-      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals) and "Adonai" as "Lord" (normal case).
-      And because "Adonai" generally appears in a grammatically possessive context
+      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals)
+      and "Adonai" as "Lord" (normal case).
+      And then because "Adonai" generally appears in a grammatically possessive context
       (the underlying noun being "Adon"),
       it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
       so that the subtle written difference is also audibly present in recitation.<?php
