@@ -55,7 +55,7 @@
     </ul>
 
     <p>
-      Section 7&ndash;10 is clearly female-initimate
+      Section 7&ndash;10 is clearly female-intimate
       and the language heaps up with innuendo.
       Yet it contains a deep and unsettling ambiguity
       which has a significant bearing on how we receive it.
