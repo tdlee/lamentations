@@ -40,7 +40,7 @@
       then you already know how to do it.
       Here are some well-known examples and their respective rhythms.
       This first is in 4&ndash;3:
-      in each line pair the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
+      in each line-pair the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
       and the second has three strong beats ("how", "gar-", "grow"):
     </p>
 
@@ -67,7 +67,7 @@
 
     <p>
       This second is in 4&ndash;4:
-      in each line pair, both have four strong beats.
+      in each line-pair, both have four strong beats.
     </p>
 
     <div class="panel panel--width-30em">
