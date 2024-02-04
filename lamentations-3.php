@@ -651,7 +651,7 @@
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2023 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2024 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
