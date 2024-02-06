@@ -35,7 +35,7 @@
     </p>
 
     <p>
-      "Look!" and "notice!" are a thread running through each chapter of Lamentations and across all of them:
+      "Look!" and "notice!" comprise a thread running through each chapter of Lamentations and across all of them:
       see the <a href="translation-notes.php">translation notes</a>.
       And it is all about bringing vivid pictures into the mind.
       Visual staging seems to be not only an option, but encouraged.
