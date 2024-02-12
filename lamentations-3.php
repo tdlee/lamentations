@@ -141,6 +141,12 @@
       <div class="poem poem__hebverse poem--acrostic draft">
 
         <div class="poem__verse">
+          <div class="poem__verseref">
+            Acrostic omissions: J, K, Q, X
+          </div>
+          <div class="poem__versetext">
+            &nbsp;
+          </div><!-- poem__versetext -->
           <div class="poem__verseref">1&ndash;3</div>
           <div class="poem__versetext">
 <div title="Contrast 1-6 with Psalm 23:
@@ -651,7 +657,7 @@
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2023 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2024 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->

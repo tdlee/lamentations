@@ -382,25 +382,32 @@
       two closely related but different Hebrew words that name God:
       "YHWH" and "Adonai".
       This has considerations both for writing/reading and for recitation.
-      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master",
-      but this seems unsatisfactory because "Master" is outside normal Christian practice.
-      Yet using "Yahweh" or, worse, "Jehovah" seems unsatisfactory in a version
-      designed for recitation,
-      as Jewish custom avoids saying the Divine Name "YHWH",
+      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master".
+    </p>
+
+    <p>
+      Jewish custom avoids saying the Divine Name "YHWH",
       instead saying the other word "Adonai".<?php
         Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
-      But this Jewish custom at least results a common-sounding word for recitation.
-      Some English translations bring into play terms such as "the Lord Almighty".
-      Again, this long-windedness is unsatisfactory for a version
-      which must translate in as compact and concise a manner as possible.
+      This results a common-sounding word for recitation.
+      Representing "YHWH" as "Yahweh" or, worse, "Jehovah"
+      seems unsatisfactory in a version designed for recitation,
+      And representing "Adonai" as "Master" seems unsatisfactory
+      because it is outside normal Christian practice.
+      Some English translations bring "Sovereign" into play,
+      especially when the Hebrew is "Adonai YHWH",
+      which becomes "Sovereign <span class='yhwh'>Lord</span>".
+      But in Lamentations that double term doesn't appear,
+      so we needn't consider that slightly awkward wording.
     </p>
 
     <p>
       The net result here
       is firstly to adopt the usual present-day practice of writing
-      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals) and "Adonai" as "Lord" (normal case).
-      And because "Adonai" generally appears in a grammatically possessive context
+      "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals)
+      and "Adonai" as "Lord" (normal case).
+      And then because "Adonai" generally appears in a grammatically possessive context
       (the underlying noun being "Adon"),
       it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
       so that the subtle written difference is also audibly present in recitation.<?php
@@ -589,9 +596,7 @@
 
     <p>
       Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
-      In general, this version adopts that principle.<?php
-        Footnote('One specific exception is at 4:1&ndash;2 where "sons" is used to allow a carrying forward from the Hebrew of its "stones&hellip;sons" wordplay which is embedded in a larger-scale metaphor in those verses. See the further footnote there.');
-      ?>
+      In general, this version adopts that principle.
     </p>
 
     <p>
@@ -602,6 +607,36 @@
       would seem not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
     </p>
+
+    <p>
+      Particular points include:
+    </p>
+
+    <ul>
+    <li>
+      Chapter&nbsp;3 is primarily about the "strong man", Hebrew <i>geber</i>.
+      But it also uses the Hebrew word <i>adam</i> which is
+      rather like the English word "man",
+      being sometimes generically human and sometimes male-specific.<?php
+        Footnote('See, for example, the near-adjacent uses in Genesis.
+          Gen.1:27 is the generic
+          "God created <i>adam</i>:&hellip; male and female he created them".
+          Gen 2:7 is the male-specific
+          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground",
+          where the context prepares the way for the further creation of his female partner, Eve.');
+      ?>
+      Indeed, 3:39 uses both words.
+      We translate <i>geber</i> as male-specific "man" (or similar)
+      and <i>adam</i> as a generic "one" (or similar).
+    </li>
+
+    <li>
+      At 4:1&ndash;2 "sons" is used to allow a carrying forward from the Hebrew
+      of its "stones&hellip;sons" wordplay
+      which is embedded in a larger-scale metaphor in those verses.
+      See the footnote there.
+    </li>
+    </ul>
 
     <hr>
     <div class="footnotes">

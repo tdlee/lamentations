@@ -55,7 +55,7 @@
     </ul>
 
     <p>
-      Section 7&ndash;10 is clearly female-initimate
+      Section 7&ndash;10 is clearly female-intimate
       and the language heaps up with innuendo.
       Yet it contains a deep and unsettling ambiguity
       which has a significant bearing on how we receive it.
@@ -113,6 +113,12 @@
 -->
 
         <div class="poem__verse">
+          <div class="poem__verseref">
+            Acrostic omissions: J, K, Q, X
+          </div>
+          <div class="poem__versetext">
+            &nbsp;
+          </div><!-- poem__versetext -->
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
 <div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
@@ -534,7 +540,7 @@
       </div><!-- "footnotes" -->
 
       <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2023 David&nbsp;Lee
+        Copyright &copy; 2020&ndash;2024 David&nbsp;Lee
       </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
