@@ -319,7 +319,7 @@
     </p>
 
     <p>
-    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
+    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The alphabetic-acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
     Many of us may already be familiar with this, lurking, but usually ignored by us, in the background.
     </p>
 
