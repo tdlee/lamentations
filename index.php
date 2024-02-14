@@ -383,7 +383,7 @@
     So isn't this "aleph to tav", "A&nbsp;to&nbsp;Z" totality equally valid as an integral,
     even essential, component of "meaning"?
     Whatever necessary four letters are chosen for omission,
-    "A" and "Z" surely remain indispensable.
+    'A' and 'Z' surely remain indispensable.
     </p>
 
     <h3>Linguistic styling</h3>

@@ -61,7 +61,7 @@
       is a counterweight to the formal structuring of the acrostic,
       and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
       See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
-      A similar change of thought happens between 58 and 59 within the "W" stanza.
+      A similar change of thought happens between 58 and 59 within the 'W' stanza.
     </p>
 
     <p>
@@ -399,7 +399,7 @@
             <div class="poem__versetext">
               <p>
                 <?php
-                  $fn='As with the "I" stanza, the lines in this "M" stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been "N" rather than "M", "now" would have been a possibility.  But that would then have required a subsequent stanza of three "Q" or "X" words.';
+                  $fn='As with the \'I\' stanza, the lines in this \'M\' stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been \'N\' rather than \'M\', "now" would have been a possibility.  But that would then have required a subsequent stanza of three \'Q\' or \'X\' words.';
                 ?>
                 Mankind's desertion by our Lord<?php Footnote($fn); ?><br>
                   lasts not forever;
