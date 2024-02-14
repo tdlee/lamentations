@@ -199,12 +199,11 @@
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
-      as 'G' is the seventh, not ninth, letter in our alphabet.
-      We need an 'I' word that is reasonably synonymous with "good".<?php
-        Footnote('The other possibility would have been to make use of our needing to omit four letters.  That would allow pushing out to \'J\' or even \'K\'.  But the smaller number of such words would only have made the problem harder, not easier.');
-      ?>
-      "Irreproachable" seems a reasonable choice, with not too much semantic compromise,
+      as 'G' is the seventh letter in our alphabet, and we are at 'I' (ninth letter).
+      "Irreproachable" seems a moderately acceptable choice, with not too much semantic compromise,
       although its five syllables rather than one pull against our desired linguistic compactness.
+      Fortunately, the overall acrostic requirement to omit four letters also makes 'J' (tenth letter) a possibility.
+      This allows for "judicious", which seems better both semantically and in having only three syllables.
     </p>
 
     <p>
