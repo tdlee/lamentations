@@ -190,12 +190,12 @@
       is an interesting challenge, as there are so few such English words
       in regular use.
       The third poem in particular requires the use of three such words.
-      These must all be different, to reflect the Hebrew "tav" words being different.
+      These must all be different, to reflect the Hebrew 'tav' words being different.
     </p>
 
     <p>
       Conversely, the third poem's ninth stanza,
-      Hebrew letter "tet",
+      Hebrew letter 'tet',
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,

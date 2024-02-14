@@ -246,7 +246,7 @@
     </div><!-- "panel" -->
 
     <p>
-    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the <a href="https://www.britannica.com/art/pentameter" target="_blank">pentameter</a>, so familiar in English poetry and particularly in Shakespeare plays; see "Twelfth Night" extract above.<?php
+    Further, we might observe that the overall three&ndash;two count of the line resonates closely with the <a href="https://www.britannica.com/art/pentameter" target="_blank">pentameter</a>, so familiar in English poetry and particularly in Shakespeare plays; see the "Twelfth Night" extract above.<?php
       Footnote('The pentameter analogy is only partial. Whereas pentameter, in its familiar iambic form, is reasonably strict "weak-<u>strong</u>" syllable-pairs (so "w-<u>S</u> w-<u>S</u> w-<u>S</u> w-<u>S</u> w-<u>S</u>"), <i>qinah</i> frequently has two or more weak syllables (occasionally zero) between the strong beats. So "<u>Ag</u>onies: <u>I</u> am the man <u>seared</u> by the <u>rod</u> of his <u>wrath</u>" is "<u>S</u>-w-w <u>S</u>-w-w-w <u>S</u>-w-w <u>S</u>-w-w&nbsp;<u>S</u>".');
     ?>
     </p>
@@ -319,7 +319,7 @@
     </p>
 
     <p>
-    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
+    Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The alphabetic-acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
     Many of us may already be familiar with this, lurking, but usually ignored by us, in the background.
     </p>
 
