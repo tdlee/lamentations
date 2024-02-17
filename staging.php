@@ -226,7 +226,9 @@
       Between them, in chapter&nbsp;2, the narrator seems to undergo a change
       within the chapter itself.
       By contrast, then, might this indicate one single overall narrator,
-      themselves changed and transformed across the three chapters?
+      themselves changed and transformed across the three chapters?<?php
+        Footnote('For further discussion see Berman (2023), pp.10&ndash;11.');
+      ?>
     </p>
 
     <h2>Chiastic structures</h2>
