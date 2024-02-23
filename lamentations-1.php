@@ -253,10 +253,11 @@
               <?php
                 $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322.';
                 $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
+                $fn_mind='Verses 7 and 9 share a common Hebrew verb root for past and future tenses. The English "remember" is close, but only works for the past (v.7), not prospectively for the future (v.9).  The basis chosen here, and worded to try to preserve 3&ndash;2 <i>qinah</i> rhythm, is "calls to mind" (past) and "has no mind for" (future). See Berman (2023), p.34.';
               ?>
               Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
-              Jerusalem calls to mind<br>
+              Jerusalem calls to mind<?php Footnote($fn_mind); ?><br><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               &emsp;in her days of downfall.<br><!-- 1:7,9, 3:19: "downfall" -->
               [When her people fell to enemy hand,<br><!-- enemy/foe -->
               &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
@@ -298,7 +299,7 @@
           <div class="poem__versetext">
             <p>
               Impurity clings to her skirts;<br>
-              &emsp;she was heedless to her future.<br>
+              &emsp;no mind she has to her future.<br><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               Downfallen in jaw-dropping shock,<br><!-- 1:7,9, 3:19: "downfall" -->
               &emsp;there is none to comfort her.<br>
             </p>
