@@ -358,7 +358,7 @@
             <p>
               Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;is it nothing to you?<br><!-- couplet copied in "notes" -->
-              Is there any pain like my pain,<br>
+              Is there any pain like my pain,<br><!--vv.12,18: common "pain" -->
               &emsp;unleashed against me&mdash;<br><!-- vv12,22: common "unleash" ("deal out") -->
               that which the <span class="yhwh">Lord</span> inflicted<br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;in the day of his wrath?
@@ -458,7 +458,7 @@
               Upright in judgement is the <span class="yhwh">Lord</span>,<br>
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
               Hear, I pray, all you peoples,<br>
-              &emsp;and look on my pain:<br>
+              &emsp;and look on my pain:<br><!--vv.12,18: common "pain" -->
               my maidens and my young men<br>
               &emsp;gone into captivity.
             </p>
