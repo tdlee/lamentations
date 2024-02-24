@@ -225,7 +225,7 @@
               since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;for her many transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               Her youngsters are driven to exile,<br>
-              &emsp;captive before the enemy.<!-- enemy/foe -->
+              &emsp;captive before the enemy.<!-- enemy/foe --><!-- vv.5,18: common "captive" root word -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -460,7 +460,7 @@
               Hear, I pray, all you peoples,<br>
               &emsp;and look on my pain:<br><!--vv.12,18: common "pain" -->
               my maidens and my young men<br>
-              &emsp;gone into captivity.
+              &emsp;gone into captivity.<!-- vv.5,18: common "captive" root word -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
