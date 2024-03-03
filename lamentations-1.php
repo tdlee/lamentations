@@ -74,7 +74,7 @@
       ?>
       And a totally different thread also emerges from behind this:
       that of victim of sexual defilement and rape,
-      aligned with swathes of other Lamentations passages
+      aligned with many other Lamentations passages
       focussed on the abuse and violation of the innocent.
       Both threads, adulteress and rape victim, are co-existing possibilities.
       For us as readers, indeed as disciples and worshippers,
