@@ -43,10 +43,10 @@
 
     <p>
       In preparing this version of the text over the course of a few years
-      various thoughts and ideas have come to mind,
-      ("I wonder how a producer/director would do that?")
+      various thoughts and ideas have come to mind
+      &mdash; "I wonder how a producer/director would do that?" &mdash; 
       bidden and unbidden, considered and random, about such aspects.
-      They are given here simply to spark further imagination by the potential producer/director.
+      Some are given here simply to spark further imagination by the potential producer/director.
     </p>
 
     <p>
