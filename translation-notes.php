@@ -342,20 +342,23 @@
     </ul>
 
     <p>
-      Further, <strong>look</strong> should also be in 3:1,
-      where the man's opening follows hard on the heels of Daughter Zion's
-      commanding use of it, 2:20, in her brief but devasting speech.
-      Sadly, triple constraints
-      conspire to put its incorporation beyond reach:
-      the acrostic (which tended to expand the line),
-      the <i>qinah</i> rhythm (which needs to constrain the line)
-      and the absolute requirement to have "I am the man" as close as possible to the start.<?php Footnote('It would be something like "I am the man who has looked [squarely] at affliction" which is both non-acrostic and non-<i>qinah</i>.'); ?>
-      Also, the Hebrew verb carries the additional nuance of "to experience, know",
+      Further, <strong>look</strong> also lies behind 3:1
+      where the Hebrew verb carries the additional nuance of "to experience, know",
       important to this instance of its use.<?php Footnote('Dobbs-Allsopp (2012), p.111.'); ?>
+      The man's opening use of the verb follows hard on the heels of Daughter Zion's
+      commanding use of it at 2:20 in her brief but devasting speech.
+      But the lack of an equivalent English verb which would clearly carry this additional meaning
+      (it would be something like "I am the man who has looked [squarely] at affliction")
+      makes it impractical to pursue this idea.
+      The additional requirements
+      of the acrostic (which tends to expand the line),
+      and of the <i>qinah</i> rhythm (which needs to constrain the line)
+      conspire to put its incorporation beyond reach.
     </p>
 
     <p>
-      But driving all that was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
+      But underlying all this consideration of <strong>notice</strong> and <strong>look</strong>
+      was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
       ?>
     </p>
