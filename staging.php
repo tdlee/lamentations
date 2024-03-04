@@ -43,10 +43,10 @@
 
     <p>
       In preparing this version of the text over the course of a few years
-      various thoughts and ideas have come to mind,
-      ("I wonder how a producer/director would do that?")
+      various thoughts and ideas have come to mind
+      &mdash; "I wonder how a producer/director would do that?" &mdash; 
       bidden and unbidden, considered and random, about such aspects.
-      They are given here simply to spark further imagination by the potential producer/director.
+      Some are given here simply to spark further imagination by the potential producer/director.
     </p>
 
     <p>
@@ -220,13 +220,17 @@
       Chapters&nbsp;1, 2 and 4 strongly feature a narrator.
       The character in chapter&nbsp;1 may be seen as largely objective,
       reporting <em>about</em> what they witness.
+      Alternatively they may be viewed as more involved:
+      Berman (2023) uses the term "pastoral mentor".
       The character in chapter&nbsp;4 may be seen as much more involved
       <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii') ?>
       So might they be envisaged as two different people?
       Between them, in chapter&nbsp;2, the narrator seems to undergo a change
       within the chapter itself.
       By contrast, then, might this indicate one single overall narrator,
-      themselves changed and transformed across the three chapters?
+      themselves changed and transformed across the three chapters?<?php
+        Footnote('For further discussion see Berman (2023), pp.10&ndash;11.');
+      ?>
     </p>
 
     <h2>Chiastic structures</h2>

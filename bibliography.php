@@ -54,7 +54,7 @@
           Goldingay, John (2022), <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
         </li>
         <li>
-          Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, <?php ISBN("978-0814681541"); ?>
+          Hens-Piazza, Gina (2017), <cite>Lamentations</cite>, Liturgical Press, <?php ISBN("978-0814681541"); ?>
         </li>
         <li>
           Middlemas, Jill (2021), <cite>Lamentations: An Introduction and Study Guide</cite>, T&amp;T&nbsp;Clark, <?php ISBN("978-0-567-69691-5"); ?>

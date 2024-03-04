@@ -43,7 +43,7 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-bystander recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
+      Observe that this first poem is in two "voices": a witness-narrator recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
     </p>
     <ul>
       <li>
@@ -74,7 +74,7 @@
       ?>
       And a totally different thread also emerges from behind this:
       that of victim of sexual defilement and rape,
-      aligned with swathes of other Lamentations passages
+      aligned with many other Lamentations passages
       focussed on the abuse and violation of the innocent.
       Both threads, adulteress and rape victim, are co-existing possibilities.
       For us as readers, indeed as disciples and worshippers,
@@ -225,7 +225,7 @@
               since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?><br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;for her many transgressions.<br><!-- 5,14,22: same word "transgressions" -->
               Her youngsters are driven to exile,<br>
-              &emsp;captive before the enemy.<!-- enemy/foe -->
+              &emsp;captive before the enemy.<!-- enemy/foe --><!-- vv.5,18: common "captive" root word -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -253,10 +253,11 @@
               <?php
                 $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322.';
                 $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42.';
+                $fn_mind='Verses 7 and 9 share a common Hebrew verb root for past and future tenses. The English "remember" is close, but only works for the past (v.7), not prospectively for the future (v.9).  The basis chosen here, and worded to try to preserve 3&ndash;2 <i>qinah</i> rhythm, is "calls to mind" (past) and "has no mind for" (future). See Berman (2023), p.34.';
               ?>
               Goodly treasures once hers<br>
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
-              Jerusalem calls to mind<br>
+              Jerusalem calls to mind<?php Footnote($fn_mind); ?><br><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               &emsp;in her days of downfall.<br><!-- 1:7,9, 3:19: "downfall" -->
               [When her people fell to enemy hand,<br><!-- enemy/foe -->
               &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
@@ -298,7 +299,7 @@
           <div class="poem__versetext">
             <p>
               Impurity clings to her skirts;<br>
-              &emsp;she was heedless to her future.<br>
+              &emsp;no mind she has to her future.<br><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               Downfallen in jaw-dropping shock,<br><!-- 1:7,9, 3:19: "downfall" -->
               &emsp;there is none to comfort her.<br>
             </p>
@@ -357,7 +358,7 @@
             <p>
               Notice! And look, you passers-by;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;is it nothing to you?<br><!-- couplet copied in "notes" -->
-              Is there any pain like my pain,<br>
+              Is there any pain like my pain,<br><!--vv.12,18: common "pain" -->
               &emsp;unleashed against me&mdash;<br><!-- vv12,22: common "unleash" ("deal out") -->
               that which the <span class="yhwh">Lord</span> inflicted<br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               &emsp;in the day of his wrath?
@@ -457,9 +458,9 @@
               Upright in judgement is the <span class="yhwh">Lord</span>,<br>
               &emsp;for I defied his command.<br><!-- vv18,20: match "defied" -->
               Hear, I pray, all you peoples,<br>
-              &emsp;and look on my pain:<br>
+              &emsp;and look on my pain:<br><!--vv.12,18: common "pain" -->
               my maidens and my young men<br>
-              &emsp;gone into captivity.
+              &emsp;gone into captivity.<!-- vv.5,18: common "captive" root word -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
