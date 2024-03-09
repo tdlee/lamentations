@@ -486,7 +486,7 @@
           <div class="poem__versetext">
             <p>
               Wretched am I, <span class="yhwh">Lord</span>; look!<br><!-- referenced in notes (for notice/look) -->
-              &emsp;My stomach churns,<br>
+              &emsp;My stomach churns,<br><!-- 1:20, 2:11: same -->
               my heart turns over within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               Outside the sword bereaves;<br>

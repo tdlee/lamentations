@@ -169,7 +169,7 @@
     <p>
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
-      One approach can then be to swap lines within a verse.
+      One approach is to swap lines within a verse.
       A case in point is 1:7 whose first line requires an opening 'G' word.
       A workable solution is to switch its first and second lines,
       allowing for "goodly treasures" to begin the verse.
@@ -466,8 +466,9 @@
       The NIV has "Daughter X" (upper-case 'D');
       the NABBRE and NIV (also Provan (2016), p.41) have "daughter X" (lower-case 'd');
       Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
-      Hens-Piazza (2017) has "Woman Zion";
-      Goldingay (2022) has "Ms.&nbsp;Zion" (Miss/Mistress).
+      Hens-Piazza (2017) writes about "Woman Zion";
+      Goldingay (2022) has "Ms.&nbsp;Zion" (Miss/Mistress);
+      Berman (2023) writes about "Bat-Zion".
       Those recent versions which omit the "of" generally capitalise "Daughter" (or their equivalent word),
       making it a proper noun, with a sense not merely of description but also of title.
     </p>

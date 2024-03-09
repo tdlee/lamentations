@@ -94,6 +94,13 @@
     </p>
 
     <p>
+      Also in chapter&nbsp;2 the action in the first half zooms in
+      from the land of Judah, vv.2&ndash;5,
+      to the city of Zion, vv.6&ndash;10,
+      to the people there, vv.11&ndash;12.<?php Footnote('Berman (2023), p.58.'); ?>
+    </p>
+
+    <p>
       Similarly, if the staging of chapter&nbsp;3 involves some sort of scenery and props
       then its 'L'-acrostic lines, 28&ndash;30, lend themselves to re-visiting complaint scenes from earlier verses:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
     </p>

@@ -32,7 +32,9 @@
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       It recounts God's anger being unleashed on her;
-      it concludes in turn with her anger being unleashed towards God.<?php
+      one commentator identifies within just the first eight verses
+      as many as 27 terms of anger about the <span class="yhwh">Lord</span>'s destructive force.<?php Footnote('Berman (2023), p.58.'); ?>
+      It concludes in turn with her anger being unleashed towards God.<?php
         Footnote('Hens-Piazza (2017), p.xliii.');
       ?>
     </p>
@@ -109,7 +111,8 @@
       until at 18&ndash;19 the reporter can be seen to implore the city
       to voice her complaint, which she accordingly does to close the poem.
       Yet in the midst of their initially objective reportage,
-      the reporter breaks down and speaks subjectively of their own personal response
+      the reporter switches to an engaged present-tense at v10,<?php Footnote('Berman (2023), p.67.'); ?>
+      breaking down and speaking subjectively of their own personal response
       in a soliloquy, 11&ndash;17, that interrrupts their graphic portrayal of the violence
       and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
       And the likely trigger for the observer's change of stance in v11?
@@ -140,15 +143,16 @@
             <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
-                $fn='See footnotes on 1:1.';
-                $fn2='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
+                $fn_alas='See footnotes on 1:1.';
+                $fn_becloud='Meaning uncertain. This is the only occurence (a <i><!-- greek --><span lang="el">hapax legomenon</span></i>) of the verb in the Hebrew Bible. This choice follows its derivation from the noun "cloud", and resonance with "the day of the <span class="yhwh">Lord</span>\'s anger".  Other possibilities include "abhorred" and "humiliated". See Goldingay (2022), pp.90&ndash;91; Dobbs-Allsopp (2012), p.80; Berlin (2004), pp.66&ndash;68; Berman (2023), p.59.';
+                $fn_footstool='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
-              Alas!<?php Footnote($fn); ?><br>
-              Angered, my Lord beclouded<br>
+              Alas!<?php Footnote($fn_alas); ?><br>
+              Angered, my Lord beclouded<?php Footnote($fn_becloud); ?><br>
               &emsp;Daughter Zion;<br>
               flung down from the heavens to earth<br>
               &emsp;the honour of Israel;<br>
-              put out of mind his footstool<?php Footnote($fn2); ?><br>
+              put out of mind his footstool<?php Footnote($fn_footstool); ?><br>
               &emsp;in the day of his anger;
             </p>
           </div><!-- poem__versetext -->
@@ -274,7 +278,7 @@
           <div class="poem__versetext">
             <p>
               Hell-bent was the <span class="yhwh">Lord</span> on destroying<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
-              &emsp;Daughter Zion's wall;<br><!-- mentioned in "staging", section "Daughter Zion" -->
+              &emsp;the wall of Daughter Zion;<br><!-- 2:8,18: same --><!-- mentioned in "staging", section "Daughter Zion" -->
               out-stretching his tape-measure; not staying<br>
               &emsp;his hand from devouring;<br><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               making mourn both wall and rampart,<br>
@@ -331,7 +335,7 @@
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
               Lamenting, my weeping eyes fail;<br>
-              &emsp;my stomach churns;<br>
+              &emsp;my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?><br><!-- 1:20, 2:11: same -->
               my liver-bile pours to the ground<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;at my Daughter People's ravaging,<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               as infants and children expire<br>
@@ -449,7 +453,7 @@
           <div class="poem__versetext">
             <p>
               Unto our Lord let your heart cry,<br>
-              &emsp;wall of Daughter Zion.<br>
+              &emsp;wall of Daughter Zion.<br><!-- 2:8,18: same -->
               Shed tears like a torrent<br>
               &emsp;day and night;<br>
               give yourself no relief,<br>
@@ -485,7 +489,7 @@
             <div class="poem__versespeaker">Daughter Zion:</div>
             <p>
               <?php
-                $fn1='An untranslatable pun of horrific intensity bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99.';
+                $fn1='An untranslatable pun of horrific intensity bites through here between the similar words for "babe" (vv.19<em>c</em>, 20<em>b</em>) and "tormented". Dobbs-Allsopp (2012), p.99; Berman (2023), p.83.';
                 $fn2='The rare Hebrew word here represented as "nursed" is very close to the word for "apple", reinforcing the preceding "womb\'s fruit".  Dobbs-Allsopp (2012), p.15.';
               ?>
               Who have you thus tormented?<?php Footnote($fn1); ?><br><!-- 2:20, 3:51: same strong verb -->
@@ -507,7 +511,7 @@
             <p>
               Young and old lie strewn<br>
               &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
-              young women and young men fallen,<br>
+              my young women, my young men: fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
               &emsp;you butchered&mdash;pitilessly.<!-- "pitiless": 2:2, 2:17, 2:21, 3.43 --><?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
@@ -520,10 +524,13 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='Daughter Zion switches from direct, second-person address to (or at) God to indirect, third-person speech <em>about</em> him, as though she turns to walk away. Dobbs-Allsopp (2012), p.102; Berman (2023), p.85.';
+              ?>
               <!-- parts quoted in "staging" -->
               Zoned round, as to a feast day&mdash;<br>
               &emsp;the terrors you summoned!<br>
-              On the day of the <span class="yhwh">Lord</span>'s anger<br>
+              On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br>
               &emsp;none escaped or survived;<br>
               those I had nursed and reared,<br>
               &emsp;my enemy annihilated.
