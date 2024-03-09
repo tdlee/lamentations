@@ -335,7 +335,7 @@
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
               Lamenting, my weeping eyes fail;<br>
-              &emsp;my stomach churns;<br>
+              &emsp;my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?><br><!-- 1:20, 2:11: same -->
               my liver-bile pours to the ground<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;at my Daughter People's ravaging,<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               as infants and children expire<br>
