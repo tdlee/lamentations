@@ -142,15 +142,16 @@
             <div class="poem__versespeaker">Narrator:</div>
             <p>
               <?php
-                $fn='See footnotes on 1:1.';
-                $fn2='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
+                $fn_alas='See footnotes on 1:1.';
+                $fn_becloud='Meaning uncertain. This is the only occurence (a <i><!-- greek --><span lang="el">hapax legomenon</span></i>) of the verb in the Hebrew Bible. This choice follows its derivation from the noun "cloud", and resonance with "the day of the <span class="yhwh">Lord</span>\'s anger".  Other possibilities include "abhorred" and "humiliated". See Goldingay (2022), pp.90&ndash;91; Dobbs-Allsopp (2012), p.80; Berlin (2004), pp.66&ndash;68; Berman (2023), p.59.';
+                $fn_footstool='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
-              Alas!<?php Footnote($fn); ?><br>
-              Angered, my Lord beclouded<br>
+              Alas!<?php Footnote($fn_alas); ?><br>
+              Angered, my Lord beclouded<?php Footnote($fn_becloud); ?><br>
               &emsp;Daughter Zion;<br>
               flung down from the heavens to earth<br>
               &emsp;the honour of Israel;<br>
-              put out of mind his footstool<?php Footnote($fn2); ?><br>
+              put out of mind his footstool<?php Footnote($fn_footstool); ?><br>
               &emsp;in the day of his anger;
             </p>
           </div><!-- poem__versetext -->
