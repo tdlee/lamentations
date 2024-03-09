@@ -524,10 +524,13 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn='Daughter Zion switches from direct, second-person address to (or at) God to indirect, third-person speech <em>about</em> him, as though she turns to walk away. Dobbs-Allsopp (2012), p.102; Berman (2023), p.85.';
+              ?>
               <!-- parts quoted in "staging" -->
               Zoned round, as to a feast day&mdash;<br>
               &emsp;the terrors you summoned!<br>
-              On the day of the <span class="yhwh">Lord</span>'s anger<br>
+              On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br>
               &emsp;none escaped or survived;<br>
               those I had nursed and reared,<br>
               &emsp;my enemy annihilated.
