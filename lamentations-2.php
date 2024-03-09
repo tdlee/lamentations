@@ -111,7 +111,8 @@
       until at 18&ndash;19 the reporter can be seen to implore the city
       to voice her complaint, which she accordingly does to close the poem.
       Yet in the midst of their initially objective reportage,
-      the reporter breaks down and speaks subjectively of their own personal response
+      the reporter switches to an engaged present-tense at v10,<?php Footnote('Berman (2023), p.67.'); ?>
+      breaking down and speaking subjectively of their own personal response
       in a soliloquy, 11&ndash;17, that interrrupts their graphic portrayal of the violence
       and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
       And the likely trigger for the observer's change of stance in v11?
