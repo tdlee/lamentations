@@ -511,7 +511,7 @@
             <p>
               Young and old lie strewn<br>
               &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
-              young women and young men fallen,<br>
+              my young women, my young men: fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your wrath:<br>
               &emsp;you butchered&mdash;pitilessly.<!-- "pitiless": 2:2, 2:17, 2:21, 3.43 --><?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
