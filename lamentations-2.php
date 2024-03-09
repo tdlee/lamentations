@@ -32,7 +32,9 @@
       This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
       She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
       It recounts God's anger being unleashed on her;
-      it concludes in turn with her anger being unleashed towards God.<?php
+      one commentator identifies within just the first eight verses
+      as many as 27 terms of anger about the <span class="yhwh">Lord</span>'s destructive force.<?php Footnote('Berman (2023), p.58.'); ?>
+      It concludes in turn with her anger being unleashed towards God.<?php
         Footnote('Hens-Piazza (2017), p.xliii.');
       ?>
     </p>
