@@ -356,7 +356,7 @@
                   to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
-                Judicious is our hoping in quietness<br>
+                Judicious is our hoping&mdash;and in silence&mdash;<br>
                   for the <span class="yhwh">Lord</span>'s deliverance;
               </p>
               <p>
