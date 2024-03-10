@@ -128,7 +128,7 @@
     <p>
       Several commentators see in the first few verses a sort of "anti-psalm"
       to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41.');
+        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41; Berman (2023), p.97.');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
