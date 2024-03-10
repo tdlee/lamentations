@@ -200,6 +200,14 @@
     </li>
 
     <li>
+      Chapter&nbsp;3 features the man/<em>geber</em>.
+      There is no consensus among commentators on his identity.
+      Possibilities include: Jeremiah, a Job-like character,
+      an "everyman", a nobleman of the city
+      or the narrator of the first two chapters.
+    </li>
+
+    <li>
       Chorus (chap.4): While chapter&nbsp;4 is mostly narration,
       nevertheless it is about various groups of people.
       Then at v17 a chorus "we" speaks up.<?php
