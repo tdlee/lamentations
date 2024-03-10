@@ -181,7 +181,7 @@
             ?>
             <p>
               Agonies: I am the man<?php Footnote($fn); ?> seared<br><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
-                by the rod of his wrath;
+                by the rod of his wrath;<!-- 2:2; 3:1: wrath -->
             </p>
             <p>
               Away&mdash;me he drove, force-marched<br>

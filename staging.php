@@ -196,7 +196,7 @@
       it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
       One might then imagine her turning on her heels and walking way,
       now narrator-like, with falling voice:
-      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
+      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
     </li>
 
     <li>
@@ -338,7 +338,7 @@
         2:1: "angered/beclouded" verb to open
       </li>
       <li>
-        &emsp;2:1: "in the day of his anger"
+        &emsp;2:1: "in the day of his anger"<!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
       </li>
       <li>
         &emsp;&emsp;2:3: "cut off&hellip;every horn of Israel"
@@ -353,7 +353,7 @@
         &emsp;&emsp;2:17: "exalted your foes' horn"
       </li>
       <li>
-        &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"
+        &emsp;2:22: "on the day of the <span class="yhwh">Lord</span>'s anger"<!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
       <li>
         2:22: "annihilated" verb to close
       </li>

@@ -261,8 +261,8 @@
           <div class="poem__verseref">11</div>
           <div class="poem__versetext">
             <p>
-              Meted out in full is the <span class="yhwh">Lord</span>'s anger,<br>
-              &emsp;his wrath disgorged;<br><!-- disgorged: 4:1, 4:11, 4:13 -->
+              Meted out in full is the <span class="yhwh">Lord</span>'s anger,<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
+              &emsp;his fury disgorged;<br><!-- disgorged: 4:1, 4:11, 4:13 --><!-- 2:4; 4:11/2: "fury" -->
               He has kindled a firestorm in Zion<br><!-- "firestorm": see translation notes -->
               &emsp;that consumed her foundations.
             </p>
