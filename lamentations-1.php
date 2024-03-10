@@ -361,7 +361,7 @@
               Is there any pain like my pain,<br><!--vv.12,18: common "pain" -->
               &emsp;unleashed against me&mdash;<br><!-- vv12,22: common "unleash" ("deal out") -->
               that which the <span class="yhwh">Lord</span> inflicted<br><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
-              &emsp;in the day of his wrath?
+              &emsp;in the day of his anger?<!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

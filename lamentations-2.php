@@ -45,7 +45,7 @@
           Other components include the resonance of the opening and closing verbs
           ("angered"/"beclouded" and "annihilated") and the "horn" motif.';
       ?>
-      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?>
+      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
       this is the nightmare-turned-reality incarnation of the prophet's warning,
         <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
       it is the polar opposite of the psalmist's praise,
@@ -153,7 +153,7 @@
               flung down from the heavens to earth<br>
               &emsp;the honour of Israel;<br>
               put out of mind his footstool<?php Footnote($fn_footstool); ?><br>
-              &emsp;in the day of his anger;
+              &emsp;in the day of his anger;<!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -171,7 +171,7 @@
               ?>
               Blitzed to the ground in desecration<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               &emsp;a kingdom and its princes;<br>
-              razed in fury the defences<br>
+              razed in wrath the defences<br><!-- 2:2; 3:1: wrath -->
               &emsp;of Daughter Judah.<br>
               My Lord has devoured without pity<br><!-- "devour" thread --><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
               &emsp;all the dwellings of Jacob;
@@ -184,7 +184,7 @@
           <div class="poem__verseref">3</div>
           <div class="poem__versetext">
             <p>
-              Cut off in his smouldering wrath<br>
+              Cut off in his smouldering anger<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;every horn of Israel;<br>
               withdrawn his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;at enemy approach;<br>
@@ -209,7 +209,7 @@
               &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
-              on Daughter Zion's tent<?php Footnote($fn3); ?> his fire-wrath<br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
+              on Daughter Zion's tent<?php Footnote($fn3); ?> his fury<br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes --><!-- 2:4; 4:11/2: "fury" -->
               &emsp;has he outpoured.<?php Footnote($fn4); ?><!-- 2:4,11,12,19: same verb -->
             </p>
           </div><!-- poem__versetext -->
@@ -513,7 +513,7 @@
               &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
               my young women, my young men: fallen,<br>
               &emsp;cut down by the sword.<br>
-              You slew them on the day of your wrath:<br>
+              You slew them on the day of your anger:<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;you butchered&mdash;pitilessly.<!-- "pitiless": 2:2, 2:17, 2:21, 3.43 --><?php Footnote('Intensification of "slew" to "butchered".  The latter also builds from the cannibalism of the previous verse; Berlin (2004), p.76.'); ?>
             </p>
           </div><!-- poem__versetext -->
@@ -530,7 +530,7 @@
               <!-- parts quoted in "staging" -->
               Zoned round, as to a feast day&mdash;<br>
               &emsp;the terrors you summoned!<br>
-              On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br>
+              On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;none escaped or survived;<br>
               those I had nursed and reared,<br>
               &emsp;my enemy annihilated.
