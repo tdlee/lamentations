@@ -192,6 +192,30 @@
 
     <ul>
     <li>
+      In chapter&nbsp;2, although Daughter Zion's speech at the end is short, just three verses 20&ndash;22,
+      it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
+      One might then imagine her turning on her heels and walking way,
+      now narrator-like, with falling voice:
+      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
+    </li>
+
+    <li>
+      Chapter&nbsp;3 features the man/<em>geber</em>.
+      There is no consensus among commentators on his identity.
+      Possibilities include: Jeremiah, a Job-like character,
+      an "everyman", a nobleman of the city
+      or the narrator of the first two chapters.
+    </li>
+
+    <li>
+      While chapter&nbsp;3 is mostly a singular soliloquy, 3:40&ndash;47 is plural.
+      Might this be the wider population, who will appear in the following chapters?
+      Might it be Daughter Zion, staying on stage from earlier chapters?
+      (This might be an option if the casting is, for instance, a minimal two-hander.)
+      Might it be regarded as inclusion of the audience, as a break from an otherwise fully on-stage performance?
+    </li>
+
+    <li>
       Chorus (chap.4): While chapter&nbsp;4 is mostly narration,
       nevertheless it is about various groups of people.
       Then at v17 a chorus "we" speaks up.<?php
@@ -208,14 +232,6 @@
       So rather than being traditionally staged,
       consider scattered actors as representatives
       voicing these verses from <em>within</em> the audience.
-    </li>
-
-    <li>
-      In chapter&nbsp;2, although Daughter Zion's speech at the end is short, just three verses 20&ndash;22,
-      it is stinging, accusing God directly: "the terrors you summoned!" (22<em>a</em>).
-      One might then imagine her turning on her heels and walking way,
-      now narrator-like, with falling voice:
-      "on the day of the <span class="yhwh">Lord</span>'s anger&hellip;my enemy annihilated" (22<em>b,c</em>).<?php Footnote('Dobbs-Allsopp (2012), pp.102&ndash;103.'); ?>
     </li>
 
     <li>
