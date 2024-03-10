@@ -428,7 +428,7 @@
                   before the Most High?<!-- vv35,38: "Most High" -->
               </p>
               <p>
-                Negation of our cry for justice&mdash;<br>
+                Negating one's pleading for justice&mdash;<br>
                   does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
               </p>
             </div><!-- poem__versetext -->
