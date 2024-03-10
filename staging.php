@@ -208,6 +208,14 @@
     </li>
 
     <li>
+      While chapter&nbsp;3 is mostly a singular soliloquy, 3:40&ndash;47 is plural.
+      Might this be the wider population, who will appear in the following chapters?
+      Might it be Daughter Zion, staying on stage from earlier chapters?
+      (This might be an option if the casting is, for instance, a minimal two-hander.)
+      Might it be regarded as inclusion of the audience, as a break from an otherwise fully on-stage performance?
+    </li>
+
+    <li>
       Chorus (chap.4): While chapter&nbsp;4 is mostly narration,
       nevertheless it is about various groups of people.
       Then at v17 a chorus "we" speaks up.<?php
