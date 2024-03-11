@@ -283,7 +283,7 @@
                 he ground me in dust.
             </p>
             <p>
-              Far any peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+              Forsworn has he peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" --><!-- 2:7; 3:17,31: "forswear" root -->
                 I forgot what is good;
             </p>
             <?php
@@ -401,7 +401,7 @@
                 <?php
                   $fn='As with the \'I\' stanza, the lines in this \'M\' stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been \'N\' rather than \'M\', "now" would have been a possibility.  But that would then have required a subsequent stanza of three \'Q\' or \'X\' words.';
                 ?>
-                Mankind's desertion by our Lord<?php Footnote($fn); ?><br>
+                Mankind's forswearing by our Lord<?php Footnote($fn); ?><br><!-- 2:7; 3:17,31: "forswear" root -->
                   lasts not forever;
               </p>
               <p>

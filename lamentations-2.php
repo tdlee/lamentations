@@ -260,7 +260,7 @@
               <?php
                 $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "My Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "my Lord"; and early, strong identification seems important in this verse.';
               ?>
-              God<?php Footnote($fn); ?> has rejected his altar,<br>
+              God<?php Footnote($fn); ?> has forsworn his altar,<br><!-- 2:7; 3:17,31: "forswear" root -->
               &emsp;disowned his shrine;<br>
               given over to enemy hands<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;the walls of her palaces.<br><!-- vv.5,7: same "palaces" word -->
