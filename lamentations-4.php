@@ -182,7 +182,7 @@
               Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
               Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
-              &emsp;lie destitute in alleys.
+              &emsp;lie destitute in streets.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -389,7 +389,7 @@
           <div class="poem__versetext">
             <p>
               Unceasing, they ensnared our steps,<br><!-- "ensnare": 3:52; 4:18 -->
-              &emsp;our streets no more ours.<br>
+              &emsp;our city squares no more ours.<br>
               Our end drew near, our days gone;<br>
               &emsp;our end had come.
             </p>
