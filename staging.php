@@ -205,6 +205,7 @@
       Possibilities include: Jeremiah, a Job-like character,
       an "everyman", a nobleman of the city
       or the narrator of the first two chapters.
+      There are various other considerations: see the chapter introduction.
     </li>
 
     <li>
