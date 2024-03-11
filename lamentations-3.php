@@ -128,7 +128,7 @@
     <p>
       Several commentators see in the first few verses a sort of "anti-psalm"
       to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41.');
+        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41; Berman (2023), p.97.');
       ?>
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
@@ -283,7 +283,7 @@
                 he ground me in dust.
             </p>
             <p>
-              Far any peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+              Forsworn has he peace from my soul,<br><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" --><!-- 2:7; 3:17,31: "forswear" root -->
                 I forgot what is good;
             </p>
             <?php
@@ -356,7 +356,7 @@
                   to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
-                Judicious is our hoping in quietness<br>
+                Judicious is our hoping&mdash;and in silence&mdash;<br>
                   for the <span class="yhwh">Lord</span>'s deliverance;
               </p>
               <p>
@@ -401,7 +401,7 @@
                 <?php
                   $fn='As with the \'I\' stanza, the lines in this \'M\' stanza should all start with the same word, in this case a small, simple word to mean "for&hellip;" or "because&hellip;".  Unfortunately this is a challenge too far. Had this stanza been \'N\' rather than \'M\', "now" would have been a possibility.  But that would then have required a subsequent stanza of three \'Q\' or \'X\' words.';
                 ?>
-                Mankind's desertion by our Lord<?php Footnote($fn); ?><br>
+                Mankind's forswearing by our Lord<?php Footnote($fn); ?><br><!-- 2:7; 3:17,31: "forswear" root -->
                   lasts not forever;
               </p>
               <p>
@@ -421,15 +421,15 @@
             <div class="poem__versetext">
               <p>
                 Neutering, crushing underfoot<br>
-                  all prisoners of earth?
+                  all prisoners of earth;
               </p>
               <p>
                 Nay-saying, denying this man's rights<br><!-- man/geber: vv 1,27,35,39 -->
-                  before the Most High?<!-- vv35,38: "Most High" -->
+                  before the Most High;<!-- vv35,38: "Most High" -->
               </p>
               <p>
-                Negation of our cry for justice&mdash;<br>
-                  does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
+                Negating one's pleading for justice;<br>
+                  &mdash;does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
