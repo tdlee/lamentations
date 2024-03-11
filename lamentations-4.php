@@ -71,7 +71,9 @@
       From an inner-biblical perspective, just as the opening verses of Lam.3
       seem to pull in tension against Psalm&nbsp;23,
       so here v4 contrasts with Psalm&nbsp;131
-      and v16 with Numbers&nbsp;6:24&ndash;26.
+      and v16 with Numbers&nbsp;6:24&ndash;26.<?php
+        Footnote('Goldingay (2022), p.179.');
+      ?>
       <span class="noprint">
         (Hover the mouse over these verses to see those contrasting texts.)
       </span>
