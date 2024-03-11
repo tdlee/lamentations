@@ -52,10 +52,13 @@
 
     <p>
       It starts with the impossible.
-      Pure gold does not, and cannot, tarnish under normal circumstances.<?php
-        Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
+      Pure gold cannot tarnish under normal circumstances.<?php
+        Footnote('Any tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
       ?>
       Yet here it does.
+      The city, temple and king had been believed to be safe under the <span class="yhwh">Lord</span>'s protection;
+      defeat and devastation were unthinkable.
+      Yet here all this can fall, and does.<?php Footnote('Berman (2023), p.129.'); ?>
       Things are so bad that even nature, God's own created order, is out of kilter.
       And it continues into the human realm,
       including the horror of mothers cannibalising their own God-given children.
