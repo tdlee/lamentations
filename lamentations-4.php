@@ -75,6 +75,10 @@
       <span class="noprint">
         (Hover the mouse over these verses to see those contrasting texts.)
       </span>
+      And the rare term "children [sons] of Zion" leads us to Psalm&nbsp;149:2<?php
+        Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
+      ?>
+      which in turn draws us to contrast this chapter overall with themes in that psalm.
     </p>
 
     <div class="widthclear"></div>
