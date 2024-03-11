@@ -421,15 +421,15 @@
             <div class="poem__versetext">
               <p>
                 Neutering, crushing underfoot<br>
-                  all prisoners of earth?
+                  all prisoners of earth;
               </p>
               <p>
                 Nay-saying, denying this man's rights<br><!-- man/geber: vv 1,27,35,39 -->
-                  before the Most High?<!-- vv35,38: "Most High" -->
+                  before the Most High;<!-- vv35,38: "Most High" -->
               </p>
               <p>
-                Negating one's pleading for justice&mdash;<br>
-                  does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
+                Negating one's pleading for justice;<br>
+                  &mdash;does our Lord not look?<!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
               </p>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
