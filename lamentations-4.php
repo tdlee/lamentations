@@ -70,18 +70,29 @@
     <p>
       From an inner-biblical perspective, just as the opening verses of Lam.3
       seem to pull in tension against Psalm&nbsp;23,
-      so here v4 contrasts with Psalm&nbsp;131
-      and v16 with Numbers&nbsp;6:24&ndash;26.<?php
-        Footnote('Goldingay (2022), p.179.');
-      ?>
-      <span class="noprint">
-        (Hover the mouse over these verses to see those contrasting texts.)
-      </span>
-      And the rare term "children [sons] of Zion" leads us to Psalm&nbsp;149:2<?php
-        Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
-      ?>
-      which in turn draws us to contrast this chapter overall with themes in that psalm.
+      so here are other contrasts, and even overturnings of other passages:
     </p>
+    <ul>
+      <li>
+         v2: the rare term "children [sons] of Zion" leads us to Psalm&nbsp;149:2<?php
+          Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
+        ?>
+        which in turn draws us to contrast this chapter overall with themes in that psalm
+      </li>
+      <li>
+        v4: contrast with Psalm&nbsp;131
+      </li>
+      <li>
+        v12: seems almost a parody of Psalm&nbsp;48:4&ndash;8<?php
+          Footnote('Berman (2023), p.134.');
+        ?>
+      </li>
+      <li>
+        v16: contrast with Numbers&nbsp;6:24&ndash;26.<?php
+          Footnote('Goldingay (2022), p.179.');
+        ?>
+      </li>
+    </ul>
 
     <div class="widthclear"></div>
 
@@ -282,12 +293,27 @@
         <div class="poem__verse">
           <div class="poem__verseref">12</div>
           <div class="poem__versetext">
+<div title="Contrast Psalm 48:4-8 (NASB):
+
+  For, behold, the kings arrived,
+    they passed by together.
+  They saw it, then they were amazed;
+    they were terrified, they fled in a hurry.
+  Panic seized them there,
+    anguish, as that of a woman in childbirth.
+  With the east wind
+    you smash the ships of Tarshish.
+  Just as we have heard, so have we seen
+    in the city of the Lord of armies, in the city of our God;
+    God will establish her forever."
+>
             <p>
               Not the kings of the earth<br>
               &emsp;nor its people believed<br>
               that enemy or foe could penetrate<br>
               &emsp;the gates of Jerusalem.
             </p>
+</div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
