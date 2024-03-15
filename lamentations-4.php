@@ -46,6 +46,16 @@
     </p>
 
     <p>
+      While the narration of 1&ndash;16 is predominantly observational
+      of the inhabitants ("my Daughter People")
+      it is punctuated at three places, vv.6, 11 and 16,
+      by theological reflection and interpretation
+      of perhaps an over-reliance on Zion theology.<?php
+        Footnote('Berman (2023), pp.131, 138.');
+      ?>
+    </p>
+
+    <p>
       Visually, a unique aspect of this chapter is the striking use of colour
       in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103.'); ?>
     </p>
