@@ -450,11 +450,19 @@
         <div class="poem__verse">
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
+            <?php
+              $fn_anointed='"The <span class="yhwh">Lord</span>\'s own anointed"
+                is the line of the dynasty of King David,
+                and in this instance probably Zedekiah; Berlin (2004), p.113.
+                The associated terms "life-breath" and "in his shade we will dwell"
+                are Ancient Near East images of beneficent rulers; Goldingay (2022), p.183.
+                Also see Berman (2023), pp.140&ndash;141.';
+            ?>
             <p>
               Wedged in their traps was our life-breath,<br>
-              &emsp;the <span class="yhwh">Lord</span>'s own anointed&mdash;<br>
-              He in whose shade we had thought<br>
-              &emsp;to dwell among nations.
+              &emsp;the <span class="yhwh">Lord</span>'s own anointed,<?php Footnote($fn_anointed); ?><br>
+              of whom we had thought "in his shade<br>
+              &emsp;we will dwell among nations."
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
