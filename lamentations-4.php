@@ -103,6 +103,11 @@
           Footnote('Goldingay (2022), p.179.');
         ?>
       </li>
+      <li>
+        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in Psalm&nbsp;144:9&ndash;14.<?php
+          Footnote('Berman (2023), pp.148&ndash;150.');
+        ?>
+      </li>
     </ul>
 
     <div class="widthclear"></div>
