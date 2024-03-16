@@ -53,6 +53,7 @@
       of perhaps an over-reliance on Zion theology.<?php
         Footnote('Berman (2023), pp.131, 138.');
       ?>
+      It might be regarded as a third voice.
     </p>
 
     <p>
