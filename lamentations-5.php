@@ -79,12 +79,24 @@
       the form so emblematic of Bible's highest form of prayer, the Psalms.
     </p>
     <p>
-      A further contrast is that this chapter is communal.
+      A further contrast of this chapter with the others is that this is communal.
       No "I" speaks in this poem;
       and whereas Lam.1 and Lam.2 never spoke in first-person plural terms,
       and Lam.3 and Lam.4 did so only when past the halfway point,
       Lam.5 speaks almost throughout in "we/our/us" terms.<?php
         Footnote('Goldingay (2022), p.191.');
+      ?>
+    </p>
+    <p>
+      Just as the fourth chapter has both similarities with some Psalms
+      but also contrasts against them,
+      so too does this chapter: in this case Psalms 74 and 79.
+      Absent are: the usual Psalmist terms of endearment
+      (e.g. "sheep of your pasture", "Jacob", "your servants");
+      the destruction being a desecration;
+      the attachment of blame to the invaders;
+      any call for vengeance on them; etc.<?php
+        Footnote('Berman (2023), pp.155&ndash;157.');
       ?>
     </p>
     <p>
