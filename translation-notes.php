@@ -482,18 +482,18 @@
     <p>
       This version,
       with its slants towards recovery of the original poetry and to present-day dramatic usage (including worship contexts),
-      specifically follows the "Daughter X" route.
-      In a couple of instances the pervasive challenge of the acrostic constraint
-      have necessitated an inversion
-      from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
-      and from "Daughter Zion" to "Zion-Daughter" (4:22).<?php
-        Footnote('As a minor beneficial side-effect
-          this can occasionally aid recitation compactness
+      specifically follows the "Daughter X" route.<?php
+        Footnote('As a beneficial side-effect
+          this short-form "Daughter X" can occasionally aid recitation
           where strong <i>qinah</i> beats are a scarce commodity.
           While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" still normally uses two beats,
           it can be eased into a single beat (e.g. "daughter Je<strong>ru</strong>salem")
-          if necessary, such as at 2:8.');
+          if necessary.');
       ?>
+      In a couple of instances the pervasive challenge of the acrostic constraint
+      have necessitated an inversion
+      from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
+      and from "Daughter Zion" to "Zion-Daughter" (4:22).
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
