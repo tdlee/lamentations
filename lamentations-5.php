@@ -146,7 +146,7 @@
               $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
             ?>
             <p>
-              Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
+              Recall, O <span class="yhwh">Lord</span>, what befell us:<br>
                 look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
             </p>
           </div><!-- poem__versetext -->
