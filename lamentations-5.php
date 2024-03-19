@@ -143,11 +143,12 @@
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
             <?php
-              $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
+              $fn_recall='The verbs "recall" (here) and "ignore" (v20) form an antithetical pair, topping and tailing the chapter. Both are also about deliberation: "recall" is more than "remember" and "ignore" is more than "forget".  See Berlin (2004), p.117; Goldingay (2022), p.205; Berman (2023), p.158.';
+              $fn_list='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
             ?>
             <p>
-              Recall, O <span class="yhwh">Lord</span>, what befell us:<br>
-                look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
+              Recall,<?php Footnote($fn_recall); ?> O <span class="yhwh">Lord</span>, what befell us:<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
+                look; notice our disgrace:<?php Footnote($fn_list); ?><!-- same verbs as 1:11,12 and 2:20 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -304,7 +305,7 @@
                   ruling generations eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>
-                Long years, why always forget us?<br>
+                Long years, why always ignore us?<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
                   Why for all time forsak<span class="acrostic-letter">e</span>?
               </p>
               <p>
