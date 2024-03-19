@@ -88,6 +88,14 @@
       ?>
     </p>
     <p>
+      The main central portion of the chapter may be viewed as
+      two confessional sections:
+      vv.2&ndash;7 reflecting broadly on history ending "our ancestors sinned"
+      and vv.8&ndash;16 about the current state ending "we have sinned".<?php
+        Footnote('Berman (2023), p.160ff.');
+      ?>
+    </p>
+    <p>
       Just as the fourth chapter has both similarities with some Psalms
       but also contrasts against them,
       so too does this chapter: in this case Psalms 74 and 79.
