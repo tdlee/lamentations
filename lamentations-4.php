@@ -46,16 +46,30 @@
     </p>
 
     <p>
+      While the narration of 1&ndash;16 is predominantly observational
+      of the inhabitants ("my Daughter People")
+      it is punctuated at three places, vv.6, 11 and 16,
+      by theological reflection and interpretation
+      of perhaps an over-reliance on Zion theology.<?php
+        Footnote('Berman (2023), pp.131, 138.');
+      ?>
+      It might be regarded as a third voice.
+    </p>
+
+    <p>
       Visually, a unique aspect of this chapter is the striking use of colour
       in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103.'); ?>
     </p>
 
     <p>
       It starts with the impossible.
-      Pure gold does not, and cannot, tarnish under normal circumstances.<?php
-        Footnote('The tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
+      Pure gold cannot tarnish under normal circumstances.<?php
+        Footnote('Any tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
       ?>
       Yet here it does.
+      The city, temple and king had been believed to be safe under the <span class="yhwh">Lord</span>'s protection;
+      defeat and devastation were unthinkable.
+      Yet here all this can fall, and does.<?php Footnote('Berman (2023), p.129.'); ?>
       Things are so bad that even nature, God's own created order, is out of kilter.
       And it continues into the human realm,
       including the horror of mothers cannibalising their own God-given children.
@@ -67,12 +81,34 @@
     <p>
       From an inner-biblical perspective, just as the opening verses of Lam.3
       seem to pull in tension against Psalm&nbsp;23,
-      so here v4 contrasts with Psalm&nbsp;131
-      and v16 with Numbers&nbsp;6:24&ndash;26.
-      <span class="noprint">
-        (Hover the mouse over these verses to see those contrasting texts.)
-      </span>
+      so here are other contrasts, and even overturnings of other passages:
     </p>
+    <ul>
+      <li>
+         v2: the rare term "children [sons] of Zion" leads us to Psalm&nbsp;149:2<?php
+          Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
+        ?>
+        which in turn draws us to contrast this chapter overall with themes in that psalm
+      </li>
+      <li>
+        v4: contrast with Psalm&nbsp;131
+      </li>
+      <li>
+        v12: seems almost a parody of Psalm&nbsp;48:4&ndash;8<?php
+          Footnote('Berman (2023), p.134.');
+        ?>
+      </li>
+      <li>
+        v16: contrast with Numbers&nbsp;6:24&ndash;26.<?php
+          Footnote('Goldingay (2022), p.179.');
+        ?>
+      </li>
+      <li>
+        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in Psalm&nbsp;144:9&ndash;14.<?php
+          Footnote('Berman (2023), pp.148&ndash;150.');
+        ?>
+      </li>
+    </ul>
 
     <div class="widthclear"></div>
 
@@ -173,7 +209,7 @@
               Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
               Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
-              &emsp;lie destitute in alleys.
+              &emsp;lie destitute in streets.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -226,9 +262,9 @@
           <div class="poem__versetext">
             <p>
               Impaling on sword? Far better<br>
-              &emsp;than impaling by famine.<br>
-              Better to bleed from our wounds<br>
-              &emsp;than be starved of all food.
+              &emsp;than impaling by famine,<br>
+              ebbing away, stomach pierced,<br>
+              &emsp;starved of all food.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -273,12 +309,27 @@
         <div class="poem__verse">
           <div class="poem__verseref">12</div>
           <div class="poem__versetext">
+<div title="Contrast Psalm 48:4-8 (NASB):
+
+  For, behold, the kings arrived,
+    they passed by together.
+  They saw it, then they were amazed;
+    they were terrified, they fled in a hurry.
+  Panic seized them there,
+    anguish, as that of a woman in childbirth.
+  With the east wind
+    you smash the ships of Tarshish.
+  Just as we have heard, so have we seen
+    in the city of the Lord of armies, in the city of our God;
+    God will establish her forever."
+>
             <p>
               Not the kings of the earth<br>
               &emsp;nor its people believed<br>
               that enemy or foe could penetrate<br>
               &emsp;the gates of Jerusalem.
             </p>
+</div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -350,7 +401,7 @@
             ?>
               <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
-              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" -->
+              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "he no longer..." commonality -->
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
@@ -380,7 +431,7 @@
           <div class="poem__versetext">
             <p>
               Unceasing, they ensnared our steps,<br><!-- "ensnare": 3:52; 4:18 -->
-              &emsp;our streets no more ours.<br>
+              &emsp;our city squares no more ours.<br>
               Our end drew near, our days gone;<br>
               &emsp;our end had come.
             </p>
@@ -404,11 +455,19 @@
         <div class="poem__verse">
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
+            <?php
+              $fn_anointed='"The <span class="yhwh">Lord</span>\'s own anointed"
+                is the line of the dynasty of King David,
+                and in this instance probably Zedekiah; Berlin (2004), p.113.
+                The associated terms "life-breath" and "in his shade we will dwell"
+                are Ancient Near East images of beneficent rulers; Goldingay (2022), p.183.
+                Also see Berman (2023), pp.140&ndash;141.';
+            ?>
             <p>
               Wedged in their traps was our life-breath,<br>
-              &emsp;the <span class="yhwh">Lord</span>'s own anointed&mdash;<br>
-              He in whose shade we had thought<br>
-              &emsp;to dwell among nations.
+              &emsp;the <span class="yhwh">Lord</span>'s own anointed,<?php Footnote($fn_anointed); ?><br>
+              of whom we had thought "in his shade<br>
+              &emsp;we will dwell among nations."
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -437,8 +496,11 @@
           <div class="poem__verseref">22</div>
           <div class="poem__versetext">
             <p>
+              <?php
+                $fn_no_longer='The phrase of punishment "he no longer..." of v16 is transformed into a parallel phrase of grace.  Berman (2023), p.148.';
+              ?>
               Zion-Daughter, your iniquity expiated,<br>
-              &emsp;your exile will he lift.<br>
+              &emsp;he no longer keeps you exiled.<?php Footnote($fn_no_longer); ?><br><!-- vv.16,22: "he no longer..." commonality -->
               But your iniquity, Daughter Edom, will he prosecute,<br>
               &emsp;lay bare your outrages.<!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
             </p>

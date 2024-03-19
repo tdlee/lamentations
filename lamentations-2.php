@@ -278,7 +278,7 @@
           <div class="poem__versetext">
             <p>
               Hell-bent was the <span class="yhwh">Lord</span> on destroying<br><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
-              &emsp;the wall of Daughter Zion;<br><!-- 2:8,18: same --><!-- mentioned in "staging", section "Daughter Zion" -->
+              &emsp;the wall of Daughter Zion;<br><!-- 2:8,18: same -->
               out-stretching his tape-measure; not staying<br>
               &emsp;his hand from devouring;<br><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               making mourn both wall and rampart,<br>
