@@ -181,7 +181,7 @@
             <div class="poem__versetext">
               <p>
                 Up to our necks are we pursued;<br>
-                  we wearied, we found no rest.
+                  we weary, we are given no rest.<!-- "we are given": passive voice; Berman (2023) p.163 -->
               </p>
               <p>
                 We stretched out hands to Egypt;<br>
