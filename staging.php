@@ -390,6 +390,19 @@
       </li>
     </ul>
 
+    <p>
+      Topping and tailing chapter&nbsp;5 as contrasting verbs "recall" and "ignore":
+    </p>
+
+    <ul>
+      <li>
+        5:1: "Recall, O <span class="yhwh">Lord</span>, what befell us"
+      </li>
+      <li>
+        5:20: "&hellip;why always ignore us?"
+      </li>
+    </ul>
+
     <h2>Some random details</h2>
 
     <ul>

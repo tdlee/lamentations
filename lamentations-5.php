@@ -88,6 +88,14 @@
       ?>
     </p>
     <p>
+      The main central portion of the chapter may be viewed as
+      two confessional sections:
+      vv.2&ndash;7 reflecting broadly on history ending "our ancestors sinned"
+      and vv.8&ndash;16 about the current state ending "we have sinned".<?php
+        Footnote('Berman (2023), p.160ff.');
+      ?>
+    </p>
+    <p>
       Just as the fourth chapter has both similarities with some Psalms
       but also contrasts against them,
       so too does this chapter: in this case Psalms 74 and 79.
@@ -143,11 +151,12 @@
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
             <?php
-              $fn='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
+              $fn_recall='The verbs "recall" (here) and "ignore" (v20) form an antithetical pair, topping and tailing the chapter. Both are also about deliberation: "recall" is more than "remember" and "ignore" is more than "forget".  See Berlin (2004), p.117; Goldingay (2022), p.205; Berman (2023), p.158.';
+              $fn_list='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
             ?>
             <p>
-              Recall, O <span class="yhwh">Lord</span>, what befell us,<br>
-                look; notice our disgrace:<?php Footnote($fn); ?><!-- same verbs as 1:11,12 and 2:20 -->
+              Recall,<?php Footnote($fn_recall); ?> O <span class="yhwh">Lord</span>, what befell us:<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
+                look; notice our disgrace:<?php Footnote($fn_list); ?><!-- same verbs as 1:11,12 and 2:20 -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -180,7 +189,7 @@
             <div class="poem__versetext">
               <p>
                 Up to our necks are we pursued;<br>
-                  we wearied, we found no rest.
+                  we weary, we are given no rest.<!-- "we are given": passive voice; Berman (2023) p.163 -->
               </p>
               <p>
                 We stretched out hands to Egypt;<br>
@@ -304,7 +313,7 @@
                   ruling generations eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>
-                Long years, why always forget us?<br>
+                Long years, why always ignore us?<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
                   Why for all time forsak<span class="acrostic-letter">e</span>?
               </p>
               <p>
