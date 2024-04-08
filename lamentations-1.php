@@ -371,7 +371,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Out of the heights he hurled fire<br>
+              Out from on high he hurled fire<br>
               &emsp;down into my bones.<br>
               He spread a net for my feet;<br>
               &emsp;recoiling me backwards.<?php Footnote('See footnote at v8.'); ?><br><!-- vv8,13: same root words "turn/back" -->
