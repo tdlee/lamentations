@@ -391,9 +391,9 @@
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;<br><!-- 5,14,22: same word "transgressions" -->
-              &emsp;bound tight by his hand<br>
-              his yoke was upon my neck:<br>
-              &emsp;he sapped my strength.<br>
+              &emsp;bound tight by his hand,<br>
+              mounted upon my neck,<br>
+              &emsp;sapping my strength.<br>
               My Lord hand-delivered me to those<br>
               &emsp;whom I cannot withstand.<?php Footnote($fn2); ?>
             </p>
