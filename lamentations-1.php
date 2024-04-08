@@ -490,7 +490,7 @@
               my heart turns over within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               Outside the sword bereaves;<br>
-              &emsp;inside, too, death.
+              &emsp;inside, very death.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
