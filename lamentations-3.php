@@ -376,7 +376,7 @@
                   to the soul who quests for him;<!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               </p>
               <p>
-                Judicious is our hoping&mdash;and in silence&mdash;<br>
+                Judicious is our hoping, and in silence,<br><!-- vv.26,28: very similar "silence" clause -->
                   for the <span class="yhwh">Lord</span>'s deliverance;
               </p>
               <p>
@@ -397,7 +397,7 @@
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
                 <!-- couplet quoted in chapter intro -->
-                Lonesome let him sit<?php Footnote($fn1); ?> and in silence<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                Lonesome let him sit,<?php Footnote($fn1); ?> and in silence,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) --><!-- vv.26,28: very similar "silence" clause -->
                   when it's laid so upon him.
               </p>
               <p>
