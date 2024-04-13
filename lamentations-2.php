@@ -528,7 +528,7 @@
                 $fn='Daughter Zion switches from direct, second-person address to (or at) God to indirect, third-person speech <em>about</em> him, as though she turns to walk away. Dobbs-Allsopp (2012), p.102; Berman (2023), p.85.';
               ?>
               <!-- parts quoted in "staging" -->
-              Zoned round, as to a feast day&mdash;<br>
+              Zoned round, as to a feast-day&mdash;<br>
               &emsp;the terrors you summoned!<br>
               On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;none escaped or survived;<br>
