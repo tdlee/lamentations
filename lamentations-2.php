@@ -98,7 +98,7 @@
           My Lord has:<br>
             &mdash;devoured&hellip;<br>
             &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
-            &mdash;withdrawn&hellip;<br>
+            &mdash;retracted&hellip;<br>
             &mdash;blazed&hellip;<br>
         </p>
       </div><!-- "poem" -->
@@ -186,7 +186,7 @@
             <p>
               Cut off in his smouldering anger<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;every horn of Israel;<br>
-              withdrawn his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
+              retracted his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;at enemy approach;<br>
               blazed against Jacob in fire,<br>
               &emsp;consuming all around.
@@ -200,7 +200,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
+                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only retracted in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast "bivouac", 6<em>a</em>, a different noun, which refers to the Temple.';
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
