@@ -186,7 +186,7 @@
             <p>
               Cut off in his smouldering anger<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;every horn of Israel;<br>
-              retracted his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
+              retracted his right hand<br><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
               &emsp;at enemy approach;<br>
               blazed against Jacob in fire,<br>
               &emsp;consuming all around.
@@ -206,7 +206,7 @@
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
               Drawing his bow like an enemy,<br>
-              &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
+              &emsp;his right hand now poised<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
               on Daughter Zion's tent<?php Footnote($fn3); ?> his fury<br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes --><!-- 2:4; 4:11/2: "fury" -->
