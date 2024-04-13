@@ -423,7 +423,7 @@
             <p>
               Snarling and gnashing their teeth,<br>
               &emsp;all your enemies<br>
-              gape their mouths at you, saying<br><!-- "gape their mouths": 2:16 and 3:46 -->
+              gape their mouths at you, boasting<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->
               Long for this day we have waited&mdash;<br>
               &emsp;we have lived to look upon it!"<!-- "look", as in "look"/"notice" thread -->
