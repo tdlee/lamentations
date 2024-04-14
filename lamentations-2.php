@@ -494,7 +494,7 @@
               ?>
               Who have you thus tormented?<?php Footnote($fn1); ?><br><!-- 2:20, 3:51: same strong verb -->
               &emsp;Look, <span class="yhwh">Lord</span>; notice!<br><!-- verbs match 1:11 (and reversed 1:12) -->
-              Must women eat their own womb's fruit,<br>
+              Must women eat their own womb-fruit,<br>
               &emsp;their nursed<?php Footnote($fn2); ?> babes?<br><!-- mentioned in "notes" -->
               Should priest and prophet be slain<br>
               &emsp;in the sanctuary of our Lord?
