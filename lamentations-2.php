@@ -98,7 +98,7 @@
           My Lord has:<br>
             &mdash;devoured&hellip;<br>
             &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
-            &mdash;withdrawn&hellip;<br>
+            &mdash;retracted&hellip;<br>
             &mdash;blazed&hellip;<br>
         </p>
       </div><!-- "poem" -->
@@ -186,7 +186,7 @@
             <p>
               Cut off in his smouldering anger<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;every horn of Israel;<br>
-              withdrawn his right hand<br><!-- "hand": vv. 3,4,7,8,(19) -->
+              retracted his right hand<br><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
               &emsp;at enemy approach;<br>
               blazed against Jacob in fire,<br>
               &emsp;consuming all around.
@@ -200,13 +200,13 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only withdrawn in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
+                $fn1='The Lord\'s "right hand", usually defensive of his people, was not only retracted in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
                 $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast "bivouac", 6<em>a</em>, a different noun, which refers to the Temple.';
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
               Drawing his bow like an enemy,<br>
-              &emsp;his right hand poised,<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) -->
+              &emsp;his right hand now poised<?php Footnote($fn1); ?><br><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
               like a foe, he has slain those precious<br>
               &emsp;in his eye;<?php Footnote($fn2); ?><br>
               on Daughter Zion's tent<?php Footnote($fn3); ?> his fury<br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes --><!-- 2:4; 4:11/2: "fury" -->
@@ -244,9 +244,9 @@
               ?>
               Flattening his bivouac<?php Footnote($fn1); ?> like a garden,<?php Footnote($fn2); ?><br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
               &emsp;he destroyed his own meeting place.<br>
-              The <span class="yhwh">Lord</span> has obliterated from Zion<br>
-              &emsp;his own feast-day and sabbath;<br>
-              in angered rage has spurned<br>
+              In Zion the <span class="yhwh">Lord</span> wiped from memory<br><!-- "memory" has some resonance with "mind" in chap.1 -->
+              &emsp;both feast-day and sabbath,<br>
+              and spurned in angered rage<br>
               &emsp;both king and priest.
             </p>
           </div><!-- poem__versetext -->
@@ -423,7 +423,7 @@
             <p>
               Snarling and gnashing their teeth,<br>
               &emsp;all your enemies<br>
-              gape their mouths at you, saying<br><!-- "gape their mouths": 2:16 and 3:46 -->
+              gape their mouths at you, boasting<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->
               Long for this day we have waited&mdash;<br>
               &emsp;we have lived to look upon it!"<!-- "look", as in "look"/"notice" thread -->
@@ -470,7 +470,7 @@
               <?php
                 $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
               ?>
-              Vociferous! Cry anguished at night,<br>
+              Vehemently cry, arising at night<br>
               &emsp;at the start of each watch.<br>
               Pour out your heart like water<br><!-- 2:4,11,12,19: same verb -->
               &emsp;before the face of our Lord.<br><!-- "face": 2:19, 4:16 -->
@@ -494,7 +494,7 @@
               ?>
               Who have you thus tormented?<?php Footnote($fn1); ?><br><!-- 2:20, 3:51: same strong verb -->
               &emsp;Look, <span class="yhwh">Lord</span>; notice!<br><!-- verbs match 1:11 (and reversed 1:12) -->
-              Must women eat their own womb's fruit,<br>
+              Must women eat their own womb-fruit,<br>
               &emsp;their nursed<?php Footnote($fn2); ?> babes?<br><!-- mentioned in "notes" -->
               Should priest and prophet be slain<br>
               &emsp;in the sanctuary of our Lord?
@@ -528,7 +528,7 @@
                 $fn='Daughter Zion switches from direct, second-person address to (or at) God to indirect, third-person speech <em>about</em> him, as though she turns to walk away. Dobbs-Allsopp (2012), p.102; Berman (2023), p.85.';
               ?>
               <!-- parts quoted in "staging" -->
-              Zoned round, as to a feast day&mdash;<br>
+              Zoned round, as to a feast-day&mdash;<br>
               &emsp;the terrors you summoned!<br>
               On the day of the <span class="yhwh">Lord</span>'s anger<?php Footnote($fn); ?><br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               &emsp;none escaped or survived;<br>

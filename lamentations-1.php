@@ -371,7 +371,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
             <p>
-              Out of the heights he hurled fire<br>
+              Out from on high he hurled fire<br>
               &emsp;down into my bones.<br>
               He spread a net for my feet;<br>
               &emsp;recoiling me backwards.<?php Footnote('See footnote at v8.'); ?><br><!-- vv8,13: same root words "turn/back" -->
@@ -391,9 +391,9 @@
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;<br><!-- 5,14,22: same word "transgressions" -->
-              &emsp;bound tight by his hand<br>
-              his yoke was upon my neck:<br>
-              &emsp;he sapped my strength.<br>
+              &emsp;bound tight by his hand,<br>
+              mounted upon my neck,<br>
+              &emsp;sapping my strength.<br>
               My Lord hand-delivered me to those<br>
               &emsp;whom I cannot withstand.<?php Footnote($fn2); ?>
             </p>
@@ -490,7 +490,7 @@
               my heart turns over within me:<br>
               &emsp;defiantly I had defied.<br><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               Outside the sword bereaves;<br>
-              &emsp;inside, too, death.
+              &emsp;inside, very death.
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
