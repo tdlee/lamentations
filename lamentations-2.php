@@ -470,7 +470,7 @@
               <?php
                 $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
               ?>
-              Vociferous! Cry anguished at night,<br>
+              Vehemently cry, arising at night<br>
               &emsp;at the start of each watch.<br>
               Pour out your heart like water<br><!-- 2:4,11,12,19: same verb -->
               &emsp;before the face of our Lord.<br><!-- "face": 2:19, 4:16 -->
