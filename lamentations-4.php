@@ -250,7 +250,7 @@
             <p>
               How soot-black now their faces,<br>
               &emsp;unrecognised in streets;<br>
-              their skin shrunk, taut on their bones<br>
+              their skin shriveled, taut on their bones<br>
               &emsp;as dessicated wood.
             </p>
           </div><!-- poem__versetext -->
