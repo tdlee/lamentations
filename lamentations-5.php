@@ -262,7 +262,7 @@
                   <!-- if we can't acrosti-cate, let's alliterate -->
               </p>
               <p>
-                The crown from our head has toppled:<br>
+                The crown from our head has tumbled:<br>
                   woe to us; for we have sinned.
               </p>
             </div><!-- poem__versetext -->
