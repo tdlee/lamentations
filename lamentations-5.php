@@ -188,7 +188,7 @@
             <div class="poem__verseref">5&ndash;7</div>
             <div class="poem__versetext">
               <?php
-                $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2.';
+                $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2019), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
               ?>
               <p>
                 Up to our necks are we pursued;<br>
