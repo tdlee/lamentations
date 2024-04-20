@@ -324,7 +324,7 @@
                 let us turn back to yo<span class="acrostic-letter">u</span>.
               </p>
               <?php
-                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2019) p.669.
+                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2019) vol.3 (The Writings), p.669.
                   Other versions also have this as statement
                   (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
                   The NIV has the more open "<i>unless you have&hellip;</i>".';
