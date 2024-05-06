@@ -84,6 +84,9 @@
           Assis, Elie (2009), <a href="https://www.researchgate.net/publication/290883963_The_Unity_of_the_Book_of_Lamentations" target="_blank"><cite>The Unity of the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 71, pp.306&ndash;329
         </li>
         <li>
+          Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
+        </li>
+        <li>
           Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>
         </li>
         <li>

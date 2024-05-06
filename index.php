@@ -368,7 +368,7 @@
     Knox chose to omit the final four: W&ndash;Z.
     But an appeal of alphabetic-acrostic poetry is its all-encompassing
     "A&nbsp;to&nbsp;Z" sense of totality;<?php
-      Footnote('Berman (2023), p.151; van der Spuy (2008), pp.513&ndash;532.');
+      Footnote('Berman (2023), p.151; Bergsma <i>et al</i> (2018), p.817; van der Spuy (2008), pp.513&ndash;532.');
     ?>
     a suffering as vast as the universe of pain, from "A&nbsp;to&nbsp;Z",
     to which nothing more can be added.<?php
