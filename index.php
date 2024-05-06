@@ -394,7 +394,7 @@
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
     but the poet exploits this pattern for expressive emphasis."</i><?php
-      Footnote('Alter (2019), p.657.');
+      Footnote('Alter (2019), vol.3 (The Writings), p.657.');
     ?>
     </p>
 

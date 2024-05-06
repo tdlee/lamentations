@@ -187,12 +187,15 @@
           <div class="poem__verse">
             <div class="poem__verseref">5&ndash;7</div>
             <div class="poem__versetext">
+              <?php
+                $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2019), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
+              ?>
               <p>
                 Up to our necks are we pursued;<br>
                   we weary, we are given no rest.<!-- "we are given": passive voice; Berman (2023) p.163 -->
               </p>
               <p>
-                We stretched out hands to Egypt;<br>
+                We stretched out hands to Egypt;<?php Footnote($fn_egypt); ?><br>
                   to Assyria to beg for our bread.
               </p>
               <p>
@@ -321,7 +324,7 @@
                 let us turn back to yo<span class="acrostic-letter">u</span>.
               </p>
               <?php
-                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2019) p.669.
+                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2019) vol.3 (The Writings), p.669.
                   Other versions also have this as statement
                   (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
                   The NIV has the more open "<i>unless you have&hellip;</i>".';
