@@ -91,7 +91,7 @@
           any Christian colouration over the text.
         </p>
         <p>
-          I also have no knowledge whatsover of the Hebrew language.
+          I also have no knowledge whatsoever of the Hebrew language.
           So this has been a crash course in at least becoming aware of
           various linguistic features usually little considered by
           lay readers of English:
