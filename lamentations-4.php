@@ -372,7 +372,7 @@
             <p>
               "Repulsive! Away!"<br>
               &emsp;[people shout at them.]<br>
-              "Replusive! Repulsive! Hands off!"<br>
+              "Repulsive! Repulsive! Hands off!"<br>
               &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration --><!-- 14,15: common "strayed" -->
               [Resolute were the nations:]<br>
               &emsp;"They'll not reside here."<?php Footnote($fn); ?>
