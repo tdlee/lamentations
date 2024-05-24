@@ -65,7 +65,7 @@
       This works visually: seeing the passing alphabet is vital.
       Perhaps an obvious method is projecting the letters onto a screen.
       I was re-assured to discover that this is also what a forerunner did: see below.
-      In his case (which was a univeristy biblical studies course)
+      In his case (which was a university biblical studies course)
       he was able to use the Hebrew alphabet.
       In our case, where our English alphabet is used, that wouldn't work;
       simply use our alphabet.<?php
@@ -85,7 +85,7 @@
       (with Daughter Zion speaking only at the end).
       But v.13 sets up a chain of "who" questions:
       "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
-      which leads to a sweeping panorama of three iniital candidates on display:
+      which leads to a sweeping panorama of three initial candidates on display:
       prophets (14), passers-by (15) and even human enemies (16).
       Finally there is a fourth candidate, God himself.
       But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php
@@ -273,9 +273,9 @@
     <h3>Across the book</h3>
 
     <p>
-      There is some resonance, both thematic and lingistic,
+      There is some resonance, both thematic and linguistic,
       between the outermost chapters 1&nbsp;and&nbsp;5
-      and, working inwards, their neighouring chapters 2&nbsp;and&nbsp;4.
+      and, working inwards, their neighbouring chapters 2&nbsp;and&nbsp;4.
     </p>
 
     <ul>
