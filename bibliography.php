@@ -151,7 +151,7 @@
     <h2>Background and introductory reading</h2>
 
     <p>
-      The background to Lamentations was one of devasation, destruction and catastrophe for the Jewish people around 587/586 BCE, with brutal siege and exile.
+      The background to Lamentations was one of devastation, destruction and catastrophe for the Jewish people around 587/586 BCE, with brutal siege and exile.
       Useful online sources include:
     </p>
     <ul>

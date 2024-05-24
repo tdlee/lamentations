@@ -346,7 +346,7 @@
       where the Hebrew verb carries the additional nuance of "to experience, know",
       important to this instance of its use.<?php Footnote('Dobbs-Allsopp (2012), p.111.'); ?>
       The man's opening use of the verb follows hard on the heels of Daughter Zion's
-      commanding use of it at 2:20 in her brief but devasting speech.
+      commanding use of it at 2:20 in her brief but devastating speech.
       But the lack of an equivalent English verb which would clearly carry this additional meaning
       (it would be something like "I am the man who has looked [squarely] at affliction")
       makes it impractical to pursue this idea.
