@@ -90,7 +90,14 @@
           Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>
         </li>
         <li>
+          Kang, Shinman &amp; Pieter&nbsp;M. Venter (2009), <cite>A canonical-literary reading of Lamentations 5</cite>, HTS Teologiese Studies/
+Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" target="_blank">DOI: 10.4102/htsv65i1.278</a>
+        </li>
+        <li>
           Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch
+        </li>
+        <li>
+          Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp. 41&ndash;49, <a href="https://doi.org/10.2307/3263864" target="_blank">DOI: 10.2307/3263864</a>
         </li>
         <li>
           Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
