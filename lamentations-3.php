@@ -123,6 +123,7 @@
       because it exists in tension
       with the portraits of human suffering&hellip;in
       the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
+      Rather, "the single voice in Lamentations&nbsp;5 plays a vital role in this most important chapter of the book".<?php Footnote('Kang &amp; Venter (2009), p.2.'); ?>
     </p>
 
     <p>
