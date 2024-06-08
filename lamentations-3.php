@@ -115,7 +115,9 @@
       especially in my own tradition,
       the protestant regions of the western Christian faith,
       who isolate the hopeful passage of 3:22&ndash;39
-      from the stark images of the rest of the poems.
+      from the stark images of the rest of the poems;
+      we tend to attach notions such as "central", "focus" and "highlight"
+      to verses in this small passage in this third chapter.
       But it seems useful, verging on essential,
       to recognise that this
       "grand statement of hope stands at the centre of the work as a whole
@@ -123,7 +125,9 @@
       because it exists in tension
       with the portraits of human suffering&hellip;in
       the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
-      Rather, "the single voice in Lamentations&nbsp;5 plays a vital role in this most important chapter of the book".<?php Footnote('Kang &amp; Venter (2009), p.2.'); ?>
+      So if we really want a retain the notion of a single point of highlight,
+      then we should instead look to the fifth, final chapter as most important,
+      whose communal voice, singly expressed, plays a vital role.<?php Footnote('Kang &amp; Venter (2009), p.2.'); ?>
     </p>
 
     <p>
