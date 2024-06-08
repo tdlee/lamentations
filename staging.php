@@ -184,7 +184,25 @@
       In this translation of <cite>Lamentations</cite>
       we resist the temptation to delve too far into
       what interpretation any individual stage production might bring.
-      Nevertheless it seems worth mentioning that throughout the Dobbs-Allsopp (2012) commentary
+    </p>
+
+    <p>
+      A key question is how many voices are present;
+      in other words how is casting approached?
+      There is no clear consensus among the commentators.
+      Clearly, in the first two chapters there are Daughter Zion and a narrator.
+      The third chapter adds the "strong man" (ch.&nbsp;3) as a third character.
+      Lanahan (1974) then suggests a further two voices (totalling five):
+      a "bourgeois" (rather than the earlier narrator) for ch.4
+      and a chorus for ch.5.
+      This chorus is not simply the narrator, Daughter Zion,
+      the strong man and the bourgeois;
+      rather it has its own character,
+      subsuming each individual persona.<?php Footnote('Lanahan (1974), p.48.'); ?>
+    </p>
+
+    <p>
+      Throughout the Dobbs-Allsopp (2012) commentary
       there are some very useful thoughts about not only characters
       and possible motivations and thoughts, but also groups.
       For example:
