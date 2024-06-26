@@ -106,6 +106,9 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
           Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">DOI: 10.1177/030908920402900104</a>
         </li>
         <li>
+          Minkoff, Harvey (1997), <a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC: What acrostics in the Bible can demonstrate</cite></a>, Bible Review (April 1997), Biblical Archaeology Society
+        </li>
+        <li>
           van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
         </li>
         <li>
