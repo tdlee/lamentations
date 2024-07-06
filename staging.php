@@ -409,7 +409,7 @@
     </ul>
 
     <p>
-      Topping and tailing chapter&nbsp;5 as contrasting verbs "recall" and "ignore":
+      Topping and tailing chapter&nbsp;5 as contrasting verbs "recall" and "ignore":<?php Footnote('Kang &amp; Venter (2009), p.4, (referring to a translation with verbs "remember" and "forget").'); ?>
     </p>
 
     <ul>
