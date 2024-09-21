@@ -307,7 +307,7 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-            &mdash;<a href="https://www.baslibrary.org/bible-review/13/2/11" target="_blank"><cite>As Simple as ABC</cite></a>,<br>the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York
+          &mdash;<a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC</cite></a>,<br>the late Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York<?php Footnote('Minkoff (1997).'); ?>
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
