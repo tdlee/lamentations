@@ -406,7 +406,7 @@
                 $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
                 $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
               ?>
-              Reviling with hiss and with head-toss<br>
+              Reviling with snarl<!-- vv.15+16 commonality --> and with head-toss<br>
               &emsp;at Daughter Jerusalem,<?php Footnote($fn2); ?><br>
               now those on the road passing by<br>
               &emsp;slow-clap in derision:<br><!-- "slow-clap" also in notes -->
@@ -421,7 +421,10 @@
           <div class="poem__verseref">16</div>
           <div class="poem__versetext">
             <p>
-              Snarling and gnashing their teeth,<br>
+              <?php
+                $fn='The two Hebrew verbs are alliterative.';
+              ?>
+	      Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,<br>
               &emsp;all your enemies<br>
               gape their mouths at you, boasting<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->
