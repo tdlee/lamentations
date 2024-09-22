@@ -221,7 +221,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The Hebrew also has an alliterative wordplay here.';
+                $fn='The two Hebrew verbs are alliterative.';
               ?>
               Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
