@@ -54,6 +54,10 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
+      And the physical reactions and reasonings of passers-by at vv.15&ndash;17
+      here at the destruction of Solomon's Temple seem a dire fulfilment
+      of God's warning to him immediately after its inauguration,
+        <a href="https://www.biblegateway.com/passage/?search=1+kings+9%3A8-9&version=NRSVUE" target="_blank">1&nbsp;Kings&nbsp;9:8&ndash;9</a>.
     </p>
 
     <p>
