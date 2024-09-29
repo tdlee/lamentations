@@ -76,7 +76,8 @@
       that of victim of sexual defilement and rape,
       aligned with many other Lamentations passages
       focussed on the abuse and violation of the innocent.
-      Both threads, adulteress and rape victim, are co-existing possibilities.
+      Both these contrasting threads, adulteress and rape victim,
+      are co-existing possibilities.
       For us as readers, indeed as disciples and worshippers,
       inhabiting the poetic and disturbing both/and is more valuable
       than rushing into a falsely simplistic either/or.
