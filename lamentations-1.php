@@ -130,7 +130,7 @@
   &emsp;SHE, once GREAT among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
-  &emsp;SHE, once prin-CESS among PRO-vinces,
+  &emsp;SHE, once PRIN-cess among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
             <div class="poem__versespeaker">Narrator:</div>
