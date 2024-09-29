@@ -147,8 +147,8 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
         <a href="https://www.biblegateway.com/passage/?search=lamentations+1&version=YLT" target="_blank">Young's Literal Translation</a> (1862&ndash;1898).
         This largely follows the word-ordering of the Hebrew
         (see comment above about Sefaria/JPS)
-        and is careful to use words consistently,
-        allowing repetition to be clearly visible.
+        and generally uses words consistently,
+        allowing repetition to be visible.
       </li>
       <li>
         Biblehub provides a <a href="https://biblehub.com/parallel/lamentations/1-1.htm" target="_blank">verse-by-verse parallel</a> display
