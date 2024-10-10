@@ -51,6 +51,13 @@
           Dobbs-Allsopp, F.W. (2012), <cite>Lamentations</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-23879-7"); ?>
         </li>
         <li>
+          Dobbs-Allsopp, F.W. (2023), <cite>Signs of Writing (Poetry) in Lamentations</cite>,
+            in "A Sage in New Haven: Essays on the Prophets, the Writings, and the Ancient World in Honor of Robert R. Wilson",
+            edited by Alison Acker Gruseke and Carolyn J. Sharp,
+            Zaphon Publishing, pp.229&ndash;243,
+            <?php ISBN("978-3-96327-216-5") ?>
+        </li>
+        <li>
           Goldingay, John (2022), <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
         </li>
         <li>
