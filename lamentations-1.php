@@ -57,7 +57,7 @@
     <p>
       Section 7&ndash;10 is clearly female-intimate
       and the language heaps up with innuendo.
-      Yet it contains a deep and unsettling ambiguity
+      But it contains a deep and unsettling ambiguity
       which has a significant bearing on how we receive it.
       At first sight, the section is strongly suggestive of Daughter Zion
       having been wilfully unfaithful and wantonly adulterous,
@@ -76,7 +76,8 @@
       that of victim of sexual defilement and rape,
       aligned with many other Lamentations passages
       focussed on the abuse and violation of the innocent.
-      Both threads, adulteress and rape victim, are co-existing possibilities.
+      Both these contrasting threads, adulteress and rape victim,
+      are co-existing possibilities.
       For us as readers, indeed as disciples and worshippers,
       inhabiting the poetic and disturbing both/and is more valuable
       than rushing into a falsely simplistic either/or.
@@ -130,7 +131,7 @@
   &emsp;SHE, once GREAT among NA-tions,
   &emsp;&emsp;now ab-AN-doned, WI-dowed;
 
-  &emsp;SHE, once prin-CESS among PRO-vinces,
+  &emsp;SHE, once PRIN-cess among PRO-vinces,
   &emsp;&emsp;now CHAINED, en-SLAVED."
 >
             <div class="poem__versespeaker">Narrator:</div>

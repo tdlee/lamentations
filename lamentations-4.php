@@ -85,26 +85,26 @@
     </p>
     <ul>
       <li>
-         v2: the rare term "children [sons] of Zion" leads us to Psalm&nbsp;149:2<?php
+         v2: the rare term "children [sons] of Zion" leads us to <a href="https://www.biblegateway.com/passage/?search=psalm+149%3A2&version=NRSVUE" target="_blank">Psalm&nbsp;149:2</a><?php
           Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
         ?>
         which in turn draws us to contrast this chapter overall with themes in that psalm
       </li>
       <li>
-        v4: contrast with Psalm&nbsp;131
+        v4: contrast with <a href="https://www.biblegateway.com/passage/?search=psalm+131&version=NRSVUE" target="_blank">Psalm&nbsp;131</a>
       </li>
       <li>
-        v12: seems almost a parody of Psalm&nbsp;48:4&ndash;8<?php
+        v12: seems almost a parody of <a href="https://www.biblegateway.com/passage/?search=psalm+48%3A4-8&version=NRSVUE" target="_blank">Psalm&nbsp;48:4&ndash;8</a><?php
           Footnote('Berman (2023), p.134.');
         ?>
       </li>
       <li>
-        v16: contrast with Numbers&nbsp;6:24&ndash;26.<?php
+        v16: contrast with <a href="https://www.biblegateway.com/passage/?search=numbers+6%3A24-26&version=NRSVUE" target="_blank">Numbers&nbsp;6:24&ndash;26</a><?php
           Footnote('Goldingay (2022), p.179.');
         ?>
       </li>
       <li>
-        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in Psalm&nbsp;144:9&ndash;14.<?php
+        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in <a href="https://www.biblegateway.com/passage/?search=psalm+144%3A9-14&version=NRSVUE" target="_blank">Psalm&nbsp;144:9&ndash;14</a>.<?php
           Footnote('Berman (2023), pp.148&ndash;150.');
         ?>
       </li>

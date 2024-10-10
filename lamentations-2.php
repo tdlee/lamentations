@@ -54,6 +54,10 @@
         <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
           Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
         ?>
+      And the physical reactions and reasonings of passers-by at vv.15&ndash;17
+      here at the destruction of Solomon's Temple seem a dire fulfilment
+      of God's warning to him immediately after its inauguration,
+        <a href="https://www.biblegateway.com/passage/?search=1+kings+9%3A8-9&version=NRSVUE" target="_blank">1&nbsp;Kings&nbsp;9:8&ndash;9</a>.
     </p>
 
     <p>
@@ -221,7 +225,7 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn='The Hebrew also has an alliterative wordplay here.';
+                $fn='The two Hebrew verbs are alliterative.';
               ?>
               Enemy! So my Lord has become,<br>
               &emsp;and devoured Israel&mdash;<br><!-- "devour" thread -->
@@ -406,7 +410,7 @@
                 $fn='Psalm 48:2, Psalm 50:2; Ezek.27:3.';
                 $fn2='Compare Matt.27:39-40: "Those passing by reviled him, shaking their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself, if you are the Son of God, [and] come down from the cross!"';
               ?>
-              Reviling with hiss and with head-toss<br>
+              Reviling with snarl<!-- vv.15+16 commonality --> and with head-toss<br>
               &emsp;at Daughter Jerusalem,<?php Footnote($fn2); ?><br>
               now those on the road passing by<br>
               &emsp;slow-clap in derision:<br><!-- "slow-clap" also in notes -->
@@ -421,7 +425,10 @@
           <div class="poem__verseref">16</div>
           <div class="poem__versetext">
             <p>
-              Snarling and gnashing their teeth,<br>
+              <?php
+                $fn='The two Hebrew verbs are alliterative.';
+              ?>
+	      Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,<br>
               &emsp;all your enemies<br>
               gape their mouths at you, boasting<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->

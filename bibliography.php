@@ -78,10 +78,10 @@
           Adelman, Rachel (2021),  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>, Shalvi/Hyman Encyclopedia of Jewish Women
         </li>
         <li>
-          Assis, Elie (2007), <a href="https://www.researchgate.net/publication/290869814_The_alphabetic_acrostic_in_the_Book_of_Lamentations" target="_blank"><cite>The Alphabetic Acrostic in the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 69,4, pp.710&ndash;724
+          Assis, Elie (2007), <a href="https://www.researchgate.net/publication/290869814_The_alphabetic_acrostic_in_the_Book_of_Lamentations" target="_blank"><cite>The Alphabetic Acrostic in the Book of Lamentations</cite></a>, The <a href="https://www.catholicbiblical.org/catholic-biblical-quarterly-cbq" target="_blank">Catholic Biblical Quarterly</a>, 69,4, pp.710&ndash;724
         </li>
         <li>
-          Assis, Elie (2009), <a href="https://www.researchgate.net/publication/290883963_The_Unity_of_the_Book_of_Lamentations" target="_blank"><cite>The Unity of the Book of Lamentations</cite></a>, The Catholic Biblical Quarterly, 71, pp.306&ndash;329
+          Assis, Elie (2009), <a href="https://www.researchgate.net/publication/290883963_The_Unity_of_the_Book_of_Lamentations" target="_blank"><cite>The Unity of the Book of Lamentations</cite></a>, The <a href="https://www.catholicbiblical.org/catholic-biblical-quarterly-cbq" target="_blank">Catholic Biblical Quarterly</a>, 71, pp.306&ndash;329
         </li>
         <li>
           Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
@@ -106,7 +106,7 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
           Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">DOI: 10.1177/030908920402900104</a>
         </li>
         <li>
-          Minkoff, Harvey (1997), <a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC: What acrostics in the Bible can demonstrate</cite></a>, Bible Review (April 1997), Biblical Archaeology Society
+          Minkoff, Harvey (1997), <a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC: What acrostics in the Bible can demonstrate</cite></a>, Bible Review (April 1997), <a href="https://www.biblicalarchaeology.org/" target="_blank">Biblical Archaeology Society</a>
         </li>
         <li>
           van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
@@ -147,8 +147,8 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
         <a href="https://www.biblegateway.com/passage/?search=lamentations+1&version=YLT" target="_blank">Young's Literal Translation</a> (1862&ndash;1898).
         This largely follows the word-ordering of the Hebrew
         (see comment above about Sefaria/JPS)
-        and is careful to use words consistently,
-        allowing repetition to be clearly visible.
+        and generally uses words consistently,
+        allowing repetition to be visible.
       </li>
       <li>
         Biblehub provides a <a href="https://biblehub.com/parallel/lamentations/1-1.htm" target="_blank">verse-by-verse parallel</a> display
