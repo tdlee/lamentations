@@ -161,6 +161,7 @@
     <p>
     But <em>this</em> version aims to <em>demand</em> us
     leap up and perform it aloud.
+    Indeed, in their origins, these poems were embedded within a deeply performative oral environment.<?php Footnote('Dobbs-Allsopp (2023), p.237.'); ?>
     </p>
 
     <p>
