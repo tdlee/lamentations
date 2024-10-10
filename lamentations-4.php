@@ -206,10 +206,15 @@
               $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
             ?>
             <p>
+              <!--
+                The two parts of this verse follow the same structure.
+                For the use of "those", itself unusual in Hebrew poetry
+                and here double-used, see Dobbs-Allsopp (2023), p.236.
+              -->
               Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
-              Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
-              &emsp;lie destitute in streets.
+              Destitute now in the streets lie those<br>
+              &emsp;once feasting on delicacies.<!-- let "delicacies" resonate with its associated "destitute" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
