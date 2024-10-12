@@ -95,6 +95,9 @@
         Footnote('Berman (2023), p.160ff.');
       ?>
     </p>
+
+    <h2>Inner-biblical contrasts</h2>
+
     <p>
       Just as the fourth chapter has both similarities with some Psalms
       but also contrasts against them,
@@ -107,6 +110,54 @@
         Footnote('Berman (2023), pp.155&ndash;157.');
       ?>
     </p>
+    <p>
+      Similarly striking is a contrast of 19&ndash;20 against Psalm 102:12&ndash;13,
+      where almost identical statements are taken in almost diametrically opposed directions:
+    </p>
+
+    <div class="widthclear"></div>
+
+    <div class="panel">
+      <div class="poem poem__hebverse">
+        <div class="poem__verse">
+          <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
+          <div class="poem__versetext">
+            <p>
+              And You, O YHWH, abide for all time,<br>
+              And Your memorial from generation to generation.
+            </p>
+            <p>
+              You rise&mdash;You pity Zion,<br>
+              For the time to favour her,<br>
+              For the appointed time has come.
+            </p>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+        <hr>
+        <div class="poem__verse">
+          <div class="poem__verseref">Lam.5:19&ndash;20 (LSV)</div>
+          <div class="poem__versetext">
+            <p>
+              You, O YHWH, remain for all time,<br>
+              Your throne to generation and generation.
+            </p>
+            <p>
+              Why do You forget us forever?<br>
+              You forsake us for [the] length of [our] days!
+            </p>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+    <p>
+      In the psalm, the the community proclaims YHWH's arising
+      to restore Zion;
+      here in Lamentations, he is accused of remaining seated, not acting.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
+    </p>
+
+    <h2>A hidden acrostic?</h2>
+
     <p>
       Many attempts have been made to find something comparable to the acrostic.
       Not least, this would provide the otherwise missing "seventh acrostic"
@@ -312,8 +363,8 @@
             <div class="poem--acrostic">
               <p>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                And you, <span class="yhwh">Lord</span>, sit forever enthroned,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
-                  ruling generations eterna<span class="acrostic-letter">l</span>;
+                And you, <span class="yhwh">Lord</span>, sit enthroned,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                  generation upon generation eterna<span class="acrostic-letter">l</span>;
               </p>
               <p>
                 Long years, why always ignore us?<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
