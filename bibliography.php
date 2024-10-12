@@ -128,6 +128,13 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
         <li>
           Wielenga, Bob (2007), <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86
         </li>
+        <li>
+          Williamson, Robert Jr. (2008), <a href="https://www.academia.edu/532310/Lament_and_the_Arts_of_Resistance_Public_and_Hidden_Transcripts_in_Lamentations_5" target="_blank"><cite>Lament and the Arts of Resistance: Public and Hidden Transcripts in Lamentations&nbsp;5</cite></a>,
+            in "Lamentations in Ancient and Contemporary Contexts",
+            edited by Nancy C. Lee and Carleen Mandolfo,
+	    SBL Symposium Series, pp.67&ndash;80,
+	    <?php ISBN("978-1589833579"); ?>
+        </li>
       </ul>
     </div><!-- "bib" -->
 
