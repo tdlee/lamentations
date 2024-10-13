@@ -334,7 +334,7 @@
       3:63: You <strong>notice?</strong>&hellip;
     </li>
     <li>
-      4:16: &hellip;he no longer <strong>takes note</strong>&hellip;
+      4:16: &hellip;no more does he <strong>notice</strong> them.
     </li>
     <li>
       5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;

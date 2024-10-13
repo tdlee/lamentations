@@ -406,7 +406,7 @@
             ?>
               <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
-              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "he no longer..." commonality -->
+              &emsp;no more does he notice them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "no more..." commonality and in leading position -->
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
@@ -502,10 +502,10 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn_no_longer='The phrase of punishment "he no longer..." of v16 is transformed into a parallel phrase of grace.  Berman (2023), p.148.';
+                $fn_no_more='The phrase of punishment "no more&hellip;notice" of v.16 is transformed into a parallel phrase of grace "no more&hellip;exile".  Berman (2023), p.148.';
               ?>
               Zion-Daughter, your iniquity expiated,<br>
-              &emsp;he no longer keeps you exiled.<?php Footnote($fn_no_longer); ?><br><!-- vv.16,22: "he no longer..." commonality -->
+              &emsp;no more does he exile you.<?php Footnote($fn_no_more); ?><br><!-- vv.16,22: "no more..." commonality and in leading position -->
               But your iniquity, Daughter Edom, will he prosecute,<br>
               &emsp;lay bare your outrages.<!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
             </p>
