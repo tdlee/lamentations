@@ -140,7 +140,7 @@
       to slow down the reading process
       and to require our closer attention.
       Dissonance thus enters the poetry's message"<?php
-        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121.');
+        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121; Dobbs-Allsopp (2023), p.240.');
       ?>
       at precisely the solitary point where hope is expressed.
       The syntax of this new version attempts to reflect this.
