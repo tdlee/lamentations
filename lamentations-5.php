@@ -153,7 +153,7 @@
     <p>
       In the psalm, the the community proclaims YHWH's arising
       to restore Zion;
-      here in Lamentations, he is accused of remaining seated, not acting.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
+      here in Lamentations, he is accused of remaining seated, perpetually doing nothing.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
     </p>
 
     <h2>A hidden acrostic?</h2>
