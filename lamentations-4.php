@@ -436,7 +436,7 @@
           <div class="poem__versetext">
             <p>
               Unceasing, they ensnared our steps,<br><!-- "ensnare": 3:52; 4:18 -->
-              &emsp;our city squares no more ours.<br>
+              &emsp;our city squares no-go zones.<br><!-- "no-go zones": quoted in "notes" -->
               Our end drew near, our days gone;<br>
               &emsp;our end had come.
             </p>
