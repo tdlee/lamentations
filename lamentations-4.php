@@ -204,6 +204,7 @@
           <div class="poem__versetext">
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
+              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet that places it prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), p.236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
             ?>
             <p>
               <!--
@@ -211,9 +212,9 @@
                 For the use of "those", itself unusual in Hebrew poetry
                 and here double-used, see Dobbs-Allsopp (2023), p.236.
               -->
-              Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
+              Embraced now on dung heaps are those<?php Footnote($fn_those); ?><br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
-              Destitute now in the streets lie those<br>
+              Destitute now in the streets lie those<br><!-- see footnote on first half-verse -->
               &emsp;once feasting on delicacies.<!-- let "delicacies" resonate with its associated "destitute" -->
             </p>
           </div><!-- poem__versetext -->
