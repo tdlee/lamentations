@@ -114,8 +114,8 @@
       There are many,
       especially in my own tradition,
       the protestant regions of the western Christian faith,
-      who isolate the hopeful passage of 3:22&ndash;39
-      from the stark images of the rest of the poems;
+      who magnify and exalt the hopeful passage of 3:22&ndash;39,
+      even to the point of hermetically isolating it from the stark images of the rest of the poems;
       we tend to attach notions such as "central", "focus" and "highlight"
       to verses in this small passage in this third chapter.
       But it seems useful, verging on essential,
