@@ -117,7 +117,7 @@
 
     <div class="widthclear"></div>
 
-    <div class="panel">
+    <div class="panel panel--width-38em">
       <div class="poem poem__hebverse">
         <div class="poem__verse">
           <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
