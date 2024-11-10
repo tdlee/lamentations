@@ -334,7 +334,7 @@
       3:63: You <strong>notice?</strong>&hellip;
     </li>
     <li>
-      4:16: &hellip;he no longer <strong>takes note</strong>&hellip;
+      4:16: &hellip;no more does he <strong>notice</strong> them.
     </li>
     <li>
       5:1: &hellip;<strong>look</strong>; <strong>notice</strong> our disgrace&hellip;
@@ -369,7 +369,7 @@
       Lamentations was written in contemporary language.
       Accordingly this version sometimes uses words and terms that are relatively modern
       or that have a modern edge.
-      Examples include: "zero in" (1:22), "blitzed" (2:2), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "up to our necks" (5:5).
+      Examples include: "zero in" (1:22), "blitzed" (2:2), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "no-go zones" (4:18), "up to our necks" (5:5).
     </p>
 
     <p>

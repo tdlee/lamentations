@@ -161,6 +161,7 @@
     <p>
     But <em>this</em> version aims to <em>demand</em> us
     leap up and perform it aloud.
+    Indeed, in their origins, these poems were embedded within a deeply performative oral environment.<?php Footnote('Dobbs-Allsopp (2023), p.237.'); ?>
     </p>
 
     <p>
@@ -351,22 +352,7 @@
     </p>
 
     <p>
-    An aim of this new version is to capture that foundational acrostic technique
-    that almost all modern translations lack,
-    <a href="http://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
-    being an exception.<?php
-      Footnote('Unfortunately the Knox translation de-regularises the all-important opening \'A\' word of chapters 1, 2 and 4. These ought to be consistently "Alas" or equivalent but instead become the inconsistent set "Alone", "Alas" and "All".');
-    ?>
-    </p>
-
-    <p>
-    In mapping Hebrew's 22 letters onto the western alphabet's 26,
-    four letters need omitting.<?php
-      Footnote('There is a further subtlety of a letter-reversal at one point in two slightly different orderings of the Hebrew alphabet in different chapters.
-        This is deemed irrelevant here, as we already have to omit four letters of our own alphabet.');
-    ?>
-    Knox chose to omit the final four: W&ndash;Z.
-    But an appeal of alphabetic-acrostic poetry is its all-encompassing
+    An appeal of alphabetic-acrostic poetry is its all-encompassing
     "A&nbsp;to&nbsp;Z" sense of totality;<?php
       Footnote('Berman (2023), p.151; Bergsma <i>et al</i> (2018), p.817; van der Spuy (2008), pp.513&ndash;532.');
     ?>
@@ -376,14 +362,32 @@
     ?>
     In the case of the people of Lamentations, this was the totality of the destruction of their beloved Jerusalem;
     the <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
-    Indeed, the text of the second poem is itself book-ended, "A&nbsp;to&nbsp;Z" style,
-    by "the day of the <span class="yhwh">Lord</span>'s anger".
     </p>
+
     <p>
-    So isn't this "aleph to tav", "A&nbsp;to&nbsp;Z" totality equally valid as an integral,
-    even essential, component of "meaning"?
-    Whatever necessary four letters are chosen for omission,
-    'A' and 'Z' surely remain indispensable.
+      Dobbs-Allsopp vividly expresses this linguistic parallel:
+      <em>Holistically, the alphabetic pattern propels the poems forward
+      and articulates their base sequential structure: from aleph to tav
+      (cf. Rev.&nbsp;21:6: "I am the Alpha and the Omega, the beginning and the end").</em><?php Footnote('Dobbs-Allsopp (2023), pp.233&ndash;234.'); ?>
+    </p>
+
+    <p>
+    A major aim of this new version is to capture that foundational acrostic technique
+    that almost all modern translations lack,
+    <a href="http://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
+    being an exception.<?php
+      Footnote('Unfortunately the Knox translation de-regularises the all-important opening \'A\' word of chapters 1, 2 and 4. These ought to be consistently "Alas" or equivalent but instead become the inconsistent set "Alone", "Alas" and "All".');
+    ?>
+    In mapping Hebrew's 22 letters onto the western alphabet's 26,
+    four letters need omitting.
+    Knox chose to omit the final four: W&ndash;Z.
+    By contrast, in this version, whatever necessary four letters are chosen for omission,
+    'A' and 'Z' surely remain indispensable.<?php
+      Footnote('There is a further subtlety of a letter-reversal at one point in two slightly different orderings of the Hebrew alphabet in different chapters.
+        This is deemed irrelevant here, as we already have to omit four letters of our own alphabet.');
+    ?>
+    This "aleph to tav", "A&nbsp;to&nbsp;Z" totality, is restored to its place
+    as an integral, even essential, component of "meaning".
     </p>
 
     <h3>Linguistic styling</h3>

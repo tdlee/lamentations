@@ -51,6 +51,13 @@
           Dobbs-Allsopp, F.W. (2012), <cite>Lamentations</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-23879-7"); ?>
         </li>
         <li>
+          Dobbs-Allsopp, F.W. (2023), <a href="https://www.academia.edu/124301685/Signs_of_Writing_in_Lamentations" target="_blank"><cite>Signs of Writing (Poetry) in Lamentations</cite></a>,
+            in "A Sage in New Haven: Essays on the Prophets, the Writings, and the Ancient World in Honor of Robert R. Wilson",
+            edited by Alison Acker Gruseke and Carolyn J. Sharp,
+            Zaphon Publishing, pp.229&ndash;243,
+            <?php ISBN("978-3-96327-216-5") ?>
+        </li>
+        <li>
           Goldingay, John (2022), <cite>The Book of Lamentations</cite>, Eerdmans, <?php ISBN("978-0-8028-2542-1"); ?>
         </li>
         <li>
@@ -120,6 +127,13 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
         </li>
         <li>
           Wielenga, Bob (2007), <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86
+        </li>
+        <li>
+          Williamson, Robert Jr. (2008), <a href="https://www.academia.edu/532310/Lament_and_the_Arts_of_Resistance_Public_and_Hidden_Transcripts_in_Lamentations_5" target="_blank"><cite>Lament and the Arts of Resistance: Public and Hidden Transcripts in Lamentations&nbsp;5</cite></a>,
+            in "Lamentations in Ancient and Contemporary Contexts",
+            edited by Nancy C. Lee and Carleen Mandolfo,
+            SBL Symposium Series, pp.67&ndash;80,
+            <?php ISBN("978-1589833579"); ?>
         </li>
       </ul>
     </div><!-- "bib" -->

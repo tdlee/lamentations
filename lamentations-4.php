@@ -204,12 +204,18 @@
           <div class="poem__versetext">
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
+              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet that places it prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), p.236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
             ?>
             <p>
-              Embraced now on dung heaps are those<br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
+              <!--
+                The two parts of this verse follow the same structure.
+                For the use of "those", itself unusual in Hebrew poetry
+                and here double-used, see Dobbs-Allsopp (2023), p.236.
+              -->
+              Embraced now on dung heaps are those<?php Footnote($fn_those); ?><br><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               &emsp;once robed in purple;<?php Footnote($fn); ?><br>
-              Those once feasting on delicacies<br><!-- let "delicacies" resonate with following "destitute" -->
-              &emsp;lie destitute in streets.
+              Destitute now in the streets lie those<br><!-- see footnote on first half-verse -->
+              &emsp;once feasting on delicacies.<!-- let "delicacies" resonate with its associated "destitute" -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -401,7 +407,7 @@
             ?>
               <!-- "face": 2:19, 4:16 -->
               Scattered from the <span class="yhwh">Lord</span>'s own face:<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?><br>
-              &emsp;he no longer takes note of them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "he no longer..." commonality -->
+              &emsp;no more does he notice them.<br><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "no more..." commonality and in leading position -->
               The people from the priests turn their own faces:<br>
               &emsp;show elders no favour.
             </p>
@@ -431,7 +437,7 @@
           <div class="poem__versetext">
             <p>
               Unceasing, they ensnared our steps,<br><!-- "ensnare": 3:52; 4:18 -->
-              &emsp;our city squares no more ours.<br>
+              &emsp;our city squares no-go zones.<br><!-- "no-go zones": quoted in "notes" -->
               Our end drew near, our days gone;<br>
               &emsp;our end had come.
             </p>
@@ -497,10 +503,10 @@
           <div class="poem__versetext">
             <p>
               <?php
-                $fn_no_longer='The phrase of punishment "he no longer..." of v16 is transformed into a parallel phrase of grace.  Berman (2023), p.148.';
+                $fn_no_more='The phrase of punishment "no more&hellip;notice" of v.16 is transformed into a parallel phrase of grace "no more&hellip;exile".  Berman (2023), p.148.';
               ?>
               Zion-Daughter, your iniquity expiated,<br>
-              &emsp;he no longer keeps you exiled.<?php Footnote($fn_no_longer); ?><br><!-- vv.16,22: "he no longer..." commonality -->
+              &emsp;no more does he exile you.<?php Footnote($fn_no_more); ?><br><!-- vv.16,22: "no more..." commonality and in leading position -->
               But your iniquity, Daughter Edom, will he prosecute,<br>
               &emsp;lay bare your outrages.<!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
             </p>
