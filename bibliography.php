@@ -39,6 +39,9 @@
           Alter, Robert (2018), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
         </li>
         <li>
+          Alter, Robert (2019), <cite>The Art of Bible Translation</cite>, Princeton University Press, <?php ISBN("978-0-691-18149-3"); ?>
+        </li>
+        <li>
           Berlin, Adele (2004), <cite>Lamentations: A Commentary</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>
         </li>
         <li>
