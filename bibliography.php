@@ -36,7 +36,7 @@
     <div class="bib">
       <ul>
         <li>
-          Alter, Robert (2019), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
+          Alter, Robert (2018), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
         </li>
         <li>
           Berlin, Adele (2004), <cite>Lamentations: A Commentary</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>

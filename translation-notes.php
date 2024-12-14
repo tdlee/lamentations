@@ -384,7 +384,7 @@
       two closely related but different Hebrew words that name God:
       "YHWH" and "Adonai".
       This has considerations both for writing/reading and for recitation.
-      Alter's 2019 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master".
+      Alter's 2018 translation writes, respectively, "<span class='yhwh'>Lord</span>" and "Master".
     </p>
 
     <p>
