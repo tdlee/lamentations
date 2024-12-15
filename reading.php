@@ -40,7 +40,7 @@
       then you already know how to do it.
       Here are some well-known examples and their respective rhythms.
       This first is in 4&ndash;3:
-      in each line-pair the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
+      in each couplet the first line has four strong beats ("Ma-", "Ma-", "quite", "-tra-"),
       and the second has three strong beats ("how", "gar-", "grow"):
     </p>
 
@@ -61,13 +61,13 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (line-pairs): 4&ndash;3, 4&ndash;3
+        rhythm (couplets): 4&ndash;3, 4&ndash;3
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>
       This second is in 4&ndash;4:
-      in each line-pair, both have four strong beats.
+      in each couplet, both have four strong beats.
     </p>
 
     <div class="panel panel--width-30em">
@@ -87,7 +87,7 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (line-pairs): 4&ndash;4, 4&ndash;4
+        rhythm (couplets): 4&ndash;4, 4&ndash;4
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -128,7 +128,7 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (line-pairs): 3&ndash;2, 3&ndash;2, 3&ndash;2
+        rhythm (couplets): 3&ndash;2, 3&ndash;2, 3&ndash;2
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -136,6 +136,90 @@
       And in the final chapter, where 3&ndash;2 <i>qinah</i> is largely replaced by 3&ndash;3,
       although not entirely so,
       a sense of rhythm is still entirely appropriate.
+    </p>
+
+    <h2>Lamentations, not Psalms</h2>
+
+    <p>
+      A superficial glance at the layout on the page might suggest that
+      the poems of Lamentations are like the Psalms,
+      with short lines set out as couplets.<?php
+        Footnote('Of course some psalm verses, rather than having a couplet of two half-verse components instead have three.
+          But for our boundary-comparative purposes, the principles remain applicable.');
+      ?>
+      But they are frequently quite different.
+    </p>
+
+    <p>
+      With the Psalms, most readers of Jewish and Christian background
+      are very much aware of a parallelism
+      governing a significant majority of the couplets.<?php
+        Footnote('For a thorough exploration of such parallelism, see Alter (2011), pp.1&ndash;28.');
+      ?>
+      Here is a typical, near-random example: the closing three couplets from Psalm&nbsp;88, also a lament:
+    </p>
+
+    <div class="panel panel--width-30em">
+        <div class="verse">
+  Your wrath has swept over me;
+    your terrors have destroyed me.
+
+  All day they surge round like a flood;
+    from every side they encircle me.
+
+  Because of you friend and neighbour shun me;
+    my only friend is darkness.
+        </div><!-- "verse" -->
+        <div class="panel__cite">
+          &mdash;from Psalm 88 (NABRE)<?php
+            Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, these verses are numbered 17&ndash;19.');
+          ?>
+        </div><!-- "panel__cite" -->
+
+    </div><!-- "panel" -->
+
+    <p>
+      In the psalm example, observe how each couplet (verse) is self-contained and a complete sentence.
+      Within the verse, observe how each half-verse could itself
+      almost be regarded as a self-contained sentence
+      (although expressed as two full clauses).
+      Observe how a verse can be seen as standing alone from its neighbouring verses.
+    </p>
+
+    <p>
+      But the poetics of Lamentations can contrast significantly with this.
+      The thought processes often do not fall neatly at half-lines
+      or even within full couplets.
+      This running-across of expected borders is "enjambment".
+    </p>
+
+    <ul>
+      <li>
+        A large majority of the verses of Lamentations,
+        perhaps two-thirds, utilise enjambment across the half-verses,<?php
+          Footnote('Dobbs-Allsopp (2001<em>a</em>), p.223.');
+        ?>
+        and particularly in chapters 1&ndash;4.<?php
+          Footnote('Dobbs-Allsopp (2001<em>a</em>), pp.238&ndash;239.');
+        ?>
+        One half-verse is incomplete and non-sentential without the other.
+      </li>
+      <li>
+        Enjambment may run across two or more verses.
+        The quasi-narrative of 2:1&ndash;4 provides a good example.
+      </li>
+      <li>
+        Sometimes a thought that has run across several verses can abruptly stop mid-verse,
+        with that mid-verse then giving way to a new thought.
+        Perhaps the most striking example is at the mid-point of 3:42.
+      </li>
+    </ul>
+
+    <p>
+      Awareness of this is useful for the reader, and vital for reciter and lector.
+      For a much fuller exploration
+      see Dobbs-Allsopp (2001<em>a</em>)
+      and Dobbs-Allsopp (2001<em>b</em>).
     </p>
 
     <h2>Recurring theme words and phrases</h2>
