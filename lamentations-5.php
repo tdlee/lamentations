@@ -112,7 +112,7 @@
     </p>
     <p>
       Similarly striking is a contrast of 19&ndash;20 against Psalm 102:12&ndash;13,
-      where almost identical statements are taken in almost diametrically opposed directions:
+      where almost identical statements are taken in almost diametrically opposed directions:<?php Footnote('The Literal Standard Version exhibits this contrast with clarity.'); ?>
     </p>
 
     <div class="widthclear"></div>
