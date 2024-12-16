@@ -112,7 +112,7 @@
     </p>
     <p>
       Similarly striking is a contrast of 19&ndash;20 against Psalm 102:12&ndash;13,
-      where almost identical statements are taken in almost diametrically opposed directions:
+      where almost identical statements are taken in almost diametrically opposed directions:<?php Footnote('The Literal Standard Version exhibits this contrast with clarity.'); ?>
     </p>
 
     <div class="widthclear"></div>
@@ -239,7 +239,7 @@
             <div class="poem__verseref">5&ndash;7</div>
             <div class="poem__versetext">
               <?php
-                $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2019), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
+                $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2018), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
               ?>
               <p>
                 Up to our necks are we pursued;<br>
@@ -375,7 +375,7 @@
                 let us turn back to yo<span class="acrostic-letter">u</span>.
               </p>
               <?php
-                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2019) vol.3 (The Writings), p.669.
+                $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2018) vol.3 (The Writings), p.669.
                   Other versions also have this as statement
                   (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
                   The NIV has the more open "<i>unless you have&hellip;</i>".';

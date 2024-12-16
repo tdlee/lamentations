@@ -253,7 +253,7 @@
             <p>
               <?php
                 $fn1='The term "days of old" will recur at almost the very end of the book, 5:21. Assis (2009), p.322.';
-                $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42. Alternatively, prior to the finalisation of the text, this stanza may have circulated in different versions: see Dobbs-Allsopp (2023), p.240.';
+                $fn2='This verse, like 2:19 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), pp.41&ndash;42. Alternatively, prior to the finalisation of the text, this stanza may have circulated in different versions: see Dobbs-Allsopp (2023), p.240. For an overview of suggested variant readings and ideas, see Kotz&eacute; (2011), pp.61&ndash;63.';
                 $fn_mind='Verses 7 and 9 share a common Hebrew verb root for past and future tenses. The English "remember" is close, but only works for the past (v.7), not prospectively for the future (v.9).  The basis chosen here, and worded to try to preserve 3&ndash;2 <i>qinah</i> rhythm, is "calls to mind" (past) and "no mind&hellip;to" (future). See Berman (2023), p.34.';
               ?>
               Goodly treasures once hers<br>

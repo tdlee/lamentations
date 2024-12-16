@@ -188,6 +188,15 @@
     </p>
 
     <p>
+    Central to the poetry of biblical Hebrew is an extraordinary compactness.
+    Words are punchy; phrases short; syntax free from clutter.
+    Psalm&nbsp;23's famous five-word
+    "The <span class="yhwh">Lord</span> is my shepherd"
+    comes from a simply two-word original: "Yahweh ro'i".<?php Footnote("Alter (2019), pp.94&ndash;95."); ?>
+    And Lamentations exploits this compactness to dramatic effect.
+    </p>
+
+    <p>
     Lamentations also has the acrostic, discarded in most translations.
     But perhaps even more important,
     and also jettisoned in most translations,
@@ -398,7 +407,7 @@
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
     but the poet exploits this pattern for expressive emphasis."</i><?php
-      Footnote('Alter (2019), vol.3 (The Writings), p.657.');
+      Footnote('Alter (2018), vol.3 (The Writings), p.657.');
     ?>
     </p>
 

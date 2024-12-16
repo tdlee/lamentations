@@ -36,7 +36,10 @@
     <div class="bib">
       <ul>
         <li>
-          Alter, Robert (2019), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
+          Alter, Robert (2018), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
+        </li>
+        <li>
+          Alter, Robert (2019), <cite>The Art of Bible Translation</cite>, Princeton University Press, <?php ISBN("978-0-691-18149-3"); ?>
         </li>
         <li>
           Berlin, Adele (2004), <cite>Lamentations: A Commentary</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-22974-0"); ?>
@@ -92,6 +95,12 @@
         </li>
         <li>
           Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
+        </li>
+        <li>
+          Dobbs-Allsopp, F.W. (2001<em>a</em>), <cite>The Enjambing Line in Lamentations: A Taxonomy (Part 1)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.219&ndash;239, <a href="https://doi.org/10.1515/zatw.113.2.219" target="_blank">DOI: 10.1515/zatw.113.2.219</a>
+        </li>
+        <li>
+          Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <a href="https://doi.org/10.1515/zatw.2001.003" target="_blank">DOI: 10.1515/zatw.2001.003</a>
         </li>
         <li>
           Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">DOI: 10.5508/jhs.2009.v9.a16</a>

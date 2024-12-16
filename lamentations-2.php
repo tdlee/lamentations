@@ -248,7 +248,7 @@
               ?>
               Flattening his bivouac<?php Footnote($fn1); ?> like a garden,<?php Footnote($fn2); ?><br><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
               &emsp;he destroyed his own meeting place.<br>
-              In Zion the <span class="yhwh">Lord</span> wiped from memory<br><!-- "memory" has some resonance with "mind" in chap.1 -->
+              The <span class="yhwh">Lord</span> wiped from memory in Zion<br><!-- "memory" has some resonance with "mind" in chap.1 -->
               &emsp;both feast-day and sabbath,<br>
               and spurned in angered rage<br>
               &emsp;both king and priest.
