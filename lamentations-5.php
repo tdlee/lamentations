@@ -151,7 +151,7 @@
       </div><!-- "poem" -->
     </div><!-- "panel" -->
     <p>
-      In the psalm, the the community proclaims YHWH's arising
+      In the psalm, the community proclaims YHWH's arising
       to restore Zion;
       here in Lamentations, he is accused of remaining seated, perpetually doing nothing.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
     </p>
