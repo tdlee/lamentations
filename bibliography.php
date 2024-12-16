@@ -36,6 +36,9 @@
     <div class="bib">
       <ul>
         <li>
+          Alter, Robert (2011), <cite>The Art of Biblical Poetry</cite>, Basic Books, <?php ISBN("978-0-465-02256-4"); ?>
+        </li>
+        <li>
           Alter, Robert (2018), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
         </li>
         <li>
