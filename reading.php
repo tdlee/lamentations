@@ -172,7 +172,7 @@
         </div><!-- "verse" -->
         <div class="panel__cite">
           &mdash;from Psalm 88 (NABRE)<?php
-            Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, these verses are numbered 17&ndash;19.');
+            Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, they are numbered 17&ndash;19.');
           ?>
         </div><!-- "panel__cite" -->
 
