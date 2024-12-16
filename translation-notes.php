@@ -366,8 +366,8 @@
     <h2>Word choices</h2>
 
     <p>
-      Lamentations was written in contemporary language.
-      Accordingly this version sometimes uses words and terms that are relatively modern
+      Lamentations was written in contemporary language of its day.
+      Accordingly this version sometimes uses words and terms that are relatively modern in our own day,
       or that have a modern edge.
       Examples include: "zero in" (1:22), "blitzed" (2:2), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "no-go zones" (4:18), "up to our necks" (5:5).
       And "ranked" (4:2) also now carries an appropriate modern slant of disdain.
