@@ -370,11 +370,11 @@
       Accordingly this version sometimes uses words and terms that are relatively modern
       or that have a modern edge.
       Examples include: "zero in" (1:22), "blitzed" (2:2), "hell-bent" (2:8), "slow-clap" (2:15), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "no-go zones" (4:18), "up to our necks" (5:5).
+      And "ranked" (4:2) also now carries an appropriate modern slant of disdain.
     </p>
 
     <p>
       Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
-      And "ranked" (4:2) also now carries an appropriate modern slant of disdain.
     </p>
 
     <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>
