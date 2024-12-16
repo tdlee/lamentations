@@ -48,7 +48,7 @@
           Berman, Joshua A. (2023), <cite>The Book of Lamentations</cite>, Cambridge University Press, <?php ISBN("978-1-108-44014-1"); ?>
         </li>
         <li>
-          Dobbs-Allsopp, F.W. (1997), <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>, Journal for the Study of the Old Testament, 22,74, pp.29&ndash;60, <a href="https://doi.org/10.1177/030908929702207402" target="_blank">doi:10.1177/030908929702207402</a>
+          Dobbs-Allsopp, F.W. (1997), <cite>Tragedy, Tradition and Theology in the Book of Lamentations</cite>, Journal for the Study of the Old Testament, 22,74, pp.29&ndash;60, <?php DOI("10.1177/030908929702207402"); ?>
         </li>
         <li>
           Dobbs-Allsopp, F.W. (2012), <cite>Lamentations</cite>, Westminster John Knox Press, <?php ISBN("978-0-664-23879-7"); ?>
@@ -97,29 +97,28 @@
           Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
         </li>
         <li>
-          Dobbs-Allsopp, F.W. (2001<em>a</em>), <cite>The Enjambing Line in Lamentations: A Taxonomy (Part 1)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.219&ndash;239, <a href="https://doi.org/10.1515/zatw.113.2.219" target="_blank">doi:10.1515/zatw.113.2.219</a>
+          Dobbs-Allsopp, F.W. (2001<em>a</em>), <cite>The Enjambing Line in Lamentations: A Taxonomy (Part 1)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.219&ndash;239, <?php DOI("10.1515/zatw.113.2.219"); ?>
         </li>
         <li>
-          Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <a href="https://doi.org/10.1515/zatw.2001.003" target="_blank">doi:10.1515/zatw.2001.003</a>
+          Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <?php DOI("10.1515/zatw.2001.003"); ?>
         </li>
         <li>
-          Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <a href="https://doi.org/10.5508/jhs.2009.v9.a16" target="_blank">doi:10.5508/jhs.2009.v9.a16</a>
+          Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <?php DOI("10.5508/jhs.2009.v9.a16"); ?>
         </li>
         <li>
-          Kang, Shinman &amp; Pieter&nbsp;M. Venter (2009), <cite>A canonical-literary reading of Lamentations 5</cite>, HTS Teologiese Studies/
-Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" target="_blank">doi:10.4102/htsv65i1.278</a>
+          Kang, Shinman &amp; Pieter&nbsp;M. Venter (2009), <cite>A canonical-literary reading of Lamentations 5</cite>, HTS Teologiese Studies&nbsp;/ Theological Studies 65(1), <?php DOI("10.4102/hts.v65i1.278"); ?>
         </li>
         <li>
           Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch
         </li>
         <li>
-          Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp. 41&ndash;49, <a href="https://doi.org/10.2307/3263864" target="_blank">doi:10.2307/3263864</a>
+          Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp. 41&ndash;49, <?php DOI("10.2307/3263864"); ?>
         </li>
         <li>
           Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>
         </li>
         <li>
-          Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <a href="https://doi.org/10.1177/030908920402900104" target="_blank">doi:10.1177/030908920402900104</a>
+          Middlemas, Jill (2004), <cite>The Violent Storm in Lamentations</cite>, Journal for the Study of the Old Testament, 29, pp.81&ndash;97, <?php DOI("10.1177/030908920402900104"); ?>
         </li>
         <li>
           Minkoff, Harvey (1997), <a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC: What acrostics in the Bible can demonstrate</cite></a>, Bible Review (April 1997), <a href="https://www.biblicalarchaeology.org/" target="_blank">Biblical Archaeology Society</a>
@@ -132,7 +131,7 @@ Theological Studies 65(1), <a href="https://doi.org/10.4102/hts.v65i1.278" targe
             <a href="https://www.tandfonline.com/doi/abs/10.1080/09018320210000415" target="_blank">
             <cite>Lamentations 3,1&ndash;6: An anti-psalm 23</cite></a>,
             Scandinavian Journal of the Old Testament, 16:2, 264&ndash;282,
-            <a href="https://doi.org/10.1080/09018320210000415" target="_blank">doi:10.1080/09018320210000415</a>
+            <?php DOI("10.1080/09018320210000415"); ?>
         </li>
         <li>
           Wielenga, Bob (2007), <a href="https://pdfs.semanticscholar.org/18fc/b2fa310cc185b6086281dd0ddfa871119151.pdf" target="_blank"><cite>The Suffering Witness: A Missiological Reading of Lamentations</cite></a>, In die Skriflig, 41(1), 69&ndash;86
