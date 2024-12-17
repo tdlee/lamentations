@@ -269,11 +269,12 @@
             <p>
               <?php
                 $fn_good='"Better" is the same root as the "judicious", often translated "good", at 3:25&ndash;27. Both poems deploy this prominently as the acrostic head-word. In English, imagine here "good[er] to be sword-pierced than&hellip;". See translation notes.';
+                $fn_bounty='This term is literally "bounty of the field". Its two other Hebrew Bible occurrences are in Deut.32:13 and Ezek.36:30 where the context is the <span class="yhwh">Lord</span>\'s blessing. So its use here may carry a critique of their squandering. See Berman (2023), p.133.';
               ?>
               Impaling on sword? Far better<?php Footnote($fn_good); ?><br>
-              &emsp;than impaling by famine,<br>
-              ebbing away, stomach pierced,<br>
-              &emsp;starved of all food.
+              &emsp;than impaling by famine;<br>
+              lives bleeding away, wasted<br>
+              &emsp;of the harvest bounty.<?php Footnote($fn_bounty); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
