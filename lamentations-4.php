@@ -267,7 +267,10 @@
           <div class="poem__verseref">9</div>
           <div class="poem__versetext">
             <p>
-              Impaling on sword? Far better<br>
+              <?php
+                $fn_good='"Better" is the same root as the "judicious", often translated "good", at 3:25&ndash;27. Both poems deploy this prominently as the acrostic head-word. In English, imagine here "good[er] to be sword-pierced than&hellip;". See translation notes.';
+              ?>
+              Impaling on sword? Far better<?php Footnote($fn_good); ?><br>
               &emsp;than impaling by famine,<br>
               ebbing away, stomach pierced,<br>
               &emsp;starved of all food.

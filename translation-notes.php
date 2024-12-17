@@ -195,7 +195,7 @@
 
     <p>
       Conversely, the third poem's ninth stanza,
-      Hebrew letter 'tet',
+      Hebrew letter 'tet', verses 25&ndash;27,
       requires a single word used three times,
       ideally meaning "good".
       But "good" is not available to us,
@@ -360,6 +360,70 @@
       But underlying all this consideration of <strong>notice</strong> and <strong>look</strong>
       was the requirement at 1:12 for a leading acrostic 'N'-word.<?php
         Footnote('Ideally, the leading verb at 3:59 and 60, which are W-acrostic, would also be included here.  But that was a stretch too far, so I used the visual near-synonym "witness".');
+      ?>
+    </p>
+
+    <h3>A sad impossibility</h3>
+
+    <p>
+      The 3:25&ndash;27 stanza also highlights an issue
+      masked by a quirk of the English lanuguage itself.
+      Its acrostic word, usually translated "good",
+      is then repeated in comparative form as the acrostic word at 4:9
+      which deems sword-impalement to be "better" (i.e. "more good").
+      Had the English comparative of "good" been "gooder"
+      then the reader, indeed the worshipper, would be struck by something like:
+    </p>
+
+    <div class="panel panel--width-35em">
+      <div class="poem poem__hebverse">
+        <div class="poem__verseref">3:25</div>
+        <div class="poem__versetext">
+          <p>
+            <strong>Good</strong> is the <span class="yhwh">Lord</span>&hellip;;
+          </p>
+        </div>
+        <div class="poem__verseref">3:26</div>
+        <div class="poem__versetext">
+          <p>
+            <strong>Good</strong> when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;
+          </p>
+        </div>
+        <div class="poem__verseref">3:27</div>
+        <div class="poem__versetext">
+          <p>
+            <strong>Good</strong> for a man to bear a yoke in his youth.
+          </p>
+          <p>
+            &hellip;
+          </p>
+        </div>
+        <div class="poem__verseref">4:9</div>
+        <div class="poem__versetext">
+          <p>
+            <strong>Good</strong>[er] to have been sword-pierced than famine-pierced;
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <p>
+      An almost shocking: "The <span class="yhwh">Lord</span> is good
+      but both sword-piercing and famine-piercing are on the same 'goodness' scale."
+      This seems missed by even the commentators.
+      <!-- Checked:
+        Berlin, Berman, Dobbs-Allsopp (2012), Goldingay,
+        Hens-Piazza, Middlemas, O'Connor, Provan
+      -->
+    </p>
+
+    <p>
+      Alas, translating this Hebrew-acrostic resonance across these two poems
+      seems almost insuperable in the English language
+      and beyond reach in our version with its additional constraints of
+      <i>qinah</i>-compactness and the English-acrostic.<?php
+        Footnote('This acrostic resonance would seem to be further reinforced
+          by the double use of "impaling" within 4:9');
       ?>
     </p>
 
