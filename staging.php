@@ -160,6 +160,11 @@
       see the chapter introduction.
       Perhaps the psalm text could be projected,
       then step-by-step erased as those verses progress.
+      Or, for an ironic twist,
+      there could be an over-sentimentalised singing of verses from
+      a well-known version of the psalm,
+      such as "The Lord's my shepherd", <span class="tune-name">Crimond</span>,
+      in alternation with this part of the Lamentations text.
     </p>
 
     <p>
