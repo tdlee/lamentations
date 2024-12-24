@@ -288,8 +288,8 @@
               ?>
             </p>
             <p>
-              Excoriated, to my kinsfolk a laughing-stock,<br>
-                their taunt-tune the day long.
+              Excoriated am I to my kinsfolk&mdash;<br>
+                their day-long mocking song.
             </p>
             <p>
               Engorging me, force-feeding bitterness<br>
