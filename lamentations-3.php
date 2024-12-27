@@ -292,8 +292,8 @@
                 their day-long mocking song.
             </p>
             <p>
-              Engorging me, force-feeding bitterness<br>
-                he sated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
+              Engorging me with bitterness<br>
+                he bloated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
