@@ -664,7 +664,7 @@
             </p>
             <p>
               Ziplock their cold hearts:<br>
-                your curse upon them;
+                your curse be upon them;
             </p>
             <p>
               Zealously hunt them, destroy them<br>
