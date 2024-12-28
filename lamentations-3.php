@@ -244,7 +244,7 @@
           <div class="poem__verseref">7&ndash;9</div>
           <div class="poem__versetext">
             <p>
-              Confining, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
+              Confining me, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
                 he chained me, he weighted me;<!-- double "he" in verse, as per most translations -->
             </p>
             <p>
