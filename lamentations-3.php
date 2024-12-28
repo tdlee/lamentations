@@ -245,7 +245,7 @@
           <div class="poem__versetext">
             <p>
               Confining me, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
-                he chained me, he weighted me;<!-- double "he" in verse, as per most translations -->
+                he weighted me with chains;
             </p>
             <p>
               Cry though I into the void,<br>
