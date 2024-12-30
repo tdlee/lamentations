@@ -460,7 +460,7 @@
               Unto our Lord let your heart cry,<br>
               &emsp;wall of Daughter Zion.<br><!-- 2:8,18: same -->
               Shed tears like a torrent<br>
-              &emsp;day and night;<br>
+              &emsp;all day, all night;<br>
               give yourself no relief,<br>
               &emsp;your eyes no rest.
             </p>
