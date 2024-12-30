@@ -426,7 +426,7 @@
               <?php
                 $fn='The two Hebrew verbs are alliterative.';
               ?>
-	      Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,<br>
+              Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,<br>
               &emsp;all your enemies<br>
               gape their mouths at you, boasting<br><!-- "gape their mouths": 2:16 and 3:46 -->
               &emsp;"We have devoured her!<br><!-- "devour" thread -->
