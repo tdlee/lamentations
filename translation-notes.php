@@ -636,6 +636,23 @@
     </li>
 
     <li>
+      Threading through the second chapter is a recurrent "earth".<?php Footnote('Dobbs-Allsopp (2012), p.93.'); ?>
+      Most references are to the local ground of everyday life.
+      But, as with the English language,
+      Hebrew also lets "earth" carry the much wider meaning
+      of the inhabited world.
+      And in this chapter, two further uses, in verses 1 and 15,
+      are not only to that wider context
+      but additionally import resonance from God-given promises elsewhere in scripture:
+      the Genesis&nbsp;1 creation narrative and the "joy of all earth" of Psalm&nbsp;48.
+      Both instances suggest an existential threat to,
+      and potential overturning of, God-given order and promise.
+      Other English translations tend to overlook the overlap
+      of the single-word, but double-meaning, "earth".
+      In this version, it seemed important to maintain it.
+    </li>
+
+    <li>
       At 4:16 very few English translations capture this verse's use of "face" in the Hebrew.
       Even fewer capture its double use.
       <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>

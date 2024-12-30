@@ -95,7 +95,7 @@
             &mdash;beclouded&hellip;<br>
             &mdash;flung down&hellip;<br>
             &mdash;put out of mind&hellip;<br>
-            &mdash;<span class="acrostic-letter">b</span>litzed to the ground&hellip;<br>
+            &mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;<br>
             &mdash;razed in fury&hellip;<br>
         </p>
         <p>
@@ -149,12 +149,13 @@
               <?php
                 $fn_alas='See footnotes on 1:1.';
                 $fn_becloud='Meaning uncertain. This is the only occurence (a <i><!-- greek --><span lang="el">hapax legomenon</span></i>) of the verb in the Hebrew Bible. This choice follows its derivation from the noun "cloud", and resonance with "the day of the <span class="yhwh">Lord</span>\'s anger".  Other possibilities include "abhorred" and "humiliated". See Goldingay (2022), pp.90&ndash;91; Dobbs-Allsopp (2012), p.80; Berlin (2004), pp.66&ndash;68; Berman (2023), p.59.';
+                $fn_earth='An "earth" thread runs throughout this chapter: vv.1,2,9,10,11,15,21. See also Dobbs-Allsopp (2012), p.93.';
                 $fn_footstool='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
               Alas!<?php Footnote($fn_alas); ?><br>
               Angered, my Lord beclouded<?php Footnote($fn_becloud); ?><br>
               &emsp;Daughter Zion;<br>
-              flung down from the heavens to earth<br>
+              flung down from the heavens to earth<?php Footnote($fn_earth); ?><br><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               &emsp;the honour of Israel;<br>
               put out of mind his footstool<?php Footnote($fn_footstool); ?><br>
               &emsp;in the day of his anger;<!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
@@ -170,10 +171,7 @@
               <?php
                 $fn='For acrostic purposes, the first and last couplets have been interchanged.';
               ?>
-              <?php
-                $fn2='A "ground" thread runs throughout this chapter: vv.2,9,10,11,21. See also Dobbs-Allsopp (2012), p.93.';
-              ?>
-              Blitzed to the ground in desecration<?php Footnote($fn); ?><?php Footnote($fn2); ?><br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              Blitzed to the earth in desecration<?php Footnote($fn); ?><br><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               &emsp;a kingdom and its princes;<br>
               razed in wrath the defences<br><!-- 2:2; 3:1: wrath -->
               &emsp;of Daughter Judah.<br>
@@ -299,7 +297,7 @@
               <?php
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
               ?>
-              Ingested in the ground sank her gates;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              Ingested into earth sank her gates;<br><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               &emsp;her bars shattered, destroyed.<br>
               Her king and her princes are exiled;<br>
               &emsp;law is absent;<?php Footnote($fn); ?><br>
@@ -319,11 +317,11 @@
                 $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire surviving population.  Berlin (2004), p.71; Dobbs-Allsopp (2012), p.92; Goldingay (2022), p.103.';
               ?>
               Jerusalem-Daughter,<?php Footnote($fn); ?> your elders<br>
-              &emsp;sit dumbstruck on the ground;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              &emsp;sit dumbstruck on the earth;<br><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               dust they cast on their heads<br>
               &emsp;and sackcloth they gird.<br>
               Zion's young women<?php Footnote($fn2); ?> bow<br>
-              &emsp;their heads to the ground.<!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              &emsp;their heads to the earth.<!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -340,7 +338,7 @@
               ?>
               Lamenting, my weeping eyes fail;<br>
               &emsp;my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?><br><!-- 1:20, 2:11: same -->
-              my liver-bile pours to the ground<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              my liver-bile pours to the earth<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?><br><!-- 2:4,11,12,19: same verb --><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               &emsp;at my Daughter People's ravaging,<?php Footnote($fn); ?><br><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               as infants and children expire<br>
               &emsp;in the city streets.
@@ -415,7 +413,7 @@
               now those on the road passing by<br>
               &emsp;slow-clap in derision:<br><!-- "slow-clap" also in notes -->
               "Was this once 'Perfect in beauty,<br>
-              &emsp;joy of all earth'?"<?php Footnote($fn); ?>
+              &emsp;joy of all earth'?"<?php Footnote($fn); ?><!-- quoted in translation notes -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -517,7 +515,7 @@
           <div class="poem__versetext">
             <p>
               Young and old lie strewn<br>
-              &emsp;on the ground in the streets;<br><!-- "ground": 2a,9a,10a,10c,11b,21a -->
+              &emsp;on the earth in the streets;<br><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               my young women, my young men: fallen,<br>
               &emsp;cut down by the sword.<br>
               You slew them on the day of your anger:<br><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
