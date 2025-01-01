@@ -381,10 +381,10 @@
             ?>
             <p>
               "Repulsive! Away!"<br>
-              &emsp;[people shout at them.]<br>
+              &emsp;people shout at them.<br>
               "Repulsive! Repulsive! Hands off!"<br>
               &emsp;So they straggled; they strayed.<br><!-- Hebrew alliteration --><!-- 14,15: common "strayed" -->
-              [Resolute were the nations:]<br>
+              Resolute were the nations:<br>
               &emsp;"They'll not reside here."<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->

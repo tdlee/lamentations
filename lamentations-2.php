@@ -481,8 +481,8 @@
               &emsp;before the face of our Lord.<br><!-- "face": 2:19, 4:16 -->
               Lift up your hands to him<br><!-- "hand": vv. 3,4,7,8,(19) -->
               &emsp;for the lives of your babes<br>
-              [who faint from famine and hunger<br>
-              &emsp;at every street-corner].<?php Footnote($fn); ?>
+              who faint from famine and hunger<br>
+              &emsp;at every street-corner.<?php Footnote($fn); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

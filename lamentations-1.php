@@ -260,10 +260,10 @@
               &emsp;in days of old<?php Footnote($fn1); ?><br><!-- 1:7, 5:21: "days of old" -->
               Jerusalem calls to mind<?php Footnote($fn_mind); ?><br><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               &emsp;in her days of downfall.<br><!-- 1:7,9, 3:19: "downfall" -->
-              [When her people fell to enemy hand,<br><!-- enemy/foe -->
-              &emsp;there was none to help.]<?php Footnote($fn2); ?><br>
+              When her people fell to enemy hand,<br><!-- enemy/foe -->
+              &emsp;there was none to help.<br>
               Her enemies look on and mock<br>
-              &emsp;her fallen state.
+              &emsp;her fallen state.<?php Footnote($fn2); ?>
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
