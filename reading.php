@@ -246,7 +246,7 @@
         Chapter&nbsp;1: recurrent "all", which subtly helps establish the "A&nbsp;to&nbsp;Z" totality of the alphabetic acrostic.
       </li>
       <li>
-        Chapter&nbsp;2: "ground" thread; "pour" thread.
+        Chapter&nbsp;2: "earth" thread; "pour" thread.
       </li>
       <li>
         Chapter&nbsp;4: "disgorge" thread (a continuation of chapter&nbsp;2's "pour" thread)

@@ -244,8 +244,8 @@
           <div class="poem__verseref">7&ndash;9</div>
           <div class="poem__versetext">
             <p>
-              Confining, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
-                he chained me, he weighted me;<!-- double "he" in verse, as per most translations -->
+              Confining me, inescapably walled,<br><!-- 7 and 9 start with the same verb -->
+                he weighted me with chains;
             </p>
             <p>
               Cry though I into the void,<br>
@@ -288,12 +288,12 @@
               ?>
             </p>
             <p>
-              Excoriated, to my kinsfolk a laughing-stock,<br>
-                their taunt-tune the day long.
+              Excoriated am I to my kinsfolk&mdash;<br>
+                their day-long mocking song.
             </p>
             <p>
-              Engorging me, force-feeding bitterness<br>
-                he sated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
+              Engorging me with bitterness<br>
+                he bloated me with wormwood;<!-- vv.15,19: "wormwood" --><!-- enjambment to next -->
             </p>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -664,7 +664,7 @@
             </p>
             <p>
               Ziplock their cold hearts:<br>
-                your curse upon them;
+                your curse be upon them;
             </p>
             <p>
               Zealously hunt them, destroy them<br>
