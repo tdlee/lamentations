@@ -226,7 +226,7 @@
       This provides some flexibility.
       'X' is an obvious candidate.  'Z' would also have been,
       but our strong desire for that sense  of "A&nbsp;to&nbsp;Z" totality
-      requires its inclusion.
+      requires its retention and inclusion.
     </p>
 
     <h3>A thematic example</h3>
