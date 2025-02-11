@@ -308,7 +308,7 @@
             <div class="poem--non-acrostic">
             <p>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
-              &emsp;how the foe triumphs."<!-- enemy/foe -->
+              &emsp;how the foe triumphs."<!-- enemy/foe --><!-- "how": vv9,11 -->
             </p>
             </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
@@ -346,7 +346,7 @@
             <div class="poem--non-acrostic">
             <p>
               "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              &emsp;for I am despised."
+              &emsp;how I am despised."<!-- "how": vv9,11 -->
             </p>
             </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
