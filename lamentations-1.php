@@ -174,7 +174,7 @@
               &emsp;tears wet her cheeks.<br>
               None there is to comfort her<br>
               &emsp;from all who love her;<?php Footnote($fn); ?><br>
-              her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
+              her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her" -->
               &emsp;become her foes.<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
