@@ -345,7 +345,7 @@
             <div class="poem__versespeaker">Daughter Zion:</div>
             <div class="poem--non-acrostic">
             <p>
-              "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
+              "Look, O <span class="yhwh">Lord</span>, and notice&mdash;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
               &emsp;how I am despised."<!-- "how": vv9,11 -->
             </p>
             </div><!-- ...non-acrostic -->
