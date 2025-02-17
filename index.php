@@ -173,6 +173,15 @@
     By contrast to this "pinning down" of prose,
     the very form and nature of poetry can take us in the opposite direction:
     the act of performing it opens out the edges of meaning; it invites and encourages the reader to explore an open landscape.
+    Poetic ambiguity requires a more multi-faceted and open-ended approach.<?php
+      Footnote('Gillingham (2002), p.46.
+        For example, referring to Ps.23
+        she notes interpreters who can legitimately suggest
+        at least five different authorial possibilities
+        with contrasting motivations
+        and over a timespan of many centuries (pp.48&ndash;62).'
+      );
+    ?>
     Poetic imagery points to experiences that eclipse words.<?php Footnote('Hens-Piazza (2017), p.xlvi.'); ?>
     It can also purposefully exploit ambiguity:
     appearing to say one thing,

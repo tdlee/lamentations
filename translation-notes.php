@@ -226,7 +226,7 @@
       This provides some flexibility.
       'X' is an obvious candidate.  'Z' would also have been,
       but our strong desire for that sense  of "A&nbsp;to&nbsp;Z" totality
-      requires its inclusion.
+      requires its retention and inclusion.
     </p>
 
     <h3>A thematic example</h3>
@@ -456,7 +456,8 @@
       instead saying the other word "Adonai".<?php
         Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
-      This results a common-sounding word for recitation.
+      This results in recitation using a single, common word to pronounce
+      two different underlying words.
       Representing "YHWH" as "Yahweh" or, worse, "Jehovah"
       seems unsatisfactory in a version designed for recitation,
       And representing "Adonai" as "Master" seems unsatisfactory
@@ -469,7 +470,7 @@
     </p>
 
     <p>
-      The net result here
+      So the approach taken here
       is firstly to adopt the usual present-day practice of writing
       "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals)
       and "Adonai" as "Lord" (normal case).

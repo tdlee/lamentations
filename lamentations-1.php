@@ -174,7 +174,7 @@
               &emsp;tears wet her cheeks.<br>
               None there is to comfort her<br>
               &emsp;from all who love her;<?php Footnote($fn); ?><br>
-              her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all her lovers" -->
+              her friends all have betrayed her:<br><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her" -->
               &emsp;become her foes.<!-- enemy/foe -->
             </p>
           </div><!-- poem__versetext -->
@@ -308,7 +308,7 @@
             <div class="poem--non-acrostic">
             <p>
               "Look, O <span class="yhwh">Lord</span>: my affliction&mdash;<br>
-              &emsp;how the foe triumphs."<!-- enemy/foe -->
+              &emsp;how the foe triumphs."<!-- enemy/foe --><!-- "how": vv9,11 -->
             </p>
             </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->
@@ -345,8 +345,8 @@
             <div class="poem__versespeaker">Daughter Zion:</div>
             <div class="poem--non-acrostic">
             <p>
-              "Look, O <span class="yhwh">Lord</span>, and notice,<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              &emsp;for I am despised."
+              "Look, O <span class="yhwh">Lord</span>, and notice&mdash;<br><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
+              &emsp;how I am despised."<!-- "how": vv9,11 -->
             </p>
             </div><!-- ...non-acrostic -->
           </div><!-- poem__versetext -->

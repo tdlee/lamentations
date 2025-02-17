@@ -106,6 +106,9 @@
           Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <?php DOI("10.1515/zatw.2001.003"); ?>
         </li>
         <li>
+          Gillingham, Susan E. (2002), <cite>The Image, the Depths and the Surface: Multivalent Approaches to Biblical Study</cite>, Sheffield Academic Press, <?php ISBN("978-1841272979"); ?>
+        </li>
+        <li>
           Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <?php DOI("10.5508/jhs.2009.v9.a16"); ?>
         </li>
         <li>
