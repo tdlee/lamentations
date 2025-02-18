@@ -296,33 +296,32 @@
     <!-- panel -->
     <div class="sidebar__right--width-47pc">
       <div class="panel">
-        <div class="poem poem__linewrap poem--acrostic">
-          <p>Acrostics are alphabetical texts.</p>
-          <p>Bible scholars disagree on their purpose.</p>
-          <p>Consequently, translations differ.</p>
-          <p>Despite differences in emphasis,</p>
-          <p>Every translator acknowledges that</p>
-          <p>Form and meaning are connected.</p>
-          <p>Given the strictures of acrostics, however,</p>
-          <p>Holding on to both is impossible.</p>
-          <p>If the acrostic in a poem is</p>
-          <p>Just an ornament or aid to memory,</p>
-          <p>Keeping it intact is not necessary.</p>
-          <p>Leave it with the detritus of translation.</p>
-          <p>Meaning is what matters.</p>
-          <p>Nothing has been lost.</p>
-          <p>Or has it? Some critics say</p>
-          <p>Poetry is a unique wedding of form and meaning,</p>
-          <p>Quite different from artless prose.</p>
-          <p>Rather than being mere bangle,</p>
-          <p>Structure is meaning.</p>
-          <p>Translations must convey this unity.</p>
-          <p>Unable to mirror the original exactly,</p>
-          <p>Versions must choose which aspect to favor.</p>
-          <p>Whatever they do, though,</p>
-          <p>Xerography is not one of the choices.</p>
-          <p>You try: Is <i>alpha</i> to <i>omega</i> "<i>A</i>&nbsp;to&nbsp;<i>O</i>" or "<i>A</i>&nbsp;to&nbsp;<span class="acrostic-letter"><i>Z</i></span>"?</p>
-
+        <div class="poem poem__hebverse poem__linewrap">
+          <div class="acrostic-line">Acrostics are alphabetical texts.</div>
+          <div class="acrostic-line">Bible scholars disagree on their purpose.</div>
+          <div class="acrostic-line">Consequently, translations differ.</div>
+          <div class="acrostic-line">Despite differences in emphasis,</div>
+          <div class="acrostic-line">Every translator acknowledges that</div>
+          <div class="acrostic-line">Form and meaning are connected.</div>
+          <div class="acrostic-line">Given the strictures of acrostics, however,</div>
+          <div class="acrostic-line">Holding on to both is impossible.</div>
+          <div class="acrostic-line">If the acrostic in a poem is</div>
+          <div class="acrostic-line">Just an ornament or aid to memory,</div>
+          <div class="acrostic-line">Keeping it intact is not necessary.</div>
+          <div class="acrostic-line">Leave it with the detritus of translation.</div>
+          <div class="acrostic-line">Meaning is what matters.</div>
+          <div class="acrostic-line">Nothing has been lost.</div>
+          <div class="acrostic-line">Or has it? Some critics say</div>
+          <div class="acrostic-line">Poetry is a unique wedding of form and meaning,</div>
+          <div class="acrostic-line">Quite different from artless prose.</div>
+          <div class="acrostic-line">Rather than being mere bangle,</div>
+          <div class="acrostic-line">Structure is meaning.</div>
+          <div class="acrostic-line">Translations must convey this unity.</div>
+          <div class="acrostic-line">Unable to mirror the original exactly,</div>
+          <div class="acrostic-line">Versions must choose which aspect to favor.</div>
+          <div class="acrostic-line">Whatever they do, though,</div>
+          <div class="acrostic-line">Xerography is not one of the choices.</div>
+          <div class="acrostic-line">You try: Is <i>alpha</i> to <i>omega</i> "<i>A</i>&nbsp;to&nbsp;<i>O</i>" or "<i>A</i>&nbsp;to&nbsp;<span class="acrostic-letter"><i>Z</i></span>"?</div>
         </div><!-- "poem" -->
 
         <div class="panel__cite">
@@ -348,14 +347,14 @@
     </p>
 
     <div class="panel panel--width-17em">
-      <div class="poem poem__linewrap poem--acrostic">
-        <p>Agonies: I am&nbsp;&hellip;</p>
-        <p>Away&mdash;me he drove&nbsp;&hellip;</p>
-        <p>Against me, he turns&nbsp;&hellip;</p>
-        <p>&nbsp;</p>
-        <p>Breaking my bones&nbsp;&hellip;</p>
-        <p>Besieged by him&nbsp;&hellip;</p>
-        <p>Bound by him&nbsp;&hellip;</p>
+      <div class="poem poem__linewrap">
+        <div class="acrostic-line">Agonies: I am&nbsp;&hellip;</div>
+        <div class="acrostic-line">Away&mdash;me he drove&nbsp;&hellip;</div>
+        <div class="acrostic-line">Against me, he turns&nbsp;&hellip;</div>
+        <div class="acrostic-line">&nbsp;</div>
+        <div class="acrostic-line">Breaking my bones&nbsp;&hellip;</div>
+        <div class="acrostic-line">Besieged by him&nbsp;&hellip;</div>
+        <div class="acrostic-line">Bound by him&nbsp;&hellip;</div>
       </div><!-- "poem" -->
 
       <div class="panel__cite">

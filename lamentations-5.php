@@ -122,29 +122,21 @@
         <div class="poem__verse">
           <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
           <div class="poem__versetext">
-            <p>
-              And You, O YHWH, abide for all time,<br>
-              And Your memorial from generation to generation.
-            </p>
-            <p>
-              You rise&mdash;You pity Zion,<br>
-              For the time to favour her,<br>
-              For the appointed time has come.
-            </p>
+            <div class="indent0">  And You, O YHWH, abide for all time,</div>
+            <div class="indent1">  And Your memorial from generation to generation.</div>
+            <div class="indent0">  You rise&mdash;You pity Zion,</div>
+            <div class="indent1">  For the time to favour her,</div>
+            <div class="indent1">  For the appointed time has come.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
         <hr>
         <div class="poem__verse">
           <div class="poem__verseref">Lam.5:19&ndash;20 (LSV)</div>
           <div class="poem__versetext">
-            <p>
-              You, O YHWH, remain for all time,<br>
-              Your throne to generation and generation.
-            </p>
-            <p>
-              Why do You forget us forever?<br>
-              You forsake us for [the] length of [our] days!
-            </p>
+            <div class="indent0">You, O YHWH, remain for all time,</div>
+            <div class="indent1">Your throne to generation and generation.</div>
+            <div class="indent0">Why do You forget us forever?</div>
+            <div class="indent1">You forsake us for [the] length of [our] days!</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -188,16 +180,6 @@
     <div class="panel">
       <div class="poem poem__hebverse draft">
 
-<!--
-
-        <br>
-        <div class="poem__verseref">i-n</div>
-        <p>
-          ...<br>
-            ...
-        </p>
--->
-
         <div class="poem__verse">
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
@@ -205,10 +187,8 @@
               $fn_recall='The verbs "recall" (here) and "ignore" (v20) form an antithetical pair, topping and tailing the chapter. Both are also about deliberation: "recall" is more than "remember" and "ignore" is more than "forget".  See Berlin (2004), p.117; Goldingay (2022), p.205; Berman (2023), p.158.';
               $fn_list='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
             ?>
-            <p>
-              Recall,<?php Footnote($fn_recall); ?> O <span class="yhwh">Lord</span>, what befell us:<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
-                look; notice our disgrace:<?php Footnote($fn_list); ?><!-- same verbs as 1:11,12 and 2:20 -->
-            </p>
+              <div class="indent0">Recall,<?php Footnote($fn_recall); ?> O <span class="yhwh">Lord</span>, what befell us:</div><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
+              <div class="indent1">look; notice our disgrace:<?php Footnote($fn_list); ?></div><!-- same verbs as 1:11,12 and 2:20 -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -219,18 +199,12 @@
           <div class="poem__verse">
             <div class="poem__verseref">2&ndash;4</div>
             <div class="poem__versetext">
-              <p>
-                Our heritage turned over to strangers,<br><!-- 3:3, 5:2: common verb "turn" -->
-                  our homes to occupiers.<!-- 2,3,14,18: qinah -->
-              </p>
-              <p>
-                Orphans we have become: fatherless;<br>
-                  our mothers as widows.<!-- 2,3,14,18: qinah -->
-              </p>
-              <p>
-                Our well-water? Extorted for profit;<br>
-                  even our firewood comes at a price.
-              </p>
+                <div class="indent0">Our heritage turned over to strangers,</div><!-- 3:3, 5:2: common verb "turn" -->
+                <div class="indent1">our homes to occupiers.</div><!-- 2,3,14,18: qinah -->
+                <div class="indent0">Orphans we have become: fatherless;</div>
+                <div class="indent1">our mothers as widows.</div><!-- 2,3,14,18: qinah -->
+                <div class="indent0">Our well-water? Extorted for profit;</div>
+                <div class="indent1">even our firewood comes at a price.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -241,18 +215,12 @@
               <?php
                 $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2018), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
               ?>
-              <p>
-                Up to our necks are we pursued;<br>
-                  we weary, we are given no rest.<!-- "we are given": passive voice; Berman (2023) p.163 -->
-              </p>
-              <p>
-                We stretched out hands to Egypt;<?php Footnote($fn_egypt); ?><br>
-                  to Assyria to beg for our bread.
-              </p>
-              <p>
-                Our ancestors sinned and are no more;<br>
-                  now we, we bear their punishment.
-              </p>
+                <div class="indent0">Up to our necks are we pursued;</div>
+                <div class="indent1">we weary, we are given no rest.</div><!-- "we are given": passive voice; Berman (2023) p.163 -->
+                <div class="indent0">We stretched out hands to Egypt;<?php Footnote($fn_egypt); ?></div>
+                <div class="indent1">to Assyria to beg for our bread.</div>
+                <div class="indent0">Our ancestors sinned and are no more;</div>
+                <div class="indent1">now we, we bear their punishment.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -264,22 +232,16 @@
                 $fn='These may be understood as Babylonian officials who were slaves or servants of the Babylonian king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
               ?>
               <!-- The word "underlings" from Goldingay commentary, p.198 -->
-              <p>
-                Underlings now rule us as overlords;<?php Footnote($fn); ?><br>
-                  there is no release from their hand.
-              </p>
+                <div class="indent0">Underlings now rule us as overlords;<?php Footnote($fn); ?></div>
+                <div class="indent1">there is no release from their hand.</div>
               <?php
                 $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
               ?>
-              <p>
-                Getting bread is at risk of our lives,<br>
-                  exposed to the desert sword.<?php Footnote($fn); ?>
+                <div class="indent0">Getting bread is at risk of our lives,</div>
+                <div class="indent1">exposed to the desert sword.<?php Footnote($fn); ?></div>
                   <!-- "exposed to...": idea from NABRE -->
-              </p>
-              <p>
-                Our skin burns hot as an oven<br>
-                  from the raging fevers of famine.
-              </p>
+                <div class="indent0">Our skin burns hot as an oven</div>
+                <div class="indent1">from the raging fevers of famine.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -287,22 +249,14 @@
           <div class="poem__verse">
             <div class="poem__verseref">11&ndash;14</div>
             <div class="poem__versetext">
-              <p>
-                Women are raped in Zion;<br>
-                  virgins in the cities of Judah.
-              </p>
-              <p>
-                Princes are hung up by their hands;<br>
-                  elders disrespected to their faces.
-              </p>
-              <p>
-                Young men slave at millstones;<br>
-                  lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?>
-              </p>
-              <p>
-                Elders abandoned their city-gate;<br><!-- abandoned: vv.14,15 -->
-                  young men their songs.<!-- the first half's "abandoned" verb serves this half--><!-- 2,3,14,18: qinah -->
-              </p>
+                <div class="indent0">Women are raped in Zion;</div>
+                <div class="indent1">virgins in the cities of Judah.</div>
+                <div class="indent0">Princes are hung up by their hands;</div>
+                <div class="indent1">elders disrespected to their faces.</div>
+                <div class="indent0">Young men slave at millstones;</div>
+                <div class="indent1">lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?></div>
+                <div class="indent0">Elders abandoned their city-gate;</div><!-- abandoned: vv.14,15 -->
+                <div class="indent1">young men their songs.</div><!-- the first half's "abandoned" verb serves this half--><!-- 2,3,14,18: qinah -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -310,15 +264,11 @@
           <div class="poem__verse">
             <div class="poem__verseref">15&ndash;16</div>
             <div class="poem__versetext">
-              <p>
-                Joy has abandoned our hearts;<br><!-- abandoned: vv.14,15 -->
-                  our dancing turned into dirges.
+                <div class="indent0">Joy has abandoned our hearts;</div><!-- abandoned: vv.14,15 -->
+                <div class="indent1">our dancing turned into dirges.</div>
                   <!-- if we can't acrosti-cate, let's alliterate -->
-              </p>
-              <p>
-                The crown from our head has tumbled:<br>
-                  woe to us; for we have sinned.
-              </p>
+                <div class="indent0">The crown from our head has tumbled:</div>
+                <div class="indent1">woe to us; for we have sinned.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -329,19 +279,13 @@
         <div class="poem__verse">
           <div class="poem__verseref">17&ndash;18</div>
           <div class="poem__versetext">
-            <p>
-              For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?><br><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
-            </p>
-            <p>
-              for all these: our eyes dim;
-            </p>
+              <div class="indent0">For all this: our hearts sicken;<?php Footnote('Hebrew: a series of three consecutive half-verses all starting "for" ("because of").') ?></div><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
+              <div class="indent0">for all these: our eyes dim;</div>
             <?php
               $fn='Originally foxes or jackals, although not the same "jackal" noun as at 4:3.  Hyenas are familiar, and this allows the poetic force of alliteration.';
             ?>
-            <p>
-              for Mount Zion: there desolate,<br>
-                the haunt of hyenas.<?php Footnote($fn); ?><!-- 2,3,14,18: qinah -->
-            </p>
+              <div class="indent0">for Mount Zion: there desolate,</div>
+              <div class="indent1">the haunt of hyenas.<?php Footnote($fn); ?></div><!-- 2,3,14,18: qinah -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -360,20 +304,13 @@
         <div class="poem__verse">
           <div class="poem__verseref">19&ndash;22<br>Alleluia</div>
           <div class="poem__versetext">
-            <div class="poem--acrostic">
-              <p>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
-                And you, <span class="yhwh">Lord</span>, sit enthroned,<br><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
-                  generation upon generation eterna<span class="acrostic-letter">l</span>;
-              </p>
-              <p>
-                Long years, why always ignore us?<br><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
-                  Why for all time forsak<span class="acrostic-letter">e</span>?
-              </p>
-              <p>
-                Lead us back, <span class="yhwh">Lord</span>, renew days of old,<br><!-- 1:7, 5:21: "days of old" -->
-                let us turn back to yo<span class="acrostic-letter">u</span>.
-              </p>
+                <div class="indent0 acrostic-line">And you, <span class="yhwh">Lord</span>, sit enthroned,</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
+                <div class="indent1">generation upon generation eterna<span class="acrostic-letter">l</span>;</div>
+                <div class="indent0 acrostic-line">Long years, why always ignore us?</div><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
+                <div class="indent1">Why for all time forsak<span class="acrostic-letter">e</span>?</div>
+                <div class="indent0 acrostic-line">Lead us back, <span class="yhwh">Lord</span>, renew days of old,</div><!-- 1:7, 5:21: "days of old" -->
+                <div class="indent1">let us turn back to yo<span class="acrostic-letter">u</span>.</div>
               <?php
                 $fn='The "<i>indeed</i>" translation is supported by both NABRE and Alter (2018) vol.3 (The Writings), p.669.
                   Other versions also have this as statement
@@ -382,11 +319,8 @@
                 $fn2='This is an astonishingly grim ending; we do well to meditate on this closure.
                   Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
               ?>
-              <p>
-                Indeed,<?php Footnote($fn); ?> you have discarded us:<br><!-- "discarded": 3:45; 5:22 -->
-                to you we are anathem<span class="acrostic-letter">a</span>.<?php Footnote($fn2); ?>
-              </p>
-            </div><!-- "poem/acrostic" -->
+                <div class="indent0 acrostic-line">Indeed,<?php Footnote($fn); ?> you have discarded us:</div><!-- "discarded": 3:45; 5:22 -->
+                <div class="indent1">to you we are anathem<span class="acrostic-letter">a</span>.<?php Footnote($fn2); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
