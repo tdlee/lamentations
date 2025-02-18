@@ -371,20 +371,20 @@
       <div class="poem poem__hebverse">
         <div class="poem__verseref">3:25</div>
         <div class="poem__versetext">
-            <div class="indent0"><strong>Good</strong> is the <span class="yhwh">Lord</span>&hellip;;</div>
+            <div class="indent0 acrostic-line">Good is the <span class="yhwh">Lord</span>&hellip;;</div>
         </div>
         <div class="poem__verseref">3:26</div>
         <div class="poem__versetext">
-            <div class="indent0"><strong>Good</strong> when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;</div>
+            <div class="indent0 acrostic-line">Good when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;</div>
         </div>
         <div class="poem__verseref">3:27</div>
         <div class="poem__versetext">
-            <div class="indent0"><strong>Good</strong> for a man to bear a yoke in his youth.</div>
+            <div class="indent0 acrostic-line">Good for a man to bear a yoke in his youth.</div>
             <div class="indent0">&hellip;</div>
         </div>
         <div class="poem__verseref">4:9</div>
         <div class="poem__versetext">
-            <div class="indent0"><strong>Good</strong>[er] to have been sword-pierced than famine-pierced;</div>
+            <div class="indent0 acrostic-line">Good[er] to have been sword-pierced than famine-pierced;</div>
         </div>
       </div>
     </div>
