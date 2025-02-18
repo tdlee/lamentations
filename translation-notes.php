@@ -249,18 +249,12 @@
     <div class="panel panel--width-22em">
       <div class="poem poem__hebverse">
         <div class="poem__versetext">
-          <p>
-          Is it nothing to you, all you who pass by?<br>
-            Look and see
-          </p>
-          <p>
-          if there is any sorrow like my sorrow,<br>
-            which was brought upon me,
-          </p>
-          <p>
-          which the <span class="yhwh">Lord</span> inflicted<br>
-            on the day of his fierce anger.
-          </p>
+          <div class="indent0">Is it nothing to you, all you who pass by?</div>
+          <div class="indent1">Look and see</div>
+          <div class="indent0">if there is any sorrow like my sorrow,</div>
+          <div class="indent1">which was brought upon me,</div>
+          <div class="indent0">which the <span class="yhwh">Lord</span> inflicted</div>
+          <div class="indent1">on the day of his fierce anger.</div>
         </div>
       </div>
 
@@ -279,14 +273,12 @@
     </p>
 
     <div class="panel panel--width-22em">
-      <div class="poem poem__hebverse poem--acrostic">
+      <div class="poem poem__hebverse">
         <div class="poem__verse">
           <div class="poem__versetext">
-            <p>
-              Notice! And look, you passers-by;<br>
-                &emsp;is it nothing to you?<br>
-              Is there any&hellip;
-            </p>
+              <div class="indent0 acrostic-line">Notice! And look, you passers-by;</div>
+              <div class="indent2">is it nothing to you?</div>
+              <div class="indent1">Is there any&hellip;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
       </div><!-- "poem" -->
@@ -379,30 +371,20 @@
       <div class="poem poem__hebverse">
         <div class="poem__verseref">3:25</div>
         <div class="poem__versetext">
-          <p>
-            <strong>Good</strong> is the <span class="yhwh">Lord</span>&hellip;;
-          </p>
+            <div class="indent0"><strong>Good</strong> is the <span class="yhwh">Lord</span>&hellip;;</div>
         </div>
         <div class="poem__verseref">3:26</div>
         <div class="poem__versetext">
-          <p>
-            <strong>Good</strong> when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;
-          </p>
+            <div class="indent0"><strong>Good</strong> when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;</div>
         </div>
         <div class="poem__verseref">3:27</div>
         <div class="poem__versetext">
-          <p>
-            <strong>Good</strong> for a man to bear a yoke in his youth.
-          </p>
-          <p>
-            &hellip;
-          </p>
+            <div class="indent0"><strong>Good</strong> for a man to bear a yoke in his youth.</div>
+            <div class="indent0">&hellip;</div>
         </div>
         <div class="poem__verseref">4:9</div>
         <div class="poem__versetext">
-          <p>
-            <strong>Good</strong>[er] to have been sword-pierced than famine-pierced;
-          </p>
+            <div class="indent0"><strong>Good</strong>[er] to have been sword-pierced than famine-pierced;</div>
         </div>
       </div>
     </div>
