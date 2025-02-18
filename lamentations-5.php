@@ -251,7 +251,7 @@
             <div class="poem__versetext">
                 <div class="indent0">Women are raped in Zion;</div>
                 <div class="indent1">virgins in the cities of Judah.</div>
-                <div class="indent0">Princes are hung up by their hands;</div>
+                <div class="indent0">Princes are strung up by their hands;</div><!-- many versions "hung up"; Contemporary English Version "strung up" -->
                 <div class="indent1">elders disrespected to their faces.</div>
                 <div class="indent0">Young men slave at millstones;</div>
                 <div class="indent1">lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?></div>
