@@ -277,7 +277,7 @@
               ?>
               <div class="indent0 acrostic-line">Loving<?php Footnote($fn_acrostic); ?> women's own hands</div>
               <div class="indent2">cook their own children:</div>
-              <div class="indent1">they became their food for them</div>
+              <div class="indent1">they became their food</div>
               <div class="indent2">at my Daughter People's ravaging.<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
