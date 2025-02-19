@@ -120,7 +120,6 @@
     <div class="panel panel--width-38em">
       <div class="poem poem__hebverse">
         <div class="poem__verse">
-          <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
           <div class="poem__versetext">
             <div class="indent0">And You, O YHWH, abide for all time,</div>
             <div class="indent1">And Your memorial from generation to generation.</div>
@@ -129,9 +128,11 @@
             <div class="indent1">For the appointed time has come.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Ps.102:12&ndash;13 (LSV)
+        </div><!-- "panel__cite" -->
         <hr>
         <div class="poem__verse">
-          <div class="poem__verseref">Lam.5:19&ndash;20 (LSV)</div>
           <div class="poem__versetext">
             <div class="indent0">You, O YHWH, remain for all time,</div>
             <div class="indent1">Your throne to generation and generation.</div>
@@ -139,6 +140,9 @@
             <div class="indent1">You forsake us for [the] length of [our] days!</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Lam.5:19&ndash;20 (LSV)
+        </div><!-- "panel__cite" -->
 
       </div><!-- "poem" -->
     </div><!-- "panel" -->
