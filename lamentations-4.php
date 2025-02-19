@@ -406,7 +406,7 @@
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Unceasing, they ensnared our steps,</div><!-- "ensnare": 3:52; 4:18 -->
-              <div class="indent2">our city squares no-go zones.</div><!-- "no-go zones": quoted in "notes" -->
+              <div class="indent2">our town squares no-go zones.</div><!-- "no-go zones": quoted in "notes" -->
               <div class="indent1">Our end drew near, our days gone;</div>
               <div class="indent2">our end had come.</div>
           </div><!-- poem__versetext -->
