@@ -122,11 +122,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
           <div class="poem__versetext">
-            <div class="indent0">  And You, O YHWH, abide for all time,</div>
-            <div class="indent1">  And Your memorial from generation to generation.</div>
-            <div class="indent0">  You rise&mdash;You pity Zion,</div>
-            <div class="indent1">  For the time to favour her,</div>
-            <div class="indent1">  For the appointed time has come.</div>
+            <div class="indent0">And You, O YHWH, abide for all time,</div>
+            <div class="indent1">And Your memorial from generation to generation.</div>
+            <div class="indent0">You rise&mdash;You pity Zion,</div>
+            <div class="indent1">For the time to favour her,</div>
+            <div class="indent1">For the appointed time has come.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
         <hr>
