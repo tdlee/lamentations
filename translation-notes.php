@@ -443,7 +443,14 @@
       Representing "YHWH" as "Yahweh" or, worse, "Jehovah"
       seems unsatisfactory in a version designed for recitation,
       And representing "Adonai" as "Master" seems unsatisfactory
-      because it is outside normal Christian practice.
+      because it is outside normal Christian practice.<?php
+        Footnote('More precisely the English title "Master" is almost never used
+          about God in our Old Testament or (except for a couple of instances)
+          in the New Testament outside the gospels; its use is restricted
+          to the disciples in the gospels addressing Jesus of Nazareth.
+          Similarly its use in Christian worship is exceedingly rare:
+          an example is the Prayer of St.&nbsp;Francis.');
+      ?>
       Some English translations bring "Sovereign" into play,
       especially when the Hebrew is "Adonai YHWH",
       which becomes "Sovereign <span class='yhwh'>Lord</span>".
