@@ -184,7 +184,7 @@
 >
               <div class="indent0 acrostic-line">Dry-thirsted, the suckling's tongue</div>
               <div class="indent2">glues to its palate;</div>
-              <div class="indent1">infants beg for bread</div>
+              <div class="indent1">infants beg for bread,</div>
               <div class="indent2">but no one offers any.</div>
 </div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
