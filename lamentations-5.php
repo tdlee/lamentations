@@ -236,7 +236,7 @@
                 $fn='These may be understood as Babylonian officials who were slaves or servants of the Babylonian king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
               ?>
               <!-- The word "underlings" from Goldingay commentary, p.198 -->
-                <div class="indent0">Underlings now rule us as overlords;<?php Footnote($fn); ?></div>
+                <div class="indent0">Underlings rule us as overlords;<?php Footnote($fn); ?></div>
                 <div class="indent1">there is no release from their hand.</div>
               <?php
                 $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees; Goldingay (2022), p.199.';
