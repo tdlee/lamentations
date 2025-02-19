@@ -239,7 +239,7 @@
                 <div class="indent0">Underlings now rule us as overlords;<?php Footnote($fn); ?></div>
                 <div class="indent1">there is no release from their hand.</div>
               <?php
-                $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
+                $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees; Goldingay (2022), p.199.';
               ?>
                 <div class="indent0">Getting bread is at risk of our lives,</div>
                 <div class="indent1">exposed to the desert sword.<?php Footnote($fn); ?></div>
