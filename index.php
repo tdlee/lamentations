@@ -459,7 +459,7 @@
       and several are listed in the <a href="bibliography.php">Bibliography</a>.
     </p>
     <p>
-      Instead, it has a relatively unique slant towards public recitation
+      Instead, it has a relatively unique slant towards public liturgical recitation
       and even staged performance.  (And, yes, it is perfectly possible
       for recital and staged performance to be devotional, and deeply so.)
       So the primary, although not exclusive, purpose of the introductions and footnotes
