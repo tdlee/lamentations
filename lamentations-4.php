@@ -184,8 +184,8 @@
 >
               <div class="indent0 acrostic-line">Dry-thirsted, the suckling's tongue</div>
               <div class="indent2">glues to its palate;</div>
-              <div class="indent1">infants beg for bread</div>
-              <div class="indent2">but no one offers any.</div>
+              <div class="indent1">infants beg for bread,</div>
+              <div class="indent2">but no one gives any.</div>
 </div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -277,7 +277,7 @@
               ?>
               <div class="indent0 acrostic-line">Loving<?php Footnote($fn_acrostic); ?> women's own hands</div>
               <div class="indent2">cook their own children:</div>
-              <div class="indent1">they became their food for them</div>
+              <div class="indent1">they became their food</div>
               <div class="indent2">at my Daughter People's ravaging.<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -406,7 +406,7 @@
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Unceasing, they ensnared our steps,</div><!-- "ensnare": 3:52; 4:18 -->
-              <div class="indent2">our city squares no-go zones.</div><!-- "no-go zones": quoted in "notes" -->
+              <div class="indent2">our town squares no-go zones.</div><!-- "no-go zones": quoted in "notes" -->
               <div class="indent1">Our end drew near, our days gone;</div>
               <div class="indent2">our end had come.</div>
           </div><!-- poem__versetext -->

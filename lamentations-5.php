@@ -117,21 +117,22 @@
 
     <div class="widthclear"></div>
 
-    <div class="panel panel--width-38em">
+    <div class="panel panel--width-30em">
       <div class="poem poem__hebverse">
         <div class="poem__verse">
-          <div class="poem__verseref">Ps.102:12&ndash;13 (LSV)</div>
           <div class="poem__versetext">
-            <div class="indent0">  And You, O YHWH, abide for all time,</div>
-            <div class="indent1">  And Your memorial from generation to generation.</div>
-            <div class="indent0">  You rise&mdash;You pity Zion,</div>
-            <div class="indent1">  For the time to favour her,</div>
-            <div class="indent1">  For the appointed time has come.</div>
+            <div class="indent0">And You, O YHWH, abide for all time,</div>
+            <div class="indent1">And Your memorial from generation to generation.</div>
+            <div class="indent0">You rise&mdash;You pity Zion,</div>
+            <div class="indent1">For the time to favour her,</div>
+            <div class="indent1">For the appointed time has come.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Ps.102:12&ndash;13 (<abbr title="Literal Standard Version">LSV</abbr>)
+        </div><!-- "panel__cite" -->
         <hr>
         <div class="poem__verse">
-          <div class="poem__verseref">Lam.5:19&ndash;20 (LSV)</div>
           <div class="poem__versetext">
             <div class="indent0">You, O YHWH, remain for all time,</div>
             <div class="indent1">Your throne to generation and generation.</div>
@@ -139,6 +140,9 @@
             <div class="indent1">You forsake us for [the] length of [our] days!</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Lam.5:19&ndash;20 (<abbr title="Literal Standard Version">LSV</abbr>)
+        </div><!-- "panel__cite" -->
 
       </div><!-- "poem" -->
     </div><!-- "panel" -->
@@ -232,10 +236,10 @@
                 $fn='These may be understood as Babylonian officials who were slaves or servants of the Babylonian king (Berlin, 2004), p.121. In modern parlance, "lackeys" or "puppet government" may be imagined.';
               ?>
               <!-- The word "underlings" from Goldingay commentary, p.198 -->
-                <div class="indent0">Underlings now rule us as overlords;<?php Footnote($fn); ?></div>
+                <div class="indent0">Underlings rule us as overlords;<?php Footnote($fn); ?></div>
                 <div class="indent1">there is no release from their hand.</div>
               <?php
-                $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees.';
+                $fn='This might mean either the heat of the desert sun or tribes preying on desert refugees; Goldingay (2022), p.199.';
               ?>
                 <div class="indent0">Getting bread is at risk of our lives,</div>
                 <div class="indent1">exposed to the desert sword.<?php Footnote($fn); ?></div>
@@ -251,7 +255,7 @@
             <div class="poem__versetext">
                 <div class="indent0">Women are raped in Zion;</div>
                 <div class="indent1">virgins in the cities of Judah.</div>
-                <div class="indent0">Princes are hung up by their hands;</div>
+                <div class="indent0">Princes are strung up by their hands;</div><!-- many versions "hung up"; Contemporary English Version "strung up" -->
                 <div class="indent1">elders disrespected to their faces.</div>
                 <div class="indent0">Young men slave at millstones;</div>
                 <div class="indent1">lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?></div>
