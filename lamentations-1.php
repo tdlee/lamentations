@@ -482,14 +482,14 @@
         </div><!-- poem__verse -->
 
       </div><!-- "poem" -->
-      <hr>
-      <div class="footnotes">
-        <?php
-          PrintFootnotes();
-        ?>
-      </div><!-- "footnotes" -->
 
     </div><!-- "panel" -->
+
+    <div class="footnotes">
+      <?php
+        PrintFootnotes();
+      ?>
+    </div><!-- "footnotes" -->
 
   </div><!-- content-area -->
 
