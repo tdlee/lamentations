@@ -90,21 +90,19 @@
     </p>
     <div class="panel panel--width-18em">
       <div class="poem poem__hebverse">
-        <p>
-          <span class="acrostic-letter">A</span>las! Angered, my Lord:<br>
-            &mdash;beclouded&hellip;<br>
-            &mdash;flung down&hellip;<br>
-            &mdash;put out of mind&hellip;<br>
-            &mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;<br>
-            &mdash;razed in fury&hellip;<br>
-        </p>
-        <p>
-          My Lord has:<br>
-            &mdash;devoured&hellip;<br>
-            &mdash;<span class="acrostic-letter">c</span>ut off&hellip;<br>
-            &mdash;retracted&hellip;<br>
-            &mdash;blazed&hellip;<br>
-        </p>
+        <div class="poem__verse poem__versetext">
+          <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
+          <div class="indent1">&mdash;beclouded&hellip;</div>
+          <div class="indent1">&mdash;flung down&hellip;</div>
+          <div class="indent1">&mdash;put out of mind&hellip;</div>
+          <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
+          <div class="indent1">&mdash;razed in fury&hellip;</div>
+          <div class="indent0">My Lord has:</div>
+          <div class="indent1">&mdash;devoured&hellip;</div>
+          <div class="indent1">&mdash;<span class="acrostic-letter">c</span>ut off&hellip;</div>
+          <div class="indent1">&mdash;retracted&hellip;</div>
+          <div class="indent1">&mdash;blazed&hellip;</div>
+        </div><!-- poem__verse + poem__versetext -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
 
