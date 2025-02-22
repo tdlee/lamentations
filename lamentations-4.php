@@ -474,18 +474,14 @@
         </div><!-- poem__verse -->
 
       </div><!-- "poem" -->
-      <hr>
-      <div class="footnotes">
-        <?php
-          PrintFootnotes();
-        ?>
-      </div><!-- "footnotes" -->
-
-      <div class="panel__footer">
-        Copyright &copy; 2020&ndash;2024 David&nbsp;Lee
-      </div><!-- "panel__footer" -->
 
     </div><!-- "panel" -->
+
+    <div class="footnotes">
+      <?php
+        PrintFootnotes();
+      ?>
+    </div><!-- "footnotes" -->
 
   </div><!-- content-area -->
 
