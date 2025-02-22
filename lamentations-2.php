@@ -319,7 +319,7 @@
               <div class="indent1">my liver-bile pours to the earth<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?></div><!-- 2:4,11,12,19: same verb --><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">at my Daughter People's ravaging,<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               <div class="indent1">as infants and children expire</div>
-              <div class="indent2">in the city streets.</div>
+              <div class="indent2">in the city streets.</div><!-- "streets": 2:11,2:12,4:18; "plaza" might be better but more obscure in UK -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -330,7 +330,7 @@
               <div class="indent0 acrostic-line">Mothers hear them crying out loud:</div>
               <div class="indent2">"Where is corn and wine?"</div>
               <div class="indent1">as they expire like the sword-wounded</div>
-              <div class="indent2">in the city streets;</div>
+              <div class="indent2">in the city streets;</div><!-- "streets": 2:11,2:12,4:18; "plaza" might be better but more obscure in UK -->
               <div class="indent1">as their lives pour away</div><!-- 2:4,11,12,19: same verb -->
               <div class="indent2">on their mothers' bosom.</div>
           </div><!-- poem__versetext -->
