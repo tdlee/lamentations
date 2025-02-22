@@ -53,7 +53,7 @@
       ?>
     </p>
     <p>
-      Further, the Hebrew Masoretic text puts a section break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
+      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
       Mount Zion,
       God's dwelling-place
       and formerly "joy of all the earth" (2:15 and Ps.48:2)
@@ -117,7 +117,7 @@
 
     <div class="widthclear"></div>
 
-    <div class="panel panel--width-30em">
+    <div class="panel panel--width-28em">
       <div class="poem poem__hebverse">
         <div class="poem__verse">
           <div class="poem__versetext">
