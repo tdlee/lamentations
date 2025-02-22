@@ -117,7 +117,7 @@
 
     <div class="widthclear"></div>
 
-    <div class="panel panel--width-30em">
+    <div class="panel panel--width-28em">
       <div class="poem poem__hebverse">
         <div class="poem__verse">
           <div class="poem__versetext">
