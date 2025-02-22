@@ -87,14 +87,14 @@
     <div class="panel panel--width-25em">
       <!-- specifically not "poem__hebverse": NEB lacks even alternating indentation -->
       <div class="poem">
-        <p>
-          I am the man who has known affliction,<br>
-          I have felt the rod of his wrath.<br>
-          It was I whom he led away and left to walk<br>
-          in darkness, where no light is.<br>
-          Against me alone he has turned his hand<br>
-          and so it is all day long.<br>
-        </p>
+        <div class="poem__verse poem__versetext">
+          <div class="indent0">I am the man who has known affliction,</div>
+          <div class="indent0">I have felt the rod of his wrath.</div>
+          <div class="indent0">It was I whom he led away and left to walk</div>
+          <div class="indent0">in darkness, where no light is.</div>
+          <div class="indent0">Against me alone he has turned his hand</div>
+          <div class="indent0">and so it is all day long.</div>
+        </div><!-- poem__verse + poem__versetext -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
     <p>
@@ -102,18 +102,14 @@
     </p>
     <div class="panel panel--width-25em">
       <div class="poem poem__hebverse">
-        <p>
-        Agonies: I am the man seared<br>
-          by the rod of his wrath;
-        </p>
-        <p>
-        Away&mdash;me he drove, force-marched<br>
-          in darkness, no light;
-        </p>
-        <p>
-        Against me, he turns his hand<br>
-          from day-dawn to dusk;
-        </p>
+        <div class="poem__verse poem__versetext">
+          <div class="indent0">Agonies: I am the man seared</div>
+          <div class="indent1">by the rod of his wrath;</div>
+          <div class="indent0">Away&mdash;me he drove, force-marched</div>
+          <div class="indent1">in darkness, no light;</div>
+          <div class="indent0">Against me, he turns his hand</div>
+          <div class="indent1">from day-dawn to dusk;</div>
+        </div><!-- poem__verse + poem__versetext -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
 
@@ -348,13 +344,15 @@
 
     <div class="panel panel--width-17em">
       <div class="poem poem__linewrap">
-        <div class="acrostic-line">Agonies: I am&nbsp;&hellip;</div>
-        <div class="acrostic-line">Away&mdash;me he drove&nbsp;&hellip;</div>
-        <div class="acrostic-line">Against me, he turns&nbsp;&hellip;</div>
-        <div class="acrostic-line">&nbsp;</div>
-        <div class="acrostic-line">Breaking my bones&nbsp;&hellip;</div>
-        <div class="acrostic-line">Besieged by him&nbsp;&hellip;</div>
-        <div class="acrostic-line">Bound by him&nbsp;&hellip;</div>
+        <div class="poem__verse poem__versetext">
+          <div class="acrostic-line">Agonies: I am&nbsp;&hellip;</div>
+          <div class="acrostic-line">Away&mdash;me he drove&nbsp;&hellip;</div>
+          <div class="acrostic-line">Against me, he turns&nbsp;&hellip;</div>
+          <div class="acrostic-line">&nbsp;</div>
+          <div class="acrostic-line">Breaking my bones&nbsp;&hellip;</div>
+          <div class="acrostic-line">Besieged by him&nbsp;&hellip;</div>
+          <div class="acrostic-line">Bound by him&nbsp;&hellip;</div>
+        </div><!-- poem__verse + poem__versetext -->
       </div><!-- "poem" -->
 
       <div class="panel__cite">
