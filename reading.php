@@ -160,22 +160,23 @@
     </p>
 
     <div class="panel panel--width-30em">
-        <div class="verse">
-  Your wrath has swept over me;
-    your terrors have destroyed me.
-
-  All day they surge round like a flood;
-    from every side they encircle me.
-
-  Because of you friend and neighbour shun me;
-    my only friend is darkness.
-        </div><!-- "verse" -->
-        <div class="panel__cite">
-          &mdash;from Psalm 88 (NABRE)<?php
-            Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, they are numbered 17&ndash;19.');
-          ?>
-        </div><!-- "panel__cite" -->
-
+      <div class="poem poem__hebverse">
+        <div class="poem__versetext">
+          <div class="indent0">Your wrath has swept over me;</div>
+          <div class="indent1">your terrors have destroyed me.</div>
+          <div class="indent0">&nbsp;</div>
+          <div class="indent0">All day they surge round like a flood;</div>
+          <div class="indent1">from every side they encircle me.</div>
+          <div class="indent0">&nbsp;</div>
+          <div class="indent0">Because of you friend and neighbour shun me;</div>
+          <div class="indent1">my only friend is darkness.</div>
+        </div>
+      </div>
+      <div class="panel__cite">
+        &mdash;from Psalm 88 (NABRE)<?php
+          Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, they are numbered 17&ndash;19.');
+        ?>
+      </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
     <p>
