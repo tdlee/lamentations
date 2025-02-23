@@ -36,9 +36,6 @@
     <div class="bib">
       <ul>
         <li>
-          Alter, Robert (2011), <cite>The Art of Biblical Poetry</cite>, Basic Books, <?php ISBN("978-0-465-02256-4"); ?>
-        </li>
-        <li>
           Alter, Robert (2018), <cite>The Hebrew Bible (three volumes)</cite>, W.W.Norton&nbsp;&amp;&nbsp;Co., <?php ISBN("978-0-393-29249-7"); ?>
         </li>
         <li>
@@ -89,6 +86,9 @@
       <ul>
         <li>
           Adelman, Rachel (2021),  <a href="https://jwa.org/encyclopedia/article/daughter-zion-bat-tzion" target="_blank"><cite>Daughter Zion (Bat Tzion)</cite></a>, Shalvi/Hyman Encyclopedia of Jewish Women
+        </li>
+        <li>
+          Alter, Robert (2011), <cite>The Art of Biblical Poetry</cite>, Basic Books, <?php ISBN("978-0-465-02256-4"); ?>
         </li>
         <li>
           Assis, Elie (2007), <a href="https://www.researchgate.net/publication/290869814_The_alphabetic_acrostic_in_the_Book_of_Lamentations" target="_blank"><cite>The Alphabetic Acrostic in the Book of Lamentations</cite></a>, The <a href="https://www.catholicbiblical.org/catholic-biblical-quarterly-cbq" target="_blank">Catholic Biblical Quarterly</a>, 69,4, pp.710&ndash;724
