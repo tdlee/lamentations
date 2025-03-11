@@ -380,7 +380,7 @@
     </p>
 
     <p>
-      Dobbs-Allsopp vividly expresses this linguistic parallel:
+      <a href="https://ptsem.edu/faculty/chip-dobbs-allsopp/" target="_blank">F.W.&nbsp;Dobbs-Allsopp</a> vividly expresses this linguistic parallel:
       <em>Holistically, the alphabetic pattern propels the poems forward
       and articulates their base sequential structure: from aleph to tav
       (cf. Rev.&nbsp;21:6: "I am the Alpha and the Omega, the beginning and the end").</em><?php Footnote('Dobbs-Allsopp (2023), pp.233&ndash;234.'); ?>
