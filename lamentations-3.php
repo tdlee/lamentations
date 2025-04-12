@@ -310,7 +310,7 @@
                 $fn1='In the Greek Septuagint/LXX, this three-verse acrostic stanza, 22&ndash;24, is strangely absent. The previous stanza, 19&ndash;21, ends with "therefore I will hope" and 22&ndash;24 (in the Hebrew) with "therefore I will hope in him". This similarity possibly led to its accidental omission (<i>homoioteleuton</i>) by its translators. Provan (2016), p.93; Goldingay (2022), p.137.';
                 $fn2='This section of first person narrative concludes with three references to the self, before the narrative switches to a third person perspective.';
               ?>
-                <div class="indent0 acrostic-line">How enduring the <span class="yhwh">Lord</span>'s loyalties;<?php Footnote($fn1); ?></div>
+                <div class="indent0 acrostic-line">How enduring the <span class="yhwh">Lord</span>'s loyalties;<?php Footnote($fn1); ?></div><!-- 3:22,32: "loyalties/loyalty": Hebrew "hesed" plural/singular -->
                 <div class="indent1">his compassion is never drained;</div>
                 <div class="indent0 acrostic-line">His mercies renew each day-dawning;</div>
                 <div class="indent1">how great is your faithfulness.</div>
@@ -366,7 +366,7 @@
                 <div class="indent0 acrostic-line">Mankind's forswearing by our Lord<?php Footnote($fn); ?></div><!-- 2:7; 3:17,31: "forswear" root -->
                 <div class="indent1">lasts not forever;</div>
                 <div class="indent0 acrostic-line">Mercy is his, though he afflicted;</div><!-- 32,33: "afflict" -->
-                <div class="indent1">so great his loving-kindness.</div><!-- Hebrew "hesed", as in psalms etc. -->
+                <div class="indent1">so great his loyalty.</div><!-- 3:22,32: "loyalties/loyalty": Hebrew "hesed" plural/singular -->
                 <div class="indent0 acrostic-line">Mean heart guides not his affliction</div><!-- 32,33: "afflict" -->
                 <div class="indent1">of humanity's children.</div>
             </div><!-- poem__versetext -->
