@@ -85,7 +85,7 @@
     </p>
 
     <p>
-      Observe, too, the frequency of the word "all"<?php Footnote('Goldingay (2022), pp.11, 41.'); ?> and its alignment with, indeed establishment of, the book's theme of the totality of the devastation and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
+      Observe, too, the frequency of the word "all",<?php Footnote('Goldingay (2022), pp.11, 41.'); ?> establishing and reinforcing the book's theme of the totality of the devastation and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
     </p>
 
     <p>
