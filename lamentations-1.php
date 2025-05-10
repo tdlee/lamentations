@@ -77,12 +77,11 @@
       aligned with many other Lamentations passages
       focussed on the abuse and violation of the innocent.
       Both these contrasting threads, adulteress and rape victim,
-      are co-existing possibilities.
+      may be viewed as co-existing possibilities.<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
       For us as readers, indeed as disciples and worshippers,
-      inhabiting the poetic and disturbing both/and is more valuable
+      inhabiting the poetic and disturbing both/and
+      can be, and perhaps should be, more valuable
       than rushing into a falsely simplistic either/or.
-      The reader is referred to Dobbs-Allsopp (2012), pp.63&ndash;67
-      and Hens-Piazza (2017), pp.8&ndash;18.
     </p>
 
     <p>

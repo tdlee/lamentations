@@ -183,7 +183,7 @@
     appearing to say one thing,
     yet simultaneously suggesting something else, even the opposite.
     A case in point here is 1:7&ndash;10:
-    do we perceive and receive Daughter Zion as sinner or victim (or both)?
+    do we perceive and receive Daughter Zion as sinner or victim (or both)?<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
     </p>
 
     <p>
