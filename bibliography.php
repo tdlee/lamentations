@@ -158,7 +158,7 @@
     <ul>
       <li>
         The <a href="https://www.sefaria.org/Lamentations.1?lang=bi" target="_blank">Sefaria</a>
-        dual-language version (English: <abbr title="Jewish Publication Society">JPS</abbr> 1985)
+        dual-language version
         not only shows the Hebrew text alongside an English version,
         but allows each Hebrew word to be selected for dictionary look-up.<?php
           Footnote('But such dictionary look-up is not primarily for meaning.
@@ -174,7 +174,7 @@
       <li>
         <a href="https://www.biblegateway.com/passage/?search=lamentations+1&version=YLT" target="_blank">Young's Literal Translation</a> (1862&ndash;1898).
         This largely follows the word-ordering of the Hebrew
-        (see comment above about Sefaria/JPS)
+        (see comment above about Sefaria)
         and generally uses words consistently,
         allowing repetition to be visible.
       </li>
