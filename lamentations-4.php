@@ -469,7 +469,7 @@
               <div class="indent0 acrostic-line">Zion-Daughter, your iniquity expiated,</div>
               <div class="indent2">no more does he exile you.<?php Footnote($fn_no_more); ?></div><!-- vv.16,22: "no more..." commonality and in leading position -->
               <div class="indent1">But your iniquity, Daughter Edom, will he prosecute,</div>
-              <div class="indent2">lay bare your outrages.</div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
+              <div class="indent2">lay bare your outrages.</div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural --><!-- 2:14; 4:22: "lay bare" commonality -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 

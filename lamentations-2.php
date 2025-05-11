@@ -359,7 +359,7 @@
               ?>
               <div class="indent0 acrostic-line">Prophets provided you visions&mdash;</div>
               <div class="indent2">whitewashed illusion.<?php Footnote($fn); ?></div>
-              <div class="indent1">They did not lay bare your guilt</div>
+              <div class="indent1">They did not lay bare your guilt</div><!-- 2:14; 4:22: "lay bare" commonality -->
               <div class="indent2">to restore your fortunes;</div>
               <div class="indent1">they saw for you only oracles</div>
               <div class="indent2">of illusion and deceit.</div>
