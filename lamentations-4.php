@@ -36,7 +36,7 @@
     <p>
       As with all three preceding poems, this, too, can work as two voices,
       although here as first-person singular (most) and first-person plural (17&ndash;20 or 17&ndash;22).<?php
-        Footnote('For 17&ndash;20 see Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
+        Footnote('For 17&ndash;20 see Dobbs-Allsopp (2012), p.133, Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
       ?>
       Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
       but rather various groups within the population.
@@ -124,6 +124,7 @@
           </div><!-- poem__versetext -->
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <?php
               $fn='See footnotes on 1:1.';
               $fn2='Often translated "<i>jewels</i>",
@@ -391,6 +392,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Community:</div>
             <?php
               $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
@@ -437,7 +439,7 @@
             ?>
               <div class="indent0 acrostic-line">Wedged in their traps was our life-breath,</div>
               <div class="indent2">the <span class="yhwh">Lord</span>'s own anointed,<?php Footnote($fn_anointed); ?></div>
-              <div class="indent1">of whom we had thought "in his shade</div>
+              <div class="indent1">of whom we had believed "in his shade</div>
               <div class="indent2">we will dwell among nations."</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -446,10 +448,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator (community):</div>
             <?php
               $fn_esau='The Edomites were descended from Esau, the twin brother of Jacob (later called Israel). The brothers, and their descendents, were locked in sibling rivalry from the outset: Gen.25:22&ndash;30.';
               $fn1='While "Daughter Zion" is clearly a term of endearment, by contrast "Daughter Edom", for Zion\'s enemy, can, and probably should, be read with a sarcastic twist.  Berlin (2004) p.113; Dobbs-Allsopp (2012), p.137.';
-              $fn2='Same verb as for Daughter Zion at the 1:1 opening of the book, now coming full circle to describe the unsuspecting fate of the enemy.';
+              $fn2='This is the same verb as for Daughter Zion at the 1:1 opening of the book, now coming full circle to describe the unsuspecting fate of the enemy.';
               $fn3='See also Jer.&nbsp;25:15&ndash;29 for this imagery, where Edom and Uz are included.';
             ?>
               <div class="indent0 acrostic-line">You rejoice; you gloat, Daughter Edom:<?php Footnote($fn_esau); Footnote($fn1); ?></div>
