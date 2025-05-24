@@ -124,6 +124,7 @@
           </div><!-- poem__versetext -->
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator:</div>
             <?php
               $fn='See footnotes on 1:1.';
               $fn2='Often translated "<i>jewels</i>",
@@ -391,6 +392,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Community:</div>
             <?php
               $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
@@ -446,6 +448,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
+            <div class="poem__versespeaker">Narrator (community):</div>
             <?php
               $fn_esau='The Edomites were descended from Esau, the twin brother of Jacob (later called Israel). The brothers, and their descendents, were locked in sibling rivalry from the outset: Gen.25:22&ndash;30.';
               $fn1='While "Daughter Zion" is clearly a term of endearment, by contrast "Daughter Edom", for Zion\'s enemy, can, and probably should, be read with a sarcastic twist.  Berlin (2004) p.113; Dobbs-Allsopp (2012), p.137.';
