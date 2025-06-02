@@ -109,6 +109,9 @@
           Gillingham, Susan E. (2002), <cite>The Image, the Depths and the Surface: Multivalent Approaches to Biblical Study</cite>, Sheffield Academic Press, <?php ISBN("978-1841272979"); ?>
         </li>
         <li>
+          Gordis, Robert (1974), <a href="https://www.jstor.org/stable/3263098" target="_blank"><cite>The Conclusion of the Book of Lamentations (5:22)</cite></a>, Journal of Biblical Literature, Vol. 93, No. 2 (June, 1974), pp.289&ndash;293, <?php DOI("10.2307/3263098"); ?>
+        </li>
+        <li>
           Guillaume, Philippe (2009) <a href="https://www.jhsonline.org/index.php/jhs/article/download/6440/5410" target="_blank"><cite>Lamentations 5: The Seventh Acrostic</cite></a>, Journal of Hebrew Scriptures, 9 <?php DOI("10.5508/jhs.2009.v9.a16"); ?>
         </li>
         <li>
@@ -119,6 +122,9 @@
         </li>
         <li>
           Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp.41&ndash;49, <?php DOI("10.2307/3263864"); ?>
+        </li>
+        <li>
+          Linafelt, Tod (2001), <a href="https://www.jstor.org/stable/3268299" target="_blank"><cite>The Refusal of a Conclusion in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 120, No. 2 (Summer, 2001), pp.340&ndash;343, <?php DOI("10.2307/3268299"); ?>
         </li>
         <li>
           Mandolfo, Carleen R. (2007), <cite>Daughter Zion Talks Back to the Prophets: A Dialogic Theology of the Book of Lamentations</cite>, Society of Biblical Literature, <?php ISBN("978-1-58983-247-3"); ?>

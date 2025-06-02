@@ -96,6 +96,63 @@
       ?>
     </p>
 
+    <h2>A conclusion refused</h2>
+
+    <p>
+      Spolier alert: Lamentations does not end well.
+    </p>
+
+    <p>
+      Hebrew is an ancient language.
+      Even within the Bible, the language evolves.
+      (As an analogy, consider how modern English has changed from
+      Shakespeare's English, and how both differ from Chaucer's English.)
+      By about 400&nbsp;CE Hebrew was almost certainly no longer spoken.
+      A brief glance at the footnotes of most major Bible translations
+      reveals instances of uncertainty on perhaps most pages,
+      not only of words and meaning
+      but also of syntax.
+      Lamentations is no exception; there are many difficult instances,
+      several approaching guesswork.
+    </p>
+
+    <p>
+      The final verse, 5:22, is such a case.
+      Instead of a conclusion or <em>denouement</em>,
+      the text has a strange syntax which becomes almost impossible to grasp,
+      confounding translators and commentators.
+      For a deeper dive see
+      Gordis (1974), pp.289&ndash;293
+      and Linafelt (2001), pp.340&ndash;343.
+      Linafelt's tentative suggestion is that the entire book
+      ends not with a syntactically complete sentence but an open-ended ellipsis;
+      an "if&hellip;" stripped of its expected "then&hellip;".
+    </p>
+
+    <div class="panel panel--width-20em">
+      <div class="poem poem__hebverse">
+        <div class="poem__verse">
+          <div class="poem__versetext">
+            <div class="indent0">For if truly you have rejected us,</div>
+            <div class="indent0">raging bitterly against us&mdash;</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
+      He comments:
+      "Rendered thus, the final line of v.22
+      is a poignantly appropriate way to end the book&hellip;,
+      indicating by its very incompleteness
+      a refusal to move&mdash;in the face of
+      <span class="yhwh">Yhwh</span>'s lack of response&mdash;beyond lament to praise,
+      but also a refusal to conclude at all.
+      The ending of the book is, then, a willful <em>non</em>ending."<?php
+        Footnote('Linafelt (2001), p.343.');
+      ?>
+    </p>
+
     <h2>Inner-biblical contrasts</h2>
 
     <p>
