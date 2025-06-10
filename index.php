@@ -467,10 +467,6 @@
 
     <h2>In summary</h2>
 
-    <p>
-    <i>Lamentations is poetry. Not prose.</i>
-    </p>
-
     <!-- panel -->
     <div class="sidebar__right--width-28em">
       <div class="panel">
@@ -489,6 +485,10 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
+
+    <p>
+    <i>Lamentations is poetry. Not prose.</i>
+    </p>
 
     <p>
     So why this version?
