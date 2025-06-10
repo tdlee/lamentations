@@ -79,7 +79,7 @@
       Both these contrasting threads, adulteress and rape victim,
       may be viewed as co-existing possibilities.<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
       For us as readers, indeed as disciples and worshippers,
-      inhabiting the poetic and disturbing both/and
+      inhabiting the poetic and disturbingly ambiguous both/and
       can be, and perhaps should be, more valuable
       than rushing into a falsely simplistic either/or.
     </p>
