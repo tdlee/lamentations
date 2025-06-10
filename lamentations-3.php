@@ -456,7 +456,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">49&ndash;51</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Tears stream: unbidden,</div><!-- 49 and 51 both begin "my eye" (Hebrew) -->
+              <?php
+                $fn='Translation compromise. Verses 49 and 51 would ideally begin "My eye", creating a thread from v.48.  The English acrostic makes impossible such threading. Instead, and to maintain the link, we pick up the idea of tears streaming.';
+              ?>
+              <div class="indent0 acrostic-line">Tears stream:<?php Footnote($fn); ?> unbidden,</div><!-- 49 and 51 both begin "my eye" (Hebrew) -->
               <div class="indent1">no respite, unending,</div>
               <div class="indent0 acrostic-line">Till out looks the <span class="yhwh">Lord</span></div>
               <div class="indent1">and sees from the heavens.</div>
