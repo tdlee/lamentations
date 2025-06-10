@@ -460,7 +460,7 @@
               <div class="indent1">no respite, unending,</div>
               <div class="indent0 acrostic-line">Till out looks the <span class="yhwh">Lord</span></div>
               <div class="indent1">and sees from the heavens.</div>
-              <div class="indent0 acrostic-line">Tears stream, tormenting my soul</div><!-- see 49 --><!-- 2:20, 3:51: same strong verb --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+              <div class="indent0 acrostic-line">Tears stream: tormenting my soul</div><!-- see 49 --><!-- 2:20, 3:51: same strong verb --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               <div class="indent1">for all the daughters of my city.</div><!-- quoted in "staging" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
