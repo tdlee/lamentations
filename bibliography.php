@@ -106,6 +106,9 @@
           Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <?php DOI("10.1515/zatw.2001.003"); ?>
         </li>
         <li>
+          Fullerton&nbsp;Strollo, Megan (2017), <cite>The value of the relationship: An intertextual reading of Song of Songs and Lamentations</cite>, Review and Expositor, 114(2) pp.190&ndash;202, <?php DOI("10.1177/0034637317705836"); ?>
+        </li>
+        <li>
           Gillingham, Susan E. (2002), <cite>The Image, the Depths and the Surface: Multivalent Approaches to Biblical Study</cite>, Sheffield Academic Press, <?php ISBN("978-1841272979"); ?>
         </li>
         <li>

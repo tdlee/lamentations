@@ -104,6 +104,11 @@
         ?>
       </li>
       <li>
+        vv1&ndash;8 (in particular 1&ndash;2, 5, 7&ndash;8): contrast the degrading colour imagery against <a href="https://www.biblegateway.com/passage/?search=Song%20of%20Songs%205:10-16&version=NRSVUE" target="_blank">Song of Songs&nbsp;5:10&ndash;16</a><?php
+          Footnote('Fullerton&nbsp;Strollo (2017).');
+        ?>
+      </li>
+      <li>
         the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in <a href="https://www.biblegateway.com/passage/?search=psalm+144%3A9-14&version=NRSVUE" target="_blank">Psalm&nbsp;144:9&ndash;14</a>.<?php
           Footnote('Berman (2023), pp.148&ndash;150.');
         ?>
