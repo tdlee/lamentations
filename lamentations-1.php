@@ -79,7 +79,7 @@
       Both these contrasting threads, adulteress and rape victim,
       may be viewed as co-existing possibilities.<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
       For us as readers, indeed as disciples and worshippers,
-      inhabiting the poetic and disturbing both/and
+      inhabiting the poetic and disturbingly ambiguous both/and
       can be, and perhaps should be, more valuable
       than rushing into a falsely simplistic either/or.
     </p>
@@ -356,7 +356,7 @@
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
               <div class="indent0 acrostic-line">Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;</div><!-- 5,14,22: same word "transgressions" -->
-              <div class="indent2">bound tight by his hand,</div>
+              <div class="indent2">twisted tight by his hand,</div><!-- "twisted tight" alliteration (also preceded by "transgressions" -->
               <div class="indent1">mounted upon my neck,</div>
               <div class="indent2">sapping my strength.</div>
               <div class="indent1">My Lord hand-delivered me to those</div>

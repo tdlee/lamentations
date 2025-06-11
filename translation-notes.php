@@ -169,13 +169,16 @@
     <p>
       Acrostics constrain the choice of a verse's opening word.
       Sometimes there simply isn't an English word anywhere near suitable.
-      One approach is to swap lines within a verse.
-      A case in point is 1:7 whose first line requires an opening 'G' word.
-      A workable solution is to switch its first and second lines,
-      allowing for "goodly treasures" to begin the verse.
+      Different cases require different approaches
+      and these are usually mentioned in footnotes.
+      A few are also given in a little more detail below.
     </p>
 
     <p>
+      One possibility is to swap lines within a verse.
+      A case in point is 1:7 whose first line requires an opening 'G' word.
+      A workable solution is to switch its first and second lines,
+      allowing for "goodly treasures" to begin the verse.
       But a chapter later at 2:7 a similar problem arises,
       and also, as it happens, with a 'G' verse.
       Here, too, a similar line-swap solution offered itself.
