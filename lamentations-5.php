@@ -137,6 +137,9 @@
             <div class="indent0">raging bitterly against us&mdash;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
+        <div class="panel__cite">
+          <em>[The End]</em>
+        </div><!-- "panel__cite" -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
 
