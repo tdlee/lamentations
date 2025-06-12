@@ -282,7 +282,7 @@
               <div class="indent1">Her king and her princes are exiled;</div>
               <div class="indent2">law is absent;<?php Footnote($fn); ?></div>
               <div class="indent1">her prophets, too, found</div>
-              <div class="indent2">no vision from the <span class="yhwh">Lord</span>.</div>
+              <div class="indent2">no vision from the <span class="yhwh">Lord</span>.</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -357,7 +357,7 @@
               <?php
                 $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
               ?>
-              <div class="indent0 acrostic-line">Prophets provided you visions&mdash;</div>
+              <div class="indent0 acrostic-line">Prophets provided you phantasms&mdash;</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
               <div class="indent2">whitewashed illusion.<?php Footnote($fn); ?></div>
               <div class="indent1">They did not lay bare your guilt</div><!-- 2:14; 4:22: "lay bare" commonality -->
               <div class="indent2">to restore your fortunes;</div>
