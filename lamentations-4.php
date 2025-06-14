@@ -210,9 +210,9 @@
                 and here double-used, see Dobbs-Allsopp (2023), p.236.
               -->
               <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
-              <div class="indent2">once robed in purple;<?php Footnote($fn); ?></div>
+              <div class="indent2">once robed in purple;<?php Footnote($fn); ?></div><!-- rhythmic parallel between the two halves of this verse -->
               <div class="indent1">Destitute now in the streets lie those</div><!-- see footnote on first half-verse -->
-              <div class="indent2">once feasting on delicacies.</div><!-- let "delicacies" resonate with its associated "destitute" -->
+              <div class="indent2">once feasting on dainties.</div><!-- rhythmic parallel between the two halves of this verse -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 

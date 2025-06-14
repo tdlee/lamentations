@@ -199,7 +199,7 @@
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
               <div class="indent0 acrostic-line">Drawing his bow like an enemy,</div>
-              <div class="indent2">his right hand now poised<?php Footnote($fn1); ?></div><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
+              <div class="indent2">his right hand poised<?php Footnote($fn1); ?></div><!-- "hand": vv. 3,4,7,8,(19) --><!-- vv.3,4: contrasting use of "right hand" -->
               <div class="indent1">like a foe, he has slain those precious</div>
               <div class="indent2">in his eye;<?php Footnote($fn2); ?></div>
               <div class="indent1">on Daughter Zion's tent<?php Footnote($fn3); ?> his fury</div><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes --><!-- 2:4; 4:11/2: "fury" -->
@@ -282,7 +282,7 @@
               <div class="indent1">Her king and her princes are exiled;</div>
               <div class="indent2">law is absent;<?php Footnote($fn); ?></div>
               <div class="indent1">her prophets, too, found</div>
-              <div class="indent2">no vision from the <span class="yhwh">Lord</span>.</div>
+              <div class="indent2">no vision from the <span class="yhwh">Lord</span>.</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -357,12 +357,12 @@
               <?php
                 $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
               ?>
-              <div class="indent0 acrostic-line">Prophets provided you visions&mdash;</div>
-              <div class="indent2">whitewashed illusion.<?php Footnote($fn); ?></div>
+              <div class="indent0 acrostic-line">Prophets provided you phantasms&mdash;</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
+              <div class="indent2">whitewashed illusion.<?php Footnote($fn); ?></div><!-- 14a,c: same "illusion" -->
               <div class="indent1">They did not lay bare your guilt</div><!-- 2:14; 4:22: "lay bare" commonality -->
               <div class="indent2">to restore your fortunes;</div>
               <div class="indent1">they saw for you only oracles</div>
-              <div class="indent2">of illusion and deceit.</div>
+              <div class="indent2">of illusion and deceit.</div><!-- 14a,c: same "illusion" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
