@@ -396,9 +396,9 @@
               <div class="indent0 acrostic-line">Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,</div>
               <div class="indent2">all your enemies</div>
               <div class="indent1">gape their mouths at you, boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
-              <div class="indent2">"We have devoured her!</div><!-- "devour" thread -->
-              <div class="indent1">Long for this day we have waited&mdash;</div>
-              <div class="indent2">we have lived to look upon it!"</div><!-- "look", as in "look"/"notice" thread -->
+              <div class="indent2">"We've devoured her!</div><!-- "devour" thread -->
+              <div class="indent1">This! the day we awaited&mdash;</div>
+              <div class="indent2">we have it; we look upon it!"</div><!-- "look", as in "look"/"notice" thread -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
