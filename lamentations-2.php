@@ -311,7 +311,7 @@
           <div class="poem__versetext">
               <?php
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
-                $fn_square='At 2:11, 2:12 and 4:18 the term "square" is expressed with slightly different variants in the Hebrew.';
+                $fn_square='At 2:11, 2:12 and 4:18 the term "square" is expressed with slightly different variants in the Hebrew. See Goldingay (2022), p.104, note \'c\'.';
               ?>
               <div class="indent0 acrostic-line">Lamenting, my weeping eyes fail;</div>
               <div class="indent2">my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?></div><!-- 1:20, 2:11: same -->
