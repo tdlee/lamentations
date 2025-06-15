@@ -145,9 +145,10 @@
 
     <p>
       He comments:
-      "Rendered thus, the final line of v.22
-      is a poignantly appropriate way to end the book&hellip;,
-      indicating by its very incompleteness
+      "The book is left opening out into the emptiness of God's non-response"<?php
+        Footnote('Linafelt (2000), p.60.');
+      ?>
+      "&hellip;indicating by its very incompleteness
       a refusal to move&mdash;in the face of
       <span class="yhwh">Yhwh</span>'s lack of response&mdash;beyond lament to praise,
       but also a refusal to conclude at all.
