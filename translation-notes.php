@@ -161,7 +161,7 @@
       Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
       In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
+      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, generally 3&ndash;3.<? Footnote('Berlin (2004), p.117; Goldingay (2022), p.190.'); ?>
     </p>
 
     <h2>Acrostic challenges</h2>
