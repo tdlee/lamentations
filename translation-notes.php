@@ -466,8 +466,7 @@
       is firstly to adopt the usual present-day practice of writing
       "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals)
       and "Adonai" as "Lord" (normal case).
-      And then because "Adonai" generally appears in a grammatically possessive context
-      (the underlying noun being "Adon"),
+      And then because "Adonai" generally appears in a grammatically possessive context,
       it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
       so that the subtle written difference is also audibly present in recitation.<?php
         Footnote('"Much Ado about Nothing"?
