@@ -38,9 +38,11 @@
 
     <p>
       I have endeavoured to use the principles of translation.
-      But whereas translation of ancient secular poetry allows some freedom to include considerations of poetic features,
-      biblical translation, by contrast, places high regard on treating texts,
-      even poetic texts, as prose, where accurate dictionary-equivalence is paramount;
+      But whereas in the secular world translation of ancient poetry
+      allows some freedom to include considerations of poetic features,
+      biblical translation, by contrast, almost invariably treats all texts,
+      even overtly poetic texts, as prose
+      where accurate dictionary-equivalence is paramount;
       it makes relatively minor allowance for poetic form.
 
     <p>
