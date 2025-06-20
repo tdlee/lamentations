@@ -134,10 +134,7 @@
     <p>
       Often, subtle aspects of wordplay are untranslatable;
       see for example 1:3 and 2:20 and their footnotes.
-      But conversely it is sometimes possible to introduce English poetic features in unrelated places elsewhere.
-      So, taking the bigger picture into account,
-      an unavoidable loss of detail in one place
-      may be compensated by an introduced poetic expression in another place.
+    </p>
 
     <h2>Qinah</h2>
 
