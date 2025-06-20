@@ -282,7 +282,7 @@
               <div class="indent1">Her king and her princes are exiled;</div>
               <div class="indent2">law is absent;<?php Footnote($fn); ?></div>
               <div class="indent1">her prophets, too, found</div>
-              <div class="indent2">no vision from the <span class="yhwh">Lord</span>.</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
+              <div class="indent2">no vision from the <span class="yhwh">Lord</span>;</div><!-- semicolon, so the list of those accused flows into the next verse --><!-- 2:9,14: "vision"/"phantasm"; different words -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -295,7 +295,7 @@
                 $fn2='From the elders, the most senior male figures, to the most junior female figures: this suggests the two extremes of the city\'s social spectrum, becoming a merism representing the entire surviving population.  Berlin (2004), p.71; Dobbs-Allsopp (2012), p.92; Goldingay (2022), p.103.';
               ?>
               <div class="indent0 acrostic-line">Jerusalem-Daughter,<?php Footnote($fn); ?> your elders</div>
-              <div class="indent2">sit dumbstruck on the earth;</div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
+              <div class="indent2">sit dumbstruck on the earth:</div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent1">dust they cast on their heads</div>
               <div class="indent2">and sackcloth they gird.</div>
               <div class="indent1">Zion's young women<?php Footnote($fn2); ?> bow</div>
@@ -396,9 +396,9 @@
               <div class="indent0 acrostic-line">Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,</div>
               <div class="indent2">all your enemies</div>
               <div class="indent1">gape their mouths at you, boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
-              <div class="indent2">"We have devoured her!</div><!-- "devour" thread -->
-              <div class="indent1">Long for this day we have waited&mdash;</div>
-              <div class="indent2">we have lived to look upon it!"</div><!-- "look", as in "look"/"notice" thread -->
+              <div class="indent2">"We've devoured her!</div><!-- "devour" thread -->
+              <div class="indent1">This! the day we awaited&mdash;</div>
+              <div class="indent2">we have it; we look upon it!"</div><!-- "look", as in "look"/"notice" thread -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 

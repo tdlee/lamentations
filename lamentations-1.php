@@ -453,7 +453,7 @@
           <div class="poem__versetext">
               <?php
                 $fn1='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: Yearnings&hellip;they heard: "none brings me comfort".';
-                $fn2='In Hebrew this word, meaning something like "bad" but used here as a noun, can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v21 to v22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
+                $fn2='In Hebrew this word, meaning something like "bad", can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v21 to v22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
               ?>
               <div class="indent0 acrostic-line">Yearnings of anguish they heard:</div>
               <div class="indent2">none brings me comfort.<?php Footnote($fn1); ?></div>

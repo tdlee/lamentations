@@ -38,9 +38,11 @@
 
     <p>
       I have endeavoured to use the principles of translation.
-      But whereas translation of ancient secular poetry allows some freedom to include considerations of poetic features,
-      biblical translation, by contrast, places high regard on treating texts,
-      even poetic texts, as prose, where accurate dictionary-equivalence is paramount;
+      But whereas in the secular world translation of ancient poetry
+      allows some freedom to include considerations of poetic features,
+      biblical translation, by contrast, almost invariably treats all texts,
+      even overtly poetic texts, as prose
+      where accurate dictionary-equivalence is paramount;
       it makes relatively minor allowance for poetic form.
 
     <p>
@@ -161,7 +163,7 @@
       Much of this gnat-straining debate will almost certainly never be unambiguously or satisfactorily resolved.
       In view of that, I simply endeavour to use <i>qinah</i> as consistently as possible in these chapters.
       This also helps highlight the contrast on entering chapter&nbsp;5,
-      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, often 3&ndash;3.
+      where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, generally 3&ndash;3.<? Footnote('Berlin (2004), p.117; Goldingay (2022), p.190.'); ?>
     </p>
 
     <h2>Acrostic challenges</h2>
@@ -466,8 +468,7 @@
       is firstly to adopt the usual present-day practice of writing
       "YHWH" as "<span class='yhwh'>Lord</span>" (small capitals)
       and "Adonai" as "Lord" (normal case).
-      And then because "Adonai" generally appears in a grammatically possessive context
-      (the underlying noun being "Adon"),
+      And then because "Adonai" generally appears in a grammatically possessive context,
       it is secondarily here represented as "<em>my</em> Lord" or "<em>our</em> Lord",
       so that the subtle written difference is also audibly present in recitation.<?php
         Footnote('"Much Ado about Nothing"?
