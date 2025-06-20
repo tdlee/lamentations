@@ -425,7 +425,7 @@
     </p>
 
     <p>
-      Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encicle".
+      Meanwhile the verb "zoned" (2:22) is old, whose meanings include "encircle".
     </p>
 
     <h3>YHWH, Adonai, <span class='yhwh'>Lord</span> and Lord</h3>
