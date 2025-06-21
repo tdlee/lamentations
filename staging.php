@@ -105,7 +105,7 @@
     </p>
 
     <p>
-      Similarly, if the staging of chapter&nbsp;3 involves some sort of scenery and props
+      If the staging of chapter&nbsp;3 involves some sort of scenery and props
       then its 'L'-acrostic lines, 28&ndash;30, lend themselves to re-visiting complaint scenes from earlier verses:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
     </p>
 
