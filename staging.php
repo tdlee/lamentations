@@ -105,6 +105,11 @@
     </p>
 
     <p>
+      The closing of chapter two is the last we hear from Daughter Zion.<?php Footnote('Linafelt (2000), p.58.'); ?>
+      But might she remain on stage, silent and still, as a brooding presence?
+    </p>
+
+    <p>
       If the staging of chapter&nbsp;3 involves some sort of scenery and props
       then its 'L'-acrostic lines, 28&ndash;30, lend themselves to re-visiting complaint scenes from earlier verses:<?php Footnote('Hens-Piazza (2017), pp.49&ndash;50.'); ?>
     </p>
