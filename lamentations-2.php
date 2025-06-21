@@ -423,7 +423,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Unload your heart-cries to our Lord,</div><!-- The "Unload" acrostic word isn't great. But it beats the earlier "Unto our Lord let your heart cry" -->
+              <div class="indent0 acrostic-line">Unload your heart-cries to our Lord,</div><!-- The "Unload" acrostic word isn't great. But it beats the earlier "Unto our Lord let your heart cry" --><!-- 2:17 "cry"; 2:18 "wail": different -->
               <div class="indent2">wall of Daughter Zion.</div><!-- 2:8,18: same -->
               <div class="indent1">Shed tears like a torrent</div>
               <div class="indent2">all day, all night;</div>
@@ -439,7 +439,7 @@
               <?php
                 $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
               ?>
-              <div class="indent0 acrostic-line">Vehemently cry, arising at night</div>
+              <div class="indent0 acrostic-line">Vehemently wail, arising at night</div><!-- 2:17 "cry"; 2:18 "wail": different -->
               <div class="indent2">at the start of each watch.</div>
               <div class="indent1">Pour out your heart like water</div><!-- 2:4,11,12,19: same verb -->
               <div class="indent2">before the face of our Lord.</div><!-- "face": 2:19, 4:16 -->
