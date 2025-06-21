@@ -388,7 +388,7 @@
               <div class="indent0 acrostic-line">Streaming with tears, my eyes&mdash;</div>
               <div class="indent2">my eyes weep for these things;</div>
               <div class="indent1">far distant one who might comfort me,<?php Footnote($fn); ?></div>
-              <div class="indent2">to salvage my soul.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
+              <div class="indent2">who might salvage my soul.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               <div class="indent1">My children all are desolate;</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">the foe has prevailed.</div><!-- enemy/foe -->
           </div><!-- poem__versetext -->
