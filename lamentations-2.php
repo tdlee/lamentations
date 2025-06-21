@@ -344,8 +344,8 @@
               <!-- parts quoted in "staging" -->
               <div class="indent0 acrostic-line">O Daughter Jerusalem: to what can I</div>
               <div class="indent2">liken you? How advocate?</div>
-              <div class="indent1">O virgin Daughter Zion:</div>
-              <div class="indent2">whose plight is like yours?</div>
+              <div class="indent1">How relate to you? How comfort you,</div>
+              <div class="indent2">virgin Daughter Zion?</div>
               <div class="indent1">Wide as the sea is your ravaging;</div>
               <div class="indent2">who could heal you?</div><!-- quoted at start of chapter -->
           </div><!-- poem__versetext -->
