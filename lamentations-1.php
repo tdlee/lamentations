@@ -443,8 +443,8 @@
               <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same -->
               <div class="indent1">my heart turns over within me:</div>
               <div class="indent2">defiantly I had defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
-              <div class="indent1">Outside the sword bereaves;</div>
-              <div class="indent2">inside, very death.</div>
+              <div class="indent1">Outdoors, the sword bereaves;</div>
+              <div class="indent2">indoors, very death.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
