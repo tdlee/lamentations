@@ -423,7 +423,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Unto our Lord let your heart cry,</div>
+              <div class="indent0 acrostic-line">Unload your heart-cries to our Lord,</div><!-- The "Unload" acrostic word isn't great. But it beats the earlier "Unto our Lord let your heart cry" -->
               <div class="indent2">wall of Daughter Zion.</div><!-- 2:8,18: same -->
               <div class="indent1">Shed tears like a torrent</div>
               <div class="indent2">all day, all night;</div>
