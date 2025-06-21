@@ -445,8 +445,8 @@
               <div class="indent2">before the face of our Lord.</div><!-- "face": 2:19, 4:16 -->
               <div class="indent1">Lift up your hands to him</div><!-- "hand": vv. 3,4,7,8,(19) -->
               <div class="indent2">for the lives of your babes</div>
-              <div class="indent1">who faint from famine and hunger</div>
-              <div class="indent2">at every street-corner.<?php Footnote($fn); ?></div>
+              <div class="indent1">who faint from famine at the corner</div>
+              <div class="indent2">of each street.<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
