@@ -84,9 +84,12 @@
       Some aspects of the text lend themselves to visual demonstration.
       For example, chapter&nbsp;2 initially looks like an audio monologue
       (with Daughter Zion speaking only at the end).
-      But v.13 sets up a chain of "who" questions:
-      "to what can I liken you?&nbsp;/&nbsp;how advocate?&nbsp;/&nbsp;who could heal you?"
-      which leads to a sweeping panorama of three initial candidates on display:
+      But at v.13, and for the first time, the narrator addresses Daughter Zion in person.<?php
+        Footnote('Linafelt (2000), pp.53&ndash;54.');
+      ?>
+      He asks her a chain of empathetic questions:
+      "to what can I liken you? how advocate? &hellip; who could heal you?"
+      followed by a sweeping panorama of three initial candidates on display:
       prophets (14), passers-by (15) and even human enemies (16).
       Finally there is a fourth candidate, God himself.
       But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php

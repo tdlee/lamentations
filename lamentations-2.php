@@ -341,8 +341,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
+              <?php
+                $fn='For the first time, the poet addresses Daughter Zion directly, and in dialogue with her. Linafelt (2000), pp.53&ndash;54.';
+              ?>
               <!-- parts quoted in "staging" -->
-              <div class="indent0 acrostic-line">O Daughter Jerusalem: to what can I</div>
+              <div class="indent0 acrostic-line">O Daughter Jerusalem:<?php Footnote($fn); ?> to what can I</div>
               <div class="indent2">liken you? How advocate?</div>
               <div class="indent1">How relate to you? How comfort you,</div>
               <div class="indent2">virgin Daughter Zion?</div>
