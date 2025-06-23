@@ -121,19 +121,8 @@
     </p>
 
     <p>
-      But Hebrew poetry <em>does</em> make quite frequent use of wordplay.
-      Sometimes, something similar can be done in English translation;
-      alliteration can be useful here.
-    </p>
-
-    <p>
       Both Hebrew and English use metaphor.
       Where reasonably possible, this is conveyed.
-    </p>
-
-    <p>
-      Often, subtle aspects of wordplay are untranslatable;
-      see for example 1:3 and 2:20 and their footnotes.
     </p>
 
     <h2>Qinah</h2>
@@ -409,6 +398,45 @@
         Footnote('This acrostic resonance would seem to be further reinforced
           by the double use of "impaling" within 4:9');
       ?>
+    </p>
+
+    <h2>Wordplay</h2>
+
+    <p>
+      Hebrew poetry makes quite frequent use of wordplay.
+      Several instances are mentioned in footnotes to the verses.
+      Sometimes, something similar can be done in English translation;
+      alliteration can be useful here.
+    </p>
+
+    <p>
+      Often, subtle aspects of wordplay are untranslatable;
+      see for example 1:3 and 2:20 and their footnotes.
+    </p>
+
+    <p>
+      But sometimes Hebrew wordplay can have some commonality with its English counterpart.
+      An example is the word rendered "treasures" in its three concentrated appearances
+      in 1:7, 1:10 and 1:11, and with three shades of meaning.
+      At 1:7 it is quite clearly the traditional meaning of valuable goods,
+      such as the artefacts from Solomon's Temple.
+      The text moves on, re-emphasising Daughter Zion as a woman,
+      and by 1:10 clearly refers to sexual violation,
+      loaded with <em>double entendre</em>
+      as the invading army of men is handling the places of her "treasures".<?php
+        Footnote('This double meaning is also found in the somewhat earlier
+          and culturally related Sumerian City Laments
+          with which Lamentations shares several characterstics.
+          See Goldingay (2022), p.67.');
+      ?>
+      At 1:11, with a theme of famine,
+      the word ostensibly switches back to "valuable things"
+      (although this time for possessions that are more personal)
+      and darkly foreshadowing the "cannibalism of children" aspect
+      of subsequent chapters.
+      The prophet Hosea, at 9:6 and 9:16, also employs this same
+      double meaning ("valuable goods" and "children").
+      For fuller discussion see Linafelt (2000), p.40; also Berlin (2004), pp.55&ndash;57 and Goldingay (2022), p.66&ndash;69.
     </p>
 
     <h2>Word choices</h2>

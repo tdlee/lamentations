@@ -103,20 +103,11 @@
     </p>
 
     <p>
-      Hebrew is an ancient language.
-      Even within the Bible, the language evolves.
-      (As an analogy, consider how modern English has changed from
-      Shakespeare's English, and how both differ from Chaucer's English.)
-      By about 400&nbsp;CE Hebrew was almost certainly no longer spoken.
       A brief glance at the footnotes of most major Bible translations
       reveals instances of uncertainty on perhaps most pages,
       not only of words and meaning
       but also of syntax.
-      Lamentations is no exception; there are many difficult instances,
-      several approaching guesswork.
-    </p>
-
-    <p>
+      Lamentations is no exception; several instances approach guesswork.
       The final verse, 5:22, is such a case.
       Instead of a conclusion or <em>denouement</em>,
       the text has a strange syntax which becomes almost impossible to grasp,

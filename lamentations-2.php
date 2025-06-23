@@ -341,11 +341,14 @@
         <div class="poem__verse">
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
+              <?php
+                $fn='For the first time, the poet addresses Daughter Zion directly, and in dialogue with her. Linafelt (2000), pp.53&ndash;54.';
+              ?>
               <!-- parts quoted in "staging" -->
-              <div class="indent0 acrostic-line">O Daughter Jerusalem: to what can I</div>
+              <div class="indent0 acrostic-line">O Daughter Jerusalem:<?php Footnote($fn); ?> to what can I</div>
               <div class="indent2">liken you? How advocate?</div>
-              <div class="indent1">O virgin Daughter Zion:</div>
-              <div class="indent2">whose plight is like yours?</div>
+              <div class="indent1">How relate to you? How comfort you,</div>
+              <div class="indent2">virgin Daughter Zion?</div>
               <div class="indent1">Wide as the sea is your ravaging;</div>
               <div class="indent2">who could heal you?</div><!-- quoted at start of chapter -->
           </div><!-- poem__versetext -->
@@ -420,7 +423,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Unto our Lord let your heart cry,</div>
+              <div class="indent0 acrostic-line">Unload your heart-cries to our Lord,</div><!-- The "Unload" acrostic word isn't great. But it beats the earlier "Unto our Lord let your heart cry" --><!-- 2:17 "cry"; 2:18 "wail": different -->
               <div class="indent2">wall of Daughter Zion.</div><!-- 2:8,18: same -->
               <div class="indent1">Shed tears like a torrent</div>
               <div class="indent2">all day, all night;</div>
@@ -436,14 +439,14 @@
               <?php
                 $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
               ?>
-              <div class="indent0 acrostic-line">Vehemently cry, arising at night</div>
+              <div class="indent0 acrostic-line">Vehemently wail, arising at night</div><!-- 2:17 "cry"; 2:18 "wail": different -->
               <div class="indent2">at the start of each watch.</div>
               <div class="indent1">Pour out your heart like water</div><!-- 2:4,11,12,19: same verb -->
               <div class="indent2">before the face of our Lord.</div><!-- "face": 2:19, 4:16 -->
               <div class="indent1">Lift up your hands to him</div><!-- "hand": vv. 3,4,7,8,(19) -->
               <div class="indent2">for the lives of your babes</div>
-              <div class="indent1">who faint from famine and hunger</div>
-              <div class="indent2">at every street-corner.<?php Footnote($fn); ?></div>
+              <div class="indent1">who faint from famine at the corner</div>
+              <div class="indent2">of each street.<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
