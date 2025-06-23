@@ -1,7 +1,8 @@
 
     <div class="noprint">
-      <div class="sidebar__right--width-25em">
-        <div class="panel">
+      <ul class="nav">
+        <li>
+          <a>Contents&nbsp;&#9662;</a>
           <ul>
             <li><a href="index.php">Introduction</a></li>
             <li><a href="lamentations-1.php">Lamentations&nbsp;1</a></li>
@@ -14,6 +15,6 @@
             <li><a href="staging.php">Musings on staging</a></li>
             <li><a href="bibliography.php">Bibliography</a></li>
           </ul>
-        </div><!-- "panel" -->
-      </div><!-- "sidebar" -->
+        </li>
+      </ul>
     </div><!-- noprint -->
