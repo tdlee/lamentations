@@ -384,6 +384,8 @@
 
     </div><!-- "panel" -->
 
+    <hr>
+
     <div class="footnotes">
       <?php
         PrintFootnotes();
