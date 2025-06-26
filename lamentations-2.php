@@ -28,108 +28,6 @@
       include('chapter-links.php');
     ?>
 
-    <p>
-      This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
-      She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
-      It recounts God's anger being unleashed on her;
-      one commentator identifies within just the first eight verses
-      as many as 27 terms of anger about the <span class="yhwh">Lord</span>'s destructive force.<?php Footnote('Berman (2023), p.58.'); ?>
-      It concludes in turn with her anger being unleashed towards God.<?php
-        Footnote('Hens-Piazza (2017), p.xliii.');
-      ?>
-    </p>
-
-    <p>
-      <?php
-        $fn='This is just one component of a chiastic structure across this chapter.
-          Other components include the resonance of the opening and closing verbs
-          ("angered"/"beclouded" and "annihilated") and the "horn" motif.';
-      ?>
-      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
-      this is the nightmare-turned-reality incarnation of the prophet's warning,
-        <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
-      it is the polar opposite of the psalmist's praise,
-        <a href="https://www.biblegateway.com/passage/?search=psalm+118%3A24-29&version=NRSVUE" target="_blank">Ps.&nbsp;118:24&ndash;27</a>.
-      The poem has some striking similarities with the psalmist's lament,
-        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
-          Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
-        ?>
-      And the physical reactions and reasonings of passers-by at vv.15&ndash;17
-      here at the destruction of Solomon's Temple seem a dire fulfilment
-      of God's warning to him immediately after its inauguration,
-        <a href="https://www.biblegateway.com/passage/?search=1+kings+9%3A8-9&version=NRSVUE" target="_blank">1&nbsp;Kings&nbsp;9:8&ndash;9</a>.
-    </p>
-
-    <p>
-      Observe the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
-      Observe, too, the even more savage "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
-      There is a final, vile twist at v.20.
-      Women are cannibalising their children because the Lord has devoured his people.<?php
-        Footnote('Hens-Piazza (2017), pp.34&ndash;35.');
-      ?>
-    </p>
-
-    <p>
-      In the Hebrew text, over 80% of this poem's verses,
-      1&ndash;11 and 15&ndash;21, start with verbs.<?php
-        Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
-      ?>
-      And additionally, within those verses,
-      many of their internal couplets are similarly verb-fronted.
-      In English this can be seen strikingly in
-      <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
-      from the late nineteenth century.<?php
-        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
-      ?>
-      This bombarding effect is counter
-      to the English-language "subject then verb" convention.
-      That sustained, pounding drive is conveyed here
-      by using a verb-fronted, list-like structure for the first few verses,
-      with the subject being relegated to less prominent placement.
-      For example the first three verses may be read as:
-    </p>
-    <div class="panel panel--width-18em">
-      <div class="poem poem__hebverse">
-        <div class="poem__verse poem__versetext">
-          <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
-          <div class="indent1">&mdash;beclouded&hellip;</div>
-          <div class="indent1">&mdash;flung down&hellip;</div>
-          <div class="indent1">&mdash;put out of mind&hellip;</div>
-          <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
-          <div class="indent1">&mdash;razed in fury&hellip;</div>
-          <div class="indent0">My Lord has:</div>
-          <div class="indent1">&mdash;devoured&hellip;</div>
-          <div class="indent1">&mdash;<span class="acrostic-letter">c</span>ut off&hellip;</div>
-          <div class="indent1">&mdash;retracted&hellip;</div>
-          <div class="indent1">&mdash;blazed&hellip;</div>
-        </div><!-- poem__verse + poem__versetext -->
-      </div><!-- "poem" -->
-    </div><!-- "panel" -->
-
-    <p>
-      The first poem had been in two "voices", approximately 50&ndash;50:
-      a witness-reporter and Daughter Zion herself.
-      This second poem is mostly voiced by the reporter,
-      until at 18&ndash;19 the reporter can be seen to implore the city
-      to voice her complaint, which she accordingly does to close the poem.
-      Yet in the midst of their initially objective reportage,
-      the reporter switches to an engaged present-tense at v10,<?php Footnote('Berman (2023), p.67.'); ?>
-      breaking down and speaking subjectively of their own personal response
-      in a soliloquy, 11&ndash;17, that interrupts their graphic portrayal of the violence
-      and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
-      And the likely trigger for the observer's change of stance in v11?
-      Here is where the tortured, lingering deaths of infants and children,
-      the innocents, are witnessed, with their own mothers agonisingly helpless.<?php
-        Footnote('Hens-Piazza (2017), pp.25&ndash;26.');
-      ?>
-      "Who could heal you?"&nbsp;(v13). The only possible healer is God,
-      but God is the very one ravaging her in the first place.<?php
-        Footnote('O\'Connor (2002), p.38.');
-      ?>
-    </p>
-
-    <div class="widthclear"></div>
-
     <div class="panel">
       <div class="poem poem__hebverse draft">
 
@@ -504,6 +402,106 @@
       </div><!-- "poem" -->
 
     </div><!-- "panel" -->
+
+    <p>
+      This second poem leaves no doubt of the horrifying prospect that God himself is the antagonist: that he has turned against his own Daughter Zion.
+      She in consequence considers the horrifying prospect of cannibalising her own infants (2:20, repeated at 4:10).
+      It recounts God's anger being unleashed on her;
+      one commentator identifies within just the first eight verses
+      as many as 27 terms of anger about the <span class="yhwh">Lord</span>'s destructive force.<?php Footnote('Berman (2023), p.58.'); ?>
+      It concludes in turn with her anger being unleashed towards God.<?php
+        Footnote('Hens-Piazza (2017), p.xliii.');
+      ?>
+    </p>
+
+    <p>
+      <?php
+        $fn='This is just one component of a chiastic structure across this chapter.
+          Other components include the resonance of the opening and closing verbs
+          ("angered"/"beclouded" and "annihilated") and the "horn" motif.';
+      ?>
+      Bookended, "A&nbsp;to&nbsp;Z", by "the day of the <span class="yhwh">Lord</span>'s anger",<?php Footnote($fn); ?><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
+      this is the nightmare-turned-reality incarnation of the prophet's warning,
+        <a href="https://www.biblegateway.com/passage/?search=amos+5%3A18-20&version=NRSVUE" target="_blank">Amos&nbsp;5:18&ndash;20</a>;
+      it is the polar opposite of the psalmist's praise,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+118%3A24-29&version=NRSVUE" target="_blank">Ps.&nbsp;118:24&ndash;27</a>.
+      The poem has some striking similarities with the psalmist's lament,
+        <a href="https://www.biblegateway.com/passage/?search=psalm+89%3A38-45&version=NRSVUE" target="_blank">Ps.&nbsp;89:38&ndash;45</a>.<?php
+          Footnote('For these references see Goldingay (2022): p.91 (Amos); p.111 (Ps.118);  p.89 (Ps.89).');
+        ?>
+      And the physical reactions and reasonings of passers-by at vv.15&ndash;17
+      here at the destruction of Solomon's Temple seem a dire fulfilment
+      of God's warning to him immediately after its inauguration,
+        <a href="https://www.biblegateway.com/passage/?search=1+kings+9%3A8-9&version=NRSVUE" target="_blank">1&nbsp;Kings&nbsp;9:8&ndash;9</a>.
+    </p>
+
+    <p>
+      Observe the "pitiless"/"without pity" thread in vv.2, 17 and 21 (also 3:43).<?php Footnote('Dobbs-Allsopp (1997), p.49.'); ?>
+      Observe, too, the even more savage "devour" thread in vv.2, 5 (twice) 8 and 16.<?php Footnote('Provan (2016), p.57.'); ?>
+      There is a final, vile twist at v.20.
+      Women are cannibalising their children because the Lord has devoured his people.<?php
+        Footnote('Hens-Piazza (2017), pp.34&ndash;35.');
+      ?>
+    </p>
+
+    <p>
+      In the Hebrew text, over 80% of this poem's verses,
+      1&ndash;11 and 15&ndash;21, start with verbs.<?php
+        Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
+      ?>
+      And additionally, within those verses,
+      many of their internal couplets are similarly verb-fronted.
+      In English this can be seen strikingly in
+      <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
+      from the late nineteenth century.<?php
+        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
+      ?>
+      This bombarding effect is counter
+      to the English-language "subject then verb" convention.
+      That sustained, pounding drive is conveyed here
+      by using a verb-fronted, list-like structure for the first few verses,
+      with the subject being relegated to less prominent placement.
+      For example the first three verses may be read as:
+    </p>
+    <div class="panel panel--width-18em">
+      <div class="poem poem__hebverse">
+        <div class="poem__verse poem__versetext">
+          <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
+          <div class="indent1">&mdash;beclouded&hellip;</div>
+          <div class="indent1">&mdash;flung down&hellip;</div>
+          <div class="indent1">&mdash;put out of mind&hellip;</div>
+          <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
+          <div class="indent1">&mdash;razed in fury&hellip;</div>
+          <div class="indent0">My Lord has:</div>
+          <div class="indent1">&mdash;devoured&hellip;</div>
+          <div class="indent1">&mdash;<span class="acrostic-letter">c</span>ut off&hellip;</div>
+          <div class="indent1">&mdash;retracted&hellip;</div>
+          <div class="indent1">&mdash;blazed&hellip;</div>
+        </div><!-- poem__verse + poem__versetext -->
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
+      The first poem had been in two "voices", approximately 50&ndash;50:
+      a witness-reporter and Daughter Zion herself.
+      This second poem is mostly voiced by the reporter,
+      until at 18&ndash;19 the reporter can be seen to implore the city
+      to voice her complaint, which she accordingly does to close the poem.
+      Yet in the midst of their initially objective reportage,
+      the reporter switches to an engaged present-tense at v10,<?php Footnote('Berman (2023), p.67.'); ?>
+      breaking down and speaking subjectively of their own personal response
+      in a soliloquy, 11&ndash;17, that interrupts their graphic portrayal of the violence
+      and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
+      And the likely trigger for the observer's change of stance in v11?
+      Here is where the tortured, lingering deaths of infants and children,
+      the innocents, are witnessed, with their own mothers agonisingly helpless.<?php
+        Footnote('Hens-Piazza (2017), pp.25&ndash;26.');
+      ?>
+      "Who could heal you?"&nbsp;(v13). The only possible healer is God,
+      but God is the very one ravaging her in the first place.<?php
+        Footnote('O\'Connor (2002), p.38.');
+      ?>
+    </p>
 
     <hr>
 

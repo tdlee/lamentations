@@ -29,73 +29,11 @@
     ?>
 
     <p>
-      Throughout chapters one, two and four, Zion is not only the dwelling-place of God
-      but is additionally personified by the hauntingly endearing term "Daughter Zion" and variants such as "Daughter Jerusalem" and "my Daughter People".
-      The poems lament not merely an inanimate city;
-      the city is a precious daughter, beloved of God.<?php
-          Footnote('Adelman (2021); Berlin (2004), pp.10&ndash;12.');
-          ?>
-      This is set out within the very first verse.
-    </p>
-
-    <p>
-      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62.'); ?>
-    </p>
-
-    <p>
-      Observe that this first poem is in two "voices": a witness-narrator recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
-    </p>
-    <ul>
-      <li>
-        The witness's section 7&ndash;10 about the city's accused sin and violation is briefly interrupted at 9<i>c</i> by Jerusalem herself.
-      </li>
-      <li>
-        At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
-      </li>
-    </ul>
-
-    <p>
-      Section 7&ndash;10 is clearly female-intimate
-      and the language heaps up with innuendo.
-      But it contains a deep and unsettling ambiguity
-      which has a significant bearing on how we receive it.
-      At first sight, the section is strongly suggestive of Daughter Zion
-      having been wilfully unfaithful and wantonly adulterous,
-      including the accusation of "sin" (v8).<?php
-        Footnote('Several other linguistic resonances and wordplays across the whole chapter
-          lead the surface reading in this direction.');
-      ?>
-      Yet in contrast with forcefully direct language in the
-      <a href="https://www.britannica.com/topic/biblical-literature/The-Nevi-im-Prophets" target="_blank">Latter Prophets</a>
-      (Isaiah, Jeremiah, Ezekiel, and the twelve minor prophets)
-      the language of the Lamentations poet is non-specific:
-      she is never here accused of "adultery" or "whoring".<?php
-        Footnote('Dobbs-Allsopp (2012), p.64.');
-      ?>
-      And a totally different thread also emerges from behind this:
-      that of victim of sexual defilement and rape,
-      aligned with many other Lamentations passages
-      focussed on the abuse and violation of the innocent.
-      Both these contrasting threads, adulteress and rape victim,
-      may be viewed as co-existing possibilities.<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
-      For us as readers, indeed as disciples and worshippers,
-      inhabiting the poetic and disturbingly ambiguous both/and
-      can be, and perhaps should be, more valuable
-      than rushing into a falsely simplistic either/or.
-    </p>
-
-    <p>
-      Observe, too, the frequency of the word "all",<?php Footnote('Goldingay (2022), pp.11, 41.'); ?> establishing and reinforcing the book's theme of the totality of the devastation and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
-    </p>
-
-    <p>
       Reminder: the 3&ndash;2 <i>qinah</i> rhythm is vitally important to recitation and reading.
       <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
       </span>
     </p>
-
-    <div class="widthclear"></div>
 
     <div class="panel">
       <div class="poem poem__hebverse draft">
@@ -484,6 +422,66 @@
       </div><!-- "poem" -->
 
     </div><!-- "panel" -->
+
+    <p>
+      Throughout chapters one, two and four, Zion is not only the dwelling-place of God
+      but is additionally personified by the hauntingly endearing term "Daughter Zion" and variants such as "Daughter Jerusalem" and "my Daughter People".
+      The poems lament not merely an inanimate city;
+      the city is a precious daughter, beloved of God.<?php
+          Footnote('Adelman (2021); Berlin (2004), pp.10&ndash;12.');
+          ?>
+      This is set out within the very first verse.
+    </p>
+
+    <p>
+      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62.'); ?>
+    </p>
+
+    <p>
+      Observe that this first poem is in two "voices": a witness-narrator recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
+    </p>
+    <ul>
+      <li>
+        The witness's section 7&ndash;10 about the city's accused sin and violation is briefly interrupted at 9<i>c</i> by Jerusalem herself.
+      </li>
+      <li>
+        At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
+      </li>
+    </ul>
+
+    <p>
+      Section 7&ndash;10 is clearly female-intimate
+      and the language heaps up with innuendo.
+      But it contains a deep and unsettling ambiguity
+      which has a significant bearing on how we receive it.
+      At first sight, the section is strongly suggestive of Daughter Zion
+      having been wilfully unfaithful and wantonly adulterous,
+      including the accusation of "sin" (v8).<?php
+        Footnote('Several other linguistic resonances and wordplays across the whole chapter
+          lead the surface reading in this direction.');
+      ?>
+      Yet in contrast with forcefully direct language in the
+      <a href="https://www.britannica.com/topic/biblical-literature/The-Nevi-im-Prophets" target="_blank">Latter Prophets</a>
+      (Isaiah, Jeremiah, Ezekiel, and the twelve minor prophets)
+      the language of the Lamentations poet is non-specific:
+      she is never here accused of "adultery" or "whoring".<?php
+        Footnote('Dobbs-Allsopp (2012), p.64.');
+      ?>
+      And a totally different thread also emerges from behind this:
+      that of victim of sexual defilement and rape,
+      aligned with many other Lamentations passages
+      focussed on the abuse and violation of the innocent.
+      Both these contrasting threads, adulteress and rape victim,
+      may be viewed as co-existing possibilities.<?php Footnote("Dobbs-Allsopp (2012), pp.63&ndash;67; Hens-Piazza (2017), pp.8&ndash;18."); ?>
+      For us as readers, indeed as disciples and worshippers,
+      inhabiting the poetic and disturbingly ambiguous both/and
+      can be, and perhaps should be, more valuable
+      than rushing into a falsely simplistic either/or.
+    </p>
+
+    <p>
+      Observe, too, the frequency of the word "all",<?php Footnote('Goldingay (2022), pp.11, 41.'); ?> establishing and reinforcing the book's theme of the totality of the devastation and suffering&mdash;a totality given visual expression to the reader by the end-to-end <span class="acrostic-letter">A</span>-to-<span class="acrostic-letter">Z</span> alphabetic acrostic.
+    </p>
 
     <hr>
 

@@ -28,95 +28,6 @@
       include('chapter-links.php');
     ?>
 
-    <p>
-      The opening "Alas!" recalls the first two poems;
-      it is swiftly reinforced in the second half of v2.
-    </p>
-
-    <p>
-      As with all three preceding poems, this, too, can work as two voices,
-      although here as first-person singular (most) and first-person plural (17&ndash;20 or 17&ndash;22).<?php
-        Footnote('For 17&ndash;20 see Dobbs-Allsopp (2012), p.133, Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
-      ?>
-      Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
-      but rather various groups within the population.
-      And whereas the addressee in 1 and 3 had been the <span class="yhwh">Lord</span>,
-      and in 2 had been mostly the city,
-      here there is no specific addressee until the personified cities in the closing verses.
-    </p>
-
-    <p>
-      While the narration of 1&ndash;16 is predominantly observational
-      of the inhabitants ("my Daughter People")
-      it is punctuated at three places, vv.6, 11 and 16,
-      by theological reflection and interpretation
-      of perhaps an over-reliance on Zion theology.<?php
-        Footnote('Berman (2023), pp.131, 138.');
-      ?>
-      It might be regarded as a third voice.
-    </p>
-
-    <p>
-      Visually, a unique aspect of this chapter is the striking use of colour
-      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103.'); ?>
-    </p>
-
-    <p>
-      It starts with the impossible.
-      Pure gold cannot tarnish under normal circumstances.<?php
-        Footnote('Any tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
-      ?>
-      Yet here it does.
-      The city, temple and king had been believed to be safe under the <span class="yhwh">Lord</span>'s protection;
-      defeat and devastation were unthinkable.
-      Yet here all this can fall, and does.<?php Footnote('Berman (2023), p.129.'); ?>
-      Things are so bad that even nature, God's own created order, is out of kilter.
-      And it continues into the human realm,
-      including the horror of mothers cannibalising their own God-given children.
-      "Blessings of the covenant become human carnage."<?php
-        Footnote('Hens-Piazza (2017), p.60.');
-      ?>
-    </p>
-
-    <p>
-      From an inner-biblical perspective, just as the opening verses of Lam.3
-      seem to pull in tension against Psalm&nbsp;23,
-      so here are other contrasts, and even overturnings of other passages:
-    </p>
-    <ul>
-      <li>
-         v2: the rare term "children [sons] of Zion" leads us to <a href="https://www.biblegateway.com/passage/?search=psalm+149%3A2&version=NRSVUE" target="_blank">Psalm&nbsp;149:2</a><?php
-          Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
-        ?>
-        which in turn draws us to contrast this chapter overall with themes in that psalm
-      </li>
-      <li>
-        v4: contrast with <a href="https://www.biblegateway.com/passage/?search=psalm+131&version=NRSVUE" target="_blank">Psalm&nbsp;131</a>
-      </li>
-      <li>
-        v12: seems almost a parody of <a href="https://www.biblegateway.com/passage/?search=psalm+48%3A4-8&version=NRSVUE" target="_blank">Psalm&nbsp;48:4&ndash;8</a><?php
-          Footnote('Berman (2023), p.134.');
-        ?>
-      </li>
-      <li>
-        v16: contrast with <a href="https://www.biblegateway.com/passage/?search=numbers+6%3A24-26&version=NRSVUE" target="_blank">Numbers&nbsp;6:24&ndash;26</a><?php
-          Footnote('Goldingay (2022), p.179.');
-        ?>
-      </li>
-      <li>
-        vv1&ndash;8 (in particular 1&ndash;2, 5, 7&ndash;8): contrast the degrading colour imagery against <a href="https://www.biblegateway.com/passage/?search=Song%20of%20Songs%205:10-16&version=NRSVUE" target="_blank">Song of Songs&nbsp;5:10&ndash;16</a><?php
-          Footnote('Fullerton&nbsp;Strollo (2017).');
-        ?>
-      </li>
-      <li>
-        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in <a href="https://www.biblegateway.com/passage/?search=psalm+144%3A9-14&version=NRSVUE" target="_blank">Psalm&nbsp;144:9&ndash;14</a>.<?php
-          Footnote('Berman (2023), pp.148&ndash;150.');
-        ?>
-      </li>
-    </ul>
-
-    <div class="widthclear"></div>
-
     <div class="panel">
       <div class="poem poem__hebverse draft">
 
@@ -484,6 +395,93 @@
       </div><!-- "poem" -->
 
     </div><!-- "panel" -->
+
+    <p>
+      The opening "Alas!" recalls the first two poems;
+      it is swiftly reinforced in the second half of v2.
+    </p>
+
+    <p>
+      As with all three preceding poems, this, too, can work as two voices,
+      although here as first-person singular (most) and first-person plural (17&ndash;20 or 17&ndash;22).<?php
+        Footnote('For 17&ndash;20 see Dobbs-Allsopp (2012), p.133, Goldingay (2022), p.163 and Provan (2016), p.109; for 17&ndash;22 see Middlemas (2021), p.25.');
+      ?>
+      Unlike them, however, the personalised perspective is neither female (as in Lam.1 and 2) nor male (Lam.3),
+      but rather various groups within the population.
+      And whereas the addressee in 1 and 3 had been the <span class="yhwh">Lord</span>,
+      and in 2 had been mostly the city,
+      here there is no specific addressee until the personified cities in the closing verses.
+    </p>
+
+    <p>
+      While the narration of 1&ndash;16 is predominantly observational
+      of the inhabitants ("my Daughter People")
+      it is punctuated at three places, vv.6, 11 and 16,
+      by theological reflection and interpretation
+      of perhaps an over-reliance on Zion theology.<?php
+        Footnote('Berman (2023), pp.131, 138.');
+      ?>
+      It might be regarded as a third voice.
+    </p>
+
+    <p>
+      Visually, a unique aspect of this chapter is the striking use of colour
+      in the opening eight verses and its erasure as the degradation of the siege takes hold.<?php Footnote('Berlin (2004), p.103.'); ?>
+    </p>
+
+    <p>
+      It starts with the impossible.
+      Pure gold cannot tarnish under normal circumstances.<?php
+        Footnote('Any tarnishing we perceive is not of the gold itself, but of small amounts of other embedded metal impurities.');
+      ?>
+      Yet here it does.
+      The city, temple and king had been believed to be safe under the <span class="yhwh">Lord</span>'s protection;
+      defeat and devastation were unthinkable.
+      Yet here all this can fall, and does.<?php Footnote('Berman (2023), p.129.'); ?>
+      Things are so bad that even nature, God's own created order, is out of kilter.
+      And it continues into the human realm,
+      including the horror of mothers cannibalising their own God-given children.
+      "Blessings of the covenant become human carnage."<?php
+        Footnote('Hens-Piazza (2017), p.60.');
+      ?>
+    </p>
+
+    <p>
+      From an inner-biblical perspective, just as the opening verses of Lam.3
+      seem to pull in tension against Psalm&nbsp;23,
+      so here are other contrasts, and even overturnings of other passages:
+    </p>
+    <ul>
+      <li>
+         v2: the rare term "children [sons] of Zion" leads us to <a href="https://www.biblegateway.com/passage/?search=psalm+149%3A2&version=NRSVUE" target="_blank">Psalm&nbsp;149:2</a><?php
+          Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
+        ?>
+        which in turn draws us to contrast this chapter overall with themes in that psalm
+      </li>
+      <li>
+        v4: contrast with <a href="https://www.biblegateway.com/passage/?search=psalm+131&version=NRSVUE" target="_blank">Psalm&nbsp;131</a>
+      </li>
+      <li>
+        v12: seems almost a parody of <a href="https://www.biblegateway.com/passage/?search=psalm+48%3A4-8&version=NRSVUE" target="_blank">Psalm&nbsp;48:4&ndash;8</a><?php
+          Footnote('Berman (2023), p.134.');
+        ?>
+      </li>
+      <li>
+        v16: contrast with <a href="https://www.biblegateway.com/passage/?search=numbers+6%3A24-26&version=NRSVUE" target="_blank">Numbers&nbsp;6:24&ndash;26</a><?php
+          Footnote('Goldingay (2022), p.179.');
+        ?>
+      </li>
+      <li>
+        vv1&ndash;8 (in particular 1&ndash;2, 5, 7&ndash;8): contrast the degrading colour imagery against <a href="https://www.biblegateway.com/passage/?search=Song%20of%20Songs%205:10-16&version=NRSVUE" target="_blank">Song of Songs&nbsp;5:10&ndash;16</a><?php
+          Footnote('Fullerton&nbsp;Strollo (2017).');
+        ?>
+      </li>
+      <li>
+        the chapter as a whole resembles an inversion of the prayer for the king and kingdom welfare in <a href="https://www.biblegateway.com/passage/?search=psalm+144%3A9-14&version=NRSVUE" target="_blank">Psalm&nbsp;144:9&ndash;14</a>.<?php
+          Footnote('Berman (2023), pp.148&ndash;150.');
+        ?>
+      </li>
+    </ul>
 
     <hr>
 

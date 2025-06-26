@@ -28,209 +28,6 @@
       include('chapter-links.php');
     ?>
 
-    <p>
-      Lamentations 5, like other chapters, has the same number of stanzas, 22,
-      as the Hebrew alphabet.
-      But unlike the other chapters:
-    </p>
-    <ul>
-      <li>
-        it lacks an acrostic structure (but see below)
-      </li>
-      <li>
-        the <i>qinah</i> three&ndash;two stress pattern is largely absent;
-        most stanzas are three&ndash;three.<?php
-          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here, and seems particularly poignant at 17&ndash;18.');
-        ?>
-      </li>
-    </ul>
-    <p>
-      Even, it would appear, the toehold of sanity provided by those features has evaporated.
-      The very attempt to impose structure upon the chaos is under threat;
-      structure and content conspire together
-      to provide the book with a very unsettling ending.<?php
-        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75.');
-      ?>
-    </p>
-    <p>
-      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
-      Mount Zion,
-      God's dwelling-place
-      and formerly "joy of all the earth" (2:15 and Ps.48:2)
-      is now abandoned, in chaos,
-      like the primordial cosmos before creation.
-      Bleak, indeed.
-    </p>
-    <p>
-      Yet this chapter, above the others, is the book's prayer.
-      It is preceded by abandonment,
-      especially chapter 4, which "was distinctive for incorporating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193.') ?>
-      It remains in abandonment.
-      But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
-      this chapter is framed as a prayer to him.
-      This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
-        Footnote('Wielenga (2007), p.69.');
-      ?>
-      And textually, although the previous <i>qinah</i> rhythm
-      and sophisticated cross-line and cross-verse enjambment
-      have all but vanished,
-      there are instead the more balanced lines of Hebrew poetry
-      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140; Middlemas (2021), pp.21&ndash;22.'); ?>
-      the form so emblematic of Bible's highest form of prayer, the Psalms.
-    </p>
-    <p>
-      A further contrast of this chapter with the others is that this is communal.
-      No "I" speaks in this poem;
-      and whereas Lam.1 and Lam.2 never spoke in first-person plural terms,
-      and Lam.3 and Lam.4 did so only when past the halfway point,
-      Lam.5 speaks almost throughout in "we/our/us" terms.<?php
-        Footnote('Goldingay (2022), p.191.');
-      ?>
-    </p>
-    <p>
-      The main central portion of the chapter may be viewed as
-      two confessional sections:
-      vv.2&ndash;7 reflecting broadly on history ending "our ancestors sinned"
-      and vv.8&ndash;16 about the current state ending "we have sinned".<?php
-        Footnote('Berman (2023), p.160ff.');
-      ?>
-    </p>
-
-    <h2>A conclusion refused</h2>
-
-    <p>
-      Spolier alert: Lamentations does not end well.
-    </p>
-
-    <p>
-      A brief glance at the footnotes of most major Bible translations
-      reveals instances of uncertainty on perhaps most pages,
-      not only of words and meaning
-      but also of syntax.
-      Lamentations is no exception; several instances approach guesswork.
-      The final verse, 5:22, is such a case.
-      Instead of a conclusion or <em>denouement</em>,
-      the text has a strange syntax which becomes almost impossible to grasp,
-      confounding translators and commentators.
-      For a deeper dive see
-      Gordis (1974), pp.289&ndash;293
-      and Linafelt (2001), pp.340&ndash;343.
-      Linafelt's tentative suggestion is that the entire book
-      ends not with a syntactically complete sentence but an open-ended ellipsis;
-      an "if&hellip;" stripped of its expected "then&hellip;".
-    </p>
-
-    <div class="panel panel--width-20em">
-      <div class="poem poem__hebverse">
-        <div class="poem__verse">
-          <div class="poem__versetext">
-            <div class="indent0">For if truly you have rejected us,</div>
-            <div class="indent0">raging bitterly against us&mdash;</div>
-          </div><!-- poem__versetext -->
-        </div><!-- poem__verse -->
-        <div class="panel__cite">
-          <em>[The End]</em>
-        </div><!-- "panel__cite" -->
-      </div><!-- "poem" -->
-    </div><!-- "panel" -->
-
-    <p>
-      He comments:
-      "The book is left opening out into the emptiness of God's non-response"<?php
-        Footnote('Linafelt (2000), p.60.');
-      ?>
-      "&hellip;indicating by its very incompleteness
-      a refusal to move&mdash;in the face of
-      <span class="yhwh">Yhwh</span>'s lack of response&mdash;beyond lament to praise,
-      but also a refusal to conclude at all.
-      The ending of the book is, then, a willful <em>non</em>ending."<?php
-        Footnote('Linafelt (2001), p.343.');
-      ?>
-    </p>
-
-    <h2>Inner-biblical contrasts</h2>
-
-    <p>
-      Just as the fourth chapter has both similarities with some Psalms
-      but also contrasts against them,
-      so too does this chapter: in this case Psalms 74 and 79.
-      Absent are: the usual Psalmist terms of endearment
-      (e.g. "sheep of your pasture", "Jacob", "your servants");
-      the destruction being a desecration;
-      the attachment of blame to the invaders;
-      any call for vengeance on them; etc.<?php
-        Footnote('Berman (2023), pp.155&ndash;157.');
-      ?>
-    </p>
-    <p>
-      Similarly striking is a contrast of 19&ndash;20 against Psalm 102:12&ndash;13,
-      where almost identical statements are taken in almost diametrically opposed directions:<?php Footnote('The Literal Standard Version exhibits this contrast with clarity.'); ?>
-    </p>
-
-    <div class="widthclear"></div>
-
-    <div class="panel panel--width-28em">
-      <div class="poem poem__hebverse">
-        <div class="poem__verse">
-          <div class="poem__versetext">
-            <div class="indent0">And You, O YHWH, abide for all time,</div>
-            <div class="indent1">And Your memorial from generation to generation.</div>
-            <div class="indent0">You rise&mdash;You pity Zion,</div>
-            <div class="indent1">For the time to favour her,</div>
-            <div class="indent1">For the appointed time has come.</div>
-          </div><!-- poem__versetext -->
-        </div><!-- poem__verse -->
-        <div class="panel__cite">
-          &mdash;Ps.102:12&ndash;13 (<abbr title="Literal Standard Version">LSV</abbr>)
-        </div><!-- "panel__cite" -->
-        <hr>
-        <div class="poem__verse">
-          <div class="poem__versetext">
-            <div class="indent0">You, O YHWH, remain for all time,</div>
-            <div class="indent1">Your throne to generation and generation.</div>
-            <div class="indent0">Why do You forget us forever?</div>
-            <div class="indent1">You forsake us for [the] length of [our] days!</div>
-          </div><!-- poem__versetext -->
-        </div><!-- poem__verse -->
-        <div class="panel__cite">
-          &mdash;Lam.5:19&ndash;20 (<abbr title="Literal Standard Version">LSV</abbr>)
-        </div><!-- "panel__cite" -->
-
-      </div><!-- "poem" -->
-    </div><!-- "panel" -->
-    <p>
-      In the psalm, the community proclaims YHWH's arising
-      to restore Zion;
-      here in Lamentations, he is accused of remaining seated, perpetually doing nothing.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
-    </p>
-
-    <h2>A hidden acrostic?</h2>
-
-    <p>
-      Many attempts have been made to find something comparable to the acrostic.
-      Not least, this would provide the otherwise missing "seventh acrostic"
-      (the other six being one each in chapters 1, 2 and 4,
-      plus the triple acrostic of chapter 3) which would yield a
-      creation-derived and sabbath-reflecting "six+one" of completion.
-      In the final four verses,
-      taking not only the first but also the final letter of each
-      (an "acrostic-telestic")
-      yields the eight-letter Hebrew phrase "your God is exalted greatly".<?php
-        Footnote('Guillaume (2009).');
-        ?>
-      While initially such praise looks a misfit in the context of devastation
-      it nevertheless resonates well with Job's
-      <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
-      bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job&nbsp;1:21).
-    </p>
-    <p>
-      How might we represent that?
-      Perhaps "Alleluia",
-      itself directly from the Hebrew "Hallelujah"
-      ("Praise the <span class="yhwh">Lord</span>"),
-      might be appropriate.
-    <p>
-
     <div class="widthclear"></div>
 
     <div class="panel">
@@ -383,6 +180,207 @@
       </div><!-- "poem" -->
 
     </div><!-- "panel" -->
+
+    <p>
+      Lamentations 5, like other chapters, has the same number of stanzas, 22,
+      as the Hebrew alphabet.
+      But unlike the other chapters:
+    </p>
+    <ul>
+      <li>
+        it lacks an acrostic structure (but see below)
+      </li>
+      <li>
+        the <i>qinah</i> three&ndash;two stress pattern is largely absent;
+        most stanzas are three&ndash;three.<?php
+          Footnote('Three&ndash;two <i>qinah</i> remains in 2, 3, 14 and 18; Goldingay (2022), p.190.  This is retained here, and seems particularly poignant at 17&ndash;18.');
+        ?>
+      </li>
+    </ul>
+    <p>
+      Even, it would appear, the toehold of sanity provided by those features has evaporated.
+      The very attempt to impose structure upon the chaos is under threat;
+      structure and content conspire together
+      to provide the book with a very unsettling ending.<?php
+        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75.');
+      ?>
+    </p>
+    <p>
+      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
+      Mount Zion,
+      God's dwelling-place
+      and formerly "joy of all the earth" (2:15 and Ps.48:2)
+      is now abandoned, in chaos,
+      like the primordial cosmos before creation.
+      Bleak, indeed.
+    </p>
+    <p>
+      Yet this chapter, above the others, is the book's prayer.
+      It is preceded by abandonment,
+      especially chapter 4, which "was distinctive for incorporating no speaking to Yahweh".<?php Footnote('Goldingay (2022), p.193.') ?>
+      It remains in abandonment.
+      But whereas the other litanies of complaint had addressed God mostly <em><span lang="fr">en passant</span></em>,
+      this chapter is framed as a prayer to him.
+      This is the pinnacle: "the lamenting population was shown a way to rebuild their shattered universe by, paradoxically, reaching out to their God who was not there for them anymore".<?php
+        Footnote('Wielenga (2007), p.69.');
+      ?>
+      And textually, although the previous <i>qinah</i> rhythm
+      and sophisticated cross-line and cross-verse enjambment
+      have all but vanished,
+      there are instead the more balanced lines of Hebrew poetry
+      with pervasive parallelism:<?php Footnote('Dobbs-Allsopp (2012), p.140; Middlemas (2021), pp.21&ndash;22.'); ?>
+      the form so emblematic of Bible's highest form of prayer, the Psalms.
+    </p>
+    <p>
+      A further contrast of this chapter with the others is that this is communal.
+      No "I" speaks in this poem;
+      and whereas Lam.1 and Lam.2 never spoke in first-person plural terms,
+      and Lam.3 and Lam.4 did so only when past the halfway point,
+      Lam.5 speaks almost throughout in "we/our/us" terms.<?php
+        Footnote('Goldingay (2022), p.191.');
+      ?>
+    </p>
+    <p>
+      The main central portion of the chapter may be viewed as
+      two confessional sections:
+      vv.2&ndash;7 reflecting broadly on history ending "our ancestors sinned"
+      and vv.8&ndash;16 about the current state ending "we have sinned".<?php
+        Footnote('Berman (2023), p.160ff.');
+      ?>
+    </p>
+
+    <h2>A conclusion refused</h2>
+
+    <p>
+      Spolier alert: Lamentations does not end well.
+    </p>
+
+    <p>
+      A brief glance at the footnotes of most major Bible translations
+      reveals instances of uncertainty on perhaps most pages,
+      not only of words and meaning
+      but also of syntax.
+      Lamentations is no exception; several instances approach guesswork.
+      The final verse, 5:22, is such a case.
+      Instead of a conclusion or <em>denouement</em>,
+      the text has a strange syntax which becomes almost impossible to grasp,
+      confounding translators and commentators.
+      For a deeper dive see
+      Gordis (1974), pp.289&ndash;293
+      and Linafelt (2001), pp.340&ndash;343.
+      Linafelt's tentative suggestion is that the entire book
+      ends not with a syntactically complete sentence but an open-ended ellipsis;
+      an "if&hellip;" stripped of its expected "then&hellip;".
+    </p>
+
+    <div class="panel panel--width-20em">
+      <div class="poem poem__hebverse">
+        <div class="poem__verse">
+          <div class="poem__versetext">
+            <div class="indent0">For if truly you have rejected us,</div>
+            <div class="indent0">raging bitterly against us&mdash;</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+        <div class="panel__cite">
+          <em>[The End]</em>
+        </div><!-- "panel__cite" -->
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+
+    <p>
+      He comments:
+      "The book is left opening out into the emptiness of God's non-response"<?php
+        Footnote('Linafelt (2000), p.60.');
+      ?>
+      "&hellip;indicating by its very incompleteness
+      a refusal to move&mdash;in the face of
+      <span class="yhwh">Yhwh</span>'s lack of response&mdash;beyond lament to praise,
+      but also a refusal to conclude at all.
+      The ending of the book is, then, a willful <em>non</em>ending."<?php
+        Footnote('Linafelt (2001), p.343.');
+      ?>
+    </p>
+
+    <h2>Inner-biblical contrasts</h2>
+
+    <p>
+      Just as the fourth chapter has both similarities with some Psalms
+      but also contrasts against them,
+      so too does this chapter: in this case Psalms 74 and 79.
+      Absent are: the usual Psalmist terms of endearment
+      (e.g. "sheep of your pasture", "Jacob", "your servants");
+      the destruction being a desecration;
+      the attachment of blame to the invaders;
+      any call for vengeance on them; etc.<?php
+        Footnote('Berman (2023), pp.155&ndash;157.');
+      ?>
+    </p>
+    <p>
+      Similarly striking is a contrast of 19&ndash;20 against Psalm 102:12&ndash;13,
+      where almost identical statements are taken in almost diametrically opposed directions:<?php Footnote('The Literal Standard Version exhibits this contrast with clarity.'); ?>
+    </p>
+
+    <div class="panel panel--width-28em">
+      <div class="poem poem__hebverse">
+        <div class="poem__verse">
+          <div class="poem__versetext">
+            <div class="indent0">And You, O YHWH, abide for all time,</div>
+            <div class="indent1">And Your memorial from generation to generation.</div>
+            <div class="indent0">You rise&mdash;You pity Zion,</div>
+            <div class="indent1">For the time to favour her,</div>
+            <div class="indent1">For the appointed time has come.</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Ps.102:12&ndash;13 (<abbr title="Literal Standard Version">LSV</abbr>)
+        </div><!-- "panel__cite" -->
+        <hr>
+        <div class="poem__verse">
+          <div class="poem__versetext">
+            <div class="indent0">You, O YHWH, remain for all time,</div>
+            <div class="indent1">Your throne to generation and generation.</div>
+            <div class="indent0">Why do You forget us forever?</div>
+            <div class="indent1">You forsake us for [the] length of [our] days!</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+        <div class="panel__cite">
+          &mdash;Lam.5:19&ndash;20 (<abbr title="Literal Standard Version">LSV</abbr>)
+        </div><!-- "panel__cite" -->
+
+      </div><!-- "poem" -->
+    </div><!-- "panel" -->
+    <p>
+      In the psalm, the community proclaims YHWH's arising
+      to restore Zion;
+      here in Lamentations, he is accused of remaining seated, perpetually doing nothing.<?php Footnote('Williamson (2023), pp.77&ndash;78.'); ?>
+    </p>
+
+    <h2>A hidden acrostic?</h2>
+
+    <p>
+      Many attempts have been made to find something comparable to the acrostic.
+      Not least, this would provide the otherwise missing "seventh acrostic"
+      (the other six being one each in chapters 1, 2 and 4,
+      plus the triple acrostic of chapter 3) which would yield a
+      creation-derived and sabbath-reflecting "six+one" of completion.
+      In the final four verses,
+      taking not only the first but also the final letter of each
+      (an "acrostic-telestic")
+      yields the eight-letter Hebrew phrase "your God is exalted greatly".<?php
+        Footnote('Guillaume (2009).');
+        ?>
+      While initially such praise looks a misfit in the context of devastation
+      it nevertheless resonates well with Job's
+      <i>"The <span class="yhwh">Lord</span> gives and the <span class="yhwh">Lord</span> takes away;
+      bless&egrave;d be the name of the <span class="yhwh">Lord</span>"</i> (Job&nbsp;1:21).
+    </p>
+    <p>
+      How might we represent that?
+      Perhaps "Alleluia",
+      itself directly from the Hebrew "Hallelujah"
+      ("Praise the <span class="yhwh">Lord</span>"),
+      might be appropriate.
+    <p>
 
     <hr>
 
