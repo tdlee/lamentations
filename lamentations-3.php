@@ -28,140 +28,6 @@
       include('chapter-links.php');
     ?>
 
-    <p>
-      Lamentations 3 takes the acrostic nature of these poems a step further than the others.
-      Not only do we have the twenty-two stanzas
-      corresponding to the Hebrew alphabet,
-      but each stanza itself has three lines sharing that same initial letter.
-    </p>
-
-    <p>
-      In contrast to the first and second poems which are voiced by Daughter Zion
-      and reflect a woman's perspective of the effects of war and siege,
-      this poem is strongly masculine in perspective.
-      Indeed its opening words would be best translated as "I am the man",
-      from the male-specific Hebrew <em>geber</em>.<?php
-        Footnote('Contrast the Hebrew <em>adam</em> which, rather like the English word "man",
-          is not only the male "Adam" in the Gen.2 Adam and Eve creation story,
-          but can sometimes be read in gender-inclusive manner
-          as in the "mankind/<em>adam</em>&hellip;male and female [God] created them"
-          in the preceding Gen.1 creation story.');
-      ?>
-      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45.'); ?>
-    </p>
-
-    <p>
-      Structurally, while the acrostic tends to produce its own grouping
-      <em>within</em> acrostic boundaries,
-      observe how particular thoughts may have their own
-      counter-grouping cutting <em>across</em> these boundaries.
-      An early, clear example is at 12&ndash;13 where the bow-and-arrow
-      crosses the D/E acrostic boundary.
-      This "enjambment" of ideas and images across the alphabetic boundaries
-      is a counterweight to the formal structuring of the acrostic,
-      and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
-      See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
-      A similar change of thought happens between 58 and 59 within the 'W' stanza.
-    </p>
-
-    <p>
-      And it is <em>within</em> a single verse, at 42,
-      that perhaps the most abrupt change of direction happens.
-      Just when the poet is on the brink of regaining his confidence,
-      the vision of fragile hope is shattered and evaporates:
-      "<em>But you did not forgive</em>".
-      Like a thunderbolt from a clear blue sky,
-      scything through the verse
-      and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
-      "<em>But you did not forgive</em>".<?php
-        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52. Also O\'Connor (2002), p.53.');
-      ?>
-      This may be the most disturbing idea in the chapter, and in the entire book.<?php
-        Footnote('Berlin (2004), p.96.');
-      ?>
-    </p>
-
-    <!-- panel -->
-    <div class="sidebar__right--width-45pc">
-      <div class="panel">
-        <div class="panel__head">
-          Voices
-        </div>
-
-        <p>
-          Like the earlier two poems, this may also be seen as being in two primary "voices":
-          an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.123. But Hens-Piazza (2017), p.39 sees just one voice throughout.'); ?>
-          Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
-          That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
-            Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
-          ?>
-        </p>
-
-        <p>
-          But is the solo speaker of 52&ndash;66 necessarily the <em>geber</em> of the opening?
-          The content is quite different.
-          There is a long rabbinic tradition of construing the speaker here as "Bat-Ami":
-          a representative of the city, although not Daughter Zion herself.<?php
-            Footnote('Berman (2023), pp.114&ndash;116.');
-          ?>
-        </p>
-
-      </div><!-- "panel" -->
-    </div><!-- "sidebar" -->
-    <!-- panel -->
-
-    <p>
-      There are many,
-      especially in my own tradition,
-      the protestant regions of the western Christian faith,
-      who magnify and exalt the hopeful passage of 3:22&ndash;39,
-      even to the point of hermetically isolating it from the stark images of the rest of the poems;
-      we tend to attach notions such as "central", "focus" and "highlight"
-      to verses in this small passage in this third chapter.
-      But it seems useful, verging on essential,
-      to recognise that this
-      "grand statement of hope stands at the centre of the work as a whole
-      <em>but not as the focal point</em> [emphasis mine]
-      because it exists in tension
-      with the portraits of human suffering&hellip;in
-      the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
-      So if we really want a retain the notion of a single point of highlight,
-      then we should instead look to the fifth, final chapter as most important,
-      whose communal voice, singly expressed, plays a vital role.<?php Footnote('Kang &amp; Venter (2009), p.2.'); ?>
-    </p>
-
-    <p>
-      As if to support this,
-      "there are a number of places in 3:25&ndash;39
-      where the [Hebrew] syntax is convoluted and even problematic.&hellip;
-      One effect&hellip;is
-      to disrupt&hellip;the ease and forthrightness
-      of the poetry's meaning at this point,
-      to slow down the reading process
-      and to require our closer attention.
-      Dissonance thus enters the poetry's message"<?php
-        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121; Dobbs-Allsopp (2023), p.240.');
-      ?>
-      at precisely the solitary point where hope is expressed.
-      The syntax of this new version attempts to reflect this.
-      Similarly, the intensely ordered form of the triple acrostic in the man's outward speech
-      is strikingly at odds with the ambiguity riddling his interior response.<?php
-        Footnote('Hens-Piazza (2017), p.40.');
-      ?>
-    </p>
-
-    <p>
-      Several commentators see in the first few verses a sort of "anti-psalm"
-      to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
-        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41; Berman (2023), p.97.');
-      ?>
-      <span class="noprint">
-        (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
-      </span>
-    </p>
-
-    <div class="widthclear"></div>
-
     <div class="panel">
       <div class="poem poem__hebverse draft">
 
@@ -543,6 +409,140 @@
       </div><!-- "poem" -->
 
     </div><!-- "panel" -->
+
+    <p>
+      Lamentations 3 takes the acrostic nature of these poems a step further than the others.
+      Not only do we have the twenty-two stanzas
+      corresponding to the Hebrew alphabet,
+      but each stanza itself has three lines sharing that same initial letter.
+    </p>
+
+    <p>
+      In contrast to the first and second poems which are voiced by Daughter Zion
+      and reflect a woman's perspective of the effects of war and siege,
+      this poem is strongly masculine in perspective.
+      Indeed its opening words would be best translated as "I am the man",
+      from the male-specific Hebrew <em>geber</em>.<?php
+        Footnote('Contrast the Hebrew <em>adam</em> which, rather like the English word "man",
+          is not only the male "Adam" in the Gen.2 Adam and Eve creation story,
+          but can sometimes be read in gender-inclusive manner
+          as in the "mankind/<em>adam</em>&hellip;male and female [God] created them"
+          in the preceding Gen.1 creation story.');
+      ?>
+      This recurs in verses 27, 35 and 39.<?php Footnote('Middlemas (2021), p.45.'); ?>
+    </p>
+
+    <p>
+      Structurally, while the acrostic tends to produce its own grouping
+      <em>within</em> acrostic boundaries,
+      observe how particular thoughts may have their own
+      counter-grouping cutting <em>across</em> these boundaries.
+      An early, clear example is at 12&ndash;13 where the bow-and-arrow
+      crosses the D/E acrostic boundary.
+      This "enjambment" of ideas and images across the alphabetic boundaries
+      is a counterweight to the formal structuring of the acrostic,
+      and this keeps the poem moving forwards.<?php Footnote('Berlin (2004), p.85.'); ?>
+      See also 3&ndash;4, 15&ndash;16, 42&ndash;44, 45&ndash;47 and 48&ndash;51.
+      A similar change of thought happens between 58 and 59 within the 'W' stanza.
+    </p>
+
+    <p>
+      And it is <em>within</em> a single verse, at 42,
+      that perhaps the most abrupt change of direction happens.
+      Just when the poet is on the brink of regaining his confidence,
+      the vision of fragile hope is shattered and evaporates:
+      "<em>But you did not forgive</em>".
+      Like a thunderbolt from a clear blue sky,
+      scything through the verse
+      and cutting apart the established Deuteronomic pattern of "we repent; God will forgive":
+      "<em>But you did not forgive</em>".<?php
+        Footnote('Respectively: Dobbs-Allsopp (1997), p.48; Hens-Piazza (2017), p.52. Also O\'Connor (2002), p.53.');
+      ?>
+      This may be the most disturbing idea in the chapter, and in the entire book.<?php
+        Footnote('Berlin (2004), p.96.');
+      ?>
+    </p>
+
+    <!-- panel -->
+    <div class="sidebar__right--width-45pc">
+      <div class="panel">
+        <div class="panel__head">
+          Voices
+        </div>
+
+        <p>
+          Like the earlier two poems, this may also be seen as being in two primary "voices":
+          an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.123. But Hens-Piazza (2017), p.39 sees just one voice throughout.'); ?>
+          Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
+          That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
+            Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
+          ?>
+        </p>
+
+        <p>
+          But is the solo speaker of 52&ndash;66 necessarily the <em>geber</em> of the opening?
+          The content is quite different.
+          There is a long rabbinic tradition of construing the speaker here as "Bat-Ami":
+          a representative of the city, although not Daughter Zion herself.<?php
+            Footnote('Berman (2023), pp.114&ndash;116.');
+          ?>
+        </p>
+
+      </div><!-- "panel" -->
+    </div><!-- "sidebar" -->
+    <!-- panel -->
+
+    <p>
+      There are many,
+      especially in my own tradition,
+      the protestant regions of the western Christian faith,
+      who magnify and exalt the hopeful passage of 3:22&ndash;39,
+      even to the point of hermetically isolating it from the stark images of the rest of the poems;
+      we tend to attach notions such as "central", "focus" and "highlight"
+      to verses in this small passage in this third chapter.
+      But it seems useful, verging on essential,
+      to recognise that this
+      "grand statement of hope stands at the centre of the work as a whole
+      <em>but not as the focal point</em> [emphasis mine]
+      because it exists in tension
+      with the portraits of human suffering&hellip;in
+      the more negative images of the material."<?php Footnote('Middlemas (2004), p.94.'); ?>
+      So if we really want a retain the notion of a single point of highlight,
+      then we should instead look to the fifth, final chapter as most important,
+      whose communal voice, singly expressed, plays a vital role.<?php Footnote('Kang &amp; Venter (2009), p.2.'); ?>
+    </p>
+
+    <p>
+      As if to support this,
+      "there are a number of places in 3:25&ndash;39
+      where the [Hebrew] syntax is convoluted and even problematic.&hellip;
+      One effect&hellip;is
+      to disrupt&hellip;the ease and forthrightness
+      of the poetry's meaning at this point,
+      to slow down the reading process
+      and to require our closer attention.
+      Dissonance thus enters the poetry's message"<?php
+        Footnote('Dobbs-Allsopp (2012), pp.120&ndash;121; Dobbs-Allsopp (2023), p.240.');
+      ?>
+      at precisely the solitary point where hope is expressed.
+      The syntax of this new version attempts to reflect this.
+      Similarly, the intensely ordered form of the triple acrostic in the man's outward speech
+      is strikingly at odds with the ambiguity riddling his interior response.<?php
+        Footnote('Hens-Piazza (2017), p.40.');
+      ?>
+    </p>
+
+    <p>
+      Several commentators see in the first few verses a sort of "anti-psalm"
+      to the well-known Psalm&nbsp;23, "The <span class="yhwh">Lord</span> is my shepherd".<?php
+        Footnote('Van Hecke (2002); Berlin (2004), p.86 n.4; Hens-Piazza (2017), p.41; Berman (2023), p.97.');
+      ?>
+      <span class="noprint">
+        (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
+      </span>
+    </p>
+
+    <hr>
 
     <div class="footnotes">
       <?php

@@ -20,3 +20,11 @@
       </ul>
     </div><!-- noprint -->
   </nav>
+
+  <p>
+    <!--
+      Empty paragraph for spacing.
+      Should really be CSS on the above menu itself.
+    -->
+    &nbsp;
+  </p>
