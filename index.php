@@ -210,6 +210,11 @@
     ?>
     </p>
 
+    <p>
+      Modern translation, it may be argued, gives insufficient credit to the biblical poet
+      for subtleties and intricacies in their artistic creation.<?php Footnote('Freedman (1977), p.12.') ?>
+    </p>
+
     <h3>Qinah&hellip;</h3>
 
     <p>
