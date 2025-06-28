@@ -109,6 +109,9 @@
           Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <?php DOI("10.1515/zatw.2001.003"); ?>
         </li>
         <li>
+          Freedman, David Noel (1977), <a href="https://www.jstor.org/stable/3265324" target="_blank"><cite>Pottery, Poetry, and Prophecy: An Essay on Biblical Poetry</cite></a>, Journal of Biblical Literature, Vol. 96, No. 1 (March, 1977), pp.5&ndash;26, <?php DOI("10.2307/3265324"); ?>
+        </li>
+        <li>
           Fullerton&nbsp;Strollo, Megan (2017), <cite>The value of the relationship: An intertextual reading of Song of Songs and Lamentations</cite>, Review and Expositor, 114(2) pp.190&ndash;202, <?php DOI("10.1177/0034637317705836"); ?>
         </li>
         <li>
