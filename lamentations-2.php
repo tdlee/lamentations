@@ -52,7 +52,7 @@
               <div class="indent2">Daughter Zion;</div>
               <div class="indent1">flung down from the heavens to earth<?php Footnote($fn_earth); ?></div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">the honour of Israel;</div>
-              <div class="indent1">put out of mind his footstool<?php Footnote($fn_footstool); ?></div>
+              <div class="indent1">blanked from his mind his footstool<?php Footnote($fn_footstool); ?></div>
               <div class="indent2">in the day of his anger;</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -469,7 +469,7 @@
           <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
           <div class="indent1">&mdash;beclouded&hellip;</div>
           <div class="indent1">&mdash;flung down&hellip;</div>
-          <div class="indent1">&mdash;put out of mind&hellip;</div>
+          <div class="indent1">&mdash;blanked from his mind&hellip;</div>
           <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
           <div class="indent1">&mdash;razed in fury&hellip;</div>
           <div class="indent0">My Lord has:</div>
