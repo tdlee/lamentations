@@ -212,7 +212,7 @@
                 $fn_square='At 2:11, 2:12 and 4:18 the term "square" is expressed with slightly different variants in the Hebrew. See Goldingay (2022), p.104, note \'c\'.';
               ?>
               <div class="indent0 acrostic-line">Lamenting, my weeping eyes fail;</div>
-              <div class="indent2">my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?></div><!-- 1:20, 2:11: same -->
+              <div class="indent2">my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20. Linafelt (2000), p.52.'); ?></div><!-- 1:20, 2:11: same -->
               <div class="indent1">my liver-bile pours to the earth<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?></div><!-- 2:4,11,12,19: same verb --><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">at my Daughter People's ravaging,<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               <div class="indent1">as infants and children expire</div>
