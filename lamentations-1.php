@@ -241,8 +241,8 @@
               <div class="indent2">all over her treasures;</div>
               <div class="indent1">pagan nations she sees</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
-              <div class="indent1">those you forbade to enter</div>
-              <div class="indent2">your assembly.</div>
+              <div class="indent1">those you commanded against</div><!-- 10,17: "commanded [and negation]": common verb -->
+              <div class="indent2">entering your assembly.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -336,10 +336,13 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+              <?php
+                $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
+              ?>
             <div class="poem__versespeaker">Narrator:</div>
-              <div class="indent0 acrostic-line">Taut spreads out Zion her hands,</div><!-- "spread": 1:10, 1:13, 1:17 -->
+	    <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
-              <div class="indent1">the <span class="yhwh">Lord</span> has summoned against Jacob</div><!-- verb: 15,19: match; 17:different -->
+              <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
               <div class="indent1">Jerusalem has become among them</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
