@@ -92,7 +92,7 @@
       followed by a sweeping panorama of three initial candidates on display:
       prophets (14), passers-by (15) and even human enemies (16).
       Finally there is a fourth candidate, God himself.
-      But he, already identified as "enemy" (5), "has done what he planned,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php
+      But he, already identified as "enemy" (5), "has done what he schemed,&nbsp;/&nbsp;fulfilled his threat&nbsp;(17)."<?php
         Footnote('See Dobbs-Allsopp (2012), pp.97&ndash;98; O\'Connor (2002), pp.40&ndash;41.');
       ?>
     </p>
@@ -383,7 +383,7 @@
         &emsp;&emsp;&emsp;2:8: "Hell-bent [determined] was the <span class="yhwh">Lord</span> on destroying"
       </li>
       <li>
-        &emsp;&emsp;&emsp;2:17: "The <span class="yhwh">Lord</span> has done what he planned [determined]&hellip;to destroy without pity"
+        &emsp;&emsp;&emsp;2:17: "The <span class="yhwh">Lord</span> has done what he schemed [determined]&hellip;to destroy without pity"
       </li>
       <li>
         &emsp;&emsp;2:17: "exalted your foes' horn"

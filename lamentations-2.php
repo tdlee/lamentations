@@ -307,8 +307,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+              <?php
+                $fn='For "schemed", see Goldingay (2022), pp.111&ndash;112. See also Jeremiah 4:28.';
+              ?>
               <!-- parts quoted in "staging" -->
-              <div class="indent0 acrostic-line">The <span class="yhwh">Lord</span> has done what he planned,</div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
+              <div class="indent0 acrostic-line">The <span class="yhwh">Lord</span> has done what he schemed,<?php Footnote($fn) ?></div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               <div class="indent2">has fulfilled his threat</div>
               <div class="indent1">decreed from days of old,</div>
               <div class="indent2">to destroy without pity;</div><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
