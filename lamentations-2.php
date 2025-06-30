@@ -216,7 +216,7 @@
               <div class="indent1">my liver-bile pours to the earth<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?></div><!-- 2:4,11,12,19: same verb --><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">at my Daughter People's ravaging,<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               <div class="indent1">as infants and children expire</div>
-	      <div class="indent2">in the town squares.<?php Footnote($fn_square); ?></div><!-- 2:11,2:12,4:18: "[x] squares": three minor variants -->
+              <div class="indent2">in the town squares.<?php Footnote($fn_square); ?></div><!-- 2:11,2:12,4:18: "[x] squares": three minor variants -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
