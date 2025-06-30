@@ -523,7 +523,7 @@
           <a href="https://english.umd.edu/directory/adele-berlin" target="_blank">Adele Berlin</a>,
           <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>
           and <a href="https://teol.ku.dk/english/dept/abe/staff/?pure=en/persons/693264" target="_blank">Jill Middlemas</a>
-          for their enthusiasm for this project
+          for their appreciation and supportive comments of this project
         </li>
       </ul>
 
