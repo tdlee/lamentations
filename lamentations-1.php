@@ -108,8 +108,8 @@
             <div class="indent2">tears wet her cheeks.</div>
             <div class="indent1">None there is to comfort her</div>
             <div class="indent2">from all who love her;<?php Footnote($fn); ?></div>
-            <div class="indent1">her friends all have betrayed her:</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her" -->
-            <div class="indent2">become her foes.</div><!-- enemy/foe -->
+            <div class="indent1">her friends all have betrayed her;</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her", and also into the "have become..." on the next line. -->
+            <div class="indent2">have become her foes.</div><!-- enemy/foe --><!-- "have...": see comment on previous line -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
