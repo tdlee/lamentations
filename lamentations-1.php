@@ -340,7 +340,7 @@
                 $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
               ?>
             <div class="poem__versespeaker">Narrator:</div>
-	    <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
+            <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
