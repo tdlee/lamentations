@@ -137,7 +137,7 @@
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
               <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
-              <div class="indent1">her young women <!-- grieve; --> wail;</div>
+              <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -504,7 +504,6 @@
 
 <!-- Further notes:
 v3. lodges is too temporary; need permanence
-v4. wailing/grieving; needs sense of "something has been done to me"
 -->
 
   <?php
