@@ -441,7 +441,13 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-narrator recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
+      Observe that this first poem is in two "voices":
+      a witness-narrator recites most of 1&ndash;11<i>b</i>;
+      the city herself recites most of 11<i>c</i>&ndash;22.
+      The two speeches, of similar length,
+      provide two viewpoints on Daughter Zion's suffering:
+      one observed; one experienced.<?php Footnote('Hens-Piazza (2017), p.3.'); ?>
+      In each, though, the voice of the other occasionally appears, indeed, interrupts:
     </p>
     <ul>
       <li>
