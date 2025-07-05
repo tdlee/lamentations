@@ -257,14 +257,14 @@
           <div class="poem__verseref">14</div>
           <div class="poem__versetext">
               <?php
-                $fn='This striking translation courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
+                $fn='Word-pairing courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
               ?>
-              <div class="indent0 acrostic-line">Prophets provided you phantasms&mdash;</div><!-- 2:9,14: "vision"/"phantasm"; different words -->
-              <div class="indent2">whitewashed illusion.<?php Footnote($fn); ?></div><!-- 14a,c: same "illusion" -->
-              <div class="indent1">They did not lay bare your guilt</div><!-- 2:14; 4:22: "lay bare" commonality -->
+              <div class="indent0 acrostic-line">Prophets conjured for you phantasms:</div><!-- 2:9,14: "vision"/"phantasm"; different words --><!-- 14a,c: same "conjure" -->
+              <div class="indent2">illusion and whitewash;<?php Footnote($fn); ?></div><!-- 14a,c: same "illusion" -->
+              <div class="indent1">did not lay bare your guilt</div><!-- 2:14; 4:22: "lay bare" commonality -->
               <div class="indent2">to restore your fortunes;</div>
-              <div class="indent1">they saw for you only oracles</div>
-              <div class="indent2">of illusion and deceit.</div><!-- 14a,c: same "illusion" -->
+              <div class="indent1">conjured mere imaginings:</div><!-- 14a,c: same "conjure" -->
+              <div class="indent2">illusion and deceit.</div><!-- 14a,c: same "illusion" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
