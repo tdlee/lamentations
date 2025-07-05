@@ -210,6 +210,11 @@
     ?>
     </p>
 
+    <p>
+      Modern translation, it may be argued, gives insufficient credit to the biblical poet
+      for subtleties and intricacies in their artistic creation.<?php Footnote('Freedman (1977), p.12.') ?>
+    </p>
+
     <h3>Qinah&hellip;</h3>
 
     <p>
@@ -518,7 +523,7 @@
           <a href="https://english.umd.edu/directory/adele-berlin" target="_blank">Adele Berlin</a>,
           <a href="https://www.fuller.edu/faculty/john-goldingay/" target="_blank">John Goldingay</a>
           and <a href="https://teol.ku.dk/english/dept/abe/staff/?pure=en/persons/693264" target="_blank">Jill Middlemas</a>
-          for their enthusiasm for this project
+          for their appreciation and supportive comments of this project
         </li>
       </ul>
 

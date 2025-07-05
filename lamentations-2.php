@@ -52,7 +52,7 @@
               <div class="indent2">Daughter Zion;</div>
               <div class="indent1">flung down from the heavens to earth<?php Footnote($fn_earth); ?></div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">the honour of Israel;</div>
-              <div class="indent1">put out of mind his footstool<?php Footnote($fn_footstool); ?></div>
+              <div class="indent1">blanked from his mind his footstool<?php Footnote($fn_footstool); ?></div>
               <div class="indent2">in the day of his anger;</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -212,11 +212,11 @@
                 $fn_square='At 2:11, 2:12 and 4:18 the term "square" is expressed with slightly different variants in the Hebrew. See Goldingay (2022), p.104, note \'c\'.';
               ?>
               <div class="indent0 acrostic-line">Lamenting, my weeping eyes fail;</div>
-              <div class="indent2">my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20.'); ?></div><!-- 1:20, 2:11: same -->
+              <div class="indent2">my stomach churns;<?php Footnote('The same phrase that Daughter Zion used at 1:20. Linafelt (2000), p.52.'); ?></div><!-- 1:20, 2:11: same -->
               <div class="indent1">my liver-bile pours to the earth<?php Footnote('This vivid translation courtesy of Berlin (2004), p.63.'); ?></div><!-- 2:4,11,12,19: same verb --><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">at my Daughter People's ravaging,<?php Footnote($fn); ?></div><!-- this half-line is common to 2:11, 3:48 and 4:10 --><!-- quoted in "reading" -->
               <div class="indent1">as infants and children expire</div>
-	      <div class="indent2">in the town squares.<?php Footnote($fn_square); ?></div><!-- 2:11,2:12,4:18: "[x] squares": three minor variants -->
+              <div class="indent2">in the town squares.<?php Footnote($fn_square); ?></div><!-- 2:11,2:12,4:18: "[x] squares": three minor variants -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -307,8 +307,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+              <?php
+                $fn='For "schemed", see Goldingay (2022), pp.111&ndash;112. See also Jeremiah 4:28.';
+              ?>
               <!-- parts quoted in "staging" -->
-              <div class="indent0 acrostic-line">The <span class="yhwh">Lord</span> has done what he planned,</div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
+              <div class="indent0 acrostic-line">The <span class="yhwh">Lord</span> has done what he schemed,<?php Footnote($fn) ?></div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               <div class="indent2">has fulfilled his threat</div>
               <div class="indent1">decreed from days of old,</div>
               <div class="indent2">to destroy without pity;</div><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->
@@ -469,7 +472,7 @@
           <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
           <div class="indent1">&mdash;beclouded&hellip;</div>
           <div class="indent1">&mdash;flung down&hellip;</div>
-          <div class="indent1">&mdash;put out of mind&hellip;</div>
+          <div class="indent1">&mdash;blanked from his mind&hellip;</div>
           <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
           <div class="indent1">&mdash;razed in fury&hellip;</div>
           <div class="indent0">My Lord has:</div>

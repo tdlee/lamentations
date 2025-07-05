@@ -237,12 +237,12 @@
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
             <div class="poem__versespeaker">Narrator:</div>
-              <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe -->
+              <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe --><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">all over her treasures;</div>
               <div class="indent1">pagan nations she sees</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
-              <div class="indent1">those you forbade to enter</div>
-              <div class="indent2">your assembly.</div>
+              <div class="indent1">those you commanded against</div><!-- 10,17: "commanded [and negation]": common verb -->
+              <div class="indent2">entering your assembly.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -279,7 +279,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Out from on high he hurled fire</div>
               <div class="indent2">down into my bones.</div>
-              <div class="indent1">He spread a net for my feet;</div>
+              <div class="indent1">He spread a net for my feet;</div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">recoiling me backwards.<?php Footnote('See footnote at v8.'); ?></div><!-- vv8,13: same root words "turn/back" -->
               <div class="indent1">He has made me desolate:</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">all day sickened.</div><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
@@ -336,10 +336,13 @@
         <div class="poem__verse">
           <div class="poem__verseref">17</div>
           <div class="poem__versetext">
+              <?php
+                $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
+              ?>
             <div class="poem__versespeaker">Narrator:</div>
-              <div class="indent0 acrostic-line">Taut-stretched, Zion's hands reach out,</div>
+	    <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
-              <div class="indent1">the <span class="yhwh">Lord</span> has summoned against Jacob</div><!-- verb: 15,19: match; 17:different -->
+              <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
               <div class="indent1">Jerusalem has become among them</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
