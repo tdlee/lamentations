@@ -66,10 +66,10 @@
           once GREAT with PEO-ple;
 
       SHE, once GREAT among NA-tions,
-          now ab-AN-doned, WI-dowed;
+          now WI-dowed, ab-AN-doned;
 
       SHE, once PRIN-cess among PRO-vinces,
-          now CHAINED, en-SLAVED."
+          now SUB-jugated, en-SLAVED."
 >
             <div class="poem__versespeaker">Narrator:</div>
               <?php
@@ -90,9 +90,9 @@
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               <div class="indent2">once great with people;</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
-              <div class="indent2">now abandoned, widowed;</div>
+              <div class="indent2">now widowed, abandoned;</div>
               <div class="indent1">she, once princess among provinces,</div>
-              <div class="indent2">now chained, enslaved.</div>
+              <div class="indent2">now subjugated, enslaved.</div>
 </div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
