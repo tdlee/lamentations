@@ -502,10 +502,6 @@
 
   </div><!-- content-area -->
 
-<!-- Further notes:
-v3. lodges is too temporary; need permanence
--->
-
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/bodyfooter.php');
   ?>
