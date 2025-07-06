@@ -358,7 +358,7 @@
 
     <ul>
       <li>
-        1:1: "great with people"/"great among the nations"
+        1:1: "great with people"/"great among nations"
       </li>
       <li>
         1:22: "great are my groans"
