@@ -164,7 +164,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Fled from Daughter Zion</div>
               <div class="indent2">is all her splendour.</div>
-              <div class="indent1">Her leaders now wander like deer&mdash;</div>
+              <div class="indent1">Her leaders wander like deer&mdash;</div>
               <div class="indent2">they find no pasture;</div>
               <div class="indent1">they run, all strength spent,</div>
               <div class="indent2">pursued by the hunter.</div>
