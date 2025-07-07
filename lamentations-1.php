@@ -120,7 +120,7 @@
               <?php
                 $fn='The Hebrew "straits" (or "narrows") resonates strongly with their word for "Egypt"; Berlin (2004) p.51; Goldingay (2022) p.54 note \'e\'. This prompts a powerful reminder of their ancestral enslavement there. On that occasion, her pursuers famously did <em>not</em> overtake her, being destroyed at Moses\' parting of the sea. But on this occasion there is no such deliverance.';
               ?>
-              <div class="indent0 acrostic-line">Cast out into exile by force</div>
+              <div class="indent0 acrostic-line">Cast into exile by force</div>
               <div class="indent2">is Judah to hard labour.</div>
               <div class="indent1">She <!-- sit/dwell/lie as 1:1 --> sits among the nations</div><!-- quoted in "notes" -->
               <div class="indent2">but finds no repose.</div>
