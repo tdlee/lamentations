@@ -29,7 +29,7 @@
     ?>
 
     <p>
-      Reminder: the 3&ndash;2 <i>qinah</i> rhythm is vitally important to recitation and reading.
+      Reminder: the 3&ndash;2 <i>qinah</i> rhythm is key to recitation and reading.
       <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
       </span>
