@@ -66,10 +66,10 @@
           once GREAT with PEO-ple;
 
       SHE, once GREAT among NA-tions,
-          be-COME as a WI-dow;
+          be-COME now WI-dow;
 
       SHE, once PRIN-cess among PRO-vinces,
-          be-COME a VAS-sal."
+          be-COME now DRUDGE."
 >
             <div class="poem__versespeaker">Narrator:</div>
               <?php
@@ -90,9 +90,9 @@
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               <div class="indent2">once great with people;</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
-              <div class="indent2">become as a widow;</div>
+              <div class="indent2">become now widow;</div>
               <div class="indent1">she, once princess among provinces,</div>
-              <div class="indent2">become a vassal.</div>
+              <div class="indent2">become now drudge.</div>
 </div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
