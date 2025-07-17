@@ -122,7 +122,7 @@
               ?>
               <div class="indent0 acrostic-line">Cast into exile by force</div>
               <div class="indent2">is Judah to hard labour.</div>
-              <div class="indent1">She <!-- sit/dwell/lie as 1:1 --> sits among the nations</div><!-- quoted in "notes" -->
+              <div class="indent1">Among the nations she <!-- sit/dwell/lie as 1:1 --> sits</div><!-- quoted in "notes" -->
               <div class="indent2">but finds no repose.</div>
               <div class="indent1">All who pursue her overtake her:</div>
               <div class="indent2">dire her straits.<?php Footnote($fn); ?></div><!-- mentioned in "notes" -->
