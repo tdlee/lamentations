@@ -29,7 +29,7 @@
     ?>
 
     <p>
-      Reminder: the 3&ndash;2 <i>qinah</i> rhythm is vitally important to recitation and reading.
+      Reminder: the 3&ndash;2 <i>qinah</i> rhythm is key to recitation and reading.
       <span class="noprint">
         For an example, hover the mouse over the opening "Alas!&nbsp;&hellip;" verse.
       </span>
@@ -66,10 +66,10 @@
           once GREAT with PEO-ple;
 
       SHE, once GREAT among NA-tions,
-          now ab-AN-doned, WI-dowed;
+          be-COME now WI-dow;
 
       SHE, once PRIN-cess among PRO-vinces,
-          now CHAINED, en-SLAVED."
+          be-COME now DRUDGE."
 >
             <div class="poem__versespeaker">Narrator:</div>
               <?php
@@ -90,9 +90,9 @@
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               <div class="indent2">once great with people;</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
-              <div class="indent2">now abandoned, widowed;</div>
+              <div class="indent2">become now widow;</div>
               <div class="indent1">she, once princess among provinces,</div>
-              <div class="indent2">now chained, enslaved.</div>
+              <div class="indent2">become now drudge.</div>
 </div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -108,8 +108,8 @@
             <div class="indent2">tears wet her cheeks.</div>
             <div class="indent1">None there is to comfort her</div>
             <div class="indent2">from all who love her;<?php Footnote($fn); ?></div>
-            <div class="indent1">her friends all have betrayed her:</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her" -->
-            <div class="indent2">become her foes.</div><!-- enemy/foe -->
+            <div class="indent1">her friends all have betrayed her;</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her", and also into the "have become..." on the next line. -->
+            <div class="indent2">have become her foes.</div><!-- enemy/foe --><!-- "have...": see comment on previous line -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -120,9 +120,9 @@
               <?php
                 $fn='The Hebrew "straits" (or "narrows") resonates strongly with their word for "Egypt"; Berlin (2004) p.51; Goldingay (2022) p.54 note \'e\'. This prompts a powerful reminder of their ancestral enslavement there. On that occasion, her pursuers famously did <em>not</em> overtake her, being destroyed at Moses\' parting of the sea. But on this occasion there is no such deliverance.';
               ?>
-              <div class="indent0 acrostic-line">Cast out into exile by force</div>
+              <div class="indent0 acrostic-line">Cast into exile by force</div>
               <div class="indent2">is Judah to hard labour.</div>
-              <div class="indent1">She <!-- sit/dwell/lie as 1:1 --> sits among the nations</div><!-- quoted in "notes" -->
+              <div class="indent1">Among the nations she <!-- sit/dwell/lie as 1:1 --> sits</div><!-- quoted in "notes" -->
               <div class="indent2">but finds no repose.</div>
               <div class="indent1">All who pursue her overtake her:</div>
               <div class="indent2">dire her straits.<?php Footnote($fn); ?></div><!-- mentioned in "notes" -->
@@ -137,7 +137,7 @@
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
               <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
-              <div class="indent1">her young women <!-- grieve; --> wail;</div>
+              <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -164,7 +164,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Fled from Daughter Zion</div>
               <div class="indent2">is all her splendour.</div>
-              <div class="indent1">Her leaders now wander like deer&mdash;</div>
+              <div class="indent1">Her leaders wander like deer&mdash;</div>
               <div class="indent2">they find no pasture;</div>
               <div class="indent1">they run, all strength spent,</div>
               <div class="indent2">pursued by the hunter.</div>
@@ -340,7 +340,7 @@
                 $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
               ?>
             <div class="poem__versespeaker">Narrator:</div>
-	    <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
+            <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
@@ -441,7 +441,13 @@
     </p>
 
     <p>
-      Observe that this first poem is in two "voices": a witness-narrator recites most of 1&ndash;11<i>b</i>; the city herself recites most of 11<i>c</i>&ndash;22.  In each, though, the voice of the other occasionally appears, indeed, interrupts:
+      Observe that this first poem is in two "voices":
+      a witness-narrator recites most of 1&ndash;11<i>b</i>;
+      the city herself recites most of 11<i>c</i>&ndash;22.
+      The two speeches, of similar length,
+      provide two viewpoints on Daughter Zion's suffering:
+      one observed; one experienced.<?php Footnote('Hens-Piazza (2017), p.3.'); ?>
+      In each, though, the voice of the other occasionally appears, indeed, interrupts:
     </p>
     <ul>
       <li>
@@ -495,11 +501,6 @@
     </div><!-- "footnotes" -->
 
   </div><!-- content-area -->
-
-<!-- Further notes:
-v3. lodges is too temporary; need permanence
-v4. wailing/grieving; needs sense of "something has been done to me"
--->
 
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/bodyfooter.php');
