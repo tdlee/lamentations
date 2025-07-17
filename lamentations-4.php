@@ -77,7 +77,7 @@
           <div class="poem__verseref">3</div>
           <div class="poem__versetext">
             <?php
-              $fn='A folk tradition, then familiar but now forgotten, about ostriches abandoning their hatchlings.  Contrast the first half of this verse.  (See also Job 39.)';
+              $fn='A folk tradition, then familiar but now forgotten, about ostriches abandoning their hatchlings.  Contrast the first half of this verse.  (See also Job 39:13&ndash;16.)';
             ?>
               <div class="indent0 acrostic-line">Cubs even of jackals</div>
               <div class="indent2">are breast-fed nursed,</div>
