@@ -135,7 +135,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Devoid of all pilgrims to her assemblies,</div><!-- match v4:assemblies with v15:assembly -->
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
-              <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent1">desolate are all her gateways,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
               <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
@@ -281,7 +281,7 @@
               <div class="indent2">down into my bones.</div>
               <div class="indent1">He spread a net for my feet;</div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">recoiling me backwards.<?php Footnote('See footnote at v8.'); ?></div><!-- vv8,13: same root words "turn/back" -->
-              <div class="indent1">He has made me desolate:</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent1">Desolate has he made me:</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">all day sickened.</div><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -327,7 +327,7 @@
               <div class="indent2">my eyes weep for these things;</div>
               <div class="indent1">far distant one who might comfort me,<?php Footnote($fn); ?></div>
               <div class="indent2">who might salvage my soul.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
-              <div class="indent1">My children all are desolate;</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent1">Desolate are all my children;</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">the foe has prevailed.</div><!-- enemy/foe -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
