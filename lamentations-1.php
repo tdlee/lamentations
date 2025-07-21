@@ -166,7 +166,7 @@
               <div class="indent2">is all her splendour.</div>
               <div class="indent1">Her leaders wander like deer&mdash;</div>
               <div class="indent2">they find no pasture;</div>
-              <div class="indent1">they run, all strength spent,</div>
+              <div class="indent1">they run to exhaustion</div>
               <div class="indent2">pursued by the hunter.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
