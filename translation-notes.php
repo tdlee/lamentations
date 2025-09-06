@@ -519,7 +519,7 @@
       Yet this seemingly simple form of wording, in Hebrew <em>bat Tzion</em>,
       is notoriously difficult to translate across
       from Ancient Near East cultures into modern Western cultures.
-      Many older translations had opted for "Daughter&nbsp;<em>of</em> X".
+      Many older translations had opted for "[the] Daughter&nbsp;<em>of</em> X".
     </p>
 
     <p>
@@ -545,8 +545,9 @@
 
     <p>
       A few examples.
-      The NIV has "Daughter X" (upper-case 'D');
-      the NABBRE and NIV (also Provan (2016), p.41) have "daughter X" (lower-case 'd');
+      The NABBRE has "daughter X" (lower-case 'd');
+      the NIV had "the Daughter of X" (upper-case 'D') in early editions,
+      later changing to "Daughter X";
       Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
       Hens-Piazza (2017) writes about "Woman Zion";
       Goldingay (2022) has "Ms.&nbsp;Zion" (Miss/Mistress);
