@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 
-  <title>ServiceMusic: Lamentations: translation notes</title>
+  <title>ServiceMusic: Lamentations: Translation notes</title>
 
   <meta name="description" content="An acrostic and 'qinah' rendering of Lamentations">
   <meta name="keywords" content="lamentations, scripture, rendering, translation, paraphrase, acrostic, qinah, Hebrew, poem, poetry">
@@ -22,7 +22,7 @@
 
   <div class="content-area">
 
-    <h1>Lamentations: translation notes</h1>
+    <h1>Lamentations: Translation notes</h1>
 
     <?php
       include('chapter-links.php');
