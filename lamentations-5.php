@@ -201,8 +201,8 @@
       Even, it would appear, the toehold of sanity provided by those features has evaporated.
       The very attempt to impose structure upon the chaos is under threat;
       structure and content conspire together
-      to provide the book with a very unsettling ending.<?php
-        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75.');
+      to provide the book with a very unsettling ending of extreme reservation.<?php
+        Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75; Brueggemann (2018), p.62.');
       ?>
     </p>
     <p>
