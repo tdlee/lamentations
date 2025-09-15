@@ -103,6 +103,9 @@
           Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
         </li>
         <li>
+          Brueggemann, Walter (2018), <cite>The Prophetic Imagination: 40th Anniversary Edition</cite>, Fortress Press, <?php ISBN("978-1-5064-4930-2"); ?>
+        </li>
+        <li>
           Dobbs-Allsopp, F.W. (2001<em>a</em>), <cite>The Enjambing Line in Lamentations: A Taxonomy (Part 1)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.219&ndash;239, <?php DOI("10.1515/zatw.113.2.219"); ?>
         </li>
         <li>
