@@ -89,7 +89,7 @@
         </p>
         <p>
           In preparing this version of Lamentations,
-          I have very consciously attempted to avoid imposing
+          I have consciously attempted to avoid imposing
           any Christian colouration over the text.
         </p>
         <p>
@@ -113,7 +113,7 @@
     <p>
       Hebrew poetry tends not to do rhyme.
       To add rhyme here, despite its prevalence in English poetry and hymnody,
-      would gain very little, and would force far more constraint than is necessary.
+      would gain almost nothing, and would force far more constraint than is necessary.
       Accordingly this version makes no attempt at rhyme.
       Indeed, on a couple of occasions,
       the drafting process accidentally produced rhyme;
@@ -585,7 +585,7 @@
       The very first line "[Alas!] Alone she sits:&hellip;" ignites a translational ambiguity in vocabulary.
       The original verb may be legitimately represented as 'sit', 'abide', 'lodge', 'reside' or 'lie'.
       But no single English verb naturally embraces this range.
-      From the very start of this version, I had opted for "Alone she lies"
+      Right from the start of this version, I had opted for "Alone she lies"
       (a) reasoning (with hindsight, weakly) that in English
       we tend to think of a city as "lying" rather than "sitting" in a landscape
       and (b) liking the alone/lies alliteration.
@@ -672,7 +672,7 @@
     </li>
 
     <li>
-      At 4:16 very few English translations capture this verse's use of "face" in the Hebrew.
+      At 4:16 almost no English translations capture this verse's use of "face" in the Hebrew.
       Even fewer capture its double use.
       <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>
       and the <a href="https://biblehub.com/lsv/lamentations/4.htm" target="_blank">Literal Standard Version</a>

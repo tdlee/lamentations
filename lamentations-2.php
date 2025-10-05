@@ -450,7 +450,7 @@
     <p>
       In the Hebrew text, over 80% of this poem's verses,
       1&ndash;11 and 15&ndash;21, start with verbs.<?php
-        Footnote('This includes even the very opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
+        Footnote('This includes the opening itself if, as the rhythm suggests, the opening "Alas!" is treated as an outlying anacrusis.')
       ?>
       And additionally, within those verses,
       many of their internal couplets are similarly verb-fronted.

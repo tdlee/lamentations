@@ -217,7 +217,7 @@
 
     <p>
       Throughout the Dobbs-Allsopp (2012) commentary
-      there are some very useful thoughts about not only characters
+      there are some most useful thoughts about not only characters
       and possible motivations and thoughts, but also groups.
       For example:
     </p>
