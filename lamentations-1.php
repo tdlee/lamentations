@@ -61,7 +61,7 @@
           <div class="poem__versetext">
 <div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
 
-  alas!
+  a-LAS!
       a-LONE she SITS: the CI-ty
           once GREAT with PEO-ple;
 
