@@ -294,7 +294,7 @@
                 $fn1='This is the only occurrence of this verb in the entire Bible, so any translation is conjectural.';
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
-              <div class="indent0 acrostic-line">Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;</div><!-- 5,14,22: same word "transgressions" -->
+              <div class="indent0 acrostic-line">Packed<?php Footnote($fn1); ?> in a yoke are my transgressions;</div><!-- 5,14,22: same word "transgressions" -->
               <div class="indent2">twisted tight by his hand,</div><!-- "twisted tight" alliteration (also preceded by "transgressions" -->
               <div class="indent1">mounted upon my neck,</div>
               <div class="indent2">sapping my strength.</div>
