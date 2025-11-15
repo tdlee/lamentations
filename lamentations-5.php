@@ -299,6 +299,8 @@
       The ending of the book is, then, a willful <em>non</em>ending."<?php
         Footnote('Linafelt (2001), p.343.');
       ?>
+      And the anguished questions at the end only make sense
+      if the covenant yet remains in place.<?php Footnote('Parry (2011), p.81.'); ?>
     </p>
 
     <h2>Inner-biblical contrasts</h2>
