@@ -61,7 +61,7 @@
           <div class="poem__versetext">
 <div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
 
-  alas!
+  a-LAS!
       a-LONE she SITS: the CI-ty
           once GREAT with PEO-ple;
 
@@ -294,7 +294,7 @@
                 $fn1='This is the only occurrence of this verb in the entire Bible, so any translation is conjectural.';
                 $fn2='Original wording is something like "Delivers my Lord [to] hands [I am] not able to withstand". Expressing that within 3&ndash;2 <i>qinah</i> is tricky; even more so when trying to keep the resonance of the "his hand" earlier in the verse.';
               ?>
-              <div class="indent0 acrostic-line">Packed<?php Footnote($fn1); ?> into a yoke are my transgressions;</div><!-- 5,14,22: same word "transgressions" -->
+              <div class="indent0 acrostic-line">Packed<?php Footnote($fn1); ?> in a yoke are my transgressions;</div><!-- 5,14,22: same word "transgressions" -->
               <div class="indent2">twisted tight by his hand,</div><!-- "twisted tight" alliteration (also preceded by "transgressions" -->
               <div class="indent1">mounted upon my neck,</div>
               <div class="indent2">sapping my strength.</div>
@@ -340,7 +340,7 @@
                 $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
               ?>
             <div class="poem__versespeaker">Narrator:</div>
-            <div class="indent0 acrostic-line">Taut spreads out Zion her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
+            <div class="indent0 acrostic-line">Tautly Zion spreads out her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
