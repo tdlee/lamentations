@@ -259,7 +259,7 @@
               <div class="indent2">to salvage their souls.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent1">"Look, O <span class="yhwh">Lord</span>, and notice&mdash;</div><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              <div class="indent2">how I am despised."</div><!-- "how": vv9,11 -->
+              <div class="indent2">how despised I've become."</div><!-- "how": vv9,11 --><!-- "become": sense of transistion into this state -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
