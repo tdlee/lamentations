@@ -152,6 +152,23 @@
       where there is reasonable agreement that its rhythm is mostly non-<i>qinah</i>, generally 3&ndash;3.<? Footnote('Berlin (2004), p.117; Goldingay (2022), p.190.'); ?>
     </p>
 
+    <p>
+      But there is another consideration.
+      Recitation.
+      In English poetry, each "foot" comprises a stressed syllable
+      accompanied by usually one weak syllable (iamb; trochee) or two (dactyl).<?php
+        Footnote('iamb: weak-<u>strong</u>, e.g. "A<u>maz</u>ing <u>grace!</u> how <u>sweet</u> the <u>sound</u>"; trochee: <u>strong</u>-weak, e.g. "<u>Love</u> di<u>vine</u>, all <u>loves</u> ex<u>cell</u>ing"; dactyl: <u>strong</u>-weak-weak, e.g. "<u>Be</u> thou my <u>vi</u>sion, O <u>Lord</u> of my <u>heart</u>".');
+      ?>
+      Only occasionally does an English foot contain a third weak syllable;
+      and when this does happen there is a subtle temptation strengthen the
+      middle syllable of those three.
+      But English words often have more syllables than Hebrew words.
+      Translating a line
+      while simultaneously aiming to maintain the 3&ndash;2 <i>qinah</i> stress count
+      can easily head towards such an undesirable run of three weak syllables (occasionally even more).
+      Where possible efforts are taken to avoid this.
+    </p>
+
     <h2>Acrostic challenges</h2>
 
     <p>
