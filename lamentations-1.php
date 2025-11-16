@@ -197,7 +197,7 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
               <?php
-                $fn_soiled='The Hebrew is unclear and anomalous,
+                $fn_soiled='The Hebrew is unclear and ambiguous,
                   with three possibilities of meaning and interpretation:
                   "mockery", "wanderer" and "menstruant",
                   the last supported by its similarity to (although not sameness as)
