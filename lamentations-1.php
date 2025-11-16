@@ -197,7 +197,7 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
               <?php
-                $fn_soiled='The Hebrew is unclear and anomalous,
+                $fn_soiled='The Hebrew is unclear and ambiguous,
                   with three possibilities of meaning and interpretation:
                   "mockery", "wanderer" and "menstruant",
                   the last supported by its similarity to (although not sameness as)
@@ -237,12 +237,15 @@
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
             <div class="poem__versespeaker">Narrator:</div>
+              <?php
+                $fn='A prohibition from Deut.23:2&ndash;6 near-quoted back at God. Parry (2011), p.71.';
+              ?>
               <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe --><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">all over her treasures;</div>
               <div class="indent1">pagan nations she sees</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
-              <div class="indent1">those you commanded against</div><!-- 10,17: "commanded [and negation]": common verb -->
-              <div class="indent2">entering your assembly.</div>
+              <div class="indent1">against your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
+	      <div class="indent2">to your assembly."<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -256,7 +259,7 @@
               <div class="indent2">to salvage their souls.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent1">"Look, O <span class="yhwh">Lord</span>, and notice&mdash;</div><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              <div class="indent2">how I am despised."</div><!-- "how": vv9,11 -->
+              <div class="indent2">how despised I've become."</div><!-- "how": vv9,11 --><!-- "become": sense of transistion into this state -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 

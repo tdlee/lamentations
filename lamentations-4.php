@@ -310,12 +310,13 @@
           <div class="poem__versetext">
             <div class="poem__versespeaker">Community:</div>
             <?php
+              $fn_pointless='This "pointless" translation courtesy of Parry (2011), p.85.';
               $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
               <div class="indent0 acrostic-line">Tired out eyes scan, exhausted,</div>
-              <div class="indent2">for help, but in vain;</div>
-              <div class="indent1">From our watchtowers we watched for a nation,<?php Footnote($fn); ?></div>
-              <div class="indent2">but that cannot deliver.</div>
+              <div class="indent2">for help&mdash;pointless.<?php Footnote($fn_pointless); ?></div><!-- "pointless" from Parry (2011), p.85. -->
+              <div class="indent1">From our watchtowers we watched for a nation<?php Footnote($fn); ?></div>
+              <div class="indent2">that cannot deliver.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -355,7 +356,7 @@
             ?>
               <div class="indent0 acrostic-line">Wedged in their traps was our life-breath,</div>
               <div class="indent2">the <span class="yhwh">Lord</span>'s own anointed,<?php Footnote($fn_anointed); ?></div>
-              <div class="indent1">of whom we had believed "in his shade</div>
+              <div class="indent1">of whom we'd believed "in his shade</div>
               <div class="indent2">we will dwell among nations."</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
