@@ -135,7 +135,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Devoid of all pilgrims to her assemblies,</div><!-- match v4:assemblies with v15:assembly -->
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
-              <div class="indent1">desolate are all her gateways,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
               <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
