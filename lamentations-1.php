@@ -385,8 +385,8 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Wretched am I, <span class="yhwh">Lord</span>; look!</div><!-- referenced in notes (for notice/look) -->
               <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same -->
-              <div class="indent1">my heart turns over within me:</div>
-              <div class="indent2">defiantly I had defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
+              <div class="indent1">my heart within me turns over:</div>
+              <div class="indent2">defiantly had I defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               <div class="indent1">Outdoors, the sword bereaves;</div>
               <div class="indent2">indoors, very death.</div>
           </div><!-- poem__versetext -->
