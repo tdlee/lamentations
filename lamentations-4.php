@@ -356,7 +356,7 @@
             ?>
               <div class="indent0 acrostic-line">Wedged in their traps was our life-breath,</div>
               <div class="indent2">the <span class="yhwh">Lord</span>'s own anointed,<?php Footnote($fn_anointed); ?></div>
-              <div class="indent1">of whom we had believed "in his shade</div>
+              <div class="indent1">of whom we'd believed "in his shade</div>
               <div class="indent2">we will dwell among nations."</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
