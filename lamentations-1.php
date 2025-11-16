@@ -187,7 +187,7 @@
               <div class="indent2">in her days of downfall.</div><!-- 1:7,9, 3:19: "downfall" -->
               <div class="indent1">When her people fell to enemy hand,</div><!-- enemy/foe -->
               <div class="indent2">there was none to help.</div>
-              <div class="indent1">Her enemies look on and mock</div>
+              <div class="indent1">Her enemies look on, mocking</div>
               <div class="indent2">her fallen state.<?php Footnote($fn2); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
