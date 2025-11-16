@@ -347,7 +347,7 @@
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
-              <div class="indent1">Jerusalem has become among them</div>
+              <div class="indent1">Jerusalem has become in their midst</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
