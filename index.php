@@ -154,10 +154,17 @@
     And we then, subconsciously, expect scripture to conform and behave
     in accordance with our pre-formed expectation of our "meaning".
     </p>
+
     <p>
     But <em>this</em> version aims to <em>demand</em> us
     leap up and perform it aloud.
     Indeed, in their origins, these poems were embedded within a deeply performative oral environment.<?php Footnote('Dobbs-Allsopp (2023), p.237.'); ?>
+    Further, these Jewish origins and subsequent <a href="https://en.wikipedia.org/wiki/Reception_history" target="_blank">reception histories</a>
+    "consider Lamentations in the light
+    of the very concrete afflictions of the Jewish <em>community</em>
+    through history and they warn us against the tendency to privatise the
+    significance of the book."<?php Footnote('Parry (2011), p.66; emphasis by author.'); ?>
+    Lamentations, to the core of its being, is not private but is public and performative.
     </p>
 
     <p>
