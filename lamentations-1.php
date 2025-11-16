@@ -403,7 +403,7 @@
               <div class="indent0 acrostic-line">Yearnings of anguish they heard:</div>
               <div class="indent2">none brings me comfort.<?php Footnote($fn1); ?></div>
               <div class="indent1">My foes all heard my malignant<?php Footnote($fn2); ?> state,</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
-              <div class="indent2">rejoicing that you caused it.</div>
+              <div class="indent2">rejoiced that you caused it.</div>
               <div class="indent1">Oh, bring on the day you called forth&mdash;</div><!-- verb: 15,19,21: match; 17:different -->
               <div class="indent2">let them be as me!</div>
           </div><!-- poem__versetext -->
