@@ -133,7 +133,7 @@
               <div class="indent2">he destroyed his own meeting place.</div>
               <div class="indent1">The <span class="yhwh">Lord</span> wiped from memory in Zion</div><!-- "memory" has some resonance with "mind" in chap.1 -->
               <div class="indent2">both feast-day and sabbath,</div>
-              <div class="indent1">and spurned in angered rage</div>
+              <div class="indent1">spurning in angered rage</div>
               <div class="indent2">both king and priest.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
