@@ -153,8 +153,8 @@
               <div class="indent2">her foes prosper,</div><!-- enemy/foe -->
               <div class="indent1">since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?></div><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               <div class="indent2">for her many transgressions.</div><!-- 5,14,22: same word "transgressions" -->
-              <div class="indent1">Her youngsters are driven to exile,</div>
-              <div class="indent2">captive before the enemy.</div><!-- enemy/foe --><!-- vv.5,18: common "captive" root word -->
+              <div class="indent1">Her youngsters are exiled, captive</div><!-- vv.5,18: common "captive" root word -->
+              <div class="indent2">before the enemy.</div><!-- enemy/foe -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
