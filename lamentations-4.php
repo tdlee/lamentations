@@ -314,7 +314,7 @@
               $fn='The identity of the nation which could not or would not help is unknown. One possibility is Edom. This would connect with its condemnation a few verses ahead. Berlin (2004), pp.112&ndash;113; Provan (2016), p.121.';
             ?>
               <div class="indent0 acrostic-line">Tired out eyes scan, exhausted,</div>
-              <div class="indent2">for help&mdash;pointless!<?php Footnote($fn_pointless); ?></div><!-- "pointless" from Parry (2011), p.85. -->
+              <div class="indent2">for help&mdash;pointless.<?php Footnote($fn_pointless); ?></div><!-- "pointless" from Parry (2011), p.85. -->
               <div class="indent1">From our watchtowers we watched for a nation<?php Footnote($fn); ?></div>
               <div class="indent2">that cannot deliver.</div>
           </div><!-- poem__versetext -->
