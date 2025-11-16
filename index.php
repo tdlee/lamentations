@@ -464,7 +464,10 @@
       whether devotional or as biblical study.
       Nor does it attempt to provide
       any systematic historical or theological background for the book
-      (which, in short, was of utter devastation and catastrophe for the Jewish people around 587/586 BCE: the destruction of their homeland and temple, and their forced exile to Babylon).
+      (which, in short, was of utter devastation and catastrophe
+      for the Jewish people around 587/586 BCE:
+      the destruction of their homeland and temple,
+      and the forced exile to Babylon of the higher echelons of the population).
       For these purposes many excellent commentaries already exist
       and several are listed in the <a href="bibliography.php">Bibliography</a>.
     </p>
