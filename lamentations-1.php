@@ -238,7 +238,7 @@
           <div class="poem__versetext">
             <div class="poem__versespeaker">Narrator:</div>
               <?php
-                $fn='A prohibition from Deut.23:2&ndash;6 near-quoted back at God. Parry (2011), p.71.';
+                $fn='A prohibition from Deut.23:2&ndash;6 near-quoted back at God. Parry (2011a), p.71.';
               ?>
               <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe --><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">all over her treasures;</div>

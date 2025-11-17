@@ -163,7 +163,7 @@
     "consider Lamentations in the light
     of the very concrete afflictions of the Jewish <em>community</em>
     through history and they warn us against the tendency to privatise the
-    significance of the book."<?php Footnote('Parry (2011), p.66; emphasis by author.'); ?>
+    significance of the book."<?php Footnote('Parry (2011a), p.66; emphasis by author.'); ?>
     Lamentations, to the core of its being, is not private but is public and performative.
     </p>
 
