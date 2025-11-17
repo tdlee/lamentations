@@ -203,7 +203,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">11</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Meted out in full is the <span class="yhwh">Lord</span>'s anger,</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
+              <div class="indent0 acrostic-line">Meted out fully is the <span class="yhwh">Lord</span>'s anger,</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
               <div class="indent2">his fury disgorged;</div><!-- disgorged: 4:1, 4:11, 4:13 --><!-- 2:4; 4:11/2: "fury" -->
               <div class="indent1">He has kindled a firestorm in Zion</div><!-- "firestorm": see translation notes -->
               <div class="indent2">that consumed her foundations.</div>
