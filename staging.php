@@ -189,6 +189,24 @@
       </li>
     </ul>
 
+    <h3>Lighting</h3>
+
+    <p>
+      From the Middle Ages onwards in the Western Church
+      the Divine Office of Matins for Maundy Thursday, Good Friday and Holy Saturday
+      (otherwise known as Tenebrae, meaning "shadows")
+      took place before dawn.
+      It included substantial readings from Lamentations,
+      interspersed with other passages.
+      In these days before electric lighting,
+      the gloom of the building,
+      which was initially illuminated by just fifteen candles,
+      was further deepened by progressively extinguishing fourteen of them
+      as these sacred texts were recited.<?php Footnote('Parry (2011b), p.181.'); ?>
+      A modern staging might do something similar,
+      either with the real lighting or at least symbolically.
+    </p>
+
     <h2>Characterisation and voicing</h2>
 
     <p>
