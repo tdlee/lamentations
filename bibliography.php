@@ -148,7 +148,14 @@
           Minkoff, Harvey (1997), <a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC: What acrostics in the Bible can demonstrate</cite></a>, Bible Review (April 1997), <a href="https://www.biblicalarchaeology.org/" target="_blank">Biblical Archaeology Society</a>
         </li>
         <li>
-          Parry, Robin (2011), <a href="https://www.academia.edu/86566003/Lamentations_and_the_Poetic_Politics_of_Prayer" target="_blank"><cite>Lamentations and the Poetic Politics of Prayer</cite></a>, Tyndale Bulletin, 62(1), pp.65-88, <?php DOI("10.53751/001C.29306"); ?>
+          Parry, Robin (2011a), <a href="https://www.academia.edu/86566003/Lamentations_and_the_Poetic_Politics_of_Prayer" target="_blank"><cite>Lamentations and the Poetic Politics of Prayer</cite></a>, Tyndale Bulletin, 62(1), pp.65-88, <?php DOI("10.53751/001C.29306"); ?>
+        </li>
+        <li>
+	  Parry, Robin (2011b), <a href="https://www.academia.edu/8286170/_Wrestling_with_Lamentations_in_Christian_Worship_" target="_blank"><cite>Wrestling with Lamentations in Christian Worship</cite></a>,
+            in "Great is Thy Faithfulness? Toward Reading Lamentations as Sacred Scripture",
+            edited by Robin Parry and Heath A. Thomas,
+            Paternoster, pp.175&ndash;197,
+            <?php ISBN("978-1610974530") ?>
         </li>
         <li>
           van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
