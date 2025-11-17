@@ -187,9 +187,6 @@
       <li>
         4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
       </li>
-      <li>
-        <em>(t.b.c.)</em>
-      </li>
     </ul>
 
     <h2>Characterisation and voicing</h2>
@@ -270,9 +267,6 @@
       voicing these verses from <em>within</em> the audience.
     </li>
 
-    <li>
-      <em>(t.b.c.)</em>
-    </li>
     </ul>
 
     <p>
@@ -484,9 +478,6 @@
         stage gesture can indicate the more accusatory edge.
       </li>
 
-      <li>
-        <em>(t.b.c.)</em>
-      </li>
     </ul>
 
     <h2>A forerunner</h2>
