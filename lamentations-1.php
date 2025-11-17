@@ -133,7 +133,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Devoid of all pilgrims to her assemblies,</div><!-- match v4:assemblies with v15:assembly -->
+              <div class="indent0 acrostic-line">Devoid of all pilgrims to her gatherings,</div><!-- match v4,15:gathering[s] -->
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
               <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
@@ -245,7 +245,7 @@
               <div class="indent1">pagan nations she sees</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
               <div class="indent1">against your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
-	      <div class="indent2">to your assembly."<?php Footnote($fn); ?></div>
+              <div class="indent2">to your community."<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -312,7 +312,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Rejected are all my own warriors</div>
               <div class="indent2">by my Lord in my midst;</div>
-              <div class="indent1">he called an assembly against me</div><!-- verb: 15,19,21: match; 17:different --><!-- match v4:assemblies with v15:assembly -->
+              <div class="indent1">he called a gathering against me</div><!-- verb: 15,19,21: match; 17:different --><!-- match v4,15:gathering[s] -->
               <div class="indent2">to crush my young men.</div>
               <div class="indent1">In a winepress my Lord has trodden</div>
               <div class="indent2">virgin Daughter Judah.</div>
