@@ -133,7 +133,7 @@
               <div class="indent2">he destroyed his own meeting place.</div>
               <div class="indent1">The <span class="yhwh">Lord</span> wiped from memory in Zion</div><!-- "memory" has some resonance with "mind" in chap.1 -->
               <div class="indent2">both feast-day and sabbath,</div>
-              <div class="indent1">and spurned in angered rage</div>
+              <div class="indent1">spurning in angered rage</div>
               <div class="indent2">both king and priest.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -160,7 +160,7 @@
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Hell-bent was the <span class="yhwh">Lord</span> on destroying</div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
-              <div class="indent2">the wall of Daughter Zion;</div><!-- 2:8,18: same -->
+              <div class="indent2">Daughter Zion's wall;</div><!-- 2:8,18: same -->
               <div class="indent1">out-stretching his tape-measure; not staying</div>
               <div class="indent2">his hand from devouring;</div><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               <div class="indent1">making mourn both wall and rampart,</div>
@@ -325,7 +325,7 @@
           <div class="poem__verseref">18</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Unload your heart-cries to our Lord,</div><!-- The "Unload" acrostic word isn't great. But it beats the earlier "Unto our Lord let your heart cry" --><!-- 2:17 "cry"; 2:18 "wail": different -->
-              <div class="indent2">wall of Daughter Zion.</div><!-- 2:8,18: same -->
+              <div class="indent2">Daughter Zion's wall.</div><!-- 2:8,18: same -->
               <div class="indent1">Shed tears like a torrent</div>
               <div class="indent2">all day, all night;</div>
               <div class="indent1">give yourself no relief,</div>

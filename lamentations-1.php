@@ -135,7 +135,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Devoid of all pilgrims to her assemblies,</div><!-- match v4:assemblies with v15:assembly -->
               <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
-              <div class="indent1">desolate are all her gateways,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
               <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
@@ -153,8 +153,8 @@
               <div class="indent2">her foes prosper,</div><!-- enemy/foe -->
               <div class="indent1">since the <span class="yhwh">Lord</span> has afflicted her<?php Footnote($fn); ?></div><!-- vv.5,12: afflicted/inflicted (would ideally be the same) -->
               <div class="indent2">for her many transgressions.</div><!-- 5,14,22: same word "transgressions" -->
-              <div class="indent1">Her youngsters are driven to exile,</div>
-              <div class="indent2">captive before the enemy.</div><!-- enemy/foe --><!-- vv.5,18: common "captive" root word -->
+              <div class="indent1">Her youngsters are exiled, captive</div><!-- vv.5,18: common "captive" root word -->
+              <div class="indent2">before the enemy.</div><!-- enemy/foe -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -187,7 +187,7 @@
               <div class="indent2">in her days of downfall.</div><!-- 1:7,9, 3:19: "downfall" -->
               <div class="indent1">When her people fell to enemy hand,</div><!-- enemy/foe -->
               <div class="indent2">there was none to help.</div>
-              <div class="indent1">Her enemies look on and mock</div>
+              <div class="indent1">Her enemies look on, mocking</div>
               <div class="indent2">her fallen state.<?php Footnote($fn2); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -347,7 +347,7 @@
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his enemies to encircle;</div>
-              <div class="indent1">Jerusalem has become among them</div>
+              <div class="indent1">Jerusalem has become in their midst</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -385,8 +385,8 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Wretched am I, <span class="yhwh">Lord</span>; look!</div><!-- referenced in notes (for notice/look) -->
               <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same -->
-              <div class="indent1">my heart turns over within me:</div>
-              <div class="indent2">defiantly I had defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
+              <div class="indent1">my heart within me turns over:</div>
+              <div class="indent2">defiantly had I defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
               <div class="indent1">Outdoors, the sword bereaves;</div>
               <div class="indent2">indoors, very death.</div>
           </div><!-- poem__versetext -->
@@ -403,7 +403,7 @@
               <div class="indent0 acrostic-line">Yearnings of anguish they heard:</div>
               <div class="indent2">none brings me comfort.<?php Footnote($fn1); ?></div>
               <div class="indent1">My foes all heard my malignant<?php Footnote($fn2); ?> state,</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
-              <div class="indent2">rejoicing that you caused it.</div>
+              <div class="indent2">rejoiced that you caused it.</div>
               <div class="indent1">Oh, bring on the day you called forth&mdash;</div><!-- verb: 15,19,21: match; 17:different -->
               <div class="indent2">let them be as me!</div>
           </div><!-- poem__versetext -->
