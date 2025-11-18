@@ -187,10 +187,25 @@
       <li>
         4:1&ndash;8: Marked use of colour, augmented by a counter-use of dullness.
       </li>
-      <li>
-        <em>(t.b.c.)</em>
-      </li>
     </ul>
+
+    <h3>Lighting</h3>
+
+    <p>
+      From the Middle Ages onwards in the Western Church
+      the Divine Office of Matins for Maundy Thursday, Good Friday and Holy Saturday
+      (otherwise known as Tenebrae, meaning "shadows")
+      took place before dawn.
+      It included substantial readings from Lamentations,
+      interspersed with other passages.
+      In these days before electric lighting,
+      the gloom of the building,
+      which was initially illuminated by just fifteen candles,
+      was further deepened by progressively extinguishing fourteen of them
+      as these sacred texts were recited.<?php Footnote('Parry (2011b), p.181.'); ?>
+      A modern staging might do something similar,
+      either with the real lighting or at least symbolically.
+    </p>
 
     <h2>Characterisation and voicing</h2>
 
@@ -270,9 +285,6 @@
       voicing these verses from <em>within</em> the audience.
     </li>
 
-    <li>
-      <em>(t.b.c.)</em>
-    </li>
     </ul>
 
     <p>
@@ -484,9 +496,6 @@
         stage gesture can indicate the more accusatory edge.
       </li>
 
-      <li>
-        <em>(t.b.c.)</em>
-      </li>
     </ul>
 
     <h2>A forerunner</h2>

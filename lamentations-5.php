@@ -159,7 +159,7 @@
           <div class="poem__versetext">
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
                 <div class="indent0 acrostic-line">And you, <span class="yhwh">Lord</span>, sit enthroned,</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
-                <div class="indent1">generation upon generation eterna<span class="acrostic-letter">l</span>;</div>
+                <div class="indent1">generation on generation eterna<span class="acrostic-letter">l</span>;</div>
                 <div class="indent0 acrostic-line">Long years, why always ignore us?</div><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->
                 <div class="indent1">Why for all time forsak<span class="acrostic-letter">e</span>?</div>
                 <div class="indent0 acrostic-line">Lead us back, <span class="yhwh">Lord</span>, renew days of old,</div><!-- 1:7, 5:21: "days of old" -->

@@ -462,6 +462,15 @@
     </ul>
 
     <p>
+      A contrast between the two voices can be seen.
+      "The narrator's speech is dominated by the overtones of death
+      even though Zion is not dead.
+      Zion, however, is a survivor
+      [speaking] a lament straining towards life,
+      and not a dirge looking back to death."<?php Footnote('Parry (2011b), p.177, footnote 7, itself referencing Linafelt (2000), pp.35&ndash;43.'); ?>
+    </p>
+
+    <p>
       Section 7&ndash;10 is clearly female-intimate
       and the language heaps up with innuendo.
       But it contains a deep and unsettling ambiguity
