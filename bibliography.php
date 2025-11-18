@@ -103,6 +103,9 @@
           Bergsma, John and Brant Pitre (2018), <cite>A Catholic Introduction to the Bible: The Old Testament</cite>, Ignatius Press, <?php ISBN("978-1-58617-722-5"); ?>
         </li>
         <li>
+          Boase, Elizabeth (2008), <a href="https://researchonline.nd.edu.au/theo_article/6/" target="_blank"><cite>The characterisation of God in Lamentations</cite></a>, Australian Biblical Review, 56, pp.32&ndash;44
+        </li>
+        <li>
           Brueggemann, Walter (2018), <cite>The Prophetic Imagination: 40th Anniversary Edition</cite>, Fortress Press, <?php ISBN("978-1-5064-4930-2"); ?>
         </li>
         <li>
