@@ -151,7 +151,7 @@
           Parry, Robin (2011a), <a href="https://www.academia.edu/86566003/Lamentations_and_the_Poetic_Politics_of_Prayer" target="_blank"><cite>Lamentations and the Poetic Politics of Prayer</cite></a>, Tyndale Bulletin, 62(1), pp.65-88, <?php DOI("10.53751/001C.29306"); ?>
         </li>
         <li>
-	  Parry, Robin (2011b), <a href="https://www.academia.edu/8286170/_Wrestling_with_Lamentations_in_Christian_Worship_" target="_blank"><cite>Wrestling with Lamentations in Christian Worship</cite></a>,
+          Parry, Robin (2011b), <a href="https://www.academia.edu/8286170/_Wrestling_with_Lamentations_in_Christian_Worship_" target="_blank"><cite>Wrestling with Lamentations in Christian Worship</cite></a>,
             in "Great is Thy Faithfulness? Toward Reading Lamentations as Sacred Scripture",
             edited by Robin Parry and Heath A. Thomas,
             Paternoster, pp.175&ndash;197,
