@@ -716,14 +716,17 @@
     <h2>Inclusive language</h2>
 
     <p>
-      Contemporary writing and translations rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
-      In general, this version adopts that principle.
+      Contemporary writing and biblical translation rightly veer towards inclusive language, such as preferring "humankind" for "mankind".
+      Indeed, for referencing humanity, this is also my approach in my own church hymnwriting and songwriting.
     </p>
 
     <p>
       Nevertheless, gender-specificity is a strong feature of some of the Lamentations poetry.
       The "Daughter Zion" and "Daughter Jerusalem" personalisation is integral to chapters 1 and 2.
       Similarly, the "strong man" characterisation recurs through chapter 3.
+      This is intentional gendering.<?php
+        Footnote('Boase (2008).');
+      ?>
       In these contexts, attempting to downplay these characteristics
       would seem not only pointless but even counter-productive.
       Accordingly this version maintains this distinction.
