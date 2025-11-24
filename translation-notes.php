@@ -442,7 +442,7 @@
       as the invading army of men is handling the places of her "treasures".<?php
         Footnote('This double meaning is also found in the somewhat earlier
           and culturally related Sumerian City Laments
-          with which Lamentations shares several characterstics.
+          with which Lamentations shares several characteristics.
           See Goldingay (2022), p.67.');
       ?>
       At 1:11, with a theme of famine,
@@ -562,7 +562,7 @@
 
     <p>
       A few examples.
-      The NABBRE has "daughter X" (lower-case 'd');
+      The NABRE has "daughter X" (lower-case 'd');
       the NIV had "the Daughter of X" (upper-case 'D') in early editions,
       later changing to "Daughter X";
       Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
