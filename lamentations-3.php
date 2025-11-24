@@ -463,35 +463,6 @@
       ?>
     </p>
 
-    <!-- panel -->
-    <div class="sidebar__right--width-45pc">
-      <div class="panel">
-        <div class="panel__head">
-          Voices
-        </div>
-
-        <p>
-          Like the earlier two poems, this may also be seen as being in two primary "voices":
-          an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.123. But Hens-Piazza (2017), p.39 sees just one voice throughout.'); ?>
-          Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
-          That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
-            Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
-          ?>
-        </p>
-
-        <p>
-          But is the solo speaker of 52&ndash;66 necessarily the <em>geber</em> of the opening?
-          The content is quite different.
-          There is a long rabbinic tradition of construing the speaker here as "Bat-Ami":
-          a representative of the city, although not Daughter Zion herself.<?php
-            Footnote('Berman (2023), pp.114&ndash;116.');
-          ?>
-        </p>
-
-      </div><!-- "panel" -->
-    </div><!-- "sidebar" -->
-    <!-- panel -->
-
     <p>
       There are many,
       especially in my own tradition,
@@ -540,6 +511,26 @@
       <span class="noprint">
         (Hover the mouse over verses 1&ndash;3 to see the text of the psalm.)
       </span>
+    </p>
+
+    <h2>Voices</h2>
+
+    <p>
+      Like the earlier two poems, this may also be seen as being in two primary "voices":
+      an individual <em>geber</em> (1&ndash;24 and 40&ndash;66) and a narrator (25&ndash;39).<?php Footnote('Goldingay (2022), p.123. But Hens-Piazza (2017), p.39 sees just one voice throughout.'); ?>
+      Or, using a slightly different break-point, 22&ndash;39 may be viewed as a "Wisdom" section, reflecting on the nature of God.<?php Footnote('Berlin (2004), p.92.'); ?>
+      That said, it might be noticed that the voice in 40&ndash;47 is in plural, communal form.<?php
+        Footnote('Goldingay (2022), p.150; Dobbs-Allsopp (1997), p.41.');
+      ?>
+    </p>
+
+    <p>
+      But is the solo speaker of 52&ndash;66 necessarily the <em>geber</em> of the opening?
+      The content is quite different.
+      There is a long rabbinic tradition of construing the speaker here as "Bat-Ami":
+      a representative of the city, although not Daughter Zion herself.<?php
+        Footnote('Berman (2023), pp.114&ndash;116.');
+      ?>
     </p>
 
     <hr>
