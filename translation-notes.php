@@ -562,7 +562,7 @@
 
     <p>
       A few examples.
-      The NABBRE has "daughter X" (lower-case 'd');
+      The NABRE has "daughter X" (lower-case 'd');
       the NIV had "the Daughter of X" (upper-case 'D') in early editions,
       later changing to "Daughter X";
       Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
