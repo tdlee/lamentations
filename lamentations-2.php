@@ -43,7 +43,7 @@
             <div class="poem__versespeaker">Narrator:</div>
               <?php
                 $fn_alas='See footnotes on 1:1.';
-                $fn_becloud='Meaning uncertain. This is the only occurence (a <i><!-- greek --><span lang="el">hapax legomenon</span></i>) of the verb in the Hebrew Bible. This choice follows its derivation from the noun "cloud", and resonance with "the day of the <span class="yhwh">Lord</span>\'s anger".  Other possibilities include "abhorred" and "humiliated". See Goldingay (2022), pp.90&ndash;91; Dobbs-Allsopp (2012), p.80; Berlin (2004), pp.66&ndash;68; Berman (2023), p.59.';
+                $fn_becloud='Meaning uncertain. This is the only occurrence (a <i><!-- greek --><span lang="el">hapax legomenon</span></i>) of the verb in the Hebrew Bible. This choice follows its derivation from the noun "cloud", and resonance with "the day of the <span class="yhwh">Lord</span>\'s anger".  Other possibilities include "abhorred" and "humiliated". See Goldingay (2022), pp.90&ndash;91; Dobbs-Allsopp (2012), p.80; Berlin (2004), pp.66&ndash;68; Berman (2023), p.59.';
                 $fn_earth='An "earth" thread runs throughout this chapter: vv.1,2,9,10,11,15,21. See also Dobbs-Allsopp (2012), p.93.';
                 $fn_footstool='Footstool: a metaphorical reference to Jerusalem, its temple or the ark within the temple. See Goldingay (2022), p.92; Provan (2016), pp.59&ndash;60.';
               ?>
@@ -173,7 +173,7 @@
           <div class="poem__verseref">9</div>
           <div class="poem__versetext">
               <?php
-                $fn='This line may well refer to the absence of religious law (in parallel to the secular goverance of the first line).';
+                $fn='This line may well refer to the absence of religious law (in parallel to the secular governance of the first line).';
               ?>
               <div class="indent0 acrostic-line">Ingested into earth sank her gates;</div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">her bars shattered, destroyed.</div>
