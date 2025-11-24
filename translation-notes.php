@@ -442,7 +442,7 @@
       as the invading army of men is handling the places of her "treasures".<?php
         Footnote('This double meaning is also found in the somewhat earlier
           and culturally related Sumerian City Laments
-          with which Lamentations shares several characterstics.
+          with which Lamentations shares several characteristics.
           See Goldingay (2022), p.67.');
       ?>
       At 1:11, with a theme of famine,
