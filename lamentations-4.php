@@ -112,7 +112,7 @@
           <div class="poem__verseref">5</div>
           <div class="poem__versetext">
             <?php
-              $fn='The purple of luxury.  If this Hebrew poem is then overlayed with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
+              $fn='The purple of luxury.  If this Hebrew poem is then overlaid with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
               $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet that places it prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), p.236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
             ?>
               <!--
@@ -189,7 +189,7 @@
           <div class="poem__verseref">10</div>
           <div class="poem__versetext">
               <?php
-                $fn_acrostic='The word for God\'s daily compassionate "mercies" from 3:22 here re-appears (adjectively) in a horrifyingly different guise; O\'Connor (2002), p.62; also Goldingay (2022), p.173. Our acrostic constraint requires use of a substitute word, which unfortunately loses that association.';
+                $fn_acrostic='The word for God\'s daily compassionate "mercies" from 3:22 here re-appears (adjectivally) in a horrifyingly different guise; O\'Connor (2002), p.62; also Goldingay (2022), p.173. Our acrostic constraint requires use of a substitute word, which unfortunately loses that association.';
                 $fn='The "Daughter People" half-line is the same at 2:11, 3:48 and 4:10.';
               ?>
               <div class="indent0 acrostic-line">Loving<?php Footnote($fn_acrostic); ?> women's own hands</div>

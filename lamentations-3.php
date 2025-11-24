@@ -285,7 +285,7 @@
           <div class="poem__verseref">43&ndash;45</div>
           <div class="poem__versetext">
               <?php
-                $fn='The Hebrew verb here often refers to the covering of the Ark of the Covenant: the immanent presence of God. It also alludes to the Exdous "pillar of cloud" and to Moses on Mt.&nbsp;Sinai. While those had beneficially signified the presence of God with his people, here God has erected a barrier against his own people. "Nowhere in Lamentations, and perhaps the entire Bible, is God\'s refusal to be present more strongly expressed." Berlin (2004) p.96.';
+                $fn='The Hebrew verb here often refers to the covering of the Ark of the Covenant: the immanent presence of God. It also alludes to the Exodus "pillar of cloud" and to Moses on Mt.&nbsp;Sinai. While those had beneficially signified the presence of God with his people, here God has erected a barrier against his own people. "Nowhere in Lamentations, and perhaps the entire Bible, is God\'s refusal to be present more strongly expressed." Berlin (2004) p.96.';
               ?>
               <div class="indent0 acrostic-line">Re-cloaked<?php Footnote($fn); ?> in anger, you pursued us;</div><!-- vv.43,44: same verb -->
               <div class="indent1">you slew us pitilessly;</div><!-- "pitiless": 2:2, 2:17, 2:21, 3.43 -->

@@ -252,7 +252,7 @@
     <h2>A conclusion refused</h2>
 
     <p>
-      Spolier alert: Lamentations does not end well.
+      Spoiler alert: Lamentations does not end well.
     </p>
 
     <p>
