@@ -138,9 +138,10 @@
     but you should pity me.
         </div><!-- "verse" -->
         <div class="panel__cite">
-            &mdash;William Shakespeare,
-            <a href="https://www.allgreatquotes.com/shakespeare-quotes-757/" target="_blank"><cite>Twelfth Night</cite></a>
-            <i>(adapted)</i>
+            &mdash;<a href="https://www.allgreatquotes.com/shakespeare-quotes-757/" target="_blank"><cite>Twelfth Night</cite></a>
+            <i>(adapted)</i>,
+            <br>
+            William Shakespeare
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
