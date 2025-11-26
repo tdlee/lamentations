@@ -420,7 +420,7 @@
     <h3>Linguistic styling</h3>
 
     <p>
-    In his magesterial translation of the Hebrew Bible,
+    In his magisterial translation of the Hebrew Bible,
     <a href="https://en.wikipedia.org/wiki/Robert_Alter" target="_blank">Robert Alter</a> notes:
 <i>"This [acrostic] form leads to even more syntactic inversions than is common in biblical Hebrew,
     with the object of the verb 'fronted' at the beginning of many lines,
