@@ -366,7 +366,7 @@
 
     <p>
       The 3:25&ndash;27 stanza also highlights an issue
-      masked by a quirk of the English lanuguage itself.
+      masked by a quirk of the English language itself.
       Its acrostic word, usually translated "good",
       is then repeated in comparative form as the acrostic word at 4:9
       which deems sword-impalement to be "better" (i.e. "more good").
