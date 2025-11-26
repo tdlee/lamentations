@@ -302,6 +302,10 @@
 
     <h3>&hellip;and acrostics</h3>
 
+    <p>
+    <i>Lamentations is poetry. Not prose.</i>
+    </p>
+
     <!-- panel -->
     <div class="sidebar__right--width-47pc">
       <div class="panel">
@@ -340,10 +344,6 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
-
-    <p>
-    <i>Lamentations is poetry. Not prose.</i>
-    </p>
 
     <p>
     Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The alphabetic-acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
