@@ -92,7 +92,7 @@
           <div class="poem__versetext">
               <?php
                 $fn1='The Lord\'s "right hand", usually defensive of his people, was not only retracted in v.3 but is now turned to attack against them both here and in v.8.  See also the "enemy hands" in v.7.';
-                $fn2='This overall line is shorter than the usual qinah 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
+                $fn2='This overall line is shorter than the usual <i>qinah</i> 3&ndash;2; Goldingay (2022), p.95, note \'d\'.';
                 $fn3='The city.  Contrast "bivouac", 6<em>a</em>, a different noun, which refers to the Temple.';
                 $fn4='A "pour" thread runs through the chapter at vv.4, 11, 12 and 19.  See also the "disgorge" thread in chapter&nbsp;4.';
               ?>
@@ -457,7 +457,7 @@
       In English this can be seen strikingly in
       <a href="https://www.biblegateway.com/passage/?search=lamentations+2&version=YLT" target="_blank">Young's Literal Translation</a>
       from the late nineteenth century.<?php
-        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, this poetry-led version attempts to retain this linguistic feature where possible.');
+        Footnote('Young\'s Literal Translation is able to do this reasonably accurately because, unlike this version, it is not constrained by attempting either <i>qinah</i> or alphabetic acrostics. That said, of course, our poetry-led version attempts to retain this linguistic feature where possible.');
       ?>
       This bombarding effect is counter
       to the English-language "subject then verb" convention.
