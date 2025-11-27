@@ -207,7 +207,7 @@
             <div class="poem__versetext">
                 <?php
                   $fn1='"Sit" is the same verb as 1:1&mdash;"Alone she sits". Goldingay (2022), p.143.';
-                  $fn2='Lines two and three of this stanza start with the same verb that can mean put, give or offer.';
+                  $fn2='Lines two and three of this stanza start with the same verb that can mean put, give or offer.  "Lend" gets close to this; it furthermore provides the desired acrostic.';
                 ?>
                 <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
                 <!-- couplet quoted in chapter intro -->
