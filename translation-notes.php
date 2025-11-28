@@ -549,7 +549,7 @@
       rather, all these concepts are wrapped together, and in relationship to God, as "Daughter X".
       Further, an attempt to retain "of" stretches to breaking point
       of unnecessary obscurity
-      in what would have to become "Daughter [of my] People" (2:11, 3:48, 4:3,6,10).
+      in what would have to become "Daughter of my People" (2:11, 3:48, 4:3,6,10).
     </p>
 
     <p>
