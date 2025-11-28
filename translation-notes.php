@@ -586,9 +586,8 @@
         Footnote('As a beneficial side-effect
           this short-form "Daughter X" can occasionally aid recitation
           where strong <i>qinah</i> beats are a scarce commodity.
-          While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" still normally uses two beats,
-          it can be eased into a single beat (e.g. "daughter Je<strong>ru</strong>salem")
-          if necessary.');
+          While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" would normally use two beats,
+          it can be eased into a single beat "daughter Je<strong>ru</strong>salem".');
       ?>
       In a couple of instances the pervasive challenge of the acrostic constraint
       have necessitated an inversion
