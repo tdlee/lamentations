@@ -190,7 +190,7 @@
             <div class="poem__verseref">25&ndash;27</div>
             <div class="poem__versetext">
                 <?php
-                  $fn='In this stanza, each line shares an opening Hebrew word meaning "good".';
+                  $fn='In this stanza, each line shares an opening Hebrew word meaning "good". It will recur, but in a very negative sense, at 4:9.  See translation notes.';
                 ?>
                 <div class="indent0 acrostic-line">Judicious<?php Footnote($fn); ?> is the <span class="yhwh">Lord</span> to his seekers,</div>
                 <div class="indent1">to the soul who quests for him;</div><!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
