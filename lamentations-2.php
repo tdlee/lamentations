@@ -161,7 +161,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Hell-bent was the <span class="yhwh">Lord</span> on destroying</div><!-- 2:8/2:17: quoted in "staging" for chap2 chiasm -->
               <div class="indent2">Daughter Zion's wall;</div><!-- 2:8,18: same -->
-              <div class="indent1">out-stretching his tape-measure; not staying</div>
+              <div class="indent1">outstretching his tape-measure; not staying</div>
               <div class="indent2">his hand from devouring;</div><!-- "devour" thread --><!-- "hand": vv. 3,4,7,8,(19) -->
               <div class="indent1">making mourn both wall and rampart,</div>
               <div class="indent2">which together collapse.</div>
