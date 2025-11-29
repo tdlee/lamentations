@@ -549,7 +549,7 @@
       rather, all these concepts are wrapped together, and in relationship to God, as "Daughter X".
       Further, an attempt to retain "of" stretches to breaking point
       of unnecessary obscurity
-      in what would have to become "Daughter [of my] People" (2:11, 3:48, 4:3,6,10).
+      in what would have to become "Daughter of my People" (2:11, 3:48, 4:3,6,10).
     </p>
 
     <p>
@@ -586,9 +586,8 @@
         Footnote('As a beneficial side-effect
           this short-form "Daughter X" can occasionally aid recitation
           where strong <i>qinah</i> beats are a scarce commodity.
-          While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" still normally uses two beats,
-          it can be eased into a single beat (e.g. "daughter Je<strong>ru</strong>salem")
-          if necessary.');
+          While "<strong>daugh</strong>ter Je<strong>ru</strong>salem" would normally use two beats,
+          it can be eased into a single beat "daughter Je<strong>ru</strong>salem".');
       ?>
       In a couple of instances the pervasive challenge of the acrostic constraint
       have necessitated an inversion

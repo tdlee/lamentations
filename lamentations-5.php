@@ -169,7 +169,7 @@
                   Other versions also have this as statement
                   (KJV: "<i>but thou hast&hellip;</i>"; NEB: "<i>but if thou hast&hellip;then indeed</i>").
                   The NIV has the more open "<i>unless you have&hellip;</i>".';
-                $fn2='This is an astonishingly grim ending; we do well to meditate on this closure.
+                $fn2='An astonishingly grim ending.  We do well to meditate on this closure.
                   Some Jewish traditions conventionally repeat v.21 ("<i>Lead us back&hellip; turn back to you</i>") as a coda.';
               ?>
                 <div class="indent0 acrostic-line">Indeed,<?php Footnote($fn); ?> you have discarded us:</div><!-- "discarded": 3:45; 5:22 -->

@@ -75,11 +75,12 @@
               <?php
                 $fn='"Alas!": Hebrew <i>ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
                 $fn2='Despite the importance of the overall 3&ndash;2 <i>qinah</i> metre,
-                  the opening "Alas!" is probably a preamble \'anacrusis\',
-                  external to that metre (i.e. 4&ndash;2).
+                  the opening line seems 4&ndash;2,
+                  and its initial "Alas!" is probably a preamble \'anacrusis\' external to that metre.
+                  See Goldingay (2022), p.49, note \'c\'.
                   This is probably also true of the "Alas!" of the second chapter
-                  although probably not of the fourth.  See Goldingay (2022), p.49, note \'c\'.
-                  So in these two chapters I have followed this, and also used an additional acrostic "A&hellip;" word following that "Alas!"';
+                  although probably not of the fourth.
+                  This version adopts that model. It additionally follows that "Alas" with a further acrostic "A&hellip;" word.';
                 $fn3='This verb "sit" runs as a thread through the book.
                   Here at the start it describes the city;
                   at almost the centre, 3:28, it describes a representative person;
@@ -118,7 +119,7 @@
           <div class="poem__verseref">3</div>
           <div class="poem__versetext">
               <?php
-                $fn='The Hebrew "straits" (or "narrows") resonates strongly with their word for "Egypt"; Berlin (2004) p.51; Goldingay (2022) p.54 note \'e\'. This prompts a powerful reminder of their ancestral enslavement there. On that occasion, her pursuers famously did <em>not</em> overtake her, being destroyed at Moses\' parting of the sea. But on this occasion there is no such deliverance.';
+                $fn='The Hebrew "straits" (or "narrows") resonates strongly with their word for "Egypt"; Berlin (2004) p.51; Goldingay (2022) p.54 note \'e\'. This prompts a powerful reminder of their ancestral enslavement there. On that occasion, her pursuers famously did <em>not</em> overtake her, instead being destroyed at Moses\' parting of the sea. But on this occasion there is no such deliverance.';
               ?>
               <div class="indent0 acrostic-line">Cast into exile by force</div>
               <div class="indent2">is Judah to hard labour.</div>
