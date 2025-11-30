@@ -165,7 +165,7 @@
 
     <p>
       The opening of chapter&nbsp;3 contrasts against Psalm&nbsp;23;
-      see the chapter introduction.
+      see the chapter notes.
       Perhaps the psalm text could be projected,
       then step-by-step erased as those verses progress.
       Or, for an ironic twist,
@@ -252,7 +252,7 @@
       Possibilities include: Jeremiah, a Job-like character,
       an "everyman", a nobleman of the city
       or the narrator of the first two chapters.
-      There are various other considerations: see the chapter introduction.
+      There are various other considerations: see the chapter's notes.
     </li>
 
     <li>
@@ -468,7 +468,7 @@
         Drama, of course, thrives on contrast and tension.
         At several points Lamentations pulls against other biblical passages,
         sometimes in seemingly deliberate opposition.
-        The introduction to chapter&nbsp;4 gives two examples;
+        The notes to chapter&nbsp;4 gives some examples;
         perhaps more subtle is that at the opening of chapter&nbsp;3.
         Can this be worked in?
         ("Your covenant promise with us was good <em>X</em>, but we are now in opposite state&nbsp;<em>Y</em>".)
