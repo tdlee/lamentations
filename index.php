@@ -474,8 +474,8 @@
     </p>
     <p>
       Instead, it has a relatively unique slant towards public liturgical recitation
-      and even staged performance.  (And, yes, it is perfectly possible
-      for recital and staged performance to be devotional, and deeply so.)
+      and even staged performance.  And, yes, it is perfectly possible
+      for recital and staged performance to be devotional, and deeply so.
       So the primary, although not exclusive, purpose of the introductions and footnotes
       is to provide background and ideas from the perspectives of
       recitation and stage production.
