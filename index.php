@@ -459,7 +459,7 @@
 
     <div class="widthclear"></div>
 
-    <h2>Why the chapter introductions and footnotes?</h2>
+    <h2>Why the chapter notes and footnotes?</h2>
     <p>
       This version makes no attempt to be a commentary,
       whether devotional or as biblical study.
@@ -476,7 +476,7 @@
       Instead, it has a relatively unique slant towards public liturgical recitation
       and even staged performance.  And, yes, it is perfectly possible
       for recital and staged performance to be devotional, and deeply so.
-      So the primary, although not exclusive, purpose of the introductions and footnotes
+      So the primary, although not exclusive, purpose of the notes and footnotes
       is to provide background and ideas from the perspectives of
       recitation and stage production.
     </p>
