@@ -137,7 +137,7 @@
           <div class="poem__verseref">16&ndash;18</div>
           <div class="poem__versetext">
             <?php
-              $fn1='The original carries a double meaning of not only "hope <em>in</em> the <span class="yhwh">Lord</span> has perished"  but also "hope <em>because of</em> the <span class="yhwh">Lord</span> has perished". See also Dobbs-Allsopp (2012), p.114.';
+              $fn1='The original carries a double meaning of not only "hope <em>in</em> the <span class="yhwh">Lord</span> has perished"  but also "hope has perished <em>because of</em> the <span class="yhwh">Lord</span>". Dobbs-Allsopp (2012), p.114.';
             ?>
               <!-- couplet quoted in chapter intro -->
               <div class="indent0 acrostic-line">Fracturing my teeth on gravel,</div>
