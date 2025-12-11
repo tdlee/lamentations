@@ -742,11 +742,11 @@
       rather like the English word "man",
       being sometimes generically human and sometimes male-specific.<?php
         Footnote('See, for example, the near-adjacent uses in Genesis.
-          Gen.1:27 is the generic
-          "God created <i>adam</i>:&hellip; male and female he created them".
-          Gen 2:7 is the male-specific
-          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground",
-          where the context prepares the way for the further creation of his female partner, Eve.');
+          In Gen.1:27 <i>adam</i> is the human-generic
+          "God created <i>adam</i>:&hellip; male and female he created them",
+          whereas in Gen.2:7 it is the male-specific
+          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground"
+          and in a context that prepares the way for the further creation of his female partner, Eve.');
       ?>
       Indeed, 3:39 uses both words.
       We translate <i>geber</i> as male-specific "man" (or similar)
