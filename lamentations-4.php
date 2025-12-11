@@ -113,7 +113,7 @@
           <div class="poem__versetext">
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlaid with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
-              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet that places it prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), pp.235&ndash;236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
+              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet it is here placed prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), pp.235&ndash;236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
             ?>
               <!--
                 The two parts of this verse follow the same structure.
