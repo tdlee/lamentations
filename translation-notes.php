@@ -195,7 +195,7 @@
 
     <p>
       The acrostic use of 'Z' for the final stanza of the first four poems
-      is an interesting challenge, as English has so few in regular use.
+      is an interesting challenge, as English has so few 'Z' words in regular use.
       The third poem in particular requires three;
       furthermore these should all be different, to reflect the Hebrew 'tav' words being different.
     </p>
