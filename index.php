@@ -29,6 +29,10 @@
     ?>
 
     <p>
+      Another new version of Lamentations?  Why?
+    </p>
+
+    <p>
       In brief: Alphabetic acrostics. And rhythmical <i>qinah</i>.
     </p>
 
