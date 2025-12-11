@@ -136,7 +136,7 @@
             ?>
               <div class="indent0 acrostic-line">Far greater my Daughter People's iniquity</div>
               <div class="indent2">than the outrage of Sodom,<?php Footnote($fn); ?></div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
-              <div class="indent1">which had been overthrown in an instant</div><!-- "overthrown": the "turn" verb from other chapters -->
+              <div class="indent1">that was overthrown in an instant</div><!-- "overthrown": the "turn" verb from other chapters -->
               <div class="indent2">with no hand on her laid.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
