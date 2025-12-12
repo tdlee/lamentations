@@ -221,7 +221,7 @@
       in other words how is casting approached?
       There is no clear consensus among the commentators.
       Clearly, in the first two chapters there are Daughter Zion and a narrator.
-      The third chapter adds the "strong man" (ch.&nbsp;3) as a third character.
+      The third chapter adds the "strong man" as a third character.
       Lanahan (1974) then suggests a further two voices (totalling five):
       a "bourgeois" (rather than the earlier narrator) for ch.4
       and a chorus for ch.5.
