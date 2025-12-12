@@ -159,7 +159,7 @@
       until well past the two-thirds point of the scene.
       And then?
       He immediately reverts to self-absorption,
-      "<em>my</em> enemies ensared <em>me</em>",
+      "<em>my</em> enemies ensnared <em>me</em>",
       and continues to ignore her.
       He has recited that central passage about hope&hellip;yet abandons her, hopeless.
     </p>
