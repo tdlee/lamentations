@@ -294,7 +294,7 @@
       Alternatively they may be viewed as more involved:
       Berman (2023) uses the term "pastoral mentor".
       The character in chapter&nbsp;4 may be seen as much more involved
-      <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii') ?>
+      <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii.') ?>
       So might they be envisaged as two different people?
       Between them, in chapter&nbsp;2, the narrator seems to undergo a change
       within the chapter itself.
@@ -475,7 +475,7 @@
       </li>
 
       <li>
-        Within its 22 verses, the first chapter may contain a dozen or so allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
+        Within its 22 verses, the first chapter may contain a dozen or so allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77.'); ?>
         That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
         But to a present-day western audience,
         while the event (Moses, "Red Sea", Exodus wanderings, etc.) might be known about, but as a relatively remote story,
