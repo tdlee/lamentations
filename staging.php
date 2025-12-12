@@ -31,7 +31,8 @@
     <p>
       Lamentations springs to life when its poetic form is appreciated and respected.
       Poetry is performance.
-      And this can include, perhaps especially so, staged readings or even theatrical production.
+      And this can include staged readings, theatrical production
+      and perhaps especially here with Lamentations a devotional worship setting.
       Indeed, in their origins, these poems were embedded within a deeply performative oral environment.<?php Footnote('Dobbs-Allsopp (2023), p.237.'); ?>
     </p>
 
