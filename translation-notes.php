@@ -479,7 +479,7 @@
 
     <p>
       Jewish custom avoids saying the Divine Name "YHWH",
-      instead saying the other word "Adonai".<?php
+      instead substituting the other word "Adonai".<?php
         Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
       This results in recitation using a single, common word to pronounce
