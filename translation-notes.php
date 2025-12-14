@@ -371,7 +371,7 @@
       is then repeated in comparative form as the acrostic word at 4:9
       which deems sword-impalement to be "better" (i.e. "more good").
       Had the English comparative of "good" been "gooder"
-      then the reader, indeed the worshipper, would be struck by something like:
+      then the reader, indeed the worshipper, may be struck by something like:
     </p>
 
     <div class="panel panel--width-35em">
