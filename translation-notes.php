@@ -376,15 +376,13 @@
 
     <div class="panel panel--width-35em">
       <div class="poem poem__hebverse">
-        <div class="poem__verseref">3:25</div>
+        <div class="poem__verseref">3:25&ndash;27</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good is the <span class="yhwh">Lord</span>&hellip;;</div>
         </div>
-        <div class="poem__verseref">3:26</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;</div>
         </div>
-        <div class="poem__verseref">3:27</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good for a man to bear a yoke in his youth.</div>
             <div class="indent0">&hellip;</div>
