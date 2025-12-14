@@ -393,7 +393,7 @@
       Footnote('O\'Connor (2002), p.13.');
     ?>
     In the case of the people of Lamentations, this was the totality of the destruction of their beloved Jerusalem;
-    the <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
+    the "A&nbsp;to&nbsp;Z" <span class="acrostic-letter">A</span>nnihilation of <span class="acrostic-letter">Z</span>ion.
     </p>
 
     <p>
