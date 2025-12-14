@@ -31,7 +31,8 @@
     <p>
       Lamentations springs to life when its poetic form is appreciated and respected.
       Poetry is performance.
-      And this can include, perhaps especially so, staged readings or even theatrical production.
+      And this can include staged readings, theatrical production
+      and perhaps especially here with Lamentations a devotional worship setting.
       Indeed, in their origins, these poems were embedded within a deeply performative oral environment.<?php Footnote('Dobbs-Allsopp (2023), p.237.'); ?>
     </p>
 
@@ -158,7 +159,7 @@
       until well past the two-thirds point of the scene.
       And then?
       He immediately reverts to self-absorption,
-      "<em>my</em> enemies ensared <em>me</em>",
+      "<em>my</em> enemies ensnared <em>me</em>",
       and continues to ignore her.
       He has recited that central passage about hope&hellip;yet abandons her, hopeless.
     </p>
@@ -220,7 +221,7 @@
       in other words how is casting approached?
       There is no clear consensus among the commentators.
       Clearly, in the first two chapters there are Daughter Zion and a narrator.
-      The third chapter adds the "strong man" (ch.&nbsp;3) as a third character.
+      The third chapter adds the "strong man" as a third character.
       Lanahan (1974) then suggests a further two voices (totalling five):
       a "bourgeois" (rather than the earlier narrator) for ch.4
       and a chorus for ch.5.
@@ -294,7 +295,7 @@
       Alternatively they may be viewed as more involved:
       Berman (2023) uses the term "pastoral mentor".
       The character in chapter&nbsp;4 may be seen as much more involved
-      <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii') ?>
+      <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii.') ?>
       So might they be envisaged as two different people?
       Between them, in chapter&nbsp;2, the narrator seems to undergo a change
       within the chapter itself.
@@ -475,7 +476,7 @@
       </li>
 
       <li>
-        Within its 22 verses, the first chapter may contain a dozen or so allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77'); ?>
+        Within its 22 verses, the first chapter may contain a dozen or so allusions to the Egyptian captivity.<?php Footnote('Dobbs-Allsopp (2012), pp.75&ndash;77.'); ?>
         That event was of crucial importance to the original audience, so would be recognised, and in a profound manner.
         But to a present-day western audience,
         while the event (Moses, "Red Sea", Exodus wanderings, etc.) might be known about, but as a relatively remote story,

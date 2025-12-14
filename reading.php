@@ -282,10 +282,6 @@
       </li>
     </ul>
 
-    <p>
-      <em>(t.b.c.)</em>
-    </p>
-
     <hr>
     <div class="footnotes">
       <?php

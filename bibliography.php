@@ -192,9 +192,9 @@
         dual-language version
         not only shows the Hebrew text alongside an English version,
         but allows each Hebrew word to be selected for dictionary look-up.<?php
-          Footnote('But such dictionary look-up is not primarily for meaning.
+          Footnote('But such dictionary look-up is not primarily for lexically-oriented meaning.
             For that purpose I have used commentaries and other translations.
-            It is, rather, for verifying word repetition and threads.
+            It is, rather, for poetically-oriented verification of word repetition and threads.
             For example at 4:16, the majority of English translations
             fail to use the word "face" and even fewer respect its double use.
             See the footnotes there.');

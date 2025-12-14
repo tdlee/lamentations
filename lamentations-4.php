@@ -113,12 +113,12 @@
           <div class="poem__versetext">
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlaid with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
-              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet that places it prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), p.236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
+              $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet it is here placed prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), pp.235&ndash;236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
             ?>
               <!--
                 The two parts of this verse follow the same structure.
                 For the use of "those", itself unusual in Hebrew poetry
-                and here double-used, see Dobbs-Allsopp (2023), p.236.
+                and here double-used, see Dobbs-Allsopp (2023), pp.235-236.
               -->
               <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               <div class="indent2">once robed in purple;<?php Footnote($fn); ?></div><!-- rhythmic parallel between the two halves of this verse -->
@@ -136,7 +136,7 @@
             ?>
               <div class="indent0 acrostic-line">Far greater my Daughter People's iniquity</div>
               <div class="indent2">than the outrage of Sodom,<?php Footnote($fn); ?></div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
-              <div class="indent1">which had been overthrown in an instant</div><!-- "overthrown": the "turn" verb from other chapters -->
+              <div class="indent1">that was overthrown in an instant</div><!-- "overthrown": the "turn" verb from other chapters -->
               <div class="indent2">with no hand on her laid.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

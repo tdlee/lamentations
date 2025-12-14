@@ -195,7 +195,7 @@
 
     <p>
       The acrostic use of 'Z' for the final stanza of the first four poems
-      is an interesting challenge, as English has so few in regular use.
+      is an interesting challenge, as English has so few 'Z' words in regular use.
       The third poem in particular requires three;
       furthermore these should all be different, to reflect the Hebrew 'tav' words being different.
     </p>
@@ -371,20 +371,18 @@
       is then repeated in comparative form as the acrostic word at 4:9
       which deems sword-impalement to be "better" (i.e. "more good").
       Had the English comparative of "good" been "gooder"
-      then the reader, indeed the worshipper, would be struck by something like:
+      then the reader, indeed the worshipper, may be struck by something like:
     </p>
 
     <div class="panel panel--width-35em">
       <div class="poem poem__hebverse">
-        <div class="poem__verseref">3:25</div>
+        <div class="poem__verseref">3:25&ndash;27</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good is the <span class="yhwh">Lord</span>&hellip;;</div>
         </div>
-        <div class="poem__verseref">3:26</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good when one waits quietly&hellip; for the <span class="yhwh">Lord</span>'s salvation;</div>
         </div>
-        <div class="poem__verseref">3:27</div>
         <div class="poem__versetext">
             <div class="indent0 acrostic-line">Good for a man to bear a yoke in his youth.</div>
             <div class="indent0">&hellip;</div>
@@ -481,7 +479,7 @@
 
     <p>
       Jewish custom avoids saying the Divine Name "YHWH",
-      instead saying the other word "Adonai".<?php
+      instead substituting the other word "Adonai".<?php
         Footnote('Sometimes "HaShem", "the Name", is pronounced.');
       ?>
       This results in recitation using a single, common word to pronounce
@@ -742,11 +740,11 @@
       rather like the English word "man",
       being sometimes generically human and sometimes male-specific.<?php
         Footnote('See, for example, the near-adjacent uses in Genesis.
-          Gen.1:27 is the generic
-          "God created <i>adam</i>:&hellip; male and female he created them".
-          Gen 2:7 is the male-specific
-          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground",
-          where the context prepares the way for the further creation of his female partner, Eve.');
+          In Gen.1:27 <i>adam</i> is the human-generic
+          "God created <i>adam</i>:&hellip; male and female he created them",
+          whereas in Gen.2:7 it is the male-specific
+          "The <span class="yhwh">Lord</span> God formed <i>adam</i> from the dust of the ground"
+          and in a context that prepares the way for the further creation of his female partner, Eve.');
       ?>
       Indeed, 3:39 uses both words.
       We translate <i>geber</i> as male-specific "man" (or similar)
