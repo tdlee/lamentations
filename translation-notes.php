@@ -55,7 +55,7 @@
     </p>
 
     <p>
-      So is it a translation?  A paraphrase?  A version?  A rendering?  Let the reader decide.
+      So is this a translation?  A paraphrase?  A version?  A rendering?  Let the reader decide.
     </p>
 
     <h2>Guiding principles</h2>
