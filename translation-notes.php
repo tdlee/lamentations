@@ -166,7 +166,7 @@
       Translating a line
       while simultaneously aiming to maintain the 3&ndash;2 <i>qinah</i> stress count
       can easily head towards such an undesirable run of three weak syllables (occasionally even more).
-      Where possible efforts are taken to avoid this.
+      Where possible, efforts are taken to avoid this.
     </p>
 
     <h2>Acrostic challenges</h2>
