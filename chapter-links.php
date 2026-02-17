@@ -3,14 +3,21 @@
     <div class="noprint">
       <ul class="nav">
         <li>
-          <a>Contents&nbsp;&#9662;</a>
+            <a href="index.php">Introduction</a>
+        </li>
+        <li>
+          <a>Chapters (1-5)&nbsp;&#9662;</a>
           <ul>
-            <li><a href="index.php">Introduction</a></li>
             <li><a href="lamentations-1.php">Lamentations&nbsp;1</a></li>
             <li><a href="lamentations-2.php">Lamentations&nbsp;2</a></li>
             <li><a href="lamentations-3.php">Lamentations&nbsp;3</a></li>
             <li><a href="lamentations-4.php">Lamentations&nbsp;4</a></li>
             <li><a href="lamentations-5.php">Lamentations&nbsp;5</a></li>
+          </ul>
+        </li>
+        <li>
+          <a>Appendices&nbsp;&#9662;</a>
+          <ul>
             <li><a href="translation-notes.php">Translation notes</a></li>
             <li><a href="reading.php">Reading and recitation</a></li>
             <li><a href="staging.php">Musings on staging</a></li>
