@@ -117,7 +117,7 @@
           <td class="td--right">A</td><td><strong>way</strong>&mdash;</td><td class="td--center">&nbsp;me he&nbsp;</td><td class="td--center"><strong>drove</strong>,</td><td class="td--right">&nbsp;force-</td><td><strong>marched</strong></td><td></td>
         </tr>
         <tr>
-          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>dark</strong></td><td>ness, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
+          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>black</strong></td><td>out, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
         </tr>
         <tr>
           <td class="td--right">A</td><td><strong>gainst</strong></td><td class="td--center">&nbsp;me, he&nbsp;</td><td class="td--center"><strong>turns</strong></td><td class="td--center">&nbsp;his&nbsp;</td><td><strong>hand</strong></td><td></td>

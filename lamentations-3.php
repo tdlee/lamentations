@@ -69,11 +69,12 @@
             <?php
               $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
               $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
+              $fn_blackout='While translations generally use "darkness" here and in v.6, the word "blackout" has an added shade of fear.';
             ?>
               <div class="indent0 acrostic-line">Agonies: I am the man<?php Footnote($fn); ?> seared</div><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
               <div class="indent1">by the rod of his wrath;</div><!-- 2:2; 3:1: wrath -->
               <div class="indent0 acrostic-line">Away&mdash;me he drove, force-marched</div>
-              <div class="indent1">in darkness, no light;</div>
+              <div class="indent1">in blackout,<?php Footnote($fn_blackout); ?> no light;</div>
               <div class="indent0 acrostic-line">Against me, he turns his hand</div><!-- 3:3, 5:2: common verb "turn" -->
               <div class="indent1">from day-dawn to dusk;<?php Footnote($fn2); ?></div>
 </div><!-- Psalm 23 mouse-hover -->
@@ -88,7 +89,7 @@
               <div class="indent1">my flesh and my skin.</div>
               <div class="indent0 acrostic-line">Besieged by him; he caged me</div>
               <div class="indent1">by hardship and gall;</div><!-- vv.5,19: "gall" -->
-              <div class="indent0 acrostic-line">Bound by him in darkness</div>
+              <div class="indent0 acrostic-line">Bound by him in blackout</div>
               <div class="indent1">to dwell as the ever-dead.</div><!-- "ever-dead" preferable to "long-dead"; Berlin,p90; Goldingay,p130 -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

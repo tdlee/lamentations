@@ -110,7 +110,7 @@
           <div class="indent0">Agonies: I am the man seared</div>
           <div class="indent1">by the rod of his wrath;</div>
           <div class="indent0">Away&mdash;me he drove, force-marched</div>
-          <div class="indent1">in darkness, no light;</div>
+          <div class="indent1">in blackout, no light;</div>
           <div class="indent0">Against me, he turns his hand</div>
           <div class="indent1">from day-dawn to dusk;</div>
         </div><!-- poem__verse + poem__versetext -->
@@ -262,7 +262,7 @@
           <td class="td--right">A</td><td><strong>way</strong>&mdash;</td><td class="td--center">&nbsp;me he&nbsp;</td><td class="td--center"><strong>drove</strong>,</td><td class="td--right">&nbsp;force-</td><td><strong>marched</strong></td><td></td>
         </tr>
         <tr>
-          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>dark</strong></td><td>ness, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
+          <td class="td--right">in&nbsp;</td><td class="td--right"><strong>black</strong></td><td>out, no&nbsp;</td><td class="td--center"><strong>light</strong>;</td><td colspan="3"></td>
         </tr>
         <tr>
           <td class="td--right">A</td><td><strong>gainst</strong></td><td class="td--center">&nbsp;me, he&nbsp;</td><td class="td--center"><strong>turns</strong></td><td class="td--center">&nbsp;his&nbsp;</td><td><strong>hand</strong></td><td></td>
