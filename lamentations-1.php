@@ -210,7 +210,7 @@
               ?>
               <div class="indent0 acrostic-line">How grievously has Jerusalem sinned&mdash;</div>
               <div class="indent2">how become a soiled rag.<?php Footnote($fn_soiled); ?></div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
-              <div class="indent1">Those who once honoured her, despise her,</div>
+              <div class="indent1">Those who once honoured her, despise her,</div><!-- 8b,11c: "despised": closely related -->
               <div class="indent2">seeing her nakedness.</div>
               <div class="indent1">She, aghast, cries out;</div>
               <div class="indent2">she recoils backwards.<?php Footnote($fn_recoil); ?></div><!-- vv8,13: same root words "turn/back" -->
@@ -260,7 +260,7 @@
               <div class="indent2">to salvage their souls.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent1">"Look, O <span class="yhwh">Lord</span>, and notice&mdash;</div><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              <div class="indent2">how despised I've become."</div><!-- "how": vv9,11 --><!-- "become": sense of transistion into this state -->
+              <div class="indent2">how despised I've become."</div><!-- "how": vv9,11 --><!-- 8b,11c: "despised": closely related --><!-- "become": sense of transistion into this state -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -347,7 +347,7 @@
             <div class="indent0 acrostic-line">Tautly Zion spreads out her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
-              <div class="indent2">his neighbours be enemies;</div>
+              <div class="indent2">his neighbours to be enemies;</div>
               <div class="indent1">Jerusalem in their midst has become</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
