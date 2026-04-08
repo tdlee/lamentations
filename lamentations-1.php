@@ -347,7 +347,7 @@
             <div class="indent0 acrostic-line">Tautly Zion spreads out her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">but none comforts her;</div>
               <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
-              <div class="indent2">his neighbours be enemies;</div>
+              <div class="indent2">his neighbours to be enemies;</div>
               <div class="indent1">Jerusalem in their midst has become</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
