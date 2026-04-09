@@ -145,7 +145,7 @@
               <div class="indent1">he ground me in dust.</div>
               <div class="indent0 acrostic-line">Forsworn has he peace from my soul,</div><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" --><!-- 2:7; 3:17,31: "forswear" root -->
               <div class="indent1">I forgot what is good;</div>
-              <div class="indent0 acrostic-line">Festered my honour and perished</div><!-- Dobbs-Allsopp (2012), p.114 "perished" (similarly "festered") better than previous "gone": -->
+              <div class="indent0 acrostic-line">Festered is my honour, and perished</div><!-- Dobbs-Allsopp (2012), p.114 "perished" (similarly "festered") better than previous "gone": -->
               <div class="indent1">all hope from the <span class="yhwh">Lord</span>.<?php Footnote($fn1); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
