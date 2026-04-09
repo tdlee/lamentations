@@ -398,8 +398,8 @@
         <div class="poem__verse">
           <div class="poem__verseref">64&ndash;66</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Zilch make their rewards, O <span class="yhwh">Lord</span>,</div>
-              <div class="indent1">for the works at their hands;</div>
+              <div class="indent0 acrostic-line">Zilch make their spoils, O <span class="yhwh">Lord</span>,</div>
+              <div class="indent1">for the doings of their hands;</div>
               <div class="indent0 acrostic-line">Ziplock their cold hearts:</div>
               <div class="indent1">your curse be upon them;</div>
               <div class="indent0 acrostic-line">Zealously hunt them, destroy them</div>
