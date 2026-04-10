@@ -485,6 +485,12 @@
     </div><!-- "panel" -->
 
     <p>
+      Amassed, these verbs and their qualifiers are uniquely fierce.<?php
+        Footnote('Mandolfo (2007), p.70.');
+      ?>
+    </p>
+
+    <p>
       The first poem had been in two "voices", approximately 50&ndash;50:
       a witness-reporter and Daughter Zion herself.
       This second poem is mostly voiced by the reporter,
