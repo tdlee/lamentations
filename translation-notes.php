@@ -534,7 +534,9 @@
       Yet this seemingly simple form of wording, in Hebrew <em>bat Tzion</em>,
       is notoriously difficult to translate across
       from Ancient Near East cultures into modern Western cultures.
-      Many older translations had opted for "[the] Daughter&nbsp;<em>of</em> X".
+      Hebrew <em>bat</em> does not map cleanly onto English "daughter";
+      they have different semantic range and import.
+      Many older translations had opted for "[the] Daughter&nbsp;<em>of</em> Zion" (inserted 'of').
     </p>
 
     <p>
