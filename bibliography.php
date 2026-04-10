@@ -82,7 +82,7 @@
     </div><!-- "bib" -->
 
     <p>
-      Other commentary and academic sources include:
+      Other commentary and scholarly sources include:
     </p>
 
     <div class="bib">
