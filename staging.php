@@ -293,7 +293,10 @@
       The character in chapter&nbsp;1 may be seen as largely objective,
       reporting <em>about</em> what they witness.
       Alternatively they may be viewed as more involved:
-      Berman (2023) uses the term "pastoral mentor".
+      Berman (2023) uses the term "pastoral mentor";
+      Mandolfo (2007) uses the term "Didactic Voice"
+      and contrasts their sympathetic stance here
+      with the more traditional prophetic stance in some Psalms (e.g.&nbsp;Ps.7).
       The character in chapter&nbsp;4 may be seen as much more involved
       <em>with</em> the community and speaking with them.<?php Footnote('Hens-Piazza (2017), p.xlvii.') ?>
       So might they be envisaged as two different people?
