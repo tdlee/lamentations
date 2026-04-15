@@ -534,7 +534,9 @@
       Yet this seemingly simple form of wording, in Hebrew <em>bat Tzion</em>,
       is notoriously difficult to translate across
       from Ancient Near East cultures into modern Western cultures.
-      Many older translations had opted for "[the] Daughter&nbsp;<em>of</em> X".
+      Hebrew <em>bat</em> does not map cleanly onto English "daughter";
+      they have different semantic range and import.
+      Many older translations had opted for "[the] Daughter&nbsp;<em>of</em> Zion" (inserted 'of').
     </p>
 
     <p>
@@ -559,16 +561,16 @@
     </p>
 
     <p>
-      A few examples.
-      The NABRE has "daughter X" (lower-case 'd');
+      Those recent versions which omit the "of" generally capitalise "Daughter" (or their equivalent word),
+      making it a proper noun, with a sense not merely of description but also of title.
+      A few other examples:
+      the NRSV and NABRE have "daughter X" (lower-case 'd');
       the NIV had "the Daughter of X" (upper-case 'D') in early editions,
       later changing to "Daughter X";
       Berlin (2004) has "Dear X" (which heightens the sarcasm in chapter&nbsp;4's "Dear Edom");
       Hens-Piazza (2017) writes about "Woman Zion";
       Goldingay (2022) has "Ms.&nbsp;Zion" (Miss/Mistress);
       Berman (2023) writes about "Bat-Zion".
-      Those recent versions which omit the "of" generally capitalise "Daughter" (or their equivalent word),
-      making it a proper noun, with a sense not merely of description but also of title.
     </p>
 
     <p>

@@ -98,11 +98,11 @@
         <div class="poem__verse">
           <div class="poem__verseref">7&ndash;9</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Confining me, inescapably walled,</div><!-- 7 and 9 start with the same verb -->
+              <div class="indent0 acrostic-line">Confining me, inescapably walled,</div><!-- 7, 9: start with the same verb -->
               <div class="indent1">he weighted me with chains;</div>
               <div class="indent0 acrostic-line">Cry though I into the void,</div>
               <div class="indent1">he blanks out my prayer.</div>
-              <div class="indent0 acrostic-line">Confining my walkway with hewn stone,</div><!-- see 7 -->
+              <div class="indent0 acrostic-line">Confining my walkway with hewn stone,</div><!-- 7, 9: start with the same verb -->
               <div class="indent1">he twisted my paths;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -142,10 +142,10 @@
             ?>
               <!-- couplet quoted in chapter intro -->
               <div class="indent0 acrostic-line">Fracturing my teeth on gravel,</div>
-              <div class="indent1">he ground me in dust.</div>
+              <div class="indent1">he ground me in dust;</div>
               <div class="indent0 acrostic-line">Forsworn has he peace from my soul,</div><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" --><!-- 2:7; 3:17,31: "forswear" root -->
-              <div class="indent1">I forgot what is good;</div>
-              <div class="indent0 acrostic-line">Festered my honour and perished</div><!-- Dobbs-Allsopp (2012), p.114 "perished" (similarly "festered") better than previous "gone": -->
+              <div class="indent1">I forgot what is good.</div>
+              <div class="indent0 acrostic-line">Festered is my honour, and perished</div><!-- Dobbs-Allsopp (2012), p.114 "perished" (similarly "festered") better than previous "gone": -->
               <div class="indent1">all hope from the <span class="yhwh">Lord</span>.<?php Footnote($fn1); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -398,8 +398,8 @@
         <div class="poem__verse">
           <div class="poem__verseref">64&ndash;66</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Zilch make their rewards, O <span class="yhwh">Lord</span>,</div>
-              <div class="indent1">for the works at their hands;</div>
+              <div class="indent0 acrostic-line">Zilch make their spoils, O <span class="yhwh">Lord</span>,</div>
+              <div class="indent1">for the doings of their hands;</div>
               <div class="indent0 acrostic-line">Ziplock their cold hearts:</div>
               <div class="indent1">your curse be upon them;</div>
               <div class="indent0 acrostic-line">Zealously hunt them, destroy them</div>
