@@ -426,6 +426,7 @@
     <p>
       Often, subtle aspects of wordplay are untranslatable;
       see for example 1:3 and 2:20 and their footnotes.
+      And for a possible three-way wordplay, impossible to capture in translation, see the footnotes at 1:20.
     </p>
 
     <p>
