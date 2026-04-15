@@ -360,8 +360,8 @@
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent0 acrostic-line">Upright in judgement is the <span class="yhwh">Lord</span>,</div>
               <div class="indent2">for I defied his command.</div><!-- vv18,20: match "defied" -->
-              <div class="indent1">Hear, I pray, all you peoples,</div>
-              <div class="indent2">and look on my pain:</div><!--vv.12,18: common "pain" -->
+              <div class="indent1">Listen up,<?php Footnote('This modern-sounding "listen up" idea from Mandolfo (2007), p.97.'); ?><!-- see also "notes" --> all you peoples;</div>
+              <div class="indent2">look on my pain:</div><!--vv.12,18: common "pain" -->
               <div class="indent1">my maidens and my young men</div>
               <div class="indent2">gone into captivity.</div><!-- vv.5,18: common "captive" root word -->
           </div><!-- poem__versetext -->
