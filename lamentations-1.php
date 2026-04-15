@@ -384,10 +384,14 @@
         <div class="poem__verse">
           <div class="poem__verseref">20</div>
           <div class="poem__versetext">
+              <?php
+                $fn_double='The doubled use of a "defy"-based word reflects the Hebrew text and can be regarded as emphasis. A more conventional English representation might be "very defiant" or "defiant indeed". The word resembles "churn" in the previous line. See Goldingay (2022), p.79.';
+                $fn_bitter='The "defy" (meaning rebel) is the same as in v.18.  But here it might also mean "bitter"; Berlin (2004), pp.44,47;  Mandolfo (2007), pp.93&ndash;94. This half-line might then read: "I am bitter; <em>bitter</em>." Mandolfo further suggests that this defy/bitter resonance and ambiguity might be intentional, giving this v.20 usage a very different, even satirical edge.';
+              ?>
               <div class="indent0 acrostic-line">Wretched am I, <span class="yhwh">Lord</span>; look!</div><!-- referenced in notes (for notice/look) -->
-              <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same -->
+              <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same --><!-- "churn" resembles "defy": see footnote -->
               <div class="indent1">my heart within me turns over:</div>
-              <div class="indent2">defiantly had I defied.</div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root -->
+              <div class="indent2">defiantly had I defied.<?php Footnote($fn_double); ?><?php Footnote($fn_bitter); ?></div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root --><!-- cross-ref: footnotes mentioned in "notes" -->
               <div class="indent1">Outdoors, the sword bereaves;</div>
               <div class="indent2">indoors, very death.</div>
           </div><!-- poem__versetext -->
