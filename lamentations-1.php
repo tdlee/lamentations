@@ -311,8 +311,8 @@
         <div class="poem__verse">
           <div class="poem__verseref">15</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Rejected are all my own warriors</div>
-              <div class="indent2">by my Lord in my midst;</div>
+              <div class="indent0 acrostic-line">Rejected by my Lord in my midst</div>
+              <div class="indent2">are all my own warriors;</div>
               <div class="indent1">he called a gathering against me</div><!-- verb: 15,19,21: match; 17:different --><!-- match v4,15:gathering[s] -->
               <div class="indent2">to crush my young men.</div>
               <div class="indent1">In a winepress my Lord has trodden</div>
