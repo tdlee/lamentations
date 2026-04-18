@@ -325,7 +325,7 @@
           <div class="poem__verseref">16</div>
           <div class="poem__versetext">
               <?php
-                $fn='Some Jewish commentators here see a comforter-Messiah being yearned for; Goldingay (2022), p.75.';
+                $fn='Some Jewish commentators here see a comforter-Messiah being yearned for. Goldingay (2022), p.75.';
               ?>
               <div class="indent0 acrostic-line">Streaming with tears, my eyes&mdash;</div>
               <div class="indent2">my eyes weep for these things;</div>
