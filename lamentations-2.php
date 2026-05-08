@@ -257,7 +257,7 @@
           <div class="poem__verseref">14</div>
           <div class="poem__versetext">
               <?php
-                $fn='Word-pairing courtesy of <a href="http://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
+                $fn='Word-pairing courtesy of <a href="https://www.usccb.org/bible/lamentations/2" target="_blank"><abbr title="New American Bible, Revised Edition">NABRE</abbr></a>.';
               ?>
               <div class="indent0 acrostic-line">Prophets conjured for you phantasms:</div><!-- 2:9,14: "vision"/"phantasm"; different words --><!-- 14a,c: same "conjure" -->
               <div class="indent2">illusion and whitewash;<?php Footnote($fn); ?></div><!-- 14a,c: same "illusion" -->
