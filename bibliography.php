@@ -161,7 +161,7 @@
             <?php ISBN("978-1610974530") ?>
         </li>
         <li>
-          van der Spuy, Roelie (2008), <a href="http://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
+          van der Spuy, Roelie (2008), <a href="https://www.scielo.org.za/pdf/ote/v21n2/17.pdf" target="_blank"><cite>Hebrew Alphabetic Acrostics&mdash;Significance and Translation</cite></a>, Old Testament Essays, 21/2
         </li>
         <li>
           Van Hecke, Pierre J.P. (2002),

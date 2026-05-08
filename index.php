@@ -292,9 +292,9 @@
     his work to capture it;
     see, for example, his Psalm&nbsp;29 and Genesis&nbsp;1.
     Also notable is the
-    <a href="http://www.usccb.org/bible/" target="_blank">New American Bible Revised Edition (NABRE)</a>;
-    see their <a href="http://www.usccb.org/bible/lamentations/0" target="_blank">Introduction to Lamentations</a>
-    and their <a href="http://www.usccb.org/bible/lamentations/1" target="_blank">online translation</a>.
+    <a href="https://www.usccb.org/bible/" target="_blank">New American Bible Revised Edition (NABRE)</a>;
+    see their <a href="https://www.usccb.org/bible/lamentations/0" target="_blank">Introduction to Lamentations</a>
+    and their <a href="https://www.usccb.org/bible/lamentations/1" target="_blank">online translation</a>.
     By coming to such texts from the poetic angle, some of this can be regained.
     </p>
     <p>
@@ -406,7 +406,7 @@
     <p>
     A major aim of this new version is to capture that foundational acrostic technique
     that almost all modern translations lack,
-    <a href="http://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
+    <a href="https://catholicbible.online/knox/OT/Lam" target="_blank">that of Ronald Knox</a>
     being an exception.<?php
       Footnote('Unfortunately the Knox translation de-regularises the all-important opening \'A\' word of chapters 1, 2 and 4. These ought to be consistently "Alas" or equivalent but instead become the inconsistent set "Alone", "Alas" and "All".');
     ?>
@@ -499,7 +499,7 @@
           and providing contemporary readers the language to do the same.
         </p>
         <div class="panel__cite">
-            &mdash;<a href="http://www.usccb.org/bible/lamentations/0" target="_blank"><cite>Introduction to Lamentations</cite></a>,<br>New American Bible Revised Edition (NABRE)
+            &mdash;<a href="https://www.usccb.org/bible/lamentations/0" target="_blank"><cite>Introduction to Lamentations</cite></a>,<br>New American Bible Revised Edition (NABRE)
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
