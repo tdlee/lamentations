@@ -30,6 +30,9 @@
 
     <p>
       Another new version of Lamentations?  Why?
+      Don't we already have a superfluity of versions, translations and paraphrases?
+      Variety enough, surely?
+      What could yet another version possibly bring to an already over-populated table?
     </p>
 
     <p>
@@ -116,6 +119,43 @@
         </div><!-- poem__verse + poem__versetext -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
+
+    <p>
+      Commenting later on his own translation of the Hebrew Bible (our Christian Old Testament),
+      a project well over twenty years in duration,
+      Robert Alter writes that it
+      <i>
+      "&hellip;was impelled by a deep conviction that the literary style of the Bible&hellip;
+      is not some sort of aesthetic embellishment of the 'message' of Scripture
+      but the vital medium through which
+      the biblical vision of God, human nature, history, politics, society and moral value is conveyed."</i><?php
+        Footnote('Alter (2019), p.xiii.');
+      ?>
+    </p>
+
+    <p>
+      The medium is an inextricably intrinsic part of the message.
+      Literary style is not merely an "also ran" relegation, trailing home in last place.
+      It is inseparably interwoven.
+    </p>
+
+    <p>
+      And me?  A lifelong, fruitless struggle to 'get' Lamentations.
+      It wouldn't click. It wouldn't open.
+      Alright, it opened just enough to be irritated that when our church songs and culture
+      so blithely and prettily cited&hellip; and isolated&hellip; "the steadfast love of the Lord never ceases" from it,
+      with a smothering of syrup,
+      we were somehow egregiously misrepresenting the biblical book itself.
+      With tragic irony, our cherry-picking "biblical" church culture, it seems, obstructs access to this biblical book.
+    </p>
+
+    <p>
+      But then Alter's new and fresh translation of Lamentations was published.
+      Suddenly it opened up.
+      It lived.  It screamed.  It worked.
+      Other versions had stayed politely, calmly on the cleanly typeset page.
+      But Alter's pounced off the page.  It grabbed the throat.  As it should.
+    </p>
 
     <h2>Can scripture be "performance poetry"?</h2>
 
