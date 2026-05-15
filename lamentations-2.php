@@ -115,7 +115,7 @@
               <div class="indent0 acrostic-line">Enemy! So my Lord has become,</div>
               <div class="indent2">and devoured Israel&mdash;</div><!-- "devour" thread -->
               <div class="indent1">has devoured all her palaces,</div><!-- "devour" thread --><!-- vv.5,7: same "palaces" word -->
-              <div class="indent2">and laid waste her strongholds;</div>
+              <div class="indent2">laid waste her strongholds;</div>
               <div class="indent1">has multiplied within Daughter Judah</div>
               <div class="indent2">wailing and weeping.<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
