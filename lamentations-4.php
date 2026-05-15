@@ -266,7 +266,7 @@
           <div class="poem__verseref">15</div>
           <div class="poem__versetext">
             <?php
-              $fn='This verse, like 1:7 and 2:19, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.';
+              $fn='This verse, like 1:7 and 2:19, has an extra line in the Hebrew, considered by some commentators to incorporate an assimilated marginal gloss. See footnote on 1:7.';
             ?>
               <div class="indent0 acrostic-line">"Repulsive! Away!"</div>
               <div class="indent2">people shout at them.</div>
