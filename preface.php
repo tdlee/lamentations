@@ -124,6 +124,12 @@
       But Alter's pounced off the page.  It grabbed the throat.  As it should.
     </p>
 
+    <p>
+      And why my version?
+      To attempt to take the best of the living-literary awareness of Alter and a couple of other translations
+      and, vitally, to restore the usually discarded alphabetic acrostic.  (The what? Read on&hellip;)
+    </p>
+
     <div class="widthclear"></div>
 
     <hr>
