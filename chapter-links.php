@@ -3,7 +3,11 @@
     <div class="noprint">
       <ul class="nav">
         <li>
-            <a href="index.php">Introduction</a>
+          <a>Preface and Introduction&nbsp;&#9662;</a>
+          <ul>
+            <li><a href="preface.php">Preface</a></li>
+            <li><a href="introduction.php">Introduction</a></li>
+          </ul>
         </li>
         <li>
           <a>Chapters (1-5)&nbsp;&#9662;</a>
