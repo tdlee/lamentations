@@ -125,6 +125,10 @@
     </p>
 
     <p>
+      The medium, the literary style, had been demonstrably restored to its rightful place as an intrinsic, essential component of the message itself.
+    </p>
+
+    <p>
       And why my version?
       To attempt to take the best of the living-literary awareness of Alter and a couple of other translations
       and, vitally, to restore the usually discarded alphabetic acrostic.  (The what? Read on&hellip;)
