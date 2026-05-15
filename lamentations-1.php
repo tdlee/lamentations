@@ -363,7 +363,7 @@
               <div class="indent1">Listen up,<?php Footnote('This modern-sounding "listen up" idea from Mandolfo (2007), p.97.'); ?><!-- see also "notes" --> all you peoples;</div>
               <div class="indent2">look on my pain:</div><!--vv.12,18: common "pain" -->
               <div class="indent1">my maidens and my young men</div>
-              <div class="indent2">gone into captivity.</div><!-- vv.5,18: common "captive" root word -->
+              <div class="indent2">hauled into captivity.</div><!-- vv.5,18: common "captive" root word -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
