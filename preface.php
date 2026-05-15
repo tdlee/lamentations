@@ -112,7 +112,7 @@
       Alright, it opened just enough to be irritated that when our church songs and culture
       so blithely and prettily cited&hellip; and isolated&hellip; "the steadfast love of the Lord never ceases" from it,
       with a smothering of syrup,
-      we were somehow egregiously misrepresenting the biblical book itself.
+      I knew that we were somehow egregiously misrepresenting the biblical book itself.
       With tragic irony, our cherry-picking "biblical" church culture, it seems, obstructs access to this biblical book.
     </p>
 
