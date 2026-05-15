@@ -338,7 +338,7 @@
           <div class="poem__verseref">19</div>
           <div class="poem__versetext">
               <?php
-                $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to be a marginal gloss.  See also Provan (2016), p.77.';
+                $fn='This verse, like 1:7 and 4:15, has an extra line in the Hebrew, considered by some commentators to incorporate an assimilated marginal gloss.  See footnote on 1:7 and Provan (2016), p.77.';
               ?>
               <div class="indent0 acrostic-line">Vehemently wail, arising at night</div><!-- 2:17 "cry"; 2:18 "wail": different -->
               <div class="indent2">at the start of each watch.</div>
