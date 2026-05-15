@@ -241,7 +241,7 @@
           <div class="poem__verseref">13</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Outrages of her prophets, the cause,</div>
-              <div class="indent2">and the iniquities of her priests,</div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
+              <div class="indent2">and iniquities of her priests,</div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
               <div class="indent1">who had disgorged in the midst of the city</div><!-- disgorged: 4:1, 4:11, 4:13 -->
               <div class="indent2">the blood of the just.</div>
           </div><!-- poem__versetext -->
