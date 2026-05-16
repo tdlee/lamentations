@@ -89,7 +89,7 @@
               <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
               <div class="indent0 acrostic-line">Alas!<?php Footnote($fn); Footnote($fn2); ?></div>
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
-              <div class="indent2">once great with people;</div><!-- "great": 1a,1b,22c -->
+              <div class="indent2">once great with people.</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
               <div class="indent2">become now widow;</div>
               <div class="indent1">she, once princess among provinces,</div>
