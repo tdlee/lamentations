@@ -86,14 +86,21 @@
                   at almost the centre, 3:28, it describes a representative person;
                   finally at almost the close, 5:19, it describes God himself.';
               ?>
+              <?php
+                $fn_MT='Almost the entire text of Lamentations is expressed as couplets.
+                  But here in 1:1 the Masoretic Text highly unusually hints at a different configuration.
+                  For various reasons, our rendering retains couplets.
+                  See the translation notes, section Qinah.';
+              ?>
               <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
+              <!-- ENTIRE VERSE close-quoted in translations note 'Qinah' -->
               <div class="indent0 acrostic-line">Alas!<?php Footnote($fn); Footnote($fn2); ?></div>
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               <div class="indent2">once great with people.</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
               <div class="indent2">become now widow;</div>
               <div class="indent1">she, once princess among provinces,</div>
-              <div class="indent2">become now drudge.</div>
+              <div class="indent2">become now drudge.<?php Footnote($fn_MT); ?></div>
 </div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

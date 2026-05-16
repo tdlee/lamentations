@@ -125,7 +125,7 @@
       Where reasonably possible, this is conveyed.
     </p>
 
-    <h2>Qinah</h2>
+    <h2>Qinah</h2><!-- referenced from 1:1 footnote -->
 
     <p>
       <em>Qi<u>nah</u> or <u>not</u> qi<u>nah</u>? <u>That</u> is the <u>ques</u>tion.</em>
@@ -143,6 +143,23 @@
       Accordingly some of the rhythmically alert translations
       set that single-beat "Alas!" as a separate anacrusis.
       This version, too, adopts that practice.
+    </p>
+
+    <p>
+      That opening verse throws an additional rhythmic curveball at us.
+      Although the Hebrew Masoretic Text (MT) is late in date, it is nevertheless regarded as highly authoritative.
+      Almost the entire text of Lamentations is expressed as bicolons (couplets).
+      But an unusually placed accentuation mark in the MT suggests 1:1 to be two tricolons rather than the usual three bicolons.<?php
+        Footnote('Berlin (2004), p.49; Goldingay (2022), p.49 note \'e\'; Provan (2016), pp.35&ndash;36.');
+      ?>
+      This version faces a dilemma.
+      A vital purpose of this version is to establish for modern lay readers the lost principle of 3&ndash;2 <i>qinah</i> bicolons.
+      To break this so fundamentally at the outset seems counterproductive to that purpose;
+      better, surely, to establish it firmly at this point (there will be breakages <i>en route</i> later).
+      So on balance, we opt for <i>qinah</i> here.<?php
+        $fn_tricolon='[3-stress] Alone she sits: the city / [2] once great with people / [2] become now widow. // [3] She, once great among nations, / [2] princess among provinces, / [2] become now drudge.';
+        Footnote("A tricolon-based alternative, with the incidental advantage of being closer to the Hebrew word order, might be: <i>\"$fn_tricolon\"</i>");
+      ?>
     </p>
 
     <p>
