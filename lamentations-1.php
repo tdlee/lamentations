@@ -243,9 +243,9 @@
               ?>
               <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe --><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">all over her treasures;</div>
-              <div class="indent1">pagan nations she sees</div>
+              <div class="indent1">she sees pagan nations</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
-              <div class="indent1">against your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
+              <div class="indent1">despite your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">to your community."<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
