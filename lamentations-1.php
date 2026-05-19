@@ -86,14 +86,21 @@
                   at almost the centre, 3:28, it describes a representative person;
                   finally at almost the close, 5:19, it describes God himself.';
               ?>
+              <?php
+                $fn_MT='Almost the entire text of Lamentations is expressed as couplets.
+                  But here in 1:1 the Masoretic Text highly unusually hints at a different configuration.
+                  For various reasons, our rendering retains couplets.
+                  See the translation notes, section Qinah.';
+              ?>
               <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
+              <!-- ENTIRE VERSE close-quoted in translations note 'Qinah' -->
               <div class="indent0 acrostic-line">Alas!<?php Footnote($fn); Footnote($fn2); ?></div>
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
-              <div class="indent2">once great with people;</div><!-- "great": 1a,1b,22c -->
+              <div class="indent2">once great with people.</div><!-- "great": 1a,1b,22c -->
               <div class="indent1">She, once great among nations,</div><!-- "great": 1a,1b,22c -->
               <div class="indent2">become now widow;</div>
               <div class="indent1">she, once princess among provinces,</div>
-              <div class="indent2">become now drudge.</div>
+              <div class="indent2">become now drudge.<?php Footnote($fn_MT); ?></div>
 </div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -243,9 +250,9 @@
               ?>
               <div class="indent0 acrostic-line">Lecherous enemy hands spread</div><!-- enemy/foe --><!-- "spread": 1:10, 1:13, 1:17 -->
               <div class="indent2">all over her treasures;</div>
-              <div class="indent1">pagan nations she sees</div>
+              <div class="indent1">she sees pagan nations</div>
               <div class="indent2">enter her sanctuary&mdash;</div>
-              <div class="indent1">against your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
+              <div class="indent1">despite your commanded "no entry</div><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">to your community."<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -363,7 +370,7 @@
               <div class="indent1">Listen up,<?php Footnote('This modern-sounding "listen up" idea from Mandolfo (2007), p.97.'); ?><!-- see also "notes" --> all you peoples;</div>
               <div class="indent2">look on my pain:</div><!--vv.12,18: common "pain" -->
               <div class="indent1">my maidens and my young men</div>
-              <div class="indent2">gone into captivity.</div><!-- vv.5,18: common "captive" root word -->
+              <div class="indent2">hauled into captivity.</div><!-- vv.5,18: common "captive" root word -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 

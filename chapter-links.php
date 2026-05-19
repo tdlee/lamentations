@@ -5,7 +5,7 @@
         <li>
           <a>Preface and Introduction&nbsp;&#9662;</a>
           <ul>
-            <li><a href="preface.php">Preface</a></li>
+            <li><a href=".">Preface</a></li>
             <li><a href="introduction.php">Introduction</a></li>
           </ul>
         </li>
