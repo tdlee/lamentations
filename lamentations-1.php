@@ -63,7 +63,7 @@
 
   a-LAS!
       a-LONE she SITS: the CI-ty
-          once GREAT with PEO-ple;
+          once GREAT with PEO-ple.
 
       SHE, once GREAT among NA-tions,
           be-COME now WI-dow;
