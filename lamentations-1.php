@@ -59,18 +59,6 @@
           </div><!-- poem__versetext -->
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
-<div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
-
-  a-LAS!
-      a-LONE she SITS: the CI-ty
-          once GREAT with PEO-ple;
-
-      SHE, once GREAT among NA-tions,
-          be-COME now WI-dow;
-
-      SHE, once PRIN-cess among PRO-vinces,
-          be-COME now DRUDGE."
->
             <div class="poem__versespeaker">Narrator:</div>
               <?php
                 $fn='"Alas!": Hebrew <i>ekah</i>, meaning "how", the name of the book itself, and beginning with the Hebrew letter \'aleph\' equivalent to our \'A\'.';
@@ -94,6 +82,18 @@
               ?>
               <!-- 1:1, 3:28, 5:19: quoted in new "staging" -->
               <!-- ENTIRE VERSE close-quoted in translations note 'Qinah' -->
+<div title="Example qinah 3-2 rhythm: stress the capitalised syllables:
+
+  a-LAS!
+      a-LONE she SITS: the CI-ty
+          once GREAT with PEO-ple.
+
+      SHE, once GREAT among NA-tions,
+          be-COME now WI-dow;
+
+      SHE, once PRIN-cess among PRO-vinces,
+          be-COME now DRUDGE."
+>
               <div class="indent0 acrostic-line">Alas!<?php Footnote($fn); Footnote($fn2); ?></div>
               <div class="indent1">Alone she sits:<?php Footnote($fn3); ?> the city</div><!-- "sit": same verb at 1:1, 3:28 and 5:19 (and elsewhere) -->
               <div class="indent2">once great with people.</div><!-- "great": 1a,1b,22c -->
