@@ -122,9 +122,6 @@
       It lived.  It screamed.  It worked.
       Other versions had stayed politely, calmly on the cleanly typeset page.
       But Alter's pounced off the page.  It grabbed the throat.  As it should.
-    </p>
-
-    <p>
       The medium, the literary style, had been demonstrably restored to its rightful place as an intrinsic, essential component of the message itself.
     </p>
 
