@@ -174,7 +174,7 @@
       Recitation.
       In English poetry, each "foot" comprises a stressed syllable
       accompanied by usually one weak syllable (iamb; trochee) or two (dactyl).<?php
-        Footnote('iamb: weak-<u>strong</u>, e.g. "A<u>maz</u>ing <u>grace!</u> how <u>sweet</u> the <u>sound</u>"; trochee: <u>strong</u>-weak, e.g. "<u>Love</u> di<u>vine</u>, all <u>loves</u> ex<u>cell</u>ing"; dactyl: <u>strong</u>-weak-weak, e.g. "<u>Be</u> thou my <u>vi</u>sion, O <u>Lord</u> of my <u>heart</u>".');
+        Footnote('iamb: weak-<u>strong</u>, e.g. <i>"A<u>maz</u>ing <u>grace!</u> how <u>sweet</u> the <u>sound</u>"</i>; trochee: <u>strong</u>-weak, e.g. <i>"<u>Love</u> di<u>vine</u>, all <u>loves</u> ex<u>cell</u>ing"</i>; dactyl: <u>strong</u>-weak-weak, e.g. <i>"<u>Be</u> thou my <u>vi</u>sion, O <u>Lord</u> of my <u>heart</u>"</i>.');
       ?>
       Only occasionally does an English foot contain a third weak syllable;
       and when this does happen there is a subtle temptation strengthen the
