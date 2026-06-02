@@ -148,7 +148,7 @@
     <p>
       That opening verse throws an additional rhythmic curveball at us.
       Although the Hebrew Masoretic Text (MT) is late in date, it is nevertheless regarded as highly authoritative.
-      Almost the entire text of Lamentations is expressed as bicolons (couplets).
+      Almost the entire text of Lamentations 1&ndash;4 is expressed as bicolons (couplets), each in 3&ndash;2 <i>qinah</i> rhythm.
       But an unusually placed accentuation mark in the MT suggests 1:1 to be two tricolons rather than the usual three bicolons.<?php
         Footnote('Berlin (2004), p.49; Goldingay (2022), p.49 note \'e\'; Provan (2016), pp.35&ndash;36.');
       ?>
@@ -174,7 +174,7 @@
       Recitation.
       In English poetry, each "foot" comprises a stressed syllable
       accompanied by usually one weak syllable (iamb; trochee) or two (dactyl).<?php
-        Footnote('iamb: weak-<u>strong</u>, e.g. "A<u>maz</u>ing <u>grace!</u> how <u>sweet</u> the <u>sound</u>"; trochee: <u>strong</u>-weak, e.g. "<u>Love</u> di<u>vine</u>, all <u>loves</u> ex<u>cell</u>ing"; dactyl: <u>strong</u>-weak-weak, e.g. "<u>Be</u> thou my <u>vi</u>sion, O <u>Lord</u> of my <u>heart</u>".');
+        Footnote('iamb: weak-<u>strong</u>, e.g. <i>"A<u>maz</u>ing <u>grace!</u> how <u>sweet</u> the <u>sound</u>"</i>; trochee: <u>strong</u>-weak, e.g. <i>"<u>Love</u> di<u>vine</u>, all <u>loves</u> ex<u>cell</u>ing"</i>; dactyl: <u>strong</u>-weak-weak, e.g. <i>"<u>Be</u> thou my <u>vi</u>sion, O <u>Lord</u> of my <u>heart</u>"</i>.');
       ?>
       Only occasionally does an English foot contain a third weak syllable;
       and when this does happen there is a subtle temptation strengthen the
