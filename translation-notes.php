@@ -148,7 +148,7 @@
     <p>
       That opening verse throws an additional rhythmic curveball at us.
       Although the Hebrew Masoretic Text (MT) is late in date, it is nevertheless regarded as highly authoritative.
-      Almost the entire text of Lamentations is expressed as bicolons (couplets).
+      Almost the entire text of Lamentations 1&ndash;4 is expressed as bicolons (couplets), each in 3&ndash;2 <i>qinah</i> rhythm.
       But an unusually placed accentuation mark in the MT suggests 1:1 to be two tricolons rather than the usual three bicolons.<?php
         Footnote('Berlin (2004), p.49; Goldingay (2022), p.49 note \'e\'; Provan (2016), pp.35&ndash;36.');
       ?>
