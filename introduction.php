@@ -55,10 +55,12 @@
     but you should pity me.
         </div><!-- "verse" -->
         <div class="panel__cite">
+          <p>
             &mdash;<a href="https://www.allgreatquotes.com/shakespeare-quotes-757/" target="_blank"><cite>Twelfth Night</cite></a>
             <i>(adapted)</i>,
             <br>
             William Shakespeare
+          </p>
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
@@ -186,7 +188,9 @@
       </table>
 
       <div class="panel__cite">
-        &mdash;Lam.&nbsp;3:1&ndash;3
+        <p>
+          &mdash;Lam.&nbsp;3:1&ndash;3
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -255,7 +259,9 @@
         </div><!-- "poem" -->
 
         <div class="panel__cite">
-          &mdash;<a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC</cite></a>,<br>Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York<?php Footnote('Minkoff (1997).'); ?>
+          <p>
+            &mdash;<a href="https://library.biblicalarchaeology.org/article/as-simple-as-abc/" target="_blank"><cite>As Simple as ABC</cite></a>,<br>Harvey&nbsp;Minkoff,<br>Hunter&nbsp;College, New&nbsp;York<?php Footnote('Minkoff (1997).'); ?>
+          </p>
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->
@@ -286,7 +292,9 @@
       </div><!-- "poem" -->
 
       <div class="panel__cite">
+        <p>
           &mdash;Lam.&nbsp;3:1&ndash;6
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -412,7 +420,9 @@
           and providing contemporary readers the language to do the same.
         </p>
         <div class="panel__cite">
+          <p>
             &mdash;<a href="https://www.usccb.org/bible/lamentations/0" target="_blank"><cite>Introduction to Lamentations</cite></a>,<br>New American Bible Revised Edition (NABRE)
+          </p>
         </div><!-- "panel__cite" -->
 
       </div><!-- "panel" -->

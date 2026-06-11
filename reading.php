@@ -61,7 +61,9 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (couplets): 4&ndash;3, 4&ndash;3
+        <p>
+          rhythm (couplets): 4&ndash;3, 4&ndash;3
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -87,7 +89,9 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (couplets): 4&ndash;4, 4&ndash;4
+        <p>
+          rhythm (couplets): 4&ndash;4, 4&ndash;4
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -128,7 +132,9 @@
       </table>
 
       <div class="panel__cite">
-        rhythm (couplets): 3&ndash;2, 3&ndash;2, 3&ndash;2
+        <p>
+          rhythm (couplets): 3&ndash;2, 3&ndash;2, 3&ndash;2
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
@@ -173,9 +179,11 @@
         </div>
       </div>
       <div class="panel__cite">
-        &mdash;from Psalm 88 (NABRE)<?php
-          Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, they are numbered 17&ndash;19.');
-        ?>
+        <p>
+          &mdash;from Psalm 88 (NABRE)<?php
+            Footnote('In most Western translations, these verses are numbered 16&ndash;18. In NABRE, which follows the convention of numbering the Psalm\'s <em>incipit</em> as v.1, they are numbered 17&ndash;19.');
+            ?>
+        </p>
       </div><!-- "panel__cite" -->
     </div><!-- "panel" -->
 
