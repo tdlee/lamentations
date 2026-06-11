@@ -283,7 +283,9 @@
       </div>
 
       <div class="panel__cite">
+        <p>
           &mdash;Lam.1:12, NRSV
+        </p>
       </div><!-- "panel__cite" -->
     </div>
 

@@ -282,7 +282,9 @@
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
         <div class="panel__cite">
-          <em>[The End]</em>
+          <p>
+            <em>[The End]</em>
+          </p>
         </div><!-- "panel__cite" -->
       </div><!-- "poem" -->
     </div><!-- "panel" -->
@@ -334,7 +336,9 @@
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
         <div class="panel__cite">
-          &mdash;Ps.102:12&ndash;13 (<abbr title="Literal Standard Version">LSV</abbr>)
+          <p>
+            &mdash;Ps.102:12&ndash;13 (<abbr title="Literal Standard Version">LSV</abbr>)
+          </p>
         </div><!-- "panel__cite" -->
         <hr>
         <div class="poem__verse">
@@ -346,7 +350,9 @@
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
         <div class="panel__cite">
-          &mdash;Lam.5:19&ndash;20 (<abbr title="Literal Standard Version">LSV</abbr>)
+          <p>
+            &mdash;Lam.5:19&ndash;20 (<abbr title="Literal Standard Version">LSV</abbr>)
+          </p>
         </div><!-- "panel__cite" -->
 
       </div><!-- "poem" -->
