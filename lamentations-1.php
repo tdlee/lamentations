@@ -112,7 +112,7 @@
               <?php
                 $fn='In some translations, "her lovers". But this is not the same as "lovers" in v.19. This "who love her" follows Berlin (2004) p.51.';
               ?>
-            <div class="indent0 acrostic-line">Bitterly she weeps through the night;</div>
+            <div class="indent0 acrostic-line">Bitterly, night-long, she weeps;</div>
             <div class="indent2">tears wet her cheeks.</div>
             <div class="indent1">None there is to comfort her</div>
             <div class="indent2">from all who love her;<?php Footnote($fn); ?></div>
