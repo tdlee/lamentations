@@ -10,7 +10,7 @@
           </ul>
         </li>
         <li>
-          <a>Chapters (1-5)&nbsp;&#9662;</a>
+          <a>Chapters (1&ndash;5)&nbsp;&#9662;</a>
           <ul>
             <li><a href="lamentations-1.php">Lamentations&nbsp;1</a></li>
             <li><a href="lamentations-2.php">Lamentations&nbsp;2</a></li>
