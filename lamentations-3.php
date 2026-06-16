@@ -88,7 +88,7 @@
               <div class="indent0 acrostic-line">Breaking my bones, he has wasted</div>
               <div class="indent1">my flesh and my skin.</div>
               <div class="indent0 acrostic-line">Besieged by him; he caged me</div>
-              <div class="indent1">by hardship and gall;</div><!-- vv.5,19: "gall" -->
+              <div class="indent1">in hardship and gall;</div><!-- vv.5,19: "gall" -->
               <div class="indent0 acrostic-line">Bound by him in blackout</div>
               <div class="indent1">to dwell as the ever-dead.</div><!-- "ever-dead" preferable to "long-dead"; Berlin,p90; Goldingay,p130 -->
           </div><!-- poem__versetext -->
