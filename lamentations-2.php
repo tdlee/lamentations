@@ -175,7 +175,7 @@
               <?php
                 $fn='This line may well refer to the absence of religious law (in parallel to the secular governance of the first line).';
               ?>
-              <div class="indent0 acrostic-line">Ingested into earth sank her gates;</div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
+              <div class="indent0 acrostic-line">Ingested in earth sank her gates;</div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">her bars shattered, destroyed.</div>
               <div class="indent1">Her king and her princes are exiled;</div>
               <div class="indent2">law is absent;<?php Footnote($fn); ?></div>
