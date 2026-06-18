@@ -117,13 +117,14 @@
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlaid with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
               $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet it is here placed prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), pp.235&ndash;236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
+              $fn_swap='To enable the acrostic, the two halves of this verse have been swapped.';
             ?>
               <!--
                 The two parts of this verse follow the same structure.
                 For the use of "those", itself unusual in Hebrew poetry
                 and here double-used, see Dobbs-Allsopp (2023), pp.235-236.
               -->
-              <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
+              <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?><?php Footnote($fn_swap); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               <div class="indent2">once robed in purple;<?php Footnote($fn); ?></div><!-- rhythmic parallel between the two halves of this verse -->
               <div class="indent1">Destitute now in the streets lie those</div><!-- see footnote on first half-verse -->
               <div class="indent2">once feasting on dainties.</div><!-- rhythmic parallel between the two halves of this verse -->
