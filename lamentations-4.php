@@ -90,6 +90,9 @@
         <div class="poem__verse">
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
+            <?php
+              $fn='Contrast the openings of this verse and the preceding verse. The jackal cubs are suckled; the human babies get nothing.  Berlin (2004), p.106; Goldingay (2022), p.169.';
+            ?>
 <div title="Contrast Psalm 131:2-3 (NASB):
 
   But I have calmed and quieted myself,
@@ -100,7 +103,7 @@
     both now and forevermore."
 >
               <div class="indent0 acrostic-line">Dry-thirsted, the suckling's tongue</div>
-              <div class="indent2">glues to its palate;</div>
+              <div class="indent2">glues to its palate;<?php Footnote($fn); ?></div>
               <div class="indent1">infants beg for bread,</div>
               <div class="indent2">but no one provides.</div>
 </div><!-- mouse-hover -->
