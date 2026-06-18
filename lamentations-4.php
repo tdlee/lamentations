@@ -335,10 +335,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">19</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Vicious and swifter than sky-hawks</div>
-              <div class="indent2">came our pursuers:</div>
-              <div class="indent1">Hot on our heels through the hills;</div>
-              <div class="indent2">ambushers of the desert.</div>
+              <div class="indent0 acrostic-line">Vicious our pursuers; swifter</div>
+              <div class="indent2">than hawks of the skies:</div>
+              <div class="indent1">in the hills, hot on our heels;</div>
+              <div class="indent2">in the desert, ambushers.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
