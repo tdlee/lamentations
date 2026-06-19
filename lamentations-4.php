@@ -151,8 +151,8 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Glistening once as snow, her princes:</div>
               <div class="indent2">whiter than milk,</div>
-              <div class="indent1">their limbs more ruddy than coral,</div>
-              <div class="indent2">their beauty as sapphire.</div>
+              <div class="indent1">limbs more ruddy than coral,</div>
+              <div class="indent2">their beauty as sapphire;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -162,7 +162,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">How soot-black now their faces:</div>
               <div class="indent2">unrecognised in streets,</div>
-              <div class="indent1">their skin shrivelled, taut on their bones</div>
+              <div class="indent1">skin shrivelled, taut on their bones</div>
               <div class="indent2">as dessicated wood.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
