@@ -148,7 +148,7 @@
               <div class="indent0 acrostic-line">Glistening once as snow, her princes:</div>
               <div class="indent2">whiter than milk,</div>
               <div class="indent1">their limbs more ruddy than coral,</div>
-              <div class="indent2">their beauty as sapphire.</div>
+              <div class="indent2">their beauty as sapphire;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
