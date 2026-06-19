@@ -82,7 +82,7 @@
               <div class="indent0 acrostic-line">Cubs even of jackals</div>
               <div class="indent2">are breast-fed nursed,</div>
               <div class="indent1">but my Daughter People is cruel</div>
-              <div class="indent2">as the desert ostrich.<?php Footnote($fn); ?></div>
+              <div class="indent2">as the desert ostrich;<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -90,6 +90,9 @@
         <div class="poem__verse">
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
+            <?php
+              $fn='Contrast the openings of this verse and the preceding verse. The jackal cubs are suckled; the human babies get nothing.  Berlin (2004), p.106; Goldingay (2022), p.169.';
+            ?>
 <div title="Contrast Psalm 131:2-3 (NASB):
 
   But I have calmed and quieted myself,
@@ -100,7 +103,7 @@
     both now and forevermore."
 >
               <div class="indent0 acrostic-line">Dry-thirsted, the suckling's tongue</div>
-              <div class="indent2">glues to its palate;</div>
+              <div class="indent2">glues to its palate;<?php Footnote($fn); ?></div>
               <div class="indent1">infants beg for bread,</div>
               <div class="indent2">but no one provides.</div>
 </div><!-- mouse-hover -->
@@ -114,13 +117,14 @@
             <?php
               $fn='The purple of luxury.  If this Hebrew poem is then overlaid with the Christian gospels there is a resonance with the trial, mocking and crucifixion of Jesus.';
               $fn_those='The grammatical particle here represented as "those" is relatively rare in Hebrew poetry, yet it is here placed prominently as the acrostic letter in both halves of this verse. (Dobbs-Allsopp (2023), pp.235&ndash;236.) In this version, that initial acrostic placement is not possible, so it is here placed at the breakpoint of each half-verse, as an analogous aid in showing their parallelism.';
+              $fn_swap='To enable the acrostic, the two halves of this verse have been swapped.';
             ?>
               <!--
                 The two parts of this verse follow the same structure.
                 For the use of "those", itself unusual in Hebrew poetry
                 and here double-used, see Dobbs-Allsopp (2023), pp.235-236.
               -->
-              <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
+              <div class="indent0 acrostic-line">Embraced now on dung heaps are those<?php Footnote($fn_those); ?><?php Footnote($fn_swap); ?></div><!-- fortuitously, the original verb is very close to our "embraced"; Berlin (2004) p 101, note 'f' -->
               <div class="indent2">once robed in purple;<?php Footnote($fn); ?></div><!-- rhythmic parallel between the two halves of this verse -->
               <div class="indent1">Destitute now in the streets lie those</div><!-- see footnote on first half-verse -->
               <div class="indent2">once feasting on dainties.</div><!-- rhythmic parallel between the two halves of this verse -->
@@ -145,10 +149,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">7</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Glistening as snow, once, her princes,</div>
-              <div class="indent2">whiter than milk;</div>
-              <div class="indent1">their limbs more ruddy than coral,</div>
-              <div class="indent2">their beauty as sapphire.</div>
+              <div class="indent0 acrostic-line">Glistening once as snow, her princes:</div>
+              <div class="indent2">whiter than milk,</div>
+              <div class="indent1">limbs more ruddy than coral,</div>
+              <div class="indent2">their beauty as sapphire;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -156,9 +160,9 @@
         <div class="poem__verse">
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">How soot-black now their faces,</div>
-              <div class="indent2">unrecognised in streets;</div>
-              <div class="indent1">their skin shrivelled, taut on their bones</div>
+              <div class="indent0 acrostic-line">How soot-black now their faces:</div>
+              <div class="indent2">unrecognised in streets,</div>
+              <div class="indent1">skin shrivelled, taut on their bones</div>
               <div class="indent2">as dessicated wood.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -335,10 +339,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">19</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Vicious and swifter than sky-hawks</div>
-              <div class="indent2">came our pursuers:</div>
-              <div class="indent1">Hot on our heels through the hills;</div>
-              <div class="indent2">ambushers of the desert.</div>
+              <div class="indent0 acrostic-line">Vicious our pursuers; swifter</div>
+              <div class="indent2">than hawks of the skies:</div>
+              <div class="indent1">in the hills, hot on our heels;</div>
+              <div class="indent2">in the desert, ambushers.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
