@@ -82,7 +82,7 @@
               <div class="indent0 acrostic-line">Cubs even of jackals</div>
               <div class="indent2">are breast-fed nursed,</div>
               <div class="indent1">but my Daughter People is cruel</div>
-              <div class="indent2">as the desert ostrich.<?php Footnote($fn); ?></div>
+              <div class="indent2">as the desert ostrich;<?php Footnote($fn); ?></div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
