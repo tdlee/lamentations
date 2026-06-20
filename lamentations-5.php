@@ -118,7 +118,7 @@
             <div class="poem__verseref">15&ndash;16</div>
             <div class="poem__versetext">
                 <div class="indent0">Joy has abandoned our hearts;</div><!-- abandoned: vv.14,15 -->
-                <div class="indent1">our dancing turned into dirges.</div>
+                <div class="indent1">our dancing has turned into dirges.</div>
                   <!-- if we can't acrosti-cate, let's alliterate -->
                 <div class="indent0">The crown from our head has tumbled:</div>
                 <div class="indent1">woe to us; for we have sinned.</div>
