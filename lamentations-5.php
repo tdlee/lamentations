@@ -68,8 +68,8 @@
               <?php
                 $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2018), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
               ?>
-                <div class="indent0">Up to our necks are we pursued;</div>
-                <div class="indent1">we weary, we are given no rest.</div><!-- "we are given": passive voice; Berman (2023) p.163 -->
+                <div class="indent0">Up to our necks we're pursued;</div>
+                <div class="indent1">we weary, we're given no rest.</div><!-- "we're given": passive voice; Berman (2023) p.163 -->
                 <div class="indent0">We stretched out hands to Egypt;<?php Footnote($fn_egypt); ?></div>
                 <div class="indent1">to Assyria to beg for our bread.</div>
                 <div class="indent0">Our ancestors sinned and are no more;</div>
