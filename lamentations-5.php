@@ -54,7 +54,7 @@
             <div class="poem__versetext">
                 <div class="indent0">Our heritage turned over to strangers,</div><!-- 3:3, 5:2: common verb "turn" -->
                 <div class="indent1">our homes to occupiers.</div><!-- 2,3,14,18: qinah -->
-                <div class="indent0">Orphans we have become: fatherless;</div>
+                <div class="indent0">Orphaned we became: fatherless;</div>
                 <div class="indent1">our mothers as widows.</div><!-- 2,3,14,18: qinah -->
                 <div class="indent0">Our well-water? Extorted for profit;</div>
                 <div class="indent1">even our firewood comes at a price.</div>
