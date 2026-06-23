@@ -105,7 +105,7 @@
               <div class="indent1">he weighted me with chains;</div>
               <div class="indent0 acrostic-line">Cry though I into the void,</div>
               <div class="indent1">he blanks out my prayer.</div>
-              <div class="indent0 acrostic-line">Confining my walkway with hewn stone,</div><!-- 7, 9: start with the same verb -->
+              <div class="indent0 acrostic-line">Confining with hewn stone my walkway,</div><!-- 7, 9: start with the same verb -->
               <div class="indent1">he twisted my paths;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
