@@ -57,7 +57,7 @@
                 <div class="indent0">Orphaned we became: fatherless;</div>
                 <div class="indent1">our mothers as widows.</div><!-- 2,3,14,18: qinah -->
                 <div class="indent0">Our well-water? Extorted for profit;</div><!-- water money drink(v) -->
-                <div class="indent1">Our own firewood comes at a price.</div><!-- firewood price comes(v) -->
+                <div class="indent1">Our own firewood sold back at a price.</div><!-- firewood price comes(v) -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
