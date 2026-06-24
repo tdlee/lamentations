@@ -774,6 +774,12 @@
     </li>
 
     <li>
+      At 3:31 the non-inclusive "mankind" is simply for acrostic expediency.
+      The discordance is perhaps slightly lessened by the already heavily male-slanted
+      intrinsic <i>geber</i> context of the surrounding text of the chapter.
+    </li>
+
+    <li>
       At 4:1&ndash;2 "sons" is used to allow a carrying forward from the Hebrew
       of its "stones&hellip;sons" wordplay
       which is embedded in a larger-scale metaphor in those verses.
