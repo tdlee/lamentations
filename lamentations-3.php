@@ -250,7 +250,7 @@
                 <div class="indent1">all prisoners of earth;</div>
                 <div class="indent0 acrostic-line">Nay-saying, denying this man's rights</div><!-- man/geber: vv 1,27,35,39 -->
                 <div class="indent1">before the Most High;</div><!-- vv35,38: "Most High" -->
-                <div class="indent0 acrostic-line">Negating one's pleading for justice;</div>
+                <div class="indent0 acrostic-line">Nixing one's pleading for justice;</div><!-- "nixing" is mentioned in notes -->
                 <div class="indent1">&mdash;does our Lord not look?</div><!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
