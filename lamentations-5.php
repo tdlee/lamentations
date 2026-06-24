@@ -182,7 +182,7 @@
     </div><!-- "panel" -->
 
     <p>
-      Lamentations 5, like other chapters, has the same number of stanzas, 22,
+      Lamentations 5, like the other chapters, has the same number of stanzas, 22,
       as the Hebrew alphabet.
       But unlike the other chapters:
     </p>
