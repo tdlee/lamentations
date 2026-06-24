@@ -121,7 +121,7 @@
                 <div class="indent1">our dancing has turned into dirges.</div>
                   <!-- if we can't acrosti-cate, let's alliterate -->
                 <div class="indent0">The crown from our head has tumbled:</div>
-                <div class="indent1">woe to us; for we have sinned.</div>
+                <div class="indent1">woe unto us; we have sinned.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
