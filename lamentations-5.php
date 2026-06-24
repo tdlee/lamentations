@@ -54,10 +54,10 @@
             <div class="poem__versetext">
                 <div class="indent0">Our heritage turned over to strangers,</div><!-- 3:3, 5:2: common verb "turn" -->
                 <div class="indent1">our homes to occupiers.</div><!-- 2,3,14,18: qinah -->
-                <div class="indent0">Orphans we have become: fatherless;</div>
+                <div class="indent0">Orphaned we became: fatherless;</div>
                 <div class="indent1">our mothers as widows.</div><!-- 2,3,14,18: qinah -->
-                <div class="indent0">Our well-water? Extorted for profit;</div>
-                <div class="indent1">even our firewood comes at a price.</div>
+                <div class="indent0">Our well-water? Extorted for profit;</div><!-- water money drink(v) -->
+                <div class="indent1">Our own firewood sold back at a price.</div><!-- firewood price comes(v) -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -68,8 +68,8 @@
               <?php
                 $fn_egypt='Reaching out to Egypt and Assyria: see also Hosea 7:11 and 12:2. \'Egypt\' may additionally be viewed figuratively as a condition of slavery; see Alter (2018), vol.2 (Prophets) p.1224 (footnote to Hosea 8:13).';
               ?>
-                <div class="indent0">Up to our necks are we pursued;</div>
-                <div class="indent1">we weary, we are given no rest.</div><!-- "we are given": passive voice; Berman (2023) p.163 -->
+                <div class="indent0">Up to our necks we're pursued;</div>
+                <div class="indent1">we weary, we're given no rest.</div><!-- "we're given": passive voice; Berman (2023) p.163 -->
                 <div class="indent0">We stretched out hands to Egypt;<?php Footnote($fn_egypt); ?></div>
                 <div class="indent1">to Assyria to beg for our bread.</div>
                 <div class="indent0">Our ancestors sinned and are no more;</div>
@@ -118,10 +118,9 @@
             <div class="poem__verseref">15&ndash;16</div>
             <div class="poem__versetext">
                 <div class="indent0">Joy has abandoned our hearts;</div><!-- abandoned: vv.14,15 -->
-                <div class="indent1">our dancing turned into dirges.</div>
-                  <!-- if we can't acrosti-cate, let's alliterate -->
+                <div class="indent1">our dancing has turned into dirges.</div>
                 <div class="indent0">The crown from our head has tumbled:</div>
-                <div class="indent1">woe to us; for we have sinned.</div>
+                <div class="indent1">woe unto us; we have sinned.</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -182,7 +181,7 @@
     </div><!-- "panel" -->
 
     <p>
-      Lamentations 5, like other chapters, has the same number of stanzas, 22,
+      Lamentations 5, like the other chapters, has the same number of stanzas, 22,
       as the Hebrew alphabet.
       But unlike the other chapters:
     </p>

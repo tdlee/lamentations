@@ -68,15 +68,15 @@
 >
             <?php
               $fn='Translation compromise.  Ideally this would start "I am the man" but the acrostic constraint doesn\'t allow this.';
-              $fn2='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88.';
+              $fn_firstp='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88. Our slightly peculiar syntax, pushing "I", "me" and "me" towards the head, is an attempt to preserve this. In recitation, stress this word.';
               $fn_blackout='While translations generally use "darkness" here, the word "blackout" has an added shade of fear.';
             ?>
-              <div class="indent0 acrostic-line">Agonies: I am the man<?php Footnote($fn); ?> seared</div><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
+              <div class="indent0 acrostic-line">Agonies: I am the man<?php Footnote($fn); ?><?php Footnote($fn_firstp); ?> seared</div><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
               <div class="indent1">by the rod of his wrath;</div><!-- 2:2; 3:1: wrath -->
               <div class="indent0 acrostic-line">Away&mdash;me he drove, force-marched</div><!-- "me he"; see comment on next verse -->
               <div class="indent1">in blackout,<?php Footnote($fn_blackout); ?> no light;</div><!-- cross-ref v6 -->
               <div class="indent0 acrostic-line">Against me, he turns his hand</div><!-- 3:3, 5:2: common verb "turn" --><!-- "me, he" initially looks odd, but the comma distinguishes it from different "me he" structure in previous verse -->
-              <div class="indent1">from day-dawn to dusk;<?php Footnote($fn2); ?></div>
+              <div class="indent1">from day-dawn to dusk;</div>
 </div><!-- Psalm 23 mouse-hover -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -105,7 +105,7 @@
               <div class="indent1">he weighted me with chains;</div>
               <div class="indent0 acrostic-line">Cry though I into the void,</div>
               <div class="indent1">he blanks out my prayer.</div>
-              <div class="indent0 acrostic-line">Confining my walkway with hewn stone,</div><!-- 7, 9: start with the same verb -->
+              <div class="indent0 acrostic-line">Confining with hewn stone my walkway,</div><!-- 7, 9: start with the same verb -->
               <div class="indent1">he twisted my paths;</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -343,9 +343,9 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Unreasoning, my enemies ensnared me,</div><!-- "ensnare": 3:52; 4:18 --><!-- quoted in "staging" -->
-              <div class="indent1">ensnaring as a bird;</div><!-- double use of "ensnare" -->
-              <div class="indent0 acrostic-line">Undone&mdash;my life in a pit</div>
-              <div class="indent1">as rocks they cast on me;</div>
+              <div class="indent1">ensnaring as a bird.</div><!-- double use of "ensnare" -->
+              <div class="indent0 acrostic-line">Undone, my life in a pit,</div>
+              <div class="indent1">they cast rocks upon me.</div>
               <div class="indent0 acrostic-line">Under waters engulfing my head;</div>
               <div class="indent1">I thought, "I am lost".<?php Footnote('53&ndash;54: see also Ps.88:7&ndash;8 "You plunge me into the bottom of the pit, into the darkness of the abyss. Your wrath lies heavy upon me; all your waves crash over me." (NABRE)'); ?></div>
           </div><!-- poem__versetext -->
