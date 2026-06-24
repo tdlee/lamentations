@@ -343,9 +343,9 @@
           <div class="poem__verseref">52&ndash;54</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Unreasoning, my enemies ensnared me,</div><!-- "ensnare": 3:52; 4:18 --><!-- quoted in "staging" -->
-              <div class="indent1">ensnaring as a bird;</div><!-- double use of "ensnare" -->
-              <div class="indent0 acrostic-line">Undone&mdash;my life in a pit</div>
-              <div class="indent1">as rocks they cast on me;</div>
+              <div class="indent1">ensnaring as a bird.</div><!-- double use of "ensnare" -->
+              <div class="indent0 acrostic-line">Undone, my life in a pit,</div>
+              <div class="indent1">they cast rocks upon me.</div>
               <div class="indent0 acrostic-line">Under waters engulfing my head;</div>
               <div class="indent1">I thought, "I am lost".<?php Footnote('53&ndash;54: see also Ps.88:7&ndash;8 "You plunge me into the bottom of the pit, into the darkness of the abyss. Your wrath lies heavy upon me; all your waves crash over me." (NABRE)'); ?></div>
           </div><!-- poem__versetext -->
