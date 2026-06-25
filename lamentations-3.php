@@ -246,12 +246,16 @@
           <div class="poem__verse">
             <div class="poem__verseref">34&ndash;36</div>
             <div class="poem__versetext">
+              <?php
+                $fn_gerund='This sequence of three \'N\' verses, here presented as "N-ing X", are grammatically "The N-ing of X" infinitival (gerund) phrases, observing ongoing wrongdoing by the powerful. Goldingay (2022), p.146. Our abbreviated version enables preservation both of the acrostic and of the leading verb placement in the Hebrew.';
+                $fn_question='Taking this closing half-verse as a summarising question follows Berlin (2004), p.83, note \'k\'.';
+              ?>
                 <div class="indent0 acrostic-line">Neutering, crushing underfoot</div>
-                <div class="indent1">all prisoners of earth;</div>
+                <div class="indent1">all prisoners of earth;<?php Footnote($fn_gerund); ?></div>
                 <div class="indent0 acrostic-line">Nay-saying, denying this man's rights</div><!-- man/geber: vv 1,27,35,39 -->
                 <div class="indent1">before the Most High;</div><!-- vv35,38: "Most High" -->
                 <div class="indent0 acrostic-line">Nixing one's pleading for justice;</div><!-- "nixing" is mentioned in notes -->
-                <div class="indent1">&mdash;does our Lord not look?</div><!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
+                <div class="indent1">&mdash;does our Lord not look?<?php Footnote($fn_question); ?></div><!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
