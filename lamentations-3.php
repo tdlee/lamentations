@@ -390,7 +390,7 @@
           <div class="poem__versetext">
               <?php
                 $fn1='A near-direct repetition from the previous verse. Goldingay (2022), p.159 indicates that the slight change in the second occurrence makes it sharper. The choice here of "against me" and "at me" attempts to reflect this. This "against/at me" also recurs in the following verse.';
-                $fn2='Just as this poem opens with "I am", so also it (almost) closes.';
+                $fn2='Just as this poem opens with "I am", so also it (almost) closes, before it shifts to invective in the final 64&ndash;66 stanza.  Dobbs-Allsopp (2012), p.127.';
               ?>
               <div class="indent0 acrostic-line">You hear, <span class="yhwh">Lord</span>, their insults,</div>
               <div class="indent1">their scheming at me:<?php Footnote($fn1); ?></div><!-- "against/at me": 60/61/62 -->

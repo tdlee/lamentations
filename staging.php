@@ -434,7 +434,7 @@
       <li>
         &emsp;3:48&ndash;63: grief, supplication
       <li>
-        3:63: Near-closing self-identification: "I am their snide-song".
+        3:63: Near-closing self-identification: "I am their snide-song".<?php Footnote('Dobbs-Allsopp (2012), p.127.'); ?>
       </li>
     </ul>
 
