@@ -245,7 +245,7 @@
               <!-- parts quoted in "staging" -->
               <div class="indent0 acrostic-line">O Daughter Jerusalem:<?php Footnote($fn); ?> to what can I</div>
               <div class="indent2">liken you? How advocate?</div>
-              <div class="indent1">How relate to you? How comfort you,</div>
+              <div class="indent1">How relate to you? How comfort you,</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
               <div class="indent2">virgin Daughter Zion?</div>
               <div class="indent1">Wide as the sea is your ravaging;</div>
               <div class="indent2">who could heal you?</div><!-- quoted at start of chapter -->
