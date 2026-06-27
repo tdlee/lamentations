@@ -114,7 +114,7 @@
               ?>
             <div class="indent0 acrostic-line">Bitterly, night-long, she weeps;</div>
             <div class="indent2">tears wet her cheeks.</div>
-            <div class="indent1">None there is to comfort her</div>
+            <div class="indent1">None there is to comfort her</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
             <div class="indent2">from all who love her;<?php Footnote($fn); ?></div>
             <div class="indent1">her friends all have betrayed her;</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her", and also into the "have become..." on the next line. -->
             <div class="indent2">have become her foes.</div><!-- enemy/foe --><!-- "have...": see comment on previous line -->
@@ -231,7 +231,7 @@
               <div class="indent0 acrostic-line">Impurity clings to her skirts;</div>
               <div class="indent2">no mind has she to her future.</div><!-- 1:7,9: same verb about remembering or calling to mind; 7: to past; 9: to future -->
               <div class="indent1">Downfallen in jaw-dropping shock,</div><!-- 1:7,9, 3:19: "downfall" -->
-              <div class="indent2">there is none to comfort her.</div>
+              <div class="indent2">there is none to comfort her.</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent1">"Look, O <span class="yhwh">Lord</span>: my affliction&mdash;</div>
               <div class="indent2">how the foe triumphs."</div><!-- enemy/foe --><!-- "how": vv9,11 -->
@@ -336,7 +336,7 @@
               ?>
               <div class="indent0 acrostic-line">Streaming with tears, my eyes&mdash;</div>
               <div class="indent2">my eyes weep for these things;</div>
-              <div class="indent1">far distant one who might comfort me,<?php Footnote($fn); ?></div>
+              <div class="indent1">far distant one who might comfort me,<?php Footnote($fn); ?></div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
               <div class="indent2">who might salvage my soul.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
               <div class="indent1">Desolate are all my children;</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">the foe has prevailed.</div><!-- enemy/foe -->
@@ -351,9 +351,9 @@
                 $fn='The narrator\'s earlier speech had used the verbs "spread" and "command" close to its culmination (v.10). The opening of their next speech re-deploys the same verbs with different slants. Linafelt (2000), p.51.';
               ?>
             <div class="poem__versespeaker">Narrator:</div>
-            <div class="indent0 acrostic-line">Tautly Zion outspreads her hands,<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
-              <div class="indent2">but none comforts her;</div>
-              <div class="indent1">the <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
+            <div class="indent0 acrostic-line">Tautly Zion outspreads her hands&mdash;<?php Footnote($fn); ?></div><!-- "spread": 1:10, 1:13, 1:17 -->
+              <div class="indent2">there is none to comfort her.</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
+              <div class="indent1">The <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his neighbours to be enemies;</div>
               <div class="indent1">Jerusalem in their midst has become</div>
               <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
@@ -409,11 +409,11 @@
           <div class="poem__verseref">21</div>
           <div class="poem__versetext">
               <?php
-                $fn1='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: <i>Yearnings&hellip;they heard: "none brings me comfort".</i>';
+                $fn1='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: <i>Yearnings&hellip;they heard: "there is none to comfort me".</i>';
                 $fn2='In Hebrew this word, meaning something like "bad", can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v21 to v22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
               ?>
               <div class="indent0 acrostic-line">Yearnings of anguish they heard:</div>
-              <div class="indent2">none brings me comfort.<?php Footnote($fn1); ?></div>
+              <div class="indent2">there is none to comfort me.<?php Footnote($fn1); ?></div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
               <div class="indent1">My foes all heard my malignant<?php Footnote($fn2); ?> state,</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. --><!-- enemy/foe -->
               <div class="indent2">rejoiced that you caused it.</div>
               <div class="indent1">Oh, bring on the day you called forth&mdash;</div><!-- verb: 15,19,21: match; 17:different -->
