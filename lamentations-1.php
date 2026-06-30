@@ -115,8 +115,8 @@
             <div class="indent0 acrostic-line">Bitterly, night-long, she weeps;</div>
             <div class="indent2">tears wet her cheeks.</div>
             <div class="indent1">None there is to comfort her</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
-            <div class="indent2">from all who love her;<?php Footnote($fn); ?></div>
-            <div class="indent1">her friends all have betrayed her;</div><!-- "her friends all" rather than "all her friends": seems a better flow from the immediately preceding "from all who love her", and also into the "have become..." on the next line. -->
+            <div class="indent2">from all who love her.<?php Footnote($fn); ?></div>
+            <div class="indent1">All her friends have betrayed her;</div>
             <div class="indent2">have become her foes.</div><!-- enemy/foe --><!-- "have...": see comment on previous line -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
