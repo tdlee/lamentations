@@ -116,7 +116,7 @@
             <div class="indent2">tears wet her cheeks.</div>
             <div class="indent1">None there is to comfort her</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
             <div class="indent2">from all who love her.<?php Footnote($fn); ?></div>
-            <div class="indent1">All her friends have betrayed her;</div>
+            <div class="indent1">All her friends have betrayed her&mdash;</div><!-- vv.2,3,4 opening "all her [X]..." -->
             <div class="indent2">have become her foes.</div><!-- enemy/foe --><!-- "have...": see comment on previous line -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -132,7 +132,7 @@
               <div class="indent2">is Judah to hard labour.</div>
               <div class="indent1">Among the nations she <!-- sit/dwell/lie as 1:1 --> sits</div><!-- quoted in "notes" -->
               <div class="indent2">but finds no repose.</div>
-              <div class="indent1">All who pursue her overtake her:</div>
+              <div class="indent1">All her pursuers overtake her:</div><!-- vv.2,3,4 opening "all her [X]..." -->
               <div class="indent2">dire her straits.<?php Footnote($fn); ?></div><!-- mentioned in "notes" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -142,8 +142,8 @@
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Devoid of all pilgrims to her gatherings,</div><!-- match v4,15:gathering[s] -->
-              <div class="indent2">Zion roads mourn;</div><!-- may be "roads to" or "roads in" -->
-              <div class="indent1">her gateways all are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
+              <div class="indent2">Zion roads mourn.</div><!-- may be "roads to" or "roads in" -->
+              <div class="indent1">All her gateways are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 --><!-- vv.2,3,4 opening "all her [X]..." -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
               <div class="indent1">her young women grieve;</div>
               <div class="indent2">how bitter her fate.</div>
