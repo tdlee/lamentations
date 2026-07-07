@@ -86,7 +86,7 @@
           <div class="poem__verseref">4&ndash;6</div>
           <div class="poem__versetext">
             <?php
-              $fn_blackness='Whereas v.2 was about being force-marched in blackout, this blackness, a different word, is more like dungeon-dwelling.';
+              $fn_blackness='Whereas v.2 was about being force-marched in blackout, this blackness, a different word, is about being deposited in a place of darkness like <i>Sheol</i>, often translated as "the pit".  Goldingay (2022), p.131.';
             ?>
               <div class="indent0 acrostic-line">Breaking my bones, he has wasted</div>
               <div class="indent1">my flesh and my skin.</div>
