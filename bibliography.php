@@ -148,6 +148,11 @@
           Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp.41&ndash;49, <?php DOI("10.2307/3263864"); ?>
         </li>
         <li>
+          Lee, Nancy C., (2008), <cite>The Singers of Lamentations: (A)Scribing (De)Claiming Poets and Prophets</cite>,
+            in <?php print $LACC_book ?>, pp.33&ndash;46,
+            <?php ISBN("978-1-58983-357-9"); ?>
+        </li>
+        <li>
           Linafelt, Tod (2001), <a href="https://www.jstor.org/stable/3268299" target="_blank"><cite>The Refusal of a Conclusion in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 120, No. 2 (Summer, 2001), pp.340&ndash;343, <?php DOI("10.2307/3268299"); ?>
         </li>
         <li>

@@ -551,7 +551,7 @@
     <p>
       Central to chapters&nbsp;1 and 2 is "Daughter Zion" ("Daughter Jerusalem").
       The "Daughter&nbsp;X" metaphor extends across all the first four chapters
-      with "Daughter Judah" and "Daughter People".
+      and includes "Daughter Judah".
       In chapter&nbsp;4 it is given a further, but sarcastic, twist
       of <i><span lang="de">schadenfreude</span></i>
       with "Daughter Edom".
@@ -574,9 +574,6 @@
       and is not to be understood in the sense of daughter <em>of</em> Zion, but rather in the sense of Zion <em>as</em> daughter.<?php Footnote('Adelman (2021).'); ?>
       This is not merely a secular-usage "Land of X" or "City of X" or "People of X";
       rather, all these concepts are wrapped together, and in relationship to God, as "Daughter X".
-      Further, an attempt to retain "of" stretches to breaking point
-      of unnecessary obscurity
-      in what would have to become "Daughter of my People" (2:11, 3:48, 4:3,6,10).
     </p>
 
     <p>
@@ -620,6 +617,17 @@
       have necessitated an inversion
       from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
       and from "Daughter Zion" to "Zion-Daughter" (4:22).
+    </p>
+
+    <h3>But "My Daughter People"?</h3>
+
+    <p>
+      There is the added and intriguing complication of "My Daughter People" (2:11, 3:48, 4:3,6,10).
+      Most commentators assume this to be simply a variant appellation of the "Daughter Zion" symbolic personification of the city, as discussed above.
+      Here, we follow this interpretation.
+      But it is worth observing that, from parallel language in Jeremiah and Ezekiel, a different interpretation is possible:
+      that, unlike "Daughter Zion", this should be "Daughter of My People",
+      a literal reference to a real, although unnamed, female prophet.<?php Footnote('Lee (2008), pp.45&ndash;46.'); ?>
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
