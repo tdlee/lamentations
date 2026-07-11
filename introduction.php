@@ -337,7 +337,7 @@
     By contrast, in this version, whatever necessary four letters are chosen for omission,
     'A' and 'Z' surely remain indispensable.<?php
       Footnote('There is a further subtlety of a letter-reversal at one point in two slightly different orderings of the Hebrew alphabet in different chapters.
-        This is deemed irrelevant here, as we already have to omit four letters of our own alphabet.');
+        In our context this seems beyond our scope, as we already have to omit four letters of our own alphabet.');
     ?>
     This "aleph to tav", "A&nbsp;to&nbsp;Z" totality, is restored to its place
     as an integral, even essential, component of "meaning".

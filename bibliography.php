@@ -28,6 +28,10 @@
       include('chapter-links.php');
     ?>
 
+    <?php
+      $LACC_book='"Lamentations in Ancient and Contemporary Contexts", edited by Nancy C. Lee and Carleen Mandolfo, SBL Symposium Series';
+    ?>
+
     <p>
       Much of the detail here has been greatly aided by some excellent literature.
       The major sources are listed below.
@@ -115,6 +119,11 @@
           Dobbs-Allsopp, F.W. (2001<em>b</em>), <cite>The Effects of Enjambment in Lamentations (Part 2)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.370&ndash;385, <?php DOI("10.1515/zatw.2001.003"); ?>
         </li>
         <li>
+          Dobbs-Allsopp, F.W. (2008), <a href="https://www.academia.edu/3770023/Lamentations_from_Sundry_Angles_A_Retrospective" target="_blank"><cite>Lamentations from Sundry Angles: A Retrospective</cite></a>,
+            in <?php print $LACC_book ?>, pp.13&ndash;25,
+            <?php ISBN("978-1-58983-357-9"); ?>
+        </li>
+        <li>
           Freedman, David Noel (1977), <a href="https://www.jstor.org/stable/3265324" target="_blank"><cite>Pottery, Poetry, and Prophecy: An Essay on Biblical Poetry</cite></a>, Journal of Biblical Literature, Vol. 96, No. 1 (March, 1977), pp.5&ndash;26, <?php DOI("10.2307/3265324"); ?>
         </li>
         <li>
@@ -137,6 +146,11 @@
         </li>
         <li>
           Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp.41&ndash;49, <?php DOI("10.2307/3263864"); ?>
+        </li>
+        <li>
+          Lee, Nancy C., (2008), <cite>The Singers of Lamentations: (A)Scribing (De)Claiming Poets and Prophets</cite>,
+            in <?php print $LACC_book ?>, pp.33&ndash;46,
+            <?php ISBN("978-1-58983-357-9"); ?>
         </li>
         <li>
           Linafelt, Tod (2001), <a href="https://www.jstor.org/stable/3268299" target="_blank"><cite>The Refusal of a Conclusion in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 120, No. 2 (Summer, 2001), pp.340&ndash;343, <?php DOI("10.2307/3268299"); ?>
@@ -175,10 +189,8 @@
         </li>
         <li>
           Williamson, Robert Jr. (2008), <a href="https://www.academia.edu/532310/Lament_and_the_Arts_of_Resistance_Public_and_Hidden_Transcripts_in_Lamentations_5" target="_blank"><cite>Lament and the Arts of Resistance: Public and Hidden Transcripts in Lamentations&nbsp;5</cite></a>,
-            in "Lamentations in Ancient and Contemporary Contexts",
-            edited by Nancy C. Lee and Carleen Mandolfo,
-            SBL Symposium Series, pp.67&ndash;80,
-            <?php ISBN("978-1589833579"); ?>
+            in <?php print $LACC_book ?>, pp.67&ndash;80,
+            <?php ISBN("978-1-58983-357-9"); ?>
         </li>
       </ul>
     </div><!-- "bib" -->

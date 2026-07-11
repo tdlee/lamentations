@@ -476,7 +476,14 @@
     <h2>Word choices</h2>
 
     <p>
-      Lamentations was written in contemporary language of its day.
+      Lamentations was written in contemporary language of its day.<?php
+        Footnote('Dobbs-Allsopp (2008), pp.16&ndash;18 places the language
+          in the transitional stage between Standard Biblical Hebrew (SBH)
+          and Late Biblical Hebrew (LBH),
+          thus likely to be sometime in the sixth century BCE.
+          This corresponds with the time of the Babylonian Exile, c. 587 BCE,
+          which itself influenced this transition.');
+      ?>
       Accordingly this version sometimes uses words and terms that are relatively modern in our own day,
       or that have a modern edge.
       Examples include: "listen up" (1:18), "zero in" (1:22), "blitzed" (2:2), "blackout" (3:2), "hell-bent" (2:8), "slow-clap" (2:15), "nixing" (3:36), "snide-song" (3:63), "zilch" (3:64), "ziplock" (3:65), "firestorm" (4:11), "boozed" (4:21), "no-go zones" (4:18), "up to our necks" (5:5).
@@ -544,7 +551,7 @@
     <p>
       Central to chapters&nbsp;1 and 2 is "Daughter Zion" ("Daughter Jerusalem").
       The "Daughter&nbsp;X" metaphor extends across all the first four chapters
-      with "Daughter Judah" and "Daughter People".
+      and includes "Daughter Judah".
       In chapter&nbsp;4 it is given a further, but sarcastic, twist
       of <i><span lang="de">schadenfreude</span></i>
       with "Daughter Edom".
@@ -567,9 +574,6 @@
       and is not to be understood in the sense of daughter <em>of</em> Zion, but rather in the sense of Zion <em>as</em> daughter.<?php Footnote('Adelman (2021).'); ?>
       This is not merely a secular-usage "Land of X" or "City of X" or "People of X";
       rather, all these concepts are wrapped together, and in relationship to God, as "Daughter X".
-      Further, an attempt to retain "of" stretches to breaking point
-      of unnecessary obscurity
-      in what would have to become "Daughter of my People" (2:11, 3:48, 4:3,6,10).
     </p>
 
     <p>
@@ -613,6 +617,17 @@
       have necessitated an inversion
       from "Daughter Jerusalem" to "Jerusalem-Daughter" (2:10)
       and from "Daughter Zion" to "Zion-Daughter" (4:22).
+    </p>
+
+    <h3>But "My Daughter People"?</h3>
+
+    <p>
+      There is the added and intriguing complication of "My Daughter People" (2:11, 3:48, 4:3,6,10).
+      Most commentators assume this to be simply a variant appellation of the "Daughter Zion" symbolic personification of the city, as discussed above.
+      Here, we follow this interpretation.
+      But it is worth observing that, from parallel language in Jeremiah and Ezekiel, a different interpretation is possible:
+      that, unlike "Daughter Zion", this should be "Daughter of My People",
+      a literal reference to a real, although unnamed, female prophet.<?php Footnote('Lee (2008), pp.45&ndash;46.'); ?>
     </p>
 
     <h3>Sit/lodge/lie: a worked example</h3>
