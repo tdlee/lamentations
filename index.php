@@ -107,6 +107,17 @@
     </p>
 
     <p>
+      Meanwhile commentary author Tod Linafelt observed that
+      <i>
+        "there is much work that remains to be done on the poetry of Lamentations,
+        interpreted precisely <u>as poetry</u>. [His emphasis.]
+        If one were to bring to bear&hellip; a literary sensibility
+        shaped by a wide and deep reading in lyric poetry,&hellip;
+        the book of Lamentations would yield even more of its artfulness
+        in shaping of grief."</i><?php Footnote('Linafelt (2008), p.63.'); ?>
+    </p>
+
+    <p>
       And me?  A lifelong, fruitless struggle to 'get' Lamentations.
       It wouldn't click. It wouldn't open.
       Alright, it opened just enough to be irritated that when our church songs and culture
