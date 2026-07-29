@@ -728,8 +728,8 @@
       <a href="https://www.biblegateway.com/passage/?search=lamentations+4&version=YLT" target="_blank">Young's Literal Translation</a>
       and the <a href="https://biblehub.com/lsv/lamentations/4.htm" target="_blank">Literal Standard Version</a>
       are two notable exceptions.
-      The Hebrew even reinforces this aspect by opening both couplets with "face":
-      "[The] face&hellip; [the] faces&hellip;".
+      The Hebrew even reinforces this aspect by opening both couplets with "face", something like:
+      <i>"[The] face of the <span class="yhwh">Lord</span> scatters&hellip; [the] faces of the priests are disdained&hellip;"</i>.
       Its absence from most English versions seems an astonishing omission,
       as the concept of "the face (or countenance) of the <span class="yhwh">Lord</span>"
       seems theologically important in the Torah.
