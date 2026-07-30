@@ -302,7 +302,7 @@
               <!-- "face": 2:19, 4:16 -->
               <div class="indent0 acrostic-line">Scattered from the <span class="yhwh">Lord</span>'s face,<?php Footnote($fnface1); ?><?php Footnote($fnface2); ?></div><!-- near-quoted in "notes" -->
               <div class="indent2">no more does he notice them.</div><!-- variant of "notice": see also 1:11, 1:12 etc. --><!-- quoted in "notes" --><!-- vv.16,22: "no more..." commonality and in leading position -->
-              <div class="indent1">They disdain their priests' faces;</div><!-- near-quoted in "notes" -->
+              <div class="indent1">They disdain their priests to their faces;</div><!-- near-quoted in "notes" -->
               <div class="indent2">show elders no favour.</div>
 </div><!-- mouse-hover -->
           </div><!-- poem__versetext -->
