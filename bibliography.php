@@ -144,15 +144,15 @@
         <li>
           Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch
         </li>
-
-
         <li>
-          Kotz&eacute;, Gideon R. (2019), <cite>Just Like Puericide: The Greek Translation and Interpretation of a Debated Hebrew Phrase in Lamentations 1:20</cite>,
+          Kotz&eacute;, Gideon R. (2019<em>a</em>), <cite>Just Like Puericide: The Greek Translation and Interpretation of a Debated Hebrew Phrase in Lamentations 1:20</cite>,
            in XVI Congress of the International Organization for Septuagint and Cognate Studies (Society of Biblical Literature Septuagint and Cognate Studies 71),
             edited by Gideon R. Kotz&eacute;, Wolfgang Kraus and Micha&euml;l N. van der Meer, SBL Press, pp.103&ndash;17,
             <?php ISBN("978-0884143604"); ?>
         </li>
-
+        <li>
+          Kotz&eacute;, Gideon R. (2019<em>b</em>), <a href="https://www.academia.edu/41272380/Holding_up_a_Hand_mill_in_Lam_5_13" target="_blank"><cite>Holding up a hand-mill in Lam 5:13: A Fresh Interpretation of the Debated Reading in the Hebrew Texts</cite></a>, Journal of Northwest Semitic Languages 45/1, pp.73&ndash;87
+        </li>
         <li>
           Lanahan, William F. (1974), <a href="https://www.jstor.org/stable/3263864" target="_blank"><cite>The Speaking Voice in the Book of Lamentations</cite></a>, Journal of Biblical Literature, Vol. 93, No. 1 (Mar., 1974), pp.41&ndash;49, <?php DOI("10.2307/3263864"); ?>
         </li>
