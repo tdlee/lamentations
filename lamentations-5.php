@@ -107,7 +107,7 @@
                 <div class="indent0">Princes are strung up by their hands;</div><!-- many versions "hung up"; Contemporary English Version "strung up" -->
                 <div class="indent1">elders disrespected to their faces.</div>
                 <div class="indent0">Young men slave at millstones;</div>
-                <div class="indent1">lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Middlemas (2021), p.100.'); ?></div>
+                <div class="indent1">lads under woodpiles stagger.<?php Footnote('A difficult verse to translate in several respects. So given the surrounding abuse-related text, a view of hard-labour and slavery is chosen; the work typically of pack animals. See Berlin (2004), p.123; Goldingay (2022), pp.200&ndash;201; Hens-Piazza (2017), p.83; Kotz&eacute; (2019<em>b</em>); Middlemas (2021), p.100.'); ?></div>
                 <div class="indent0">Elders abandoned their city-gate;</div><!-- abandoned: vv.14,15 -->
                 <div class="indent1">young men their songs.</div><!-- the first half's "abandoned" verb serves this half--><!-- 2,3,14,18: qinah -->
             </div><!-- poem__versetext -->
