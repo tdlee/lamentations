@@ -145,7 +145,7 @@
           Kotz&eacute;, Gideon R. (2011), <cite>A Text-critical Analysis of the Lamentations Manuscripts from Qumran (3QLam, 4QLam, 5QLam<sup>a</sup> and 5QLam<sup>b</sup>)</cite>, University of Stellenbosch
         </li>
         <li>
-          Kotz&eacute;, Gideon R. (2019<em>a</em>), <cite>Just Like Puericide: The Greek Translation and Interpretation of a Debated Hebrew Phrase in Lamentations 1:20</cite>,
+          Kotz&eacute;, Gideon R. (2019<em>a</em>), <a href="https://www.academia.edu/39644072/Just_Like_Puericide_The_Greek_Translation_and_Interpretation_of_a_Debated_Hebrew_Phrase_in_Lamentations_1_20" target="_blank"><cite>Just Like Puericide: The Greek Translation and Interpretation of a Debated Hebrew Phrase in Lamentations 1:20</cite></a>,
            in XVI Congress of the International Organization for Septuagint and Cognate Studies (Society of Biblical Literature Septuagint and Cognate Studies 71),
             edited by Gideon R. Kotz&eacute;, Wolfgang Kraus and Micha&euml;l N. van der Meer, SBL Press, pp.103&ndash;17,
             <?php ISBN("978-0884143604"); ?>
