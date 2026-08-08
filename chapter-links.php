@@ -1,5 +1,5 @@
 
-  <nav>
+  <nav aria-label="submenu fo Lamentations">
     <div class="noprint">
       <ul class="nav">
         <li>
