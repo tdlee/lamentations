@@ -20,7 +20,7 @@
     include($_SERVER['DOCUMENT_ROOT'] . '/php/bodyheader.php');
   ?>
 
-  <div class="content-area">
+  <?php MyMain(); ?>
 
     <h1>Lamentations: Introduction</h1>
 
@@ -474,7 +474,7 @@
       ?>
     </div><!-- footnotes -->
 
-  </div><!-- content-area -->
+  <?php MyMainEnd(); ?>
 
   <?php
     include($_SERVER['DOCUMENT_ROOT'] . '/php/bodyfooter.php');
