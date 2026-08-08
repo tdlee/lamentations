@@ -38,6 +38,7 @@
     the bondage of our preconceptions.
     </p>
 
+    <?php MyAside("quote from Twelfth Night"); ?>
     <!-- panel -->
       <!--
         Note that this is referenced from a few paragraphs below
@@ -66,6 +67,8 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
+    <?php MyAsideEnd(); ?>
+
     <p>
     Might our reading of scripture risk actually stifling it?
     We sit in comfortable chairs. We are silent.
@@ -227,6 +230,7 @@
     <i>Lamentations is poetry. Not prose.</i>
     </p>
 
+    <?php MyAside("poem demonstrating alphabetic acrostics"); ?>
     <!-- panel -->
     <div class="sidebar__right--width-47pc">
       <div class="panel">
@@ -267,6 +271,7 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
+    <?php MyAsideEnd(); ?>
 
     <p>
     Several psalms use the technique of acrostics in the Hebrew alphabet of 22 letters.<?php Footnote('The alphabetic-acrostic psalms are: 9&ndash;10 (as a pair), 25, 34, 37, 111, 112, 119 (eightfold acrostic) and 145.'); ?>
@@ -408,6 +413,7 @@
 
     <h2>In summary</h2>
 
+    <?php MyAside("quotation from New American Bible Revised Edition's introduction to Lamentations"); ?>
     <!-- panel -->
     <div class="sidebar__right--width-28em">
       <div class="panel">
@@ -428,6 +434,7 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
+    <?php MyAsideEnd(); ?>
 
     <p>
     <i>Lamentations is poetry. Not prose.</i>

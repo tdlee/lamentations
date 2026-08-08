@@ -60,6 +60,7 @@
 
     <h2>Guiding principles</h2>
 
+    <?php MyAside("a personal reflection"); ?>
     <!-- panel -->
     <div class="sidebar__right--width-28em">
       <div class="panel">
@@ -104,6 +105,7 @@
       </div><!-- "panel" -->
     </div><!-- "sidebar" -->
     <!-- panel -->
+    <?php MyAsideEnd(); ?>
 
     <p>
       The alphabetic acrostic is central.  The <i>qinah</i> rhythm is central.
