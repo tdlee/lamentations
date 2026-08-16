@@ -43,7 +43,7 @@
      There doesn't seem to be a significant difference.
      Verses: 2, 5, 7, 9, 10, 16, 17, 21.
      Nevertheless we try to respect the original.
-     We let the E-acrostic at v5 decide on "enemy" to open it.
+     We let the E-acrostic at v.5 decide on "enemy" to open it.
      This couplet has both words so makes a good baseline for tracking usage.
        Goldingay/Young:adversary  Berlin:foe    Sefaria:enemy  Lee:enemy
        Goldingay/Young:enemy:     Berlin:enemy  Sefaria:foe    Lee:foe
@@ -141,7 +141,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">4</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Devoid of all pilgrims to her gatherings,</div><!-- match v4,15:gathering[s] -->
+              <div class="indent0 acrostic-line">Devoid of all pilgrims to her gatherings,</div><!-- match vv.4,15:gathering[s] -->
               <div class="indent2">Zion roads mourn.</div><!-- may be "roads to" or "roads in" -->
               <div class="indent1">All her gateways are desolate,</div><!-- "desolate" common to 1:4, 1:13, 1:16 --><!-- vv.2,3,4 opening "all her [X]..." -->
               <div class="indent2">her priests groan,</div><!-- quoted in chapter intro -->
@@ -209,18 +209,18 @@
                   with three possibilities of meaning and interpretation:
                   "mockery", "wanderer" and "menstruant",
                   the last supported by its similarity to (although not sameness as)
-                  the closing phrase of the more certain v17.
+                  the closing phrase of the more certain v.17.
                   There may well be an intentional interplay of them all.
                   See Berlin (2004), pp.53&ndash;54 (and 58&ndash;59); also Goldingay (2022), pp.62&ndash;63.
                   This version uses a common "soiled" at both verses to reflect this resonance.';
-                $fn_recoil='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v13 she turns the same terminology to her defence.';
+                $fn_recoil='The narrator\'s words can be seen here to imply Daughter Zion\'s guilty reaction. But at v.13 she turns the same terminology to her defence.';
               ?>
               <div class="indent0 acrostic-line">How grievously has Jerusalem sinned&mdash;</div>
-              <div class="indent2">how become a soiled rag.<?php Footnote($fn_soiled); ?></div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
+              <div class="indent2">how become a soiled rag.<?php Footnote($fn_soiled); ?></div><!-- vv.8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
               <div class="indent1">Those who once honoured her, despise her,</div><!-- 8b,11c: "despised": closely related -->
               <div class="indent2">seeing her nakedness.</div>
               <div class="indent1">She, aghast, cries out;</div>
-              <div class="indent2">she recoils backwards.<?php Footnote($fn_recoil); ?></div><!-- vv8,13: same root words "turn/back" -->
+              <div class="indent2">she recoils backwards.<?php Footnote($fn_recoil); ?></div><!-- vv.8,13: same root words "turn/back" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -234,7 +234,7 @@
               <div class="indent2">there is none to comfort her.</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent1">"Look, O <span class="yhwh">Lord</span>: my affliction&mdash;</div>
-              <div class="indent2">how the foe triumphs."</div><!-- enemy/foe --><!-- "how": vv9,11 -->
+              <div class="indent2">how the foe triumphs."</div><!-- enemy/foe --><!-- "how": vv.9,11 -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -266,8 +266,8 @@
               <div class="indent1">bartering treasures for food</div>
               <div class="indent2">to salvage their souls.</div><!-- 1:11,16,19: "salvage...soul" --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
             <div class="poem__versespeaker">Daughter Zion:</div>
-              <div class="indent1">"Look, O <span class="yhwh">Lord</span>, and notice&mdash;</div><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
-              <div class="indent2">how despised I've become."</div><!-- "how": vv9,11 --><!-- 8b,11c: "despised": closely related --><!-- "become": sense of transistion into this state -->
+              <div class="indent1">"Look, O <span class="yhwh">Lord</span>, and notice&mdash;</div><!-- vv.11,12: match verbs, albeit in reverse order; see also 5:1 -->
+              <div class="indent2">how despised I've become."</div><!-- "how": vv.9,11 --><!-- 8b,11c: "despised": closely related --><!-- "become": sense of transistion into this state -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -275,10 +275,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">12</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Notice! And look, you passers-by;</div><!-- vv11,12: match verbs, albeit in reverse order; see also 5:1 -->
+              <div class="indent0 acrostic-line">Notice! And look, you passers-by;</div><!-- vv.11,12: match verbs, albeit in reverse order; see also 5:1 -->
               <div class="indent2">is it nothing to you?</div><!-- couplet copied in "notes" -->
               <div class="indent1">Is there any pain like my pain,</div><!--vv.12,18: common "pain" -->
-              <div class="indent2">which he unleashed against me&mdash;</div><!-- vv12,22: common "unleash" ("deal out") --><!-- this line and next both begin "which". Dobbs-Allsopp (2023) p.239. -->
+              <div class="indent2">which he unleashed against me&mdash;</div><!-- vv.12,22: common "unleash" ("deal out") --><!-- this line and next both begin "which". Dobbs-Allsopp (2023) p.239. -->
               <div class="indent1">which the <span class="yhwh">Lord</span> inflicted</div><!-- vv.5,12: afflicted/inflicted (would ideally be the same) --><!-- leading "which": see comment on previous line -->
               <div class="indent2">in the day of his anger?</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
           </div><!-- poem__versetext -->
@@ -291,7 +291,7 @@
               <div class="indent0 acrostic-line">Out from on high he hurled fire</div>
               <div class="indent2">down into my bones.</div>
               <div class="indent1">He spread a net for my feet;</div><!-- "spread": 1:10, 1:13, 1:17 -->
-              <div class="indent2">recoiling me backwards.<?php Footnote('See footnote at v8.'); ?></div><!-- vv8,13: same root words "turn/back" -->
+              <div class="indent2">recoiling me backwards.<?php Footnote('See footnote at v.8.'); ?></div><!-- vv.8,13: same root words "turn/back" -->
               <div class="indent1">Desolate has he made me:</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">all day sickened.</div><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
           </div><!-- poem__versetext -->
@@ -320,7 +320,7 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Rejected by my Lord in my midst</div>
               <div class="indent2">are all my own warriors;</div>
-              <div class="indent1">he called a gathering against me</div><!-- verb: 15,19,21: match; 17:different --><!-- match v4,15:gathering[s] -->
+              <div class="indent1">he called a gathering against me</div><!-- verb: 15,19,21: match; 17:different --><!-- match vv.4,15:gathering[s] -->
               <div class="indent2">to crush my young men.</div>
               <div class="indent1">In a winepress my Lord has trodden</div>
               <div class="indent2">virgin Daughter Judah.</div>
@@ -356,7 +356,7 @@
               <div class="indent1">The <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his neighbours to be enemies;</div>
               <div class="indent1">Jerusalem in their midst has become</div>
-              <div class="indent2">menstrually soiled.</div><!-- vv 8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
+              <div class="indent2">menstrually soiled.</div><!-- vv.8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
@@ -366,7 +366,7 @@
           <div class="poem__versetext">
             <div class="poem__versespeaker">Daughter Zion:</div>
               <div class="indent0 acrostic-line">Upright in judgement is the <span class="yhwh">Lord</span>,</div>
-              <div class="indent2">for I defied his command.</div><!-- vv18,20: match "defied" -->
+              <div class="indent2">for I defied his command.</div><!-- vv.18,20: match "defied" -->
               <div class="indent1">Listen up,<?php Footnote('This modern-sounding "listen up" idea from Mandolfo (2007), p.97.'); ?><!-- see also "notes" --> all you peoples;</div>
               <div class="indent2">look on my pain:</div><!--vv.12,18: common "pain" -->
               <div class="indent1">my maidens and my young men</div>
@@ -378,7 +378,7 @@
         <div class="poem__verse">
           <div class="poem__verseref">19</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Vainly I called to my lovers&mdash;</div><!-- verb: 15,19,21: match; 17:different --><!-- for "lovers" see note at v2 which is different -->
+              <div class="indent0 acrostic-line">Vainly I called to my lovers&mdash;</div><!-- verb: 15,19,21: match; 17:different --><!-- for "lovers" see note at v.2 which is different -->
               <div class="indent2">they abandoned me.</div>
               <div class="indent1">In the city my priests and my elders</div><!-- quoted in chapter intro -->
               <div class="indent2">perish</div>
@@ -399,7 +399,7 @@
               <div class="indent0 acrostic-line">Wretched am I, <span class="yhwh">Lord</span>; look!</div><!-- referenced in notes (for notice/look) -->
               <div class="indent2">My stomach churns,</div><!-- 1:20, 2:11: same --><!-- "churn" resembles "defy": see footnote -->
               <div class="indent1">my heart within me turns over:</div>
-              <div class="indent2">defiantly had I defied.<?php Footnote($fn_double); ?><?php Footnote($fn_bitter); ?></div><!-- vv18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root --><!-- cross-ref: footnotes mentioned in "notes" -->
+              <div class="indent2">defiantly had I defied.<?php Footnote($fn_double); ?><?php Footnote($fn_bitter); ?></div><!-- vv.18,20: match "defied" --><!-- maintain Hebrew doubling of "defy" root --><!-- cross-ref: footnotes mentioned in "notes" -->
               <div class="indent1">Outdoors, the sword bereaves;</div>
               <div class="indent2">indoors, very death.<?php Footnote($fn_death); ?></div>
           </div><!-- poem__versetext -->
@@ -411,7 +411,7 @@
           <div class="poem__versetext">
               <?php
                 $fn1='Berlin (2004) pp.44,60 takes this half-line as vocalised utterance. Here that would be: <i>Yearnings&hellip;they heard: "there is none to comfort me".</i>';
-                $fn2='In Hebrew this word, meaning something like "bad", can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v21 to v22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
+                $fn2='In Hebrew this word, meaning something like "bad", can apply in two opposite directions: someone can be either on the receiving end (e.g. "I\'m bad", such as distressed or injured: "in a bad way") or the performing end (e.g. "I\'m bad", such as an evildoer\'s innate badness). Here the progression from v.21 to v.22 exploits this word\'s dual direction for a revengeful <i><span lang="de">schadenfreude</span></i>. See Goldingay (2022), pp.80&ndash;81. To reflect this "same but opposite" poetically whilst avoiding potential ambiguity, we use the near-rhymes "malignant state" and "malignant ways".';
               ?>
               <div class="indent0 acrostic-line">Yearnings of anguish they heard:</div>
               <div class="indent2">there is none to comfort me.<?php Footnote($fn1); ?></div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
@@ -430,7 +430,7 @@
                 $fn='The opening v.1 "great", there used twice positively, here returns, but in negative contrast, to bracket this chapter.  See Dobbs-Allsopp (2012), p.74.';
               ?>
               <div class="indent0 acrostic-line">Zero in&mdash;their malignant ways all are before you;</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
-              <div class="indent2">unleash against them</div><!-- vv12,22: common "unleash" ("deal out") -->
+              <div class="indent2">unleash against them</div><!-- vv.12,22: common "unleash" ("deal out") -->
               <div class="indent1">as you unleashed against me</div>
               <div class="indent2">for all my transgressions.</div><!-- 5,14,22: same word "transgressions" -->
               <div class="indent1">For great<?php Footnote($fn); ?> are my groans;</div><!-- "great": 1a,1b,22c -->
@@ -453,7 +453,7 @@
     </p>
 
     <p>
-      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v4) through to "<em>my</em> priests and <em>my</em> elders perish" (v19).<?php Footnote('Dobbs-Allsopp (2012), p.62.'); ?>
+      Further, in this first poem all the cited human suffering is connected to, and filtered through, the persona of the city, from "<em>her</em> priests groan" (v.4) through to "<em>my</em> priests and <em>my</em> elders perish" (v.19).<?php Footnote('Dobbs-Allsopp (2012), p.62.'); ?>
     </p>
 
     <p>
@@ -490,7 +490,7 @@
       which has a significant bearing on how we receive it.
       At first sight, the section is strongly suggestive of Daughter Zion
       having been wilfully unfaithful and wantonly adulterous,
-      including the accusation of "sin" (v8).<?php
+      including the accusation of "sin" (v.8).<?php
         Footnote('Several other linguistic resonances and wordplays across the whole chapter
           lead the surface reading in this direction.');
       ?>

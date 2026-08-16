@@ -497,16 +497,16 @@
       until at 18&ndash;19 the reporter can be seen to implore the city
       to voice her complaint, which she accordingly does to close the poem.
       Yet in the midst of their initially objective reportage,
-      the reporter switches to an engaged present-tense at v10,<?php Footnote('Berman (2023), p.67.'); ?>
+      the reporter switches to an engaged present-tense at v.10,<?php Footnote('Berman (2023), p.67.'); ?>
       breaking down and speaking subjectively of their own personal response
       in a soliloquy, 11&ndash;17, that interrupts their graphic portrayal of the violence
       and seeks, however vainly, to comfort Jerusalem.<?php Footnote('Middlemas (2021), p.94.'); ?>
-      And the likely trigger for the observer's change of stance in v11?
+      And the likely trigger for the observer's change of stance in v.11?
       Here is where the tortured, lingering deaths of infants and children,
       the innocents, are witnessed, with their own mothers agonisingly helpless.<?php
         Footnote('Hens-Piazza (2017), pp.25&ndash;26.');
       ?>
-      "Who could heal you?"&nbsp;(v13). The only possible healer is God,
+      "Who could heal you?"&nbsp;(v.13). The only possible healer is God,
       but God is the very one ravaging her in the first place.<?php
         Footnote('O\'Connor (2002), p.38.');
       ?>

@@ -53,7 +53,7 @@
             ?>
               <div class="indent0 acrostic-line">Alas!<?php Footnote($fn); ?> The gold, now dulled;</div>
               <div class="indent2">finest gold tarnished!</div>
-              <div class="indent1">the holy stones<?php Footnote($fn2); ?> disgorged<?php Footnote($fn3); ?></div><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v1) and "sons" (v2) should resonate -->
+              <div class="indent1">the holy stones<?php Footnote($fn2); ?> disgorged<?php Footnote($fn3); ?></div><!-- disgorged: 4:1, 4:11, 4:13 --><!-- "stones" (v.1) and "sons" (v.2) should resonate -->
               <div class="indent2">on every street corner.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -63,9 +63,9 @@
           <div class="poem__verseref">2</div>
           <div class="poem__versetext">
             <?php
-              $fn='The Hebrew words at "stones" (v1) and "sons" (v2) are similar. This has guided the choice of words in this version.';
+              $fn='The Hebrew words at "stones" (v.1) and "sons" (v.2) are similar. This has guided the choice of words in this version.';
             ?>
-              <div class="indent0 acrostic-line">Belov&egrave;d sons<?php Footnote($fn); ?> of Zion</div><!-- "stones" (v1) and "sons" (v2) should resonate -->
+              <div class="indent0 acrostic-line">Belov&egrave;d sons<?php Footnote($fn); ?> of Zion</div><!-- "stones" (v.1) and "sons" (v.2) should resonate -->
               <div class="indent2">of gold-weight worth,</div>
               <div class="indent1">alas, ranked mere clay crocks&mdash;</div><!-- "alas" matches opening word of this chapter (and so also of chapters 1 and 2) --><!-- "mere" added because English "crocks" doesn't quite capture disposable nature of Hebrew -->
               <div class="indent2">work of a potter's hands.</div><!-- all three keywords (work, potter, hand) are important -->
@@ -136,7 +136,7 @@
           <div class="poem__verseref">6</div>
           <div class="poem__versetext">
             <?php
-              $fn='The pairing of "iniquity" and "outrage" is common to vv.6, 13 and&nbsp;22; see Goldingay (2022), p.186. "Outrage" in this chapter, required by the \'O\' acrostic in v13, corresponds to "sin" in other chapters. (The O-acrostic possibility of "offence" seems too mild.)';
+              $fn='The pairing of "iniquity" and "outrage" is common to vv.6, 13 and&nbsp;22; see Goldingay (2022), p.186. "Outrage" in this chapter, required by the \'O\' acrostic in v.13, corresponds to "sin" in other chapters. (The O-acrostic possibility of "offence" seems too mild.)';
             ?>
               <div class="indent0 acrostic-line">Far greater my Daughter People's iniquity</div>
               <div class="indent2">than the outrage of Sodom,<?php Footnote($fn); ?></div><!-- 4:6,13,22: iniquity/outrage: same nouns, different order;  different singular/plural -->
@@ -403,7 +403,7 @@
 
     <p>
       The opening "Alas!" recalls the first two poems;
-      it is swiftly reinforced in the second half of v2.
+      it is swiftly reinforced in the second half of v.2.
     </p>
 
     <p>
@@ -458,26 +458,26 @@
     </p>
     <ul>
       <li>
-         v2: the rare term "children [sons] of Zion" leads us to <a href="https://www.biblegateway.com/passage/?search=psalm+149%3A2&version=NRSVUE" target="_blank">Psalm&nbsp;149:2</a><?php
+         v.2: the rare term "children [sons] of Zion" leads us to <a href="https://www.biblegateway.com/passage/?search=psalm+149%3A2&version=NRSVUE" target="_blank">Psalm&nbsp;149:2</a><?php
           Footnote('Goldingay (2022), p.168; Berman (2023), p.130.');
         ?>
         which in turn draws us to contrast this chapter overall with themes in that psalm
       </li>
       <li>
-        v4: contrast with <a href="https://www.biblegateway.com/passage/?search=psalm+131&version=NRSVUE" target="_blank">Psalm&nbsp;131</a>
+        v.4: contrast with <a href="https://www.biblegateway.com/passage/?search=psalm+131&version=NRSVUE" target="_blank">Psalm&nbsp;131</a>
       </li>
       <li>
-        v12: seems almost a parody of <a href="https://www.biblegateway.com/passage/?search=psalm+48%3A4-8&version=NRSVUE" target="_blank">Psalm&nbsp;48:4&ndash;8</a><?php
+        v.12: seems almost a parody of <a href="https://www.biblegateway.com/passage/?search=psalm+48%3A4-8&version=NRSVUE" target="_blank">Psalm&nbsp;48:4&ndash;8</a><?php
           Footnote('Berman (2023), p.134.');
         ?>
       </li>
       <li>
-        v16: contrast with <a href="https://www.biblegateway.com/passage/?search=numbers+6%3A24-26&version=NRSVUE" target="_blank">Numbers&nbsp;6:24&ndash;26</a><?php
+        v.16: contrast with <a href="https://www.biblegateway.com/passage/?search=numbers+6%3A24-26&version=NRSVUE" target="_blank">Numbers&nbsp;6:24&ndash;26</a><?php
           Footnote('Goldingay (2022), p.179.');
         ?>
       </li>
       <li>
-        vv1&ndash;8 (in particular 1&ndash;2, 5, 7&ndash;8): contrast the degrading colour imagery against <a href="https://www.biblegateway.com/passage/?search=Song%20of%20Songs%205:10-16&version=NRSVUE" target="_blank">Song of Songs&nbsp;5:10&ndash;16</a><?php
+        vv.1&ndash;8 (in particular 1&ndash;2, 5, 7&ndash;8): contrast the degrading colour imagery against <a href="https://www.biblegateway.com/passage/?search=Song%20of%20Songs%205:10-16&version=NRSVUE" target="_blank">Song of Songs&nbsp;5:10&ndash;16</a><?php
           Footnote('Fullerton&nbsp;Strollo (2017).');
         ?>
       </li>
