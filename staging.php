@@ -267,7 +267,7 @@
     <li>
       Chorus (chap.4): While chapter&nbsp;4 is mostly narration,
       nevertheless it is about various groups of people.
-      Then at v17 a chorus "we" speaks up.<?php
+      Then at v.17 a chorus "we" speaks up.<?php
         Footnote('Dobbs-Allsopp (2012), pp.134&ndash;137: "<em>Excursus</em>: The Choral Lyric".');
       ?>
       Further, within the narration, vv.6, 11 and 16 might be considered a separate narrative voice.<?php

@@ -37,7 +37,7 @@
           <div class="poem__verseref">1</div>
           <div class="poem__versetext">
             <?php
-              $fn_recall='The verbs "recall" (here) and "ignore" (v20) form an antithetical pair, topping and tailing the chapter. Both are also about deliberation: "recall" is more than "remember" and "ignore" is more than "forget".  See Berlin (2004), p.117; Goldingay (2022), p.205; Berman (2023), p.158.';
+              $fn_recall='The verbs "recall" (here) and "ignore" (v.20) form an antithetical pair, topping and tailing the chapter. Both are also about deliberation: "recall" is more than "remember" and "ignore" is more than "forget".  See Berlin (2004), p.117; Goldingay (2022), p.205; Berman (2023), p.158.';
               $fn_list='There now starts a catalogue of what, in modern-day writing, we would call bullet points, that returns at v.17 "<i>For all this&hellip;</i>".';
             ?>
               <div class="indent0">Recall,<?php Footnote($fn_recall); ?> O <span class="yhwh">Lord</span>, what befell us:</div><!--5:1,20: "recall"/"ignore" opposites; quoted in "staging" -->

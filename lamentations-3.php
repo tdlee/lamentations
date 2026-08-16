@@ -71,10 +71,10 @@
               $fn_firstp='Each of these three verses is headed by a first person pronoun, thus stressing the first person nature of this discourse. Berlin (2004), p.88. Our slightly peculiar syntax, pushing "I", "me" and "me" towards the head, is an attempt to preserve this. In recitation, stress this word.';
               $fn_blackout='While translations generally use "darkness" here, the word "blackout" has an added shade of fear.';
             ?>
-              <div class="indent0 acrostic-line">Agonies: I am the man<?php Footnote($fn); ?><?php Footnote($fn_firstp); ?> seared</div><!-- man/geber: vv 1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
+              <div class="indent0 acrostic-line">Agonies: I am the man<?php Footnote($fn); ?><?php Footnote($fn_firstp); ?> seared</div><!-- man/geber: vv.1,27,35,39 --><!-- quoted in "staging" --><!-- vv.1,19: "sear" verbal root. -->
               <div class="indent1">by the rod of his wrath;</div><!-- 2:2; 3:1: wrath -->
               <div class="indent0 acrostic-line">Away&mdash;me he drove, force-marched</div><!-- "me he"; see comment on next verse -->
-              <div class="indent1">in blackout,<?php Footnote($fn_blackout); ?> no light;</div><!-- cross-ref v6 -->
+              <div class="indent1">in blackout,<?php Footnote($fn_blackout); ?> no light;</div><!-- cross-ref v.6 -->
               <div class="indent0 acrostic-line">Against me, he turns his hand</div><!-- 3:3, 5:2: common verb "turn" --><!-- "me, he" initially looks odd, but the comma distinguishes it from different "me he" structure in previous verse -->
               <div class="indent1">from day-dawn to dusk;</div>
 </div><!-- Psalm 23 mouse-hover -->
@@ -92,7 +92,7 @@
               <div class="indent1">my flesh and my skin.</div>
               <div class="indent0 acrostic-line">Besieged by him; he caged me</div>
               <div class="indent1">in hardship and gall;</div><!-- vv.5,19: "gall" -->
-              <div class="indent0 acrostic-line">Bound by him in pit-blackness<?php Footnote($fn_blackness); ?></div><!-- cross-ref v2 -->
+              <div class="indent0 acrostic-line">Bound by him in pit-blackness<?php Footnote($fn_blackness); ?></div><!-- cross-ref v.2 -->
               <div class="indent1">to dwell as the ever-dead.</div><!-- "ever-dead" preferable to "long-dead"; Berlin,p90; Goldingay,p130 -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -159,7 +159,7 @@
           <div class="poem__versetext">
             <?php
               $fn1='In the Hebrew text both 19 and 20 start with an emphatic verb "remember". In 20, this is doubled, albeit in different conjugations.  So "<sup>19</sup>Remember&hellip; <sup>20</sup>Remember, remember&hellip;". Our English acrostic would require a synonymous \'G\' verb.  No such verb seems apparent.  To reflect at least some representation of this structure and emphasis, we position the verb at the verse-ends.';
-              $fn2='This "remembering" verse brings the section towards its close, itself recalling its opening "searing", O\'Connor (2002), p.48, and bracketing its "gall" (v5) and "wormwood" (v15), Goldingay (2022), p.136.  It also recalls the "downfall" of 1:7,9; Goldingay (2022), pp.60&ndash;61, 65, 135&ndash;136; Berlin(2004), p.82.';
+              $fn2='This "remembering" verse brings the section towards its close, itself recalling its opening "searing", O\'Connor (2002), p.48, and bracketing its "gall" (v.5) and "wormwood" (v.15), Goldingay (2022), p.136.  It also recalls the "downfall" of 1:7,9; Goldingay (2022), pp.60&ndash;61, 65, 135&ndash;136; Berlin(2004), p.82.';
             ?>
               <div class="indent0 acrostic-line">Gall and wormwood are my searing</div><!-- vv.15,19: "wormwood" --><!-- vv.5,19: "gall" --><!-- vv.1,19: "sear" verbal root. -->
               <div class="indent1">and downfall&mdash;such remembering;<?php Footnote($fn1); Footnote($fn2); ?></div><!-- 1:7,9, 3:19: "downfall" -->
@@ -200,7 +200,7 @@
                 <div class="indent1">to the soul who quests for him;</div><!-- many translations opt for first half-verse plural; second half-verse singular --><!-- 1:11,16,19; 3:17,20,24,25,51,58: "soul" -->
                 <div class="indent0 acrostic-line">Judicious is our hoping, and in silence,</div><!-- vv.26,28: very similar "silence" clause -->
                 <div class="indent1">for the <span class="yhwh">Lord</span>'s deliverance;</div>
-                <div class="indent0 acrostic-line">Judicious is a man's bearing</div><!-- man/geber: vv 1,27,35,39 -->
+                <div class="indent0 acrostic-line">Judicious is a man's bearing</div><!-- man/geber: vv.1,27,35,39 -->
                 <div class="indent1">the yoke while in youth;</div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
@@ -252,10 +252,10 @@
               ?>
                 <div class="indent0 acrostic-line">Neutering, crushing underfoot</div>
                 <div class="indent1">all prisoners of earth;<?php Footnote($fn_gerund); ?></div>
-                <div class="indent0 acrostic-line">Nay-saying, denying this man's rights</div><!-- man/geber: vv 1,27,35,39 -->
-                <div class="indent1">before the Most High;</div><!-- vv35,38: "Most High" -->
+                <div class="indent0 acrostic-line">Nay-saying, denying this man's rights</div><!-- man/geber: vv.1,27,35,39 -->
+                <div class="indent1">before the Most High;</div><!-- vv.35,38: "Most High" -->
                 <div class="indent0 acrostic-line">Nixing one's pleading for justice;</div><!-- "nixing" is mentioned in notes -->
-                <div class="indent1">&mdash;does our Lord not look?<?php Footnote($fn_question); ?></div><!-- vv36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
+                <div class="indent1">&mdash;does our Lord not look?<?php Footnote($fn_question); ?></div><!-- vv.36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
@@ -264,10 +264,10 @@
             <div class="poem__verseref">37&ndash;39</div>
             <div class="poem__versetext">
                 <div class="indent0 acrostic-line">Ordering futures? Who can make so</div>
-                <div class="indent1">should our Lord not decree?</div><!-- vv36,37 "Lord" not "LORD" -->
-                <div class="indent0 acrostic-line">Out of the Most High's mouth, come not</div><!-- vv35,38: "Most High" -->
+                <div class="indent1">should our Lord not decree?</div><!-- vv.36,37 "Lord" not "LORD" -->
+                <div class="indent0 acrostic-line">Out of the Most High's mouth, come not</div><!-- vv.35,38: "Most High" -->
                 <div class="indent1">both disaster and good?</div>
-                <div class="indent0 acrostic-line">Of what shall one living complain;</div><!-- man/geber: vv 1,27,35,39 -->
+                <div class="indent0 acrostic-line">Of what shall one living complain;</div><!-- man/geber: vv.1,27,35,39 -->
                 <div class="indent1">this man for his sins?<?php Footnote('The first half-verse has Hebrew <em>adam</em>, the second has <em>geber</em>. This contrast is preserved here using "one" and "man".'); ?></div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
