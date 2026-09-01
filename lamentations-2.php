@@ -146,7 +146,10 @@
                 $fn='Translation compromise. Rather than "God has&hellip;" (Hebrew <i>El</i>) this should ideally have been "My Lord has&hellip;" (Hebrew <i>Adonai</i>). But there seems no suitable acrostic \'G\' word for this line. Switching it with the next line, "given over&hellip;", would leave too large a gap before identifying "my Lord"; and early, strong identification seems important in this verse.';
                 $fn2='"God has enabled Israel\'s enemies to engage in a parody of [Israel\'s] worship in the very temple itself." Provan (2016), p.67.';
               ?>
-              <div class="indent0 acrostic-line">God<?php Footnote($fn); ?> has forsworn his altar,</div><!-- 2:7; 3:17,31: "forswear" root -->
+              <!-- 7a, 7b: consistent separators (choose semicolon):
+                  "God has (a) forsworn X; (b) disowned Y; (c) given over Z."
+              -->
+              <div class="indent0 acrostic-line">God<?php Footnote($fn); ?> has forsworn his altar;</div><!-- 2:7; 3:17,31: "forswear" root -->
               <div class="indent2">disowned his shrine;</div>
               <div class="indent1">given over to enemy hands</div><!-- "hand": vv. 3,4,7,8,(19) -->
               <div class="indent2">the walls of her palaces.</div><!-- vv.5,7: same "palaces" word -->
