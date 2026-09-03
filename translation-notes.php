@@ -603,6 +603,9 @@
       For a deeper introduction to this topic, both grammatical and cross-cultural,
       see the three page discussion in Berlin (2004), pp.10&ndash;12
       and the two page discussion in Berman (2023), p.34<i>b</i>&ndash;36<i>a</i>.
+      For a really deep dive into "Daughter X" vs. "Daughter <em>of</em> X",
+      including the Mesopotamian city lament antecedents of Lamentations,
+      see Dobbs-Allsopp (1995), a twenty page study.
     </p>
 
     <p>

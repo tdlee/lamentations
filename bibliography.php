@@ -113,6 +113,9 @@
           Brueggemann, Walter (2018), <cite>The Prophetic Imagination: 40th Anniversary Edition</cite>, Fortress Press, <?php ISBN("978-1-5064-4930-2"); ?>
         </li>
         <li>
+          Dobbs-Allsopp, F.W. (1995),  <a href="https://www.academia.edu/3736847/The_Syntagma_of_bat_Followed_by_a_Geographical_Name_in_the_Hebrew_Bible_Reconsideration_of_Its_Meaning_and_Grammar" target="_blank"><cite>The Syntagma of bat Followed by a Geographical Name in the Hebrew Bible: A Reconsideration of Its Meaning and Grammar</cite></a>, The <a href="https://www.catholicbiblical.org/catholic-biblical-quarterly-cbq" target="_blank">Catholic Biblical Quarterly</a>, 57, pp.451&ndash;470
+        </li>
+        <li>
           Dobbs-Allsopp, F.W. (2001<em>a</em>), <cite>The Enjambing Line in Lamentations: A Taxonomy (Part 1)</cite>, Zeitschrift f&uuml;r die Alttestamentliche Wissenschaft, 113 pp.219&ndash;239, <?php DOI("10.1515/zatw.113.2.219"); ?>
         </li>
         <li>
