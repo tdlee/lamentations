@@ -341,8 +341,8 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Vicious our pursuers; swifter</div>
               <div class="indent2">than hawks of the skies:</div>
-              <div class="indent1">in the hills, hot on our heels;</div>
-              <div class="indent2">in the desert, ambushers.</div>
+              <div class="indent1">in the hills hot on our heels;</div>
+              <div class="indent2">in the wilderness waylaying us.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
 
