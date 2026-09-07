@@ -296,10 +296,11 @@
           <div class="poem__versetext">
               <?php
                 $fn='The two Hebrew verbs are alliterative.';
+                $fn_gape='Gaping the mouth at someone is a means of insulting them. Stacey (1990), p.25.';
               ?>
               <div class="indent0 acrostic-line">Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,</div>
               <div class="indent2">all your enemies</div>
-              <div class="indent1">gape their mouths at you, boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
+              <div class="indent1">gape their mouths at you,<?php Footnote($fn_gape); ?> boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
               <div class="indent2">"We've devoured her!</div><!-- "devour" thread -->
               <div class="indent1">This! the day we awaited&mdash;</div>
               <div class="indent2">we have it; we look upon it!"</div><!-- "look", as in "look"/"notice" thread -->

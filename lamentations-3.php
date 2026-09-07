@@ -311,7 +311,10 @@
         <div class="poem__verse">
           <div class="poem__verseref">46&ndash;48</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">Snapping and gaping their mouths at us</div><!-- "gape their mouths": 2:16 and 3:46 -->
+              <?php
+                $fn_gape='See footnote at 2:16.';
+              ?>
+              <div class="indent0 acrostic-line">Snapping and gaping their mouths at us<?php Footnote($fn_gape); ?></div><!-- "gape their mouths": 2:16 and 3:46 -->
               <div class="indent1">are all our enemies;</div>
               <?php
                 $fn='Verses 47&ndash;48 involve alliteration and the repetition of "ravaging".';
