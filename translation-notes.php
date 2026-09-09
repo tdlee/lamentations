@@ -471,7 +471,7 @@
       and with a trochaic stress pattern on those leading verbs.
       We are approaching, but have not yet arrived at,
       the <span class="acrostic-letter">B</span>-acrostic verse, "<span class="acrostic-letter">B</span>litzed".
-      Yet the third line of that A-acrostic verse had been headed with the very strong 'B' word "blanked".
+      Yet the third main line of that A-acrostic verse had been headed with the very strong 'B' word "blanked".
       This falsely pre-empts the B-acrostic verse.
     </p>
 
