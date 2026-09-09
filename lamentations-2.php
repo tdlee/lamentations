@@ -52,7 +52,7 @@
               <div class="indent2">Daughter Zion;</div>
               <div class="indent1">flung down from the heavens to earth<?php Footnote($fn_earth); ?></div><!-- "earth": 1b,2a,9a,10a,10c,11b,15c,21a -->
               <div class="indent2">the honour of Israel;</div>
-              <div class="indent1">blanked from his mind his footstool<?php Footnote($fn_footstool); ?></div>
+              <div class="indent1">wiped from his mind his footstool<?php Footnote($fn_footstool); ?></div><!-- quoted in "notes" -->
               <div class="indent2">in the day of his anger;</div><!-- 1:12; 2:1,3,21,22; 4:11/1; staging-quotes: "[day of]...anger" -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
@@ -131,7 +131,7 @@
               ?>
               <div class="indent0 acrostic-line">Flattening his bivouac<?php Footnote($fn1); ?> like a garden,<?php Footnote($fn2); ?></div><!-- "tent"/"bivouac", vv.4,6: both words repeated in footnotes -->
               <div class="indent2">he destroyed his own meeting place.</div>
-              <div class="indent1">The <span class="yhwh">Lord</span> wiped from memory in Zion</div><!-- "memory" has some resonance with "mind" in chap.1 -->
+              <div class="indent1">The <span class="yhwh">Lord</span> erased from memory in Zion</div><!-- "erased" is different from "wiped" of v1 --><!-- "memory" has some resonance with "mind" in chap.1 -->
               <div class="indent2">both feast-day and sabbath,</div>
               <div class="indent1">spurning in angered rage</div>
               <div class="indent2">both king and priest.</div>
@@ -296,10 +296,11 @@
           <div class="poem__versetext">
               <?php
                 $fn='The two Hebrew verbs are alliterative.';
+                $fn_gape='Gaping the mouth at someone is a means of insulting them. Stacey (1990), p.25.';
               ?>
               <div class="indent0 acrostic-line">Snarling<!-- vv.15+16 commonality --> and growling<?php Footnote($fn); ?> through teeth,</div>
               <div class="indent2">all your enemies</div>
-              <div class="indent1">gape their mouths at you, boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
+              <div class="indent1">gape their mouths at you,<?php Footnote($fn_gape); ?> boasting</div><!-- "gape their mouths": 2:16 and 3:46 -->
               <div class="indent2">"We've devoured her!</div><!-- "devour" thread -->
               <div class="indent1">This! the day we awaited&mdash;</div>
               <div class="indent2">we have it; we look upon it!"</div><!-- "look", as in "look"/"notice" thread -->
@@ -475,7 +476,7 @@
           <div class="indent0"><span class="acrostic-letter">A</span>las! Angered, my Lord:</div>
           <div class="indent1">&mdash;beclouded&hellip;</div>
           <div class="indent1">&mdash;flung down&hellip;</div>
-          <div class="indent1">&mdash;blanked from his mind&hellip;</div>
+          <div class="indent1">&mdash;wiped from his mind&hellip;</div>
           <div class="indent1">&mdash;<span class="acrostic-letter">b</span>litzed to the earth&hellip;</div>
           <div class="indent1">&mdash;razed in fury&hellip;</div>
           <div class="indent0">My Lord has:</div>

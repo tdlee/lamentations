@@ -435,6 +435,53 @@
       ?>
     </p>
 
+    <h3>A lurking pitfall</h3>
+
+    <p>
+      From its early days our version of Lam.2 had opened:
+    </p>
+
+    <div class="panel panel--width-35em">
+      <div class="poem poem__hebverse">
+
+        <div class="poem__verse">
+          <div class="poem__verseref">2:1</div>
+          <div class="poem__versetext">
+              <div class="indent0 acrostic-line">Alas!</div>
+              <div class="indent1">Angered, my Lord beclouded&hellip;</div>
+              <div class="indent1">flung down&hellip;</div>
+              <div class="indent1">blanked from his mind&hellip;</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+
+        <br>
+        <div class="poem__verse">
+          <div class="poem__verseref">2:2</div>
+          <div class="poem__versetext">
+              <div class="indent0 acrostic-line">Blitzed to the earth&hellip;</div>
+          </div><!-- poem__versetext -->
+        </div><!-- poem__verse -->
+
+      </div>
+    </div>
+
+    <p>
+      But that contains a subtle problem.
+      We are in the <span class="acrostic-letter">A</span>-acrostic verse,
+      and with a trochaic stress pattern on those leading verbs.
+      We are approaching, but have not yet arrived at,
+      the <span class="acrostic-letter">B</span>-acrostic verse, "<span class="acrostic-letter">B</span>litzed".
+      Yet the third line of that A-acrostic verse had been headed with the very strong 'B' word "blanked".
+      This falsely pre-empts the B-acrostic verse.
+    </p>
+
+    <p>
+      Fortunately the solution was a straightforward synonym substitution by "wiped [from his mind]",
+      with no major complicating factors.<?php
+       Footnote(' A minor issue was that "wiped" was already in use at 2:6 and from a different Hebrew word, so that also needed its own synonym substitute.');
+      ?>
+    </p>
+
     <h2>Wordplay</h2>
 
     <p>
@@ -603,6 +650,9 @@
       For a deeper introduction to this topic, both grammatical and cross-cultural,
       see the three page discussion in Berlin (2004), pp.10&ndash;12
       and the two page discussion in Berman (2023), p.34<i>b</i>&ndash;36<i>a</i>.
+      For a really deep dive into "Daughter X" vs. "Daughter <em>of</em> X",
+      including the Mesopotamian city lament antecedents of Lamentations,
+      see Dobbs-Allsopp (1995), a twenty page study.
     </p>
 
     <p>
