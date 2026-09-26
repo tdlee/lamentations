@@ -429,7 +429,7 @@
               <?php
                 $fn='The opening v.1 "great", there used twice positively, here returns, but in negative contrast, to bracket this chapter.  See Dobbs-Allsopp (2012), p.74.';
               ?>
-              <div class="indent0 acrostic-line">Zero in&mdash;their malignant ways all are before you;</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
+              <div class="indent0 acrostic-line">Zero in&mdash;their malignant ways all before you;</div><!-- 21,22 common word for receiving and transmitting badness, evil, etc. -->
               <div class="indent2">unleash against them</div><!-- vv.12,22: common "unleash" ("deal out") -->
               <div class="indent1">as you unleashed against me</div>
               <div class="indent2">for all my transgressions.</div><!-- 5,14,22: same word "transgressions" -->
