@@ -248,11 +248,13 @@
             <div class="poem__versetext">
               <?php
                 $fn_gerund='This sequence of three \'N\' verses, here presented as "N-ing X", are grammatically "The N-ing of X" infinitival (gerund) phrases, observing ongoing wrongdoing by the powerful. Goldingay (2022), p.146. Our abbreviated version enables preservation both of the acrostic and of the leading verb placement in the Hebrew.';
+                $fn_who='The full three-verse 34&ndash;36 stanza can been seen as an all-embracing sweep across "all [prisoners in general]", "this man [me]" and "someone [particular individual]".';
+                $fn_geber='"This man" is the same, male-specific Hebrew noun <em>geber</em> as at the opening of the chapter. By contrast, "someone" in the next verse is from the noun <em>adam</em> and needn\'t necessarily be male.';
                 $fn_question='Taking this closing half-verse as a summarising question follows Berlin (2004), p.83, note \'k\'.';
               ?>
                 <div class="indent0 acrostic-line">Neutering, crushing underfoot</div>
-                <div class="indent1">all prisoners of earth;<?php Footnote($fn_gerund); ?></div>
-                <div class="indent0 acrostic-line">Nay-saying the rights of this man</div><!-- man/geber: vv.1,27,35,39 -->
+                <div class="indent1">all prisoners of earth;<?php Footnote($fn_gerund); ?><?php Footnote($fn_who); ?></div>
+                <div class="indent0 acrostic-line">Nay-saying the rights of this man<?php Footnote($fn_geber); ?></div><!-- man/geber: vv.1,27,35,39 -->
                 <div class="indent1">before the Most High;</div><!-- vv.35,38: "Most High" -->
                 <div class="indent0 acrostic-line">Nixing the lawsuit of someone;</div><!-- "nixing" is mentioned in notes -->
                 <div class="indent1">&mdash;does our Lord not look?<?php Footnote($fn_question); ?></div><!-- vv.36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
@@ -268,7 +270,7 @@
                 <div class="indent0 acrostic-line">Out of the Most High's mouth, come not</div><!-- vv.35,38: "Most High" -->
                 <div class="indent1">both disaster and good?</div>
                 <div class="indent0 acrostic-line">Of what shall one living complain;</div><!-- man/geber: vv.1,27,35,39 -->
-                <div class="indent1">this man for his sins?<?php Footnote('The first half-verse has Hebrew <em>adam</em>, the second has <em>geber</em>. This contrast is preserved here using "one" and "man".'); ?></div>
+                <div class="indent1">this man for his sins?<?php Footnote('For "man" and "one" see footnote on "man" in previous stanza.'); ?></div>
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
 
