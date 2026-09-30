@@ -252,9 +252,9 @@
               ?>
                 <div class="indent0 acrostic-line">Neutering, crushing underfoot</div>
                 <div class="indent1">all prisoners of earth;<?php Footnote($fn_gerund); ?></div>
-                <div class="indent0 acrostic-line">Nay-saying, denying this man's rights</div><!-- man/geber: vv.1,27,35,39 -->
+                <div class="indent0 acrostic-line">Nay-saying the rights of this man</div><!-- man/geber: vv.1,27,35,39 -->
                 <div class="indent1">before the Most High;</div><!-- vv.35,38: "Most High" -->
-                <div class="indent0 acrostic-line">Nixing one's pleading for justice;</div><!-- "nixing" is mentioned in notes -->
+                <div class="indent0 acrostic-line">Nixing the lawsuit of someone;</div><!-- "nixing" is mentioned in notes -->
                 <div class="indent1">&mdash;does our Lord not look?<?php Footnote($fn_question); ?></div><!-- vv.36,37 "Lord" not "LORD" --><!-- "look" as in "look"/"notice" -->
             </div><!-- poem__versetext -->
           </div><!-- poem__verse -->
