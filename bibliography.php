@@ -192,6 +192,9 @@
             <?php ISBN("978-1610974530") ?>
         </li>
         <li>
+          Slavitt, David&nbsp; R. (2001), <cite>The Book of Lamentations: A Meditation and Translation</cite>, The Johns Hopkins University Press, <?php ISBN("978-0801866173"); ?>
+        </li>
+        <li>
           Stacey, W.D. (1990), <cite>Prophetic Drama in the Old Testament</cite>, Epworth Press, <?php ISBN("978-0-7162-0470-1"); ?>
         </li>
         <li>
