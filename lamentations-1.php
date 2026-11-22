@@ -290,8 +290,8 @@
           <div class="poem__versetext">
               <div class="indent0 acrostic-line">Out from on high he hurled fire</div>
               <div class="indent2">down into my bones.</div>
-              <div class="indent1">He spread a net for my feet;</div><!-- "spread": 1:10, 1:13, 1:17 -->
-              <div class="indent2">recoiling me backwards.<?php Footnote('See footnote at v.8.'); ?></div><!-- vv.8,13: same root words "turn/back" -->
+              <div class="indent1">Spreading a net for my feet</div><!-- "spread": 1:10, 1:13, 1:17 -->
+              <div class="indent2">he recoiled me backwards.<?php Footnote('See footnote at v.8.'); ?></div><!-- vv.8,13: same root words "turn/back" -->
               <div class="indent1">Desolate has he made me:</div><!-- "desolate" common to 1:4, 1:13, 1:16 -->
               <div class="indent2">all day sickened.</div><!-- "heart[s] sick[en]": 1:22 and 5:17; "sick" also at 1:13 -->
           </div><!-- poem__versetext -->
@@ -355,7 +355,7 @@
               <div class="indent2">there is none to comfort her.</div><!-- comfort: vv.2,9,16,17,21; also 2:13 -->
               <div class="indent1">The <span class="yhwh">Lord</span> has commanded against Jacob:</div><!-- verb: 15,19: match; 17:different --><!-- 10,17: "commanded [and negation]": common verb -->
               <div class="indent2">his neighbours to be enemies;</div>
-              <div class="indent1">Jerusalem in their midst has become</div>
+              <div class="indent1">among them Jerusalem has become</div>
               <div class="indent2">menstrually soiled.</div><!-- vv.8,17: "soiled" Hebrew roots very similar; let them resonate in English -->
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->

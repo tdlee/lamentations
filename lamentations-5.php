@@ -203,9 +203,12 @@
       to provide the book with a very unsettling ending of extreme reservation.<?php
         Footnote('Provan (2016), p.124; Hens-Piazza (2017), p.75; Brueggemann (2018), p.62.');
       ?>
+      Its alphabetical length, while echoing what has gone before,
+      might even be taken as a mimetic representation of brokenness
+      or of the silence of God.<?php Footnote('Slavitt, 2001, p.xiii.') ?>
     </p>
     <p>
-      Further, the Hebrew Masoretic text puts a chapter break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
+      The Hebrew Masoretic text also puts a chapter break between verses 18 and 19.<?php Footnote('Goldingay (2022), p.203 note \'d\'; p.204.'); ?>
       Mount Zion,
       God's dwelling-place
       and formerly "joy of all the earth" (2:15 and Ps.48:2)
