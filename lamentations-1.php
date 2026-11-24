@@ -467,7 +467,7 @@
     </p>
     <ul>
       <li>
-        The witness's section 7&ndash;10 about the city's accused sin and violation is briefly interrupted at 9<i>c</i> by Jerusalem herself.
+        The witness's section 7&ndash;10 about the city's accused sin and violation is briefly interrupted at 9<i>c</i> by Daughter Zion (Jerusalem) herself.
       </li>
       <li>
         At 1:17 the witness interjects a brief observation at a pause or turning point in the city's speech.
