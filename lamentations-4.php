@@ -260,7 +260,7 @@
             ?>
               <div class="indent0 acrostic-line">Polluted with blood, through the streets</div>
               <div class="indent2">they<?php Footnote($fn); ?> strayed blindly;</div><!-- 14,15: common "strayed" -->
-              <div class="indent1">so defiled that none would dare</div>
+              <div class="indent1">so much defiled none would dare</div>
               <div class="indent2">touch their garments.</div>
           </div><!-- poem__versetext -->
         </div><!-- poem__verse -->
