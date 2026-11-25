@@ -160,8 +160,8 @@
         <div class="poem__verse">
           <div class="poem__verseref">8</div>
           <div class="poem__versetext">
-              <div class="indent0 acrostic-line">How soot-black now their faces:</div>
-              <div class="indent2">unrecognised in streets,</div>
+              <div class="indent0 acrostic-line">How soot-black now their countenance,</div>
+              <div class="indent2">their lauded street-cred gone;</div><!-- "street-cred" referenced in notes -->
               <div class="indent1">skin shrivelled, taut on their bones</div>
               <div class="indent2">as dessicated wood.</div>
           </div><!-- poem__versetext -->
